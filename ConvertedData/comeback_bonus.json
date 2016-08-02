@@ -1,0 +1,25 @@
+{
+  "30": {
+    "1": {
+      "id": 1,
+      "past_day": 30,
+      "asset_type_id": 1,
+      "asset_id": 1,
+      "asset_count": 250
+    },
+    "2": {
+      "id": 2,
+      "past_day": 30,
+      "asset_type_id": 5,
+      "asset_id": 0,
+      "asset_count": 700000
+    },
+    "3": {
+      "id": 3,
+      "past_day": 30,
+      "asset_type_id": 2,
+      "asset_id": 2,
+      "asset_count": 10
+    }
+  }
+}

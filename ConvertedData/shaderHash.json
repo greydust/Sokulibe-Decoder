@@ -1,0 +1,15 @@
+[
+  "/Shader/AddMulLerpColor.ab",
+  "/Shader/BlurEffectConeTaps.ab",
+  "/Shader/CraftBackEffect.ab",
+  "/Shader/FadeIO.ab",
+  "/Shader/JobcraftMask.ab",
+  "/Shader/MaskTest.ab",
+  "/Shader/MaskTrans2.ab",
+  "/Shader/TextureOverwrite.ab",
+  "/Shader/TransHalfTex.ab",
+  "/Shader/uGuiShader.ab",
+  "/Shader/ParticlesAdditive.ab",
+  "/Shader/ParticlesAlphaBlended.ab",
+  "/Shader/ParticlesMultiply_Double.ab"
+]

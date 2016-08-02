@@ -1,0 +1,38 @@
+{
+  "1": {
+    "id": 1,
+    "min_lv": 1,
+    "max_lv": 29,
+    "grow_rate": 1
+  },
+  "2": {
+    "id": 2,
+    "min_lv": 30,
+    "max_lv": 49,
+    "grow_rate": 1.02
+  },
+  "3": {
+    "id": 3,
+    "min_lv": 50,
+    "max_lv": 79,
+    "grow_rate": 1.04
+  },
+  "4": {
+    "id": 4,
+    "min_lv": 80,
+    "max_lv": 99,
+    "grow_rate": 1.06
+  },
+  "5": {
+    "id": 5,
+    "min_lv": 100,
+    "max_lv": 149,
+    "grow_rate": 1.08
+  },
+  "6": {
+    "id": 6,
+    "min_lv": 150,
+    "max_lv": 199,
+    "grow_rate": 1.1
+  }
+}

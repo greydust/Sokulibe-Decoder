@@ -1,0 +1,39 @@
+{
+  "1": {
+    "0": {
+      "id": 9999,
+      "quest_id": 0,
+      "difficulty": 1,
+      "Recom_lv": 1,
+      "bg_id": 8,
+      "exp": 1,
+      "job_exp": 1,
+      "crystal": 0,
+      "timelimit": 15,
+      "zako_hp": 100,
+      "zako_atk": 100,
+      "mid_hp": 100,
+      "mid_atk": 100,
+      "mid_break": 100,
+      "boss_hp": 100,
+      "boss_atk": 100,
+      "boss_break": 100,
+      "stamina": 0,
+      "zako01_id": 9998,
+      "zako02_id": 1,
+      "zako03_id": 1,
+      "zako04_id": 1,
+      "zako05_id": 1,
+      "mid01_id": 1,
+      "mid02_id": 1,
+      "mid03_id": 1,
+      "mid04_id": 1,
+      "boss01_id": 1,
+      "boss02_id": 0,
+      "rareenemy_id": 0,
+      "mission_bonus_type": 0,
+      "mission_bonus_id": 0,
+      "mission_bonus_value": 0
+    }
+  }
+}

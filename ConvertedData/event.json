@@ -1,0 +1,452 @@
+{
+  "2": {
+    "id": 2,
+    "priority": 10,
+    "name": "経験値ダンジョン（仮）",
+    "file": "event_banner02.ab",
+    "event_type": 0,
+    "raid_id": 0,
+    "event_mission_flag": 0
+  },
+  "3": {
+    "id": 3,
+    "priority": 10,
+    "name": "革命の狼煙を上げよ！",
+    "file": "event_banner03.ab",
+    "event_type": 1,
+    "raid_id": 0,
+    "event_mission_flag": 0
+  },
+  "4": {
+    "id": 4,
+    "priority": 11,
+    "name": "革命の狼煙を上げよ！特別編",
+    "file": "event_banner04.ab",
+    "event_type": 0,
+    "raid_id": 0,
+    "event_mission_flag": 0
+  },
+  "5": {
+    "id": 5,
+    "priority": 10,
+    "name": "課題型イベント",
+    "file": "event_banner05.ab",
+    "event_type": 3,
+    "raid_id": 0,
+    "event_mission_flag": 0
+  },
+  "6": {
+    "id": 6,
+    "priority": 5,
+    "name": "月曜日ダンジョン　闇属性",
+    "file": "event_banner06.ab",
+    "event_type": 0,
+    "raid_id": 0,
+    "event_mission_flag": 0
+  },
+  "7": {
+    "id": 7,
+    "priority": 5,
+    "name": "火曜日ダンジョン　炎属性",
+    "file": "event_banner07.ab",
+    "event_type": 0,
+    "raid_id": 0,
+    "event_mission_flag": 0
+  },
+  "8": {
+    "id": 8,
+    "priority": 5,
+    "name": "水曜日ダンジョン　水属性",
+    "file": "event_banner08.ab",
+    "event_type": 0,
+    "raid_id": 0,
+    "event_mission_flag": 0
+  },
+  "9": {
+    "id": 9,
+    "priority": 5,
+    "name": "木曜日ダンジョン　地属性",
+    "file": "event_banner09.ab",
+    "event_type": 0,
+    "raid_id": 0,
+    "event_mission_flag": 0
+  },
+  "10": {
+    "id": 10,
+    "priority": 5,
+    "name": "金曜日ダンジョン　光属性",
+    "file": "event_banner10.ab",
+    "event_type": 0,
+    "raid_id": 0,
+    "event_mission_flag": 0
+  },
+  "11": {
+    "id": 11,
+    "priority": 5,
+    "name": "月曜日ダンジョン　軽戦士",
+    "file": "event_banner11.ab",
+    "event_type": 0,
+    "raid_id": 0,
+    "event_mission_flag": 0
+  },
+  "12": {
+    "id": 12,
+    "priority": 5,
+    "name": "火曜日ダンジョン　重戦士",
+    "file": "event_banner12.ab",
+    "event_type": 0,
+    "raid_id": 0,
+    "event_mission_flag": 0
+  },
+  "13": {
+    "id": 13,
+    "priority": 5,
+    "name": "水曜日ダンジョン　装甲士",
+    "file": "event_banner13.ab",
+    "event_type": 0,
+    "raid_id": 0,
+    "event_mission_flag": 0
+  },
+  "14": {
+    "id": 14,
+    "priority": 5,
+    "name": "木曜日ダンジョン　遊撃士",
+    "file": "event_banner14.ab",
+    "event_type": 0,
+    "raid_id": 0,
+    "event_mission_flag": 0
+  },
+  "15": {
+    "id": 15,
+    "priority": 5,
+    "name": "金曜日ダンジョン　術士",
+    "file": "event_banner15.ab",
+    "event_type": 0,
+    "raid_id": 0,
+    "event_mission_flag": 0
+  },
+  "16": {
+    "id": 16,
+    "priority": 13,
+    "name": "経験値ダンジョン",
+    "file": "event_banner16.ab",
+    "event_type": 0,
+    "raid_id": 0,
+    "event_mission_flag": 0
+  },
+  "17": {
+    "id": 17,
+    "priority": 14,
+    "name": "青き狂竜、吟詠と共に踊らん！",
+    "file": "event_banner01.ab",
+    "event_type": 4,
+    "raid_id": 1,
+    "event_mission_flag": 1
+  },
+  "18": {
+    "id": 18,
+    "priority": 11,
+    "name": "収集達成型イベント",
+    "file": "event_banner05.ab",
+    "event_type": 2,
+    "raid_id": 0,
+    "event_mission_flag": 0
+  },
+  "19": {
+    "id": 19,
+    "priority": 1,
+    "name": "新職踏破　赤熱の炎槍",
+    "file": "event_banner01.ab",
+    "event_type": 5,
+    "raid_id": 0,
+    "event_mission_flag": 1
+  },
+  "20": {
+    "id": 20,
+    "priority": 10,
+    "name": "収集テスト",
+    "file": "event_banner03.ab",
+    "event_type": 1,
+    "raid_id": 0,
+    "event_mission_flag": 0
+  },
+  "21": {
+    "id": 21,
+    "priority": 15,
+    "name": "峻峰を彩る双炎",
+    "file": "event_banner03.ab",
+    "event_type": 1,
+    "raid_id": 0,
+    "event_mission_flag": 0
+  },
+  "22": {
+    "id": 22,
+    "priority": 16,
+    "name": "紅月に飛翔する闇の眷属",
+    "file": "event_banner01.ab",
+    "event_type": 4,
+    "raid_id": 2,
+    "event_mission_flag": 1
+  },
+  "23": {
+    "id": 23,
+    "priority": 17,
+    "name": "マチルダ一味の挑戦状！前編",
+    "file": "event_banner01.ab",
+    "event_type": 0,
+    "raid_id": 0,
+    "event_mission_flag": 1
+  },
+  "24": {
+    "id": 24,
+    "priority": 17,
+    "name": "マチルダ一味の挑戦状！後編",
+    "file": "event_banner01.ab",
+    "event_type": 0,
+    "raid_id": 0,
+    "event_mission_flag": 1
+  },
+  "25": {
+    "id": 25,
+    "priority": 17,
+    "name": "グローバルイベントテスト",
+    "file": "event_banner03.ab",
+    "event_type": 6,
+    "raid_id": 0,
+    "event_mission_flag": 0
+  },
+  "26": {
+    "id": 26,
+    "priority": 2,
+    "name": "新職踏破　双刃携えし新緑の風",
+    "file": "event_banner01.ab",
+    "event_type": 5,
+    "raid_id": 0,
+    "event_mission_flag": 1
+  },
+  "27": {
+    "id": 27,
+    "priority": 5,
+    "name": "マギアドロップボーナス　闇属性",
+    "file": "event_banner01.ab",
+    "event_type": 0,
+    "raid_id": 0,
+    "event_mission_flag": 0
+  },
+  "28": {
+    "id": 28,
+    "priority": 5,
+    "name": "マギアドロップボーナス　炎属性",
+    "file": "event_banner02.ab",
+    "event_type": 0,
+    "raid_id": 0,
+    "event_mission_flag": 0
+  },
+  "29": {
+    "id": 29,
+    "priority": 5,
+    "name": "マギアドロップボーナス　水属性",
+    "file": "event_banner03.ab",
+    "event_type": 0,
+    "raid_id": 0,
+    "event_mission_flag": 0
+  },
+  "30": {
+    "id": 30,
+    "priority": 5,
+    "name": "マギアドロップボーナス　地属性",
+    "file": "event_banner04.ab",
+    "event_type": 0,
+    "raid_id": 0,
+    "event_mission_flag": 0
+  },
+  "31": {
+    "id": 31,
+    "priority": 5,
+    "name": "マギアドロップボーナス　光属性",
+    "file": "event_banner05.ab",
+    "event_type": 0,
+    "raid_id": 0,
+    "event_mission_flag": 0
+  },
+  "32": {
+    "id": 32,
+    "priority": 5,
+    "name": "マギアドロップボーナス　軽戦士",
+    "file": "event_banner06.ab",
+    "event_type": 0,
+    "raid_id": 0,
+    "event_mission_flag": 0
+  },
+  "33": {
+    "id": 33,
+    "priority": 5,
+    "name": "マギアドロップボーナス　重戦士",
+    "file": "event_banner07.ab",
+    "event_type": 0,
+    "raid_id": 0,
+    "event_mission_flag": 0
+  },
+  "34": {
+    "id": 34,
+    "priority": 5,
+    "name": "マギアドロップボーナス　装甲士",
+    "file": "event_banner08.ab",
+    "event_type": 0,
+    "raid_id": 0,
+    "event_mission_flag": 0
+  },
+  "35": {
+    "id": 35,
+    "priority": 5,
+    "name": "マギアドロップボーナス　遊撃士",
+    "file": "event_banner09.ab",
+    "event_type": 0,
+    "raid_id": 0,
+    "event_mission_flag": 0
+  },
+  "36": {
+    "id": 36,
+    "priority": 5,
+    "name": "マギアドロップボーナス　術士",
+    "file": "event_banner10.ab",
+    "event_type": 0,
+    "raid_id": 0,
+    "event_mission_flag": 0
+  },
+  "37": {
+    "id": 37,
+    "priority": 19,
+    "name": "月曜日マルチ",
+    "file": "event_banner01.ab",
+    "event_type": 0,
+    "raid_id": 0,
+    "event_mission_flag": 0
+  },
+  "38": {
+    "id": 38,
+    "priority": 19,
+    "name": "火曜日マルチ",
+    "file": "event_banner01.ab",
+    "event_type": 0,
+    "raid_id": 0,
+    "event_mission_flag": 0
+  },
+  "39": {
+    "id": 39,
+    "priority": 19,
+    "name": "水曜日マルチ",
+    "file": "event_banner01.ab",
+    "event_type": 0,
+    "raid_id": 0,
+    "event_mission_flag": 0
+  },
+  "40": {
+    "id": 40,
+    "priority": 19,
+    "name": "木曜日マルチ",
+    "file": "event_banner01.ab",
+    "event_type": 0,
+    "raid_id": 0,
+    "event_mission_flag": 0
+  },
+  "41": {
+    "id": 41,
+    "priority": 19,
+    "name": "金曜日マルチ",
+    "file": "event_banner01.ab",
+    "event_type": 0,
+    "raid_id": 0,
+    "event_mission_flag": 0
+  },
+  "42": {
+    "id": 42,
+    "priority": 19,
+    "name": "土曜日マルチ",
+    "file": "event_banner01.ab",
+    "event_type": 0,
+    "raid_id": 0,
+    "event_mission_flag": 0
+  },
+  "43": {
+    "id": 43,
+    "priority": 19,
+    "name": "日曜日マルチ",
+    "file": "event_banner01.ab",
+    "event_type": 0,
+    "raid_id": 0,
+    "event_mission_flag": 0
+  },
+  "44": {
+    "id": 44,
+    "priority": 18,
+    "name": "月曜日統合クエスト",
+    "file": "event_banner01.ab",
+    "event_type": 0,
+    "raid_id": 0,
+    "event_mission_flag": 0
+  },
+  "45": {
+    "id": 45,
+    "priority": 18,
+    "name": "火曜日統合クエスト",
+    "file": "event_banner01.ab",
+    "event_type": 0,
+    "raid_id": 0,
+    "event_mission_flag": 0
+  },
+  "46": {
+    "id": 46,
+    "priority": 18,
+    "name": "水曜日統合クエスト",
+    "file": "event_banner01.ab",
+    "event_type": 0,
+    "raid_id": 0,
+    "event_mission_flag": 0
+  },
+  "47": {
+    "id": 47,
+    "priority": 18,
+    "name": "木曜日統合クエスト",
+    "file": "event_banner01.ab",
+    "event_type": 0,
+    "raid_id": 0,
+    "event_mission_flag": 0
+  },
+  "48": {
+    "id": 48,
+    "priority": 18,
+    "name": "金曜日統合クエスト",
+    "file": "event_banner01.ab",
+    "event_type": 0,
+    "raid_id": 0,
+    "event_mission_flag": 0
+  },
+  "49": {
+    "id": 49,
+    "priority": 1,
+    "name": "旧MRクエスト",
+    "file": "event_banner03.ab",
+    "event_type": 8,
+    "raid_id": 0,
+    "event_mission_flag": 0
+  },
+  "50": {
+    "id": 50,
+    "priority": 20,
+    "name": "封印の輝石と氷国の訪問者",
+    "file": "event_banner03.ab",
+    "event_type": 6,
+    "raid_id": 0,
+    "event_mission_flag": 0
+  },
+  "51": {
+    "id": 51,
+    "priority": 21,
+    "name": "封印の輝石と氷国の訪問者",
+    "file": "event_banner03.ab",
+    "event_type": 0,
+    "raid_id": 0,
+    "event_mission_flag": 0
+  }
+}

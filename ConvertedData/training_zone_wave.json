@@ -1,0 +1,39 @@
+{
+  "9999": {
+    "1": {
+      "id": 9999,
+      "zone_id": 9999,
+      "wave": 1,
+      "zako1": 1,
+      "zako2": 0,
+      "zako3": 0,
+      "zako4": 0,
+      "zako5": 0,
+      "zako6": 0,
+      "zako7": 0,
+      "zako8": 0,
+      "zako9": 0,
+      "zako10": 0,
+      "midboss1": 0,
+      "midboss2": 0,
+      "midboss3": 0,
+      "boss1": 0,
+      "boss2": 0,
+      "zako1_pos": 300,
+      "zako2_pos": 100,
+      "zako3_pos": 140,
+      "zako4_pos": 180,
+      "zako5_pos": 220,
+      "zako6_pos": 260,
+      "zako7_pos": 300,
+      "zako8_pos": 340,
+      "zako9_pos": 380,
+      "zako10_pos": 420,
+      "midboss1_pos": 460,
+      "midboss2_pos": 500,
+      "midboss3_pos": 540,
+      "boss1_pos": 100,
+      "boss2_pos": 150
+    }
+  }
+}

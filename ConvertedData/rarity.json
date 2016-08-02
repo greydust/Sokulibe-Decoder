@@ -1,0 +1,26 @@
+{
+  "1": {
+    "id": 1,
+    "rarity": 1,
+    "max_lv": 30,
+    "limit_break_value": 6
+  },
+  "2": {
+    "id": 2,
+    "rarity": 2,
+    "max_lv": 50,
+    "limit_break_value": 10
+  },
+  "3": {
+    "id": 3,
+    "rarity": 3,
+    "max_lv": 80,
+    "limit_break_value": 16
+  },
+  "4": {
+    "id": 4,
+    "rarity": 4,
+    "max_lv": 100,
+    "limit_break_value": 20
+  }
+}

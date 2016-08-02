@@ -1,0 +1,6 @@
+*.exe.config
+*.pdb
+*.vshost.exe.manifest
+*.vshost.exe
+*.suo
+JsonDecrypter/obj/*

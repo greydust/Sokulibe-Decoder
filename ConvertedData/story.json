@@ -1,0 +1,334 @@
+{
+  "1": {
+    "1": {
+      "id": 1,
+      "facility_id": 1,
+      "type": 1,
+      "unlock_quest_id": 0,
+      "name": "第1話　すべての始まりなる森",
+      "image": "story_1.ab"
+    },
+    "100": {
+      "id": 100,
+      "facility_id": 1,
+      "type": 2,
+      "unlock_quest_id": 13,
+      "name": "森に潜む影",
+      "image": "free_quest_1_6.ab"
+    },
+    "101": {
+      "id": 101,
+      "facility_id": 1,
+      "type": 2,
+      "unlock_quest_id": 56,
+      "name": "森に火を灯すもの",
+      "image": "free_quest_1_6.ab"
+    }
+  },
+  "2": {
+    "2": {
+      "id": 2,
+      "facility_id": 2,
+      "type": 1,
+      "unlock_quest_id": 2,
+      "name": "第2話　湧き上がる希望",
+      "image": "story_2.ab"
+    },
+    "5": {
+      "id": 5,
+      "facility_id": 2,
+      "type": 1,
+      "unlock_quest_id": 13,
+      "name": "第5話　不穏なる一報",
+      "image": "story_5.ab"
+    },
+    "102": {
+      "id": 102,
+      "facility_id": 2,
+      "type": 2,
+      "unlock_quest_id": 24,
+      "name": "ならず者達の逆襲！",
+      "image": "free_quest_1_6.ab"
+    },
+    "103": {
+      "id": 103,
+      "facility_id": 2,
+      "type": 2,
+      "unlock_quest_id": 56,
+      "name": "野獣進軍！",
+      "image": "free_quest_1_6.ab"
+    }
+  },
+  "3": {
+    "3": {
+      "id": 3,
+      "facility_id": 3,
+      "type": 1,
+      "unlock_quest_id": 4,
+      "name": "第3話　確立する因縁",
+      "image": "story_3.ab"
+    },
+    "104": {
+      "id": 104,
+      "facility_id": 3,
+      "type": 2,
+      "unlock_quest_id": 8,
+      "name": "廃墟に住まうモノ",
+      "image": "free_quest_1_6.ab"
+    },
+    "105": {
+      "id": 105,
+      "facility_id": 3,
+      "type": 2,
+      "unlock_quest_id": 56,
+      "name": "静寂の街のブリン！",
+      "image": "free_quest_1_6.ab"
+    }
+  },
+  "4": {
+    "4": {
+      "id": 4,
+      "facility_id": 4,
+      "type": 1,
+      "unlock_quest_id": 8,
+      "name": "第4話　利害一致の契約",
+      "image": "story_4.ab"
+    },
+    "106": {
+      "id": 106,
+      "facility_id": 4,
+      "type": 2,
+      "unlock_quest_id": 13,
+      "name": "村の畑を守れ！",
+      "image": "free_quest_1_6.ab"
+    },
+    "107": {
+      "id": 107,
+      "facility_id": 4,
+      "type": 2,
+      "unlock_quest_id": 56,
+      "name": "害虫駆除開始！",
+      "image": "free_quest_1_6.ab"
+    }
+  },
+  "5": {
+    "6": {
+      "id": 6,
+      "facility_id": 5,
+      "type": 1,
+      "unlock_quest_id": 18,
+      "name": "第6話　逡巡の行軍",
+      "image": "story_6.ab"
+    },
+    "9": {
+      "id": 9,
+      "facility_id": 5,
+      "type": 1,
+      "unlock_quest_id": 36,
+      "name": "第9話　矢の雨降りしきる荒野",
+      "image": "story_9.ab"
+    },
+    "108": {
+      "id": 108,
+      "facility_id": 5,
+      "type": 2,
+      "unlock_quest_id": 24,
+      "name": "急襲！ブリン軍団！",
+      "image": "free_quest_1_6.ab"
+    },
+    "109": {
+      "id": 109,
+      "facility_id": 5,
+      "type": 2,
+      "unlock_quest_id": 56,
+      "name": "荒野に響く咆哮",
+      "image": "free_quest_1_6.ab"
+    }
+  },
+  "6": {
+    "7": {
+      "id": 7,
+      "facility_id": 6,
+      "type": 1,
+      "unlock_quest_id": 24,
+      "name": "第7話　紅蓮の邂逅",
+      "image": "story_7.ab"
+    },
+    "8": {
+      "id": 8,
+      "facility_id": 6,
+      "type": 1,
+      "unlock_quest_id": 30,
+      "name": "第8話　荒ぶる黒き大斧",
+      "image": "story_8.ab"
+    },
+    "110": {
+      "id": 110,
+      "facility_id": 6,
+      "type": 2,
+      "unlock_quest_id": 36,
+      "name": "火事場泥棒成敗！",
+      "image": "free_quest_1_6.ab"
+    },
+    "111": {
+      "id": 111,
+      "facility_id": 6,
+      "type": 2,
+      "unlock_quest_id": 56,
+      "name": "帝国常駐軍掃討戦！",
+      "image": "free_quest_1_6.ab"
+    }
+  },
+  "7": {
+    "10": {
+      "id": 10,
+      "facility_id": 7,
+      "type": 1,
+      "unlock_quest_id": 42,
+      "name": "第10話　暴走する昏き力",
+      "image": "story_10.ab"
+    },
+    "11": {
+      "id": 11,
+      "facility_id": 7,
+      "type": 1,
+      "unlock_quest_id": 49,
+      "name": "第11話　霧中の決着",
+      "image": "story_11.ab"
+    },
+    "112": {
+      "id": 112,
+      "facility_id": 7,
+      "type": 2,
+      "unlock_quest_id": 49,
+      "name": "渓谷に響く雄叫び",
+      "image": "free_quest_1_6.ab"
+    },
+    "113": {
+      "id": 113,
+      "facility_id": 7,
+      "type": 2,
+      "unlock_quest_id": 56,
+      "name": "谷底にうごめくモノ",
+      "image": "free_quest_1_6.ab"
+    }
+  },
+  "8": {
+    "12": {
+      "id": 12,
+      "facility_id": 8,
+      "type": 1,
+      "unlock_quest_id": 56,
+      "name": "第12話　第二章へ",
+      "image": "story_12.ab"
+    },
+    "13": {
+      "id": 13,
+      "facility_id": 8,
+      "type": 1,
+      "unlock_quest_id": 0,
+      "name": "第13話",
+      "image": "story_13.ab"
+    }
+  },
+  "9": {
+    "14": {
+      "id": 14,
+      "facility_id": 9,
+      "type": 1,
+      "unlock_quest_id": 0,
+      "name": "第14話",
+      "image": "story_14.ab"
+    }
+  },
+  "10": {
+    "15": {
+      "id": 15,
+      "facility_id": 10,
+      "type": 1,
+      "unlock_quest_id": 0,
+      "name": "第15話",
+      "image": "story_15.ab"
+    },
+    "16": {
+      "id": 16,
+      "facility_id": 10,
+      "type": 1,
+      "unlock_quest_id": 0,
+      "name": "第16話",
+      "image": "story_16.ab"
+    }
+  },
+  "11": {
+    "17": {
+      "id": 17,
+      "facility_id": 11,
+      "type": 1,
+      "unlock_quest_id": 0,
+      "name": "第17話",
+      "image": "story_17.ab"
+    },
+    "18": {
+      "id": 18,
+      "facility_id": 11,
+      "type": 1,
+      "unlock_quest_id": 0,
+      "name": "第18話",
+      "image": "story_18.ab"
+    }
+  },
+  "12": {
+    "19": {
+      "id": 19,
+      "facility_id": 12,
+      "type": 1,
+      "unlock_quest_id": 0,
+      "name": "第19話",
+      "image": "story_19.ab"
+    },
+    "20": {
+      "id": 20,
+      "facility_id": 12,
+      "type": 1,
+      "unlock_quest_id": 0,
+      "name": "第20話",
+      "image": "story_20.ab"
+    }
+  },
+  "13": {
+    "21": {
+      "id": 21,
+      "facility_id": 13,
+      "type": 1,
+      "unlock_quest_id": 0,
+      "name": "第21話",
+      "image": "story_21.ab"
+    },
+    "22": {
+      "id": 22,
+      "facility_id": 13,
+      "type": 1,
+      "unlock_quest_id": 0,
+      "name": "第22話",
+      "image": "story_22.ab"
+    }
+  },
+  "14": {
+    "23": {
+      "id": 23,
+      "facility_id": 14,
+      "type": 1,
+      "unlock_quest_id": 0,
+      "name": "第23話",
+      "image": "story_23.ab"
+    },
+    "24": {
+      "id": 24,
+      "facility_id": 14,
+      "type": 1,
+      "unlock_quest_id": 0,
+      "name": "第24話",
+      "image": "story_24.ab"
+    }
+  }
+}

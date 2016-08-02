@@ -1,0 +1,29 @@
+{
+  "9999": {
+    "zone_id": 9999,
+    "zako_dropitem1_type": 0,
+    "zako_dropitem1_id": 0,
+    "zako_dropitem2_type": 0,
+    "zako_dropitem2_id": 0,
+    "mid_dropitem1_type": 0,
+    "mid_dropitem1_id": 0,
+    "mid_dropitem2_type": 0,
+    "mid_dropitem2_id": 0,
+    "bossdropitem1_type": 0,
+    "bossdropitem1_id": 0,
+    "bossdropitem2_type": 0,
+    "bossdropitem2_id": 0,
+    "bossdropitem3_type": 0,
+    "bossdropitem3_id": 0,
+    "zako_drop_rate": 0,
+    "zako_drop1": 0,
+    "zako_drop2": 0,
+    "mid_drop_rate": 0,
+    "mid_drop1": 0,
+    "mid_drop2": 0,
+    "boss_drop_rate": 0,
+    "boss_drop1": 0,
+    "boss_drop2": 0,
+    "boss_drop3": 0
+  }
+}
