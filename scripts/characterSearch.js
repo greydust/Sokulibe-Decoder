@@ -523,11 +523,11 @@ function DeployData() {
                 }
                 var hitGravityNum = 0;
                 for (var key in characterData.skillAtk[i+2][j]) {
-                    hitGravityNum += (characterData.skillAtk[i+2][j][key].gravity/100);
+                    hitGravityNum += (characterData.skillAtk[i+2][j][key].gravity);
                 }
                 var chargeGravityNum = 0;
                 for (var key in characterData.skillAtk[i+2][j]) {
-                    var chargeGravity = (characterData.skillAtk[i+2][j][key].gravity/100);
+                    var chargeGravity = (characterData.skillAtk[i+2][j][key].gravity);
                     for (var k=1 ; k<=3 ; k++) {
                         if (characterData.skillAtk[i+2][j][key]["hold_type" + k] == 6) {
                             chargeGravity *= (characterData.skillAtk[i+2][j][key]["hold_value" + k]/100);
