@@ -1,0 +1,5 @@
+JsonDecrypter/
+*.exe.config
+*.pdb
+*.vshost.exe
+*.vshost.exe.manifest
