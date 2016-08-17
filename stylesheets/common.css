@@ -1,0 +1,172 @@
+table.tablesorter tr td:last-child {
+    text-align: center;
+	padding: 8px 15px;
+	border-right: 1px solid #666666;
+	border-bottom: 1px solid #666666;
+	border-left: 1px solid #666666;
+}
+
+table.tablesorter tr td {
+    text-align: center;
+	padding: 8px 15px;
+	border-bottom: 1px solid #666666;
+	border-left: 1px solid #666666;
+}
+
+table.tablesorter tr th:last-child {
+	padding: 8px 15px;
+	border-top: 1px solid #666666;
+	border-right: 1px solid #666666;
+	border-bottom: 1px solid #666666;
+	border-left: 1px solid #666666;
+}
+
+table.tablesorter tr th {
+	padding: 8px 15px;
+	border-top: 1px solid #666666;
+	border-bottom: 1px solid #666666;
+	border-left: 1px solid #666666;
+    white-space:nowrap;
+}
+
+table.tablesorter tr th.name {
+    min-width: 100px;
+}
+
+table.tablesorter tr th.skill {
+    min-width: 300px;
+}
+
+table.tablesorter tr th.passiveSkill {
+    min-width: 300px;
+}
+
+table.tablesorter tr th.supportSkill {
+    min-width: 300px;
+}
+
+table.tablesorter tr td.name {
+    min-width: 100px;
+ }
+
+table.tablesorter tr td.skill {
+    min-width: 300px;
+}
+
+table.tablesorter tr td.passiveSkill {
+    min-width: 300px;
+}
+
+table.tablesorter tr td.supportSkill {
+    min-width: 300px;
+}
+
+table.tablesorter {
+    border-spacing: 0px;
+}
+
+div.quote {
+    text-align: center;
+    font-style: italic;
+    margin-bottom: 5px;
+}
+
+table.tablesorter div:not(.quote){
+    text-align: left;
+}
+
+table.tablesorter div.indent1 {
+    padding-left: 10px;
+    padding-bottom: 3px;
+}
+
+table.tablesorter div.indent2 {
+    padding-left: 20px;
+}
+
+table.tablesorter div.skillDetail, table.tablesorter div.popup, table.tablesorter div.passivePattern {
+    border: 1px solid #666666;
+    background: #ffffff;
+    text-align: left;
+}
+
+div.popup {
+    display: none;
+    position: absolute;
+    background: #ffffff;
+    border: 1px solid #666666;
+    max-width: 400px;
+    max-height: 400px;
+}
+
+div.popup p {
+    margin: 2px;
+}
+
+div.header {
+    border-bottom: 2px solid #666666;
+}
+
+div.body {
+    margin-top: 5px;
+}
+
+div.initialHide {
+    display: none;
+}
+
+table.versionTable {
+    
+}
+
+table.versionTime {
+    min-width: 100px;
+}
+
+table.versionDescription {
+    
+}
+
+table.skillSystem, table.passiveSystem {
+    border-spacing: 0px;
+    padding-left: 2px;
+    padding-top: 2px;
+    padding-right: 2px;
+    padding-bottom: 2px;
+}
+
+table.skillSystem tr td, table.passiveSystem tr td {
+    text-align: left;
+	padding: 2px 2px;
+	border-top: 1px solid #666666;
+	border-left: 1px solid #666666;
+	border-right: 0px solid #666666;
+	border-bottom: 0px solid #666666;
+}
+
+table.skillSystem tr td:last-child, table.passiveSystem tr td:last-child {
+    text-align: left;
+	padding: 2px 2px;
+	border-top: 1px solid #666666;
+	border-left: 1px solid #666666;
+	border-right: 1px solid #666666;
+	border-bottom: 0px solid #666666;
+}
+
+table.skillSystem tr:last-child td, table.passiveSystem tr:last-child td {
+    text-align: left;
+	padding: 2px 2px;
+	border-top: 1px solid #666666;
+	border-left: 1px solid #666666;
+	border-right: 0px solid #666666;
+	border-bottom: 1px solid #666666;
+}
+
+table.skillSystem tr:last-child td:last-child, table.passiveSystem tr:last-child td:last-child {
+    text-align: left;
+	padding: 2px 2px;
+	border-top: 1px solid #666666;
+	border-left: 1px solid #666666;
+	border-right: 1px solid #666666;
+	border-bottom: 1px solid #666666;
+}
