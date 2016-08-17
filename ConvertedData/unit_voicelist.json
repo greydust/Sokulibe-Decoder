@@ -34047,7 +34047,7 @@
     },
     "50": {
       "id": 3768,
-      "active": 0,
+      "active": 1,
       "chara_id": 72,
       "unlock_type": 3,
       "voice_index": 50,
@@ -34056,7 +34056,7 @@
     },
     "51": {
       "id": 3769,
-      "active": 0,
+      "active": 1,
       "chara_id": 72,
       "unlock_type": 3,
       "voice_index": 51,
@@ -34065,7 +34065,7 @@
     },
     "52": {
       "id": 3770,
-      "active": 0,
+      "active": 1,
       "chara_id": 72,
       "unlock_type": 3,
       "voice_index": 52,
@@ -34074,7 +34074,7 @@
     },
     "53": {
       "id": 3771,
-      "active": 0,
+      "active": 1,
       "chara_id": 72,
       "unlock_type": 3,
       "voice_index": 53,
@@ -34083,7 +34083,7 @@
     },
     "54": {
       "id": 3772,
-      "active": 0,
+      "active": 1,
       "chara_id": 72,
       "unlock_type": 3,
       "voice_index": 54,
@@ -34092,7 +34092,7 @@
     },
     "55": {
       "id": 3773,
-      "active": 0,
+      "active": 1,
       "chara_id": 72,
       "unlock_type": 3,
       "voice_index": 55,
@@ -34101,7 +34101,7 @@
     },
     "56": {
       "id": 3774,
-      "active": 0,
+      "active": 1,
       "chara_id": 72,
       "unlock_type": 3,
       "voice_index": 56,
@@ -34110,7 +34110,7 @@
     },
     "57": {
       "id": 3775,
-      "active": 0,
+      "active": 1,
       "chara_id": 72,
       "unlock_type": 3,
       "voice_index": 57,
@@ -34119,7 +34119,7 @@
     },
     "58": {
       "id": 3776,
-      "active": 0,
+      "active": 1,
       "chara_id": 72,
       "unlock_type": 3,
       "voice_index": 58,
@@ -35619,7 +35619,7 @@
     },
     "50": {
       "id": 3942,
-      "active": 0,
+      "active": 1,
       "chara_id": 75,
       "unlock_type": 3,
       "voice_index": 50,
@@ -35628,7 +35628,7 @@
     },
     "51": {
       "id": 3943,
-      "active": 0,
+      "active": 1,
       "chara_id": 75,
       "unlock_type": 3,
       "voice_index": 51,
@@ -35637,7 +35637,7 @@
     },
     "52": {
       "id": 3944,
-      "active": 0,
+      "active": 1,
       "chara_id": 75,
       "unlock_type": 3,
       "voice_index": 52,
@@ -35646,7 +35646,7 @@
     },
     "53": {
       "id": 3945,
-      "active": 0,
+      "active": 1,
       "chara_id": 75,
       "unlock_type": 3,
       "voice_index": 53,
@@ -35655,7 +35655,7 @@
     },
     "54": {
       "id": 3946,
-      "active": 0,
+      "active": 1,
       "chara_id": 75,
       "unlock_type": 3,
       "voice_index": 54,
@@ -35664,7 +35664,7 @@
     },
     "55": {
       "id": 3947,
-      "active": 0,
+      "active": 1,
       "chara_id": 75,
       "unlock_type": 3,
       "voice_index": 55,
@@ -35673,7 +35673,7 @@
     },
     "56": {
       "id": 3948,
-      "active": 0,
+      "active": 1,
       "chara_id": 75,
       "unlock_type": 3,
       "voice_index": 56,
@@ -35682,7 +35682,7 @@
     },
     "57": {
       "id": 3949,
-      "active": 0,
+      "active": 1,
       "chara_id": 75,
       "unlock_type": 3,
       "voice_index": 57,
@@ -35691,7 +35691,7 @@
     },
     "58": {
       "id": 3950,
-      "active": 0,
+      "active": 1,
       "chara_id": 75,
       "unlock_type": 3,
       "voice_index": 58,
@@ -36143,7 +36143,7 @@
     },
     "50": {
       "id": 4000,
-      "active": 0,
+      "active": 1,
       "chara_id": 76,
       "unlock_type": 3,
       "voice_index": 50,
@@ -36152,7 +36152,7 @@
     },
     "51": {
       "id": 4001,
-      "active": 0,
+      "active": 1,
       "chara_id": 76,
       "unlock_type": 3,
       "voice_index": 51,
@@ -36161,7 +36161,7 @@
     },
     "52": {
       "id": 4002,
-      "active": 0,
+      "active": 1,
       "chara_id": 76,
       "unlock_type": 3,
       "voice_index": 52,
@@ -36170,7 +36170,7 @@
     },
     "53": {
       "id": 4003,
-      "active": 0,
+      "active": 1,
       "chara_id": 76,
       "unlock_type": 3,
       "voice_index": 53,
@@ -36179,7 +36179,7 @@
     },
     "54": {
       "id": 4004,
-      "active": 0,
+      "active": 1,
       "chara_id": 76,
       "unlock_type": 3,
       "voice_index": 54,
@@ -36188,7 +36188,7 @@
     },
     "55": {
       "id": 4005,
-      "active": 0,
+      "active": 1,
       "chara_id": 76,
       "unlock_type": 3,
       "voice_index": 55,
@@ -36197,7 +36197,7 @@
     },
     "56": {
       "id": 4006,
-      "active": 0,
+      "active": 1,
       "chara_id": 76,
       "unlock_type": 3,
       "voice_index": 56,
@@ -36206,7 +36206,7 @@
     },
     "57": {
       "id": 4007,
-      "active": 0,
+      "active": 1,
       "chara_id": 76,
       "unlock_type": 3,
       "voice_index": 57,
@@ -36215,7 +36215,7 @@
     },
     "58": {
       "id": 4008,
-      "active": 0,
+      "active": 1,
       "chara_id": 76,
       "unlock_type": 3,
       "voice_index": 58,
@@ -37715,7 +37715,7 @@
     },
     "50": {
       "id": 4174,
-      "active": 0,
+      "active": 1,
       "chara_id": 79,
       "unlock_type": 3,
       "voice_index": 50,
@@ -37724,7 +37724,7 @@
     },
     "51": {
       "id": 4175,
-      "active": 0,
+      "active": 1,
       "chara_id": 79,
       "unlock_type": 3,
       "voice_index": 51,
@@ -37733,7 +37733,7 @@
     },
     "52": {
       "id": 4176,
-      "active": 0,
+      "active": 1,
       "chara_id": 79,
       "unlock_type": 3,
       "voice_index": 52,
@@ -37742,7 +37742,7 @@
     },
     "53": {
       "id": 4177,
-      "active": 0,
+      "active": 1,
       "chara_id": 79,
       "unlock_type": 3,
       "voice_index": 53,
@@ -37751,7 +37751,7 @@
     },
     "54": {
       "id": 4178,
-      "active": 0,
+      "active": 1,
       "chara_id": 79,
       "unlock_type": 3,
       "voice_index": 54,
@@ -37760,7 +37760,7 @@
     },
     "55": {
       "id": 4179,
-      "active": 0,
+      "active": 1,
       "chara_id": 79,
       "unlock_type": 3,
       "voice_index": 55,
@@ -37769,7 +37769,7 @@
     },
     "56": {
       "id": 4180,
-      "active": 0,
+      "active": 1,
       "chara_id": 79,
       "unlock_type": 3,
       "voice_index": 56,
@@ -37778,7 +37778,7 @@
     },
     "57": {
       "id": 4181,
-      "active": 0,
+      "active": 1,
       "chara_id": 79,
       "unlock_type": 3,
       "voice_index": 57,
@@ -37787,7 +37787,7 @@
     },
     "58": {
       "id": 4182,
-      "active": 0,
+      "active": 1,
       "chara_id": 79,
       "unlock_type": 3,
       "voice_index": 58,
@@ -43479,7 +43479,7 @@
     },
     "50": {
       "id": 4812,
-      "active": 0,
+      "active": 1,
       "chara_id": 90,
       "unlock_type": 3,
       "voice_index": 50,
@@ -43488,7 +43488,7 @@
     },
     "51": {
       "id": 4813,
-      "active": 0,
+      "active": 1,
       "chara_id": 90,
       "unlock_type": 3,
       "voice_index": 51,
@@ -43497,7 +43497,7 @@
     },
     "52": {
       "id": 4814,
-      "active": 0,
+      "active": 1,
       "chara_id": 90,
       "unlock_type": 3,
       "voice_index": 52,
@@ -43506,7 +43506,7 @@
     },
     "53": {
       "id": 4815,
-      "active": 0,
+      "active": 1,
       "chara_id": 90,
       "unlock_type": 3,
       "voice_index": 53,
@@ -43515,7 +43515,7 @@
     },
     "54": {
       "id": 4816,
-      "active": 0,
+      "active": 1,
       "chara_id": 90,
       "unlock_type": 3,
       "voice_index": 54,
@@ -43524,7 +43524,7 @@
     },
     "55": {
       "id": 4817,
-      "active": 0,
+      "active": 1,
       "chara_id": 90,
       "unlock_type": 3,
       "voice_index": 55,
@@ -43533,7 +43533,7 @@
     },
     "56": {
       "id": 4818,
-      "active": 0,
+      "active": 1,
       "chara_id": 90,
       "unlock_type": 3,
       "voice_index": 56,
@@ -43542,7 +43542,7 @@
     },
     "57": {
       "id": 4819,
-      "active": 0,
+      "active": 1,
       "chara_id": 90,
       "unlock_type": 3,
       "voice_index": 57,
@@ -43551,7 +43551,7 @@
     },
     "58": {
       "id": 4820,
-      "active": 0,
+      "active": 1,
       "chara_id": 90,
       "unlock_type": 3,
       "voice_index": 58,
@@ -45051,7 +45051,7 @@
     },
     "50": {
       "id": 4986,
-      "active": 0,
+      "active": 1,
       "chara_id": 93,
       "unlock_type": 3,
       "voice_index": 50,
@@ -45060,7 +45060,7 @@
     },
     "51": {
       "id": 4987,
-      "active": 0,
+      "active": 1,
       "chara_id": 93,
       "unlock_type": 3,
       "voice_index": 51,
@@ -45069,7 +45069,7 @@
     },
     "52": {
       "id": 4988,
-      "active": 0,
+      "active": 1,
       "chara_id": 93,
       "unlock_type": 3,
       "voice_index": 52,
@@ -45078,7 +45078,7 @@
     },
     "53": {
       "id": 4989,
-      "active": 0,
+      "active": 1,
       "chara_id": 93,
       "unlock_type": 3,
       "voice_index": 53,
@@ -45087,7 +45087,7 @@
     },
     "54": {
       "id": 4990,
-      "active": 0,
+      "active": 1,
       "chara_id": 93,
       "unlock_type": 3,
       "voice_index": 54,
@@ -45096,7 +45096,7 @@
     },
     "55": {
       "id": 4991,
-      "active": 0,
+      "active": 1,
       "chara_id": 93,
       "unlock_type": 3,
       "voice_index": 55,
@@ -45105,7 +45105,7 @@
     },
     "56": {
       "id": 4992,
-      "active": 0,
+      "active": 1,
       "chara_id": 93,
       "unlock_type": 3,
       "voice_index": 56,
@@ -45114,7 +45114,7 @@
     },
     "57": {
       "id": 4993,
-      "active": 0,
+      "active": 1,
       "chara_id": 93,
       "unlock_type": 3,
       "voice_index": 57,
@@ -45123,7 +45123,7 @@
     },
     "58": {
       "id": 4994,
-      "active": 0,
+      "active": 1,
       "chara_id": 93,
       "unlock_type": 3,
       "voice_index": 58,
@@ -45485,7 +45485,7 @@
     },
     "40": {
       "id": 5034,
-      "active": 0,
+      "active": 1,
       "chara_id": 94,
       "unlock_type": 13,
       "voice_index": 40,
@@ -45494,7 +45494,7 @@
     },
     "41": {
       "id": 5035,
-      "active": 0,
+      "active": 1,
       "chara_id": 94,
       "unlock_type": 14,
       "voice_index": 41,
@@ -45575,7 +45575,7 @@
     },
     "50": {
       "id": 5044,
-      "active": 0,
+      "active": 1,
       "chara_id": 94,
       "unlock_type": 3,
       "voice_index": 50,
@@ -45584,7 +45584,7 @@
     },
     "51": {
       "id": 5045,
-      "active": 0,
+      "active": 1,
       "chara_id": 94,
       "unlock_type": 3,
       "voice_index": 51,
@@ -45593,7 +45593,7 @@
     },
     "52": {
       "id": 5046,
-      "active": 0,
+      "active": 1,
       "chara_id": 94,
       "unlock_type": 3,
       "voice_index": 52,
@@ -45602,7 +45602,7 @@
     },
     "53": {
       "id": 5047,
-      "active": 0,
+      "active": 1,
       "chara_id": 94,
       "unlock_type": 3,
       "voice_index": 53,
@@ -45611,7 +45611,7 @@
     },
     "54": {
       "id": 5048,
-      "active": 0,
+      "active": 1,
       "chara_id": 94,
       "unlock_type": 3,
       "voice_index": 54,
@@ -45620,7 +45620,7 @@
     },
     "55": {
       "id": 5049,
-      "active": 0,
+      "active": 1,
       "chara_id": 94,
       "unlock_type": 3,
       "voice_index": 55,
@@ -45629,7 +45629,7 @@
     },
     "56": {
       "id": 5050,
-      "active": 0,
+      "active": 1,
       "chara_id": 94,
       "unlock_type": 3,
       "voice_index": 56,
@@ -45638,7 +45638,7 @@
     },
     "57": {
       "id": 5051,
-      "active": 0,
+      "active": 1,
       "chara_id": 94,
       "unlock_type": 3,
       "voice_index": 57,
@@ -45647,7 +45647,7 @@
     },
     "58": {
       "id": 5052,
-      "active": 0,
+      "active": 1,
       "chara_id": 94,
       "unlock_type": 3,
       "voice_index": 58,
@@ -50246,7 +50246,7 @@
     },
     "50": {
       "id": 5561,
-      "active": 0,
+      "active": 1,
       "chara_id": 103,
       "unlock_type": 3,
       "voice_index": 50,
@@ -50255,7 +50255,7 @@
     },
     "51": {
       "id": 5562,
-      "active": 0,
+      "active": 1,
       "chara_id": 103,
       "unlock_type": 3,
       "voice_index": 51,
@@ -50264,7 +50264,7 @@
     },
     "52": {
       "id": 5563,
-      "active": 0,
+      "active": 1,
       "chara_id": 103,
       "unlock_type": 3,
       "voice_index": 52,
@@ -50273,7 +50273,7 @@
     },
     "53": {
       "id": 5564,
-      "active": 0,
+      "active": 1,
       "chara_id": 103,
       "unlock_type": 3,
       "voice_index": 53,
@@ -50282,7 +50282,7 @@
     },
     "54": {
       "id": 5565,
-      "active": 0,
+      "active": 1,
       "chara_id": 103,
       "unlock_type": 3,
       "voice_index": 54,
@@ -50291,7 +50291,7 @@
     },
     "55": {
       "id": 5566,
-      "active": 0,
+      "active": 1,
       "chara_id": 103,
       "unlock_type": 3,
       "voice_index": 55,
@@ -50300,7 +50300,7 @@
     },
     "56": {
       "id": 5567,
-      "active": 0,
+      "active": 1,
       "chara_id": 103,
       "unlock_type": 3,
       "voice_index": 56,
@@ -50309,7 +50309,7 @@
     },
     "57": {
       "id": 5568,
-      "active": 0,
+      "active": 1,
       "chara_id": 103,
       "unlock_type": 3,
       "voice_index": 57,
@@ -50318,7 +50318,7 @@
     },
     "58": {
       "id": 5569,
-      "active": 0,
+      "active": 1,
       "chara_id": 103,
       "unlock_type": 3,
       "voice_index": 58,
@@ -51294,7 +51294,7 @@
     },
     "50": {
       "id": 5677,
-      "active": 0,
+      "active": 1,
       "chara_id": 105,
       "unlock_type": 3,
       "voice_index": 50,
@@ -51303,7 +51303,7 @@
     },
     "51": {
       "id": 5678,
-      "active": 0,
+      "active": 1,
       "chara_id": 105,
       "unlock_type": 3,
       "voice_index": 51,
@@ -51312,7 +51312,7 @@
     },
     "52": {
       "id": 5679,
-      "active": 0,
+      "active": 1,
       "chara_id": 105,
       "unlock_type": 3,
       "voice_index": 52,
@@ -51321,7 +51321,7 @@
     },
     "53": {
       "id": 5680,
-      "active": 0,
+      "active": 1,
       "chara_id": 105,
       "unlock_type": 3,
       "voice_index": 53,
@@ -51330,7 +51330,7 @@
     },
     "54": {
       "id": 5681,
-      "active": 0,
+      "active": 1,
       "chara_id": 105,
       "unlock_type": 3,
       "voice_index": 54,
@@ -51339,7 +51339,7 @@
     },
     "55": {
       "id": 5682,
-      "active": 0,
+      "active": 1,
       "chara_id": 105,
       "unlock_type": 3,
       "voice_index": 55,
@@ -51348,7 +51348,7 @@
     },
     "56": {
       "id": 5683,
-      "active": 0,
+      "active": 1,
       "chara_id": 105,
       "unlock_type": 3,
       "voice_index": 56,
@@ -51357,7 +51357,7 @@
     },
     "57": {
       "id": 5684,
-      "active": 0,
+      "active": 1,
       "chara_id": 105,
       "unlock_type": 3,
       "voice_index": 57,
@@ -51366,7 +51366,7 @@
     },
     "58": {
       "id": 5685,
-      "active": 0,
+      "active": 1,
       "chara_id": 105,
       "unlock_type": 3,
       "voice_index": 58,

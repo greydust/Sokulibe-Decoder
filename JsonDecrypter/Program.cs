@@ -100,14 +100,26 @@ namespace JsonDecrypter
 
             Directory.CreateDirectory("ConvertedData/");
             string[] files = Directory.GetFiles("RawData/", "*.json");
+
+            Dictionary<string, object> firebaseObj = new Dictionary<string, object>();
             foreach (string file in files)
             {
                 string rawData = File.ReadAllText(file);
                 string convertedData = Decrypt("W=HAKVbtcVP6vTfzvZAGTm=6", "P=DgvzWGQMPDB7dxK4h1fB=D", rawData);
                 object obj = JsonConvert.DeserializeObject(convertedData, deserializeSetting);
+
+                string fileName = Path.GetFileNameWithoutExtension(file);
+                if (fileName != "assetHash" && fileName != "movieVersion" && fileName != "soundVersion" && fileName != "unit_story")
+                {
+                    firebaseObj.Add(Path.GetFileNameWithoutExtension(file), obj);
+                }
+
                 string convertedString = JsonConvert.SerializeObject(obj, serializeSetting);
                 File.WriteAllText("ConvertedData/" + Path.GetFileName(file), convertedString);
             }
+
+            string firebaseString = JsonConvert.SerializeObject(firebaseObj, serializeSetting);
+            File.WriteAllText("ConvertedData/firebase.json", firebaseString);
         }
     }
 }

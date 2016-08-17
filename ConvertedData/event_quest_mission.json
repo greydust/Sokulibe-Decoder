@@ -3794,5 +3794,629 @@
       "type": 37,
       "value": 0
     }
+  },
+  "150": {
+    "448": {
+      "id": 448,
+      "quest_id": 150,
+      "event_id": 52,
+      "summery": "コンボ数が50HITを超えた",
+      "type": 34,
+      "value": 0
+    },
+    "449": {
+      "id": 449,
+      "quest_id": 150,
+      "event_id": 52,
+      "summery": "一人も戦闘不能にさせずにクリア",
+      "type": 36,
+      "value": 0
+    },
+    "450": {
+      "id": 450,
+      "quest_id": 150,
+      "event_id": 52,
+      "summery": "コンティニューをせずにクリア",
+      "type": 40,
+      "value": 0
+    }
+  },
+  "151": {
+    "451": {
+      "id": 451,
+      "quest_id": 151,
+      "event_id": 52,
+      "summery": "コンボ数が70HITを超えた",
+      "type": 34,
+      "value": 0
+    },
+    "452": {
+      "id": 452,
+      "quest_id": 151,
+      "event_id": 52,
+      "summery": "一人も戦闘不能にさせずにクリア",
+      "type": 36,
+      "value": 0
+    },
+    "453": {
+      "id": 453,
+      "quest_id": 151,
+      "event_id": 52,
+      "summery": "コンティニューをせずにクリア",
+      "type": 40,
+      "value": 0
+    }
+  },
+  "152": {
+    "454": {
+      "id": 454,
+      "quest_id": 152,
+      "event_id": 52,
+      "summery": "コンボ数が100HITを超えた",
+      "type": 34,
+      "value": 0
+    },
+    "455": {
+      "id": 455,
+      "quest_id": 152,
+      "event_id": 52,
+      "summery": "一人も戦闘不能にさせずにクリア",
+      "type": 36,
+      "value": 0
+    },
+    "456": {
+      "id": 456,
+      "quest_id": 152,
+      "event_id": 52,
+      "summery": "コンティニューをせずにクリア",
+      "type": 40,
+      "value": 0
+    }
+  },
+  "153": {
+    "457": {
+      "id": 457,
+      "quest_id": 153,
+      "event_id": 52,
+      "summery": "コンボ数が120HITを超えた",
+      "type": 34,
+      "value": 0
+    },
+    "458": {
+      "id": 458,
+      "quest_id": 153,
+      "event_id": 52,
+      "summery": "一人も戦闘不能にさせずにクリア",
+      "type": 36,
+      "value": 0
+    },
+    "459": {
+      "id": 459,
+      "quest_id": 153,
+      "event_id": 52,
+      "summery": "コンティニューをせずにクリア",
+      "type": 40,
+      "value": 0
+    }
+  },
+  "154": {
+    "460": {
+      "id": 460,
+      "quest_id": 154,
+      "event_id": 53,
+      "summery": "コンボ数が50HITを超えた",
+      "type": 34,
+      "value": 0
+    },
+    "461": {
+      "id": 461,
+      "quest_id": 154,
+      "event_id": 53,
+      "summery": "一人も戦闘不能にさせずにクリア",
+      "type": 36,
+      "value": 0
+    },
+    "462": {
+      "id": 462,
+      "quest_id": 154,
+      "event_id": 53,
+      "summery": "コンティニューをせずにクリア",
+      "type": 40,
+      "value": 0
+    }
+  },
+  "155": {
+    "463": {
+      "id": 463,
+      "quest_id": 155,
+      "event_id": 53,
+      "summery": "コンボ数が70HITを超えた",
+      "type": 34,
+      "value": 0
+    },
+    "464": {
+      "id": 464,
+      "quest_id": 155,
+      "event_id": 53,
+      "summery": "一人も戦闘不能にさせずにクリア",
+      "type": 36,
+      "value": 0
+    },
+    "465": {
+      "id": 465,
+      "quest_id": 155,
+      "event_id": 53,
+      "summery": "コンティニューをせずにクリア",
+      "type": 40,
+      "value": 0
+    }
+  },
+  "156": {
+    "466": {
+      "id": 466,
+      "quest_id": 156,
+      "event_id": 53,
+      "summery": "コンボ数が100HITを超えた",
+      "type": 34,
+      "value": 0
+    },
+    "467": {
+      "id": 467,
+      "quest_id": 156,
+      "event_id": 53,
+      "summery": "一人も戦闘不能にさせずにクリア",
+      "type": 36,
+      "value": 0
+    },
+    "468": {
+      "id": 468,
+      "quest_id": 156,
+      "event_id": 53,
+      "summery": "コンティニューをせずにクリア",
+      "type": 40,
+      "value": 0
+    }
+  },
+  "157": {
+    "469": {
+      "id": 469,
+      "quest_id": 157,
+      "event_id": 53,
+      "summery": "コンボ数が120HITを超えた",
+      "type": 34,
+      "value": 0
+    },
+    "470": {
+      "id": 470,
+      "quest_id": 157,
+      "event_id": 53,
+      "summery": "一人も戦闘不能にさせずにクリア",
+      "type": 36,
+      "value": 0
+    },
+    "471": {
+      "id": 471,
+      "quest_id": 157,
+      "event_id": 53,
+      "summery": "コンティニューをせずにクリア",
+      "type": 40,
+      "value": 0
+    }
+  },
+  "158": {
+    "472": {
+      "id": 472,
+      "quest_id": 158,
+      "event_id": 54,
+      "summery": "コンボ数が50HITを超えた",
+      "type": 34,
+      "value": 0
+    },
+    "473": {
+      "id": 473,
+      "quest_id": 158,
+      "event_id": 54,
+      "summery": "一人も戦闘不能にさせずにクリア",
+      "type": 36,
+      "value": 0
+    },
+    "474": {
+      "id": 474,
+      "quest_id": 158,
+      "event_id": 54,
+      "summery": "コンティニューをせずにクリア",
+      "type": 40,
+      "value": 0
+    }
+  },
+  "159": {
+    "475": {
+      "id": 475,
+      "quest_id": 159,
+      "event_id": 54,
+      "summery": "コンボ数が70HITを超えた",
+      "type": 34,
+      "value": 0
+    },
+    "476": {
+      "id": 476,
+      "quest_id": 159,
+      "event_id": 54,
+      "summery": "一人も戦闘不能にさせずにクリア",
+      "type": 36,
+      "value": 0
+    },
+    "477": {
+      "id": 477,
+      "quest_id": 159,
+      "event_id": 54,
+      "summery": "コンティニューをせずにクリア",
+      "type": 40,
+      "value": 0
+    }
+  },
+  "160": {
+    "478": {
+      "id": 478,
+      "quest_id": 160,
+      "event_id": 54,
+      "summery": "コンボ数が100HITを超えた",
+      "type": 34,
+      "value": 0
+    },
+    "479": {
+      "id": 479,
+      "quest_id": 160,
+      "event_id": 54,
+      "summery": "一人も戦闘不能にさせずにクリア",
+      "type": 36,
+      "value": 0
+    },
+    "480": {
+      "id": 480,
+      "quest_id": 160,
+      "event_id": 54,
+      "summery": "コンティニューをせずにクリア",
+      "type": 40,
+      "value": 0
+    }
+  },
+  "161": {
+    "481": {
+      "id": 481,
+      "quest_id": 161,
+      "event_id": 54,
+      "summery": "コンボ数が120HITを超えた",
+      "type": 34,
+      "value": 0
+    },
+    "482": {
+      "id": 482,
+      "quest_id": 161,
+      "event_id": 54,
+      "summery": "一人も戦闘不能にさせずにクリア",
+      "type": 36,
+      "value": 0
+    },
+    "483": {
+      "id": 483,
+      "quest_id": 161,
+      "event_id": 54,
+      "summery": "コンティニューをせずにクリア",
+      "type": 40,
+      "value": 0
+    }
+  },
+  "162": {
+    "484": {
+      "id": 484,
+      "quest_id": 162,
+      "event_id": 55,
+      "summery": "コンボ数が50HITを超えた",
+      "type": 34,
+      "value": 0
+    },
+    "485": {
+      "id": 485,
+      "quest_id": 162,
+      "event_id": 55,
+      "summery": "一人も戦闘不能にさせずにクリア",
+      "type": 36,
+      "value": 0
+    },
+    "486": {
+      "id": 486,
+      "quest_id": 162,
+      "event_id": 55,
+      "summery": "コンティニューをせずにクリア",
+      "type": 40,
+      "value": 0
+    }
+  },
+  "163": {
+    "487": {
+      "id": 487,
+      "quest_id": 163,
+      "event_id": 55,
+      "summery": "コンボ数が70HITを超えた",
+      "type": 34,
+      "value": 0
+    },
+    "488": {
+      "id": 488,
+      "quest_id": 163,
+      "event_id": 55,
+      "summery": "一人も戦闘不能にさせずにクリア",
+      "type": 36,
+      "value": 0
+    },
+    "489": {
+      "id": 489,
+      "quest_id": 163,
+      "event_id": 55,
+      "summery": "コンティニューをせずにクリア",
+      "type": 40,
+      "value": 0
+    }
+  },
+  "164": {
+    "490": {
+      "id": 490,
+      "quest_id": 164,
+      "event_id": 55,
+      "summery": "コンボ数が100HITを超えた",
+      "type": 34,
+      "value": 0
+    },
+    "491": {
+      "id": 491,
+      "quest_id": 164,
+      "event_id": 55,
+      "summery": "一人も戦闘不能にさせずにクリア",
+      "type": 36,
+      "value": 0
+    },
+    "492": {
+      "id": 492,
+      "quest_id": 164,
+      "event_id": 55,
+      "summery": "コンティニューをせずにクリア",
+      "type": 40,
+      "value": 0
+    }
+  },
+  "165": {
+    "493": {
+      "id": 493,
+      "quest_id": 165,
+      "event_id": 55,
+      "summery": "コンボ数が120HITを超えた",
+      "type": 34,
+      "value": 0
+    },
+    "494": {
+      "id": 494,
+      "quest_id": 165,
+      "event_id": 55,
+      "summery": "一人も戦闘不能にさせずにクリア",
+      "type": 36,
+      "value": 0
+    },
+    "495": {
+      "id": 495,
+      "quest_id": 165,
+      "event_id": 55,
+      "summery": "コンティニューをせずにクリア",
+      "type": 40,
+      "value": 0
+    }
+  },
+  "166": {
+    "496": {
+      "id": 496,
+      "quest_id": 166,
+      "event_id": 56,
+      "summery": "コンボ数が50HITを超えた",
+      "type": 34,
+      "value": 0
+    },
+    "497": {
+      "id": 497,
+      "quest_id": 166,
+      "event_id": 56,
+      "summery": "一人も戦闘不能にさせずにクリア",
+      "type": 36,
+      "value": 0
+    },
+    "498": {
+      "id": 498,
+      "quest_id": 166,
+      "event_id": 56,
+      "summery": "コンティニューをせずにクリア",
+      "type": 40,
+      "value": 0
+    }
+  },
+  "167": {
+    "499": {
+      "id": 499,
+      "quest_id": 167,
+      "event_id": 56,
+      "summery": "コンボ数が70HITを超えた",
+      "type": 34,
+      "value": 0
+    },
+    "500": {
+      "id": 500,
+      "quest_id": 167,
+      "event_id": 56,
+      "summery": "一人も戦闘不能にさせずにクリア",
+      "type": 36,
+      "value": 0
+    },
+    "501": {
+      "id": 501,
+      "quest_id": 167,
+      "event_id": 56,
+      "summery": "コンティニューをせずにクリア",
+      "type": 40,
+      "value": 0
+    }
+  },
+  "168": {
+    "502": {
+      "id": 502,
+      "quest_id": 168,
+      "event_id": 56,
+      "summery": "コンボ数が100HITを超えた",
+      "type": 34,
+      "value": 0
+    },
+    "503": {
+      "id": 503,
+      "quest_id": 168,
+      "event_id": 56,
+      "summery": "一人も戦闘不能にさせずにクリア",
+      "type": 36,
+      "value": 0
+    },
+    "504": {
+      "id": 504,
+      "quest_id": 168,
+      "event_id": 56,
+      "summery": "コンティニューをせずにクリア",
+      "type": 40,
+      "value": 0
+    }
+  },
+  "169": {
+    "505": {
+      "id": 505,
+      "quest_id": 169,
+      "event_id": 56,
+      "summery": "コンボ数が120HITを超えた",
+      "type": 34,
+      "value": 0
+    },
+    "506": {
+      "id": 506,
+      "quest_id": 169,
+      "event_id": 56,
+      "summery": "一人も戦闘不能にさせずにクリア",
+      "type": 36,
+      "value": 0
+    },
+    "507": {
+      "id": 507,
+      "quest_id": 169,
+      "event_id": 56,
+      "summery": "コンティニューをせずにクリア",
+      "type": 40,
+      "value": 0
+    }
+  },
+  "170": {
+    "508": {
+      "id": 508,
+      "quest_id": 170,
+      "event_id": 57,
+      "summery": "コンボ数が50HITを超えた",
+      "type": 34,
+      "value": 0
+    },
+    "509": {
+      "id": 509,
+      "quest_id": 170,
+      "event_id": 57,
+      "summery": "一人も戦闘不能にさせずにクリア",
+      "type": 36,
+      "value": 0
+    },
+    "510": {
+      "id": 510,
+      "quest_id": 170,
+      "event_id": 57,
+      "summery": "コンティニューをせずにクリア",
+      "type": 40,
+      "value": 0
+    }
+  },
+  "171": {
+    "511": {
+      "id": 511,
+      "quest_id": 171,
+      "event_id": 57,
+      "summery": "コンボ数が70HITを超えた",
+      "type": 34,
+      "value": 0
+    },
+    "512": {
+      "id": 512,
+      "quest_id": 171,
+      "event_id": 57,
+      "summery": "一人も戦闘不能にさせずにクリア",
+      "type": 36,
+      "value": 0
+    },
+    "513": {
+      "id": 513,
+      "quest_id": 171,
+      "event_id": 57,
+      "summery": "コンティニューをせずにクリア",
+      "type": 40,
+      "value": 0
+    }
+  },
+  "172": {
+    "514": {
+      "id": 514,
+      "quest_id": 172,
+      "event_id": 57,
+      "summery": "コンボ数が100HITを超えた",
+      "type": 34,
+      "value": 0
+    },
+    "515": {
+      "id": 515,
+      "quest_id": 172,
+      "event_id": 57,
+      "summery": "一人も戦闘不能にさせずにクリア",
+      "type": 36,
+      "value": 0
+    },
+    "516": {
+      "id": 516,
+      "quest_id": 172,
+      "event_id": 57,
+      "summery": "コンティニューをせずにクリア",
+      "type": 40,
+      "value": 0
+    }
+  },
+  "173": {
+    "517": {
+      "id": 517,
+      "quest_id": 173,
+      "event_id": 57,
+      "summery": "コンボ数が120HITを超えた",
+      "type": 34,
+      "value": 0
+    },
+    "518": {
+      "id": 518,
+      "quest_id": 173,
+      "event_id": 57,
+      "summery": "一人も戦闘不能にさせずにクリア",
+      "type": 36,
+      "value": 0
+    },
+    "519": {
+      "id": 519,
+      "quest_id": 173,
+      "event_id": 57,
+      "summery": "コンティニューをせずにクリア",
+      "type": 40,
+      "value": 0
+    }
   }
 }

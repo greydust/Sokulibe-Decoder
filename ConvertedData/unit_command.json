@@ -3633,42 +3633,42 @@
       "unit_id": 72,
       "index": 1,
       "command": "0,0",
-      "skill_id": 2
+      "skill_id": 4
     },
     "2": {
       "id": 500,
       "unit_id": 72,
       "index": 2,
       "command": "0,0,0",
-      "skill_id": 3
+      "skill_id": 5
     },
     "3": {
       "id": 501,
       "unit_id": 72,
       "index": 3,
       "command": "1",
-      "skill_id": 53
+      "skill_id": 55
     },
     "4": {
       "id": 502,
       "unit_id": 72,
       "index": 4,
       "command": "0,1",
-      "skill_id": 51
+      "skill_id": 81
     },
     "5": {
       "id": 503,
       "unit_id": 72,
       "index": 5,
       "command": "0,0,1",
-      "skill_id": 52
+      "skill_id": 74
     },
     "6": {
       "id": 504,
       "unit_id": 72,
       "index": 6,
       "command": "0,0,0,1",
-      "skill_id": 67
+      "skill_id": 369
     }
   },
   "73": {
@@ -3851,28 +3851,28 @@
       "unit_id": 76,
       "index": 3,
       "command": "1",
-      "skill_id": 59
+      "skill_id": 60
     },
     "4": {
       "id": 530,
       "unit_id": 76,
       "index": 4,
       "command": "0,1",
-      "skill_id": 51
+      "skill_id": 99
     },
     "5": {
       "id": 531,
       "unit_id": 76,
       "index": 5,
       "command": "0,0,1",
-      "skill_id": 52
+      "skill_id": 93
     },
     "6": {
       "id": 532,
       "unit_id": 76,
       "index": 6,
       "command": "0,0,0,1",
-      "skill_id": 88
+      "skill_id": 104
     }
   },
   "77": {
@@ -4442,49 +4442,49 @@
       "unit_id": 88,
       "index": 0,
       "command": "0",
-      "skill_id": 11
+      "skill_id": 12
     },
     "1": {
       "id": 611,
       "unit_id": 88,
       "index": 1,
       "command": "0,0",
-      "skill_id": 12
+      "skill_id": 16
     },
     "2": {
       "id": 612,
       "unit_id": 88,
       "index": 2,
       "command": "0,0,0",
-      "skill_id": 13
+      "skill_id": 15
     },
     "3": {
       "id": 613,
       "unit_id": 88,
       "index": 3,
       "command": "1",
-      "skill_id": 109
+      "skill_id": 125
     },
     "4": {
       "id": 614,
       "unit_id": 88,
       "index": 4,
       "command": "0,1",
-      "skill_id": 110
+      "skill_id": 161
     },
     "5": {
       "id": 615,
       "unit_id": 88,
       "index": 5,
       "command": "0,0,1",
-      "skill_id": 112
+      "skill_id": 155
     },
     "6": {
       "id": 616,
       "unit_id": 88,
       "index": 6,
       "command": "0,0,0,1",
-      "skill_id": 122
+      "skill_id": 165
     }
   },
   "89": {
@@ -4544,14 +4544,14 @@
       "unit_id": 90,
       "index": 0,
       "command": "0",
-      "skill_id": 14
+      "skill_id": 12
     },
     "1": {
       "id": 625,
       "unit_id": 90,
       "index": 1,
       "command": "0,0",
-      "skill_id": 12
+      "skill_id": 13
     },
     "2": {
       "id": 626,
@@ -4579,7 +4579,7 @@
       "unit_id": 90,
       "index": 5,
       "command": "0,0,1",
-      "skill_id": 156
+      "skill_id": 370
     },
     "6": {
       "id": 630,
@@ -4748,14 +4748,14 @@
       "unit_id": 94,
       "index": 0,
       "command": "0",
-      "skill_id": 21
+      "skill_id": 28
     },
     "1": {
       "id": 653,
       "unit_id": 94,
       "index": 1,
       "command": "0,0",
-      "skill_id": 22
+      "skill_id": 30
     },
     "2": {
       "id": 654,
@@ -4783,7 +4783,7 @@
       "unit_id": 94,
       "index": 5,
       "command": "0,0,1",
-      "skill_id": 192
+      "skill_id": 371
     },
     "6": {
       "id": 658,
@@ -4806,7 +4806,7 @@
       "unit_id": 95,
       "index": 1,
       "command": "0,0",
-      "skill_id": 22
+      "skill_id": 28
     },
     "2": {
       "id": 661,

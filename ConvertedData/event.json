@@ -448,5 +448,59 @@
     "event_type": 0,
     "raid_id": 0,
     "event_mission_flag": 0
+  },
+  "52": {
+    "id": 52,
+    "priority": 22,
+    "name": "強襲クエスト　火亀",
+    "file": "event_banner01.ab",
+    "event_type": 0,
+    "raid_id": 0,
+    "event_mission_flag": 1
+  },
+  "53": {
+    "id": 53,
+    "priority": 22,
+    "name": "強襲クエスト　水亀",
+    "file": "event_banner01.ab",
+    "event_type": 0,
+    "raid_id": 0,
+    "event_mission_flag": 1
+  },
+  "54": {
+    "id": 54,
+    "priority": 22,
+    "name": "強襲クエスト　地亀",
+    "file": "event_banner01.ab",
+    "event_type": 0,
+    "raid_id": 0,
+    "event_mission_flag": 1
+  },
+  "55": {
+    "id": 55,
+    "priority": 22,
+    "name": "強襲クエスト　光亀",
+    "file": "event_banner01.ab",
+    "event_type": 0,
+    "raid_id": 0,
+    "event_mission_flag": 1
+  },
+  "56": {
+    "id": 56,
+    "priority": 22,
+    "name": "強襲クエスト　闇亀",
+    "file": "event_banner01.ab",
+    "event_type": 0,
+    "raid_id": 0,
+    "event_mission_flag": 1
+  },
+  "57": {
+    "id": 57,
+    "priority": 23,
+    "name": "蜂窩に香る奉祝の花",
+    "file": "event_banner01.ab",
+    "event_type": 1,
+    "raid_id": 0,
+    "event_mission_flag": 0
   }
 }

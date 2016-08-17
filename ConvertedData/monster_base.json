@@ -839,6 +839,38 @@
     "respawn_eff": 1,
     "summon_anim": 0
   },
+  "116": {
+    "id": 116,
+    "name": "スケルトン",
+    "size": 1.2,
+    "category": 14,
+    "respawn_eff": 2,
+    "summon_anim": 1
+  },
+  "117": {
+    "id": 117,
+    "name": "スカルアーチャー",
+    "size": 1.2,
+    "category": 14,
+    "respawn_eff": 2,
+    "summon_anim": 1
+  },
+  "118": {
+    "id": 118,
+    "name": "スケルトンリーダー ウォーリアー",
+    "size": 1.5,
+    "category": 14,
+    "respawn_eff": 2,
+    "summon_anim": 1
+  },
+  "119": {
+    "id": 119,
+    "name": "アンデッドリーダー",
+    "size": 2,
+    "category": 14,
+    "respawn_eff": 2,
+    "summon_anim": 1
+  },
   "121": {
     "id": 121,
     "name": "ラグアニマ",

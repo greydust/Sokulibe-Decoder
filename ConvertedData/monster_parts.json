@@ -1599,7 +1599,7 @@
       "hitpoint": 50,
       "weakness": 0,
       "damage": 100,
-      "break_": 20
+      "break_": 50
     },
     "3": {
       "id": 156,
@@ -2003,6 +2003,59 @@
       "monster_id": 175,
       "parts_id": 1,
       "hitpoint": 100,
+      "weakness": 0,
+      "damage": 100,
+      "break_": 100
+    }
+  },
+  "116": {
+    "1": {
+      "id": 196,
+      "monster_id": 116,
+      "parts_id": 1,
+      "hitpoint": 100,
+      "weakness": 0,
+      "damage": 100,
+      "break_": 100
+    }
+  },
+  "117": {
+    "1": {
+      "id": 197,
+      "monster_id": 117,
+      "parts_id": 1,
+      "hitpoint": 100,
+      "weakness": 0,
+      "damage": 100,
+      "break_": 100
+    }
+  },
+  "118": {
+    "1": {
+      "id": 198,
+      "monster_id": 118,
+      "parts_id": 1,
+      "hitpoint": 100,
+      "weakness": 0,
+      "damage": 100,
+      "break_": 100
+    }
+  },
+  "119": {
+    "1": {
+      "id": 199,
+      "monster_id": 119,
+      "parts_id": 1,
+      "hitpoint": 100,
+      "weakness": 0,
+      "damage": 100,
+      "break_": 100
+    },
+    "2": {
+      "id": 200,
+      "monster_id": 119,
+      "parts_id": 2,
+      "hitpoint": 40,
       "weakness": 0,
       "damage": 100,
       "break_": 100

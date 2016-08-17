@@ -3978,7 +3978,7 @@
     },
     "2": {
       "id": 421,
-      "active": 1,
+      "active": 0,
       "unit_id": 111,
       "index": 2,
       "skill_id": 279,
@@ -3987,7 +3987,7 @@
     },
     "3": {
       "id": 422,
-      "active": 1,
+      "active": 0,
       "unit_id": 111,
       "index": 3,
       "skill_id": 284,
@@ -4005,7 +4005,7 @@
     },
     "5": {
       "id": 424,
-      "active": 1,
+      "active": 0,
       "unit_id": 111,
       "index": 5,
       "skill_id": 294,
@@ -4043,7 +4043,7 @@
     },
     "2": {
       "id": 428,
-      "active": 1,
+      "active": 0,
       "unit_id": 112,
       "index": 2,
       "skill_id": 280,
@@ -4052,7 +4052,7 @@
     },
     "3": {
       "id": 429,
-      "active": 1,
+      "active": 0,
       "unit_id": 112,
       "index": 3,
       "skill_id": 285,
@@ -4070,7 +4070,7 @@
     },
     "5": {
       "id": 431,
-      "active": 1,
+      "active": 0,
       "unit_id": 112,
       "index": 5,
       "skill_id": 295,
@@ -4108,7 +4108,7 @@
     },
     "2": {
       "id": 435,
-      "active": 1,
+      "active": 0,
       "unit_id": 113,
       "index": 2,
       "skill_id": 281,
@@ -4117,7 +4117,7 @@
     },
     "3": {
       "id": 436,
-      "active": 1,
+      "active": 0,
       "unit_id": 113,
       "index": 3,
       "skill_id": 286,
@@ -4135,7 +4135,7 @@
     },
     "5": {
       "id": 438,
-      "active": 1,
+      "active": 0,
       "unit_id": 113,
       "index": 5,
       "skill_id": 296,
@@ -4173,7 +4173,7 @@
     },
     "2": {
       "id": 442,
-      "active": 1,
+      "active": 0,
       "unit_id": 114,
       "index": 2,
       "skill_id": 282,
@@ -4182,7 +4182,7 @@
     },
     "3": {
       "id": 443,
-      "active": 1,
+      "active": 0,
       "unit_id": 114,
       "index": 3,
       "skill_id": 287,
@@ -4200,7 +4200,7 @@
     },
     "5": {
       "id": 445,
-      "active": 1,
+      "active": 0,
       "unit_id": 114,
       "index": 5,
       "skill_id": 297,
@@ -4238,7 +4238,7 @@
     },
     "2": {
       "id": 449,
-      "active": 1,
+      "active": 0,
       "unit_id": 115,
       "index": 2,
       "skill_id": 283,
@@ -4247,7 +4247,7 @@
     },
     "3": {
       "id": 450,
-      "active": 1,
+      "active": 0,
       "unit_id": 115,
       "index": 3,
       "skill_id": 288,
@@ -4265,7 +4265,7 @@
     },
     "5": {
       "id": 452,
-      "active": 1,
+      "active": 0,
       "unit_id": 115,
       "index": 5,
       "skill_id": 298,
@@ -4502,6 +4502,167 @@
       "unit_id": 145,
       "index": 7,
       "skill_id": 415,
+      "rage_flag": 0,
+      "hprate_flag": 0
+    }
+  },
+  "116": {
+    "0": {
+      "id": 478,
+      "active": 1,
+      "unit_id": 116,
+      "index": 0,
+      "skill_id": 304,
+      "rage_flag": 0,
+      "hprate_flag": 0
+    },
+    "1": {
+      "id": 479,
+      "active": 1,
+      "unit_id": 116,
+      "index": 1,
+      "skill_id": 305,
+      "rage_flag": 0,
+      "hprate_flag": 0
+    },
+    "2": {
+      "id": 480,
+      "active": 1,
+      "unit_id": 116,
+      "index": 2,
+      "skill_id": 306,
+      "rage_flag": 0,
+      "hprate_flag": 0
+    }
+  },
+  "117": {
+    "0": {
+      "id": 481,
+      "active": 1,
+      "unit_id": 117,
+      "index": 0,
+      "skill_id": 304,
+      "rage_flag": 0,
+      "hprate_flag": 0
+    },
+    "1": {
+      "id": 482,
+      "active": 1,
+      "unit_id": 117,
+      "index": 1,
+      "skill_id": 307,
+      "rage_flag": 0,
+      "hprate_flag": 0
+    },
+    "2": {
+      "id": 483,
+      "active": 1,
+      "unit_id": 117,
+      "index": 2,
+      "skill_id": 308,
+      "rage_flag": 0,
+      "hprate_flag": 0
+    }
+  },
+  "118": {
+    "0": {
+      "id": 484,
+      "active": 1,
+      "unit_id": 118,
+      "index": 0,
+      "skill_id": 304,
+      "rage_flag": 0,
+      "hprate_flag": 0
+    },
+    "1": {
+      "id": 485,
+      "active": 1,
+      "unit_id": 118,
+      "index": 1,
+      "skill_id": 309,
+      "rage_flag": 0,
+      "hprate_flag": 0
+    },
+    "2": {
+      "id": 486,
+      "active": 1,
+      "unit_id": 118,
+      "index": 2,
+      "skill_id": 310,
+      "rage_flag": 0,
+      "hprate_flag": 0
+    },
+    "3": {
+      "id": 487,
+      "active": 1,
+      "unit_id": 118,
+      "index": 3,
+      "skill_id": 311,
+      "rage_flag": 0,
+      "hprate_flag": 0
+    }
+  },
+  "119": {
+    "0": {
+      "id": 488,
+      "active": 1,
+      "unit_id": 119,
+      "index": 0,
+      "skill_id": 312,
+      "rage_flag": 0,
+      "hprate_flag": 0
+    },
+    "1": {
+      "id": 489,
+      "active": 1,
+      "unit_id": 119,
+      "index": 1,
+      "skill_id": 313,
+      "rage_flag": 0,
+      "hprate_flag": 0
+    },
+    "2": {
+      "id": 490,
+      "active": 1,
+      "unit_id": 119,
+      "index": 2,
+      "skill_id": 315,
+      "rage_flag": 0,
+      "hprate_flag": 0
+    },
+    "3": {
+      "id": 491,
+      "active": 1,
+      "unit_id": 119,
+      "index": 3,
+      "skill_id": 317,
+      "rage_flag": 0,
+      "hprate_flag": 0
+    },
+    "4": {
+      "id": 492,
+      "active": 1,
+      "unit_id": 119,
+      "index": 4,
+      "skill_id": 319,
+      "rage_flag": 0,
+      "hprate_flag": 0
+    },
+    "5": {
+      "id": 493,
+      "active": 1,
+      "unit_id": 119,
+      "index": 5,
+      "skill_id": 320,
+      "rage_flag": 0,
+      "hprate_flag": 0
+    },
+    "6": {
+      "id": 494,
+      "active": 1,
+      "unit_id": 119,
+      "index": 6,
+      "skill_id": 321,
       "rage_flag": 0,
       "hprate_flag": 0
     }
@@ -6978,6 +7139,331 @@
       "hprate_flag": 0
     }
   },
+  "2111": {
+    "0": {
+      "id": 2125,
+      "active": 1,
+      "unit_id": 2111,
+      "index": 0,
+      "skill_id": 273,
+      "rage_flag": 0,
+      "hprate_flag": 0
+    },
+    "1": {
+      "id": 2126,
+      "active": 1,
+      "unit_id": 2111,
+      "index": 1,
+      "skill_id": 274,
+      "rage_flag": 0,
+      "hprate_flag": 0
+    },
+    "2": {
+      "id": 2127,
+      "active": 1,
+      "unit_id": 2111,
+      "index": 2,
+      "skill_id": 279,
+      "rage_flag": 0,
+      "hprate_flag": 0
+    },
+    "3": {
+      "id": 2128,
+      "active": 0,
+      "unit_id": 2111,
+      "index": 3,
+      "skill_id": 284,
+      "rage_flag": 0,
+      "hprate_flag": 0
+    },
+    "4": {
+      "id": 2129,
+      "active": 1,
+      "unit_id": 2111,
+      "index": 4,
+      "skill_id": 289,
+      "rage_flag": 0,
+      "hprate_flag": 0
+    },
+    "5": {
+      "id": 2130,
+      "active": 0,
+      "unit_id": 2111,
+      "index": 5,
+      "skill_id": 294,
+      "rage_flag": 0,
+      "hprate_flag": 0
+    },
+    "6": {
+      "id": 2131,
+      "active": 1,
+      "unit_id": 2111,
+      "index": 6,
+      "skill_id": 299,
+      "rage_flag": 0,
+      "hprate_flag": 0
+    }
+  },
+  "2112": {
+    "0": {
+      "id": 2132,
+      "active": 1,
+      "unit_id": 2112,
+      "index": 0,
+      "skill_id": 273,
+      "rage_flag": 0,
+      "hprate_flag": 0
+    },
+    "1": {
+      "id": 2133,
+      "active": 1,
+      "unit_id": 2112,
+      "index": 1,
+      "skill_id": 275,
+      "rage_flag": 0,
+      "hprate_flag": 0
+    },
+    "2": {
+      "id": 2134,
+      "active": 1,
+      "unit_id": 2112,
+      "index": 2,
+      "skill_id": 280,
+      "rage_flag": 0,
+      "hprate_flag": 0
+    },
+    "3": {
+      "id": 2135,
+      "active": 0,
+      "unit_id": 2112,
+      "index": 3,
+      "skill_id": 285,
+      "rage_flag": 0,
+      "hprate_flag": 0
+    },
+    "4": {
+      "id": 2136,
+      "active": 1,
+      "unit_id": 2112,
+      "index": 4,
+      "skill_id": 290,
+      "rage_flag": 0,
+      "hprate_flag": 0
+    },
+    "5": {
+      "id": 2137,
+      "active": 0,
+      "unit_id": 2112,
+      "index": 5,
+      "skill_id": 295,
+      "rage_flag": 0,
+      "hprate_flag": 0
+    },
+    "6": {
+      "id": 2138,
+      "active": 1,
+      "unit_id": 2112,
+      "index": 6,
+      "skill_id": 300,
+      "rage_flag": 0,
+      "hprate_flag": 0
+    }
+  },
+  "2113": {
+    "0": {
+      "id": 2139,
+      "active": 1,
+      "unit_id": 2113,
+      "index": 0,
+      "skill_id": 273,
+      "rage_flag": 0,
+      "hprate_flag": 0
+    },
+    "1": {
+      "id": 2140,
+      "active": 1,
+      "unit_id": 2113,
+      "index": 1,
+      "skill_id": 276,
+      "rage_flag": 0,
+      "hprate_flag": 0
+    },
+    "2": {
+      "id": 2141,
+      "active": 1,
+      "unit_id": 2113,
+      "index": 2,
+      "skill_id": 281,
+      "rage_flag": 0,
+      "hprate_flag": 0
+    },
+    "3": {
+      "id": 2142,
+      "active": 0,
+      "unit_id": 2113,
+      "index": 3,
+      "skill_id": 286,
+      "rage_flag": 0,
+      "hprate_flag": 0
+    },
+    "4": {
+      "id": 2143,
+      "active": 1,
+      "unit_id": 2113,
+      "index": 4,
+      "skill_id": 291,
+      "rage_flag": 0,
+      "hprate_flag": 0
+    },
+    "5": {
+      "id": 2144,
+      "active": 0,
+      "unit_id": 2113,
+      "index": 5,
+      "skill_id": 296,
+      "rage_flag": 0,
+      "hprate_flag": 0
+    },
+    "6": {
+      "id": 2145,
+      "active": 1,
+      "unit_id": 2113,
+      "index": 6,
+      "skill_id": 301,
+      "rage_flag": 0,
+      "hprate_flag": 0
+    }
+  },
+  "2114": {
+    "0": {
+      "id": 2146,
+      "active": 1,
+      "unit_id": 2114,
+      "index": 0,
+      "skill_id": 273,
+      "rage_flag": 0,
+      "hprate_flag": 0
+    },
+    "1": {
+      "id": 2147,
+      "active": 1,
+      "unit_id": 2114,
+      "index": 1,
+      "skill_id": 277,
+      "rage_flag": 0,
+      "hprate_flag": 0
+    },
+    "2": {
+      "id": 2148,
+      "active": 1,
+      "unit_id": 2114,
+      "index": 2,
+      "skill_id": 282,
+      "rage_flag": 0,
+      "hprate_flag": 0
+    },
+    "3": {
+      "id": 2149,
+      "active": 0,
+      "unit_id": 2114,
+      "index": 3,
+      "skill_id": 287,
+      "rage_flag": 0,
+      "hprate_flag": 0
+    },
+    "4": {
+      "id": 2150,
+      "active": 1,
+      "unit_id": 2114,
+      "index": 4,
+      "skill_id": 292,
+      "rage_flag": 0,
+      "hprate_flag": 0
+    },
+    "5": {
+      "id": 2151,
+      "active": 0,
+      "unit_id": 2114,
+      "index": 5,
+      "skill_id": 297,
+      "rage_flag": 0,
+      "hprate_flag": 0
+    },
+    "6": {
+      "id": 2152,
+      "active": 1,
+      "unit_id": 2114,
+      "index": 6,
+      "skill_id": 303,
+      "rage_flag": 2,
+      "hprate_flag": 0
+    }
+  },
+  "2115": {
+    "0": {
+      "id": 2153,
+      "active": 1,
+      "unit_id": 2115,
+      "index": 0,
+      "skill_id": 273,
+      "rage_flag": 0,
+      "hprate_flag": 0
+    },
+    "1": {
+      "id": 2154,
+      "active": 1,
+      "unit_id": 2115,
+      "index": 1,
+      "skill_id": 278,
+      "rage_flag": 0,
+      "hprate_flag": 0
+    },
+    "2": {
+      "id": 2155,
+      "active": 1,
+      "unit_id": 2115,
+      "index": 2,
+      "skill_id": 283,
+      "rage_flag": 0,
+      "hprate_flag": 0
+    },
+    "3": {
+      "id": 2156,
+      "active": 0,
+      "unit_id": 2115,
+      "index": 3,
+      "skill_id": 288,
+      "rage_flag": 0,
+      "hprate_flag": 0
+    },
+    "4": {
+      "id": 2157,
+      "active": 1,
+      "unit_id": 2115,
+      "index": 4,
+      "skill_id": 293,
+      "rage_flag": 0,
+      "hprate_flag": 0
+    },
+    "5": {
+      "id": 2158,
+      "active": 0,
+      "unit_id": 2115,
+      "index": 5,
+      "skill_id": 298,
+      "rage_flag": 0,
+      "hprate_flag": 0
+    },
+    "6": {
+      "id": 2159,
+      "active": 1,
+      "unit_id": 2115,
+      "index": 6,
+      "skill_id": 302,
+      "rage_flag": 0,
+      "hprate_flag": 0
+    }
+  },
   "3004": {
     "0": {
       "id": 3001,
@@ -8423,6 +8909,331 @@
       "unit_id": 3103,
       "index": 7,
       "skill_id": 255,
+      "rage_flag": 0,
+      "hprate_flag": 0
+    }
+  },
+  "3111": {
+    "0": {
+      "id": 3158,
+      "active": 1,
+      "unit_id": 3111,
+      "index": 0,
+      "skill_id": 273,
+      "rage_flag": 0,
+      "hprate_flag": 0
+    },
+    "1": {
+      "id": 3159,
+      "active": 1,
+      "unit_id": 3111,
+      "index": 1,
+      "skill_id": 274,
+      "rage_flag": 0,
+      "hprate_flag": 0
+    },
+    "2": {
+      "id": 3160,
+      "active": 1,
+      "unit_id": 3111,
+      "index": 2,
+      "skill_id": 279,
+      "rage_flag": 0,
+      "hprate_flag": 0
+    },
+    "3": {
+      "id": 3161,
+      "active": 1,
+      "unit_id": 3111,
+      "index": 3,
+      "skill_id": 284,
+      "rage_flag": 0,
+      "hprate_flag": 0
+    },
+    "4": {
+      "id": 3162,
+      "active": 1,
+      "unit_id": 3111,
+      "index": 4,
+      "skill_id": 289,
+      "rage_flag": 0,
+      "hprate_flag": 0
+    },
+    "5": {
+      "id": 3163,
+      "active": 1,
+      "unit_id": 3111,
+      "index": 5,
+      "skill_id": 294,
+      "rage_flag": 0,
+      "hprate_flag": 0
+    },
+    "6": {
+      "id": 3164,
+      "active": 1,
+      "unit_id": 3111,
+      "index": 6,
+      "skill_id": 299,
+      "rage_flag": 0,
+      "hprate_flag": 0
+    }
+  },
+  "3112": {
+    "0": {
+      "id": 3165,
+      "active": 1,
+      "unit_id": 3112,
+      "index": 0,
+      "skill_id": 273,
+      "rage_flag": 0,
+      "hprate_flag": 0
+    },
+    "1": {
+      "id": 3166,
+      "active": 1,
+      "unit_id": 3112,
+      "index": 1,
+      "skill_id": 275,
+      "rage_flag": 0,
+      "hprate_flag": 0
+    },
+    "2": {
+      "id": 3167,
+      "active": 1,
+      "unit_id": 3112,
+      "index": 2,
+      "skill_id": 280,
+      "rage_flag": 0,
+      "hprate_flag": 0
+    },
+    "3": {
+      "id": 3168,
+      "active": 1,
+      "unit_id": 3112,
+      "index": 3,
+      "skill_id": 285,
+      "rage_flag": 0,
+      "hprate_flag": 0
+    },
+    "4": {
+      "id": 3169,
+      "active": 1,
+      "unit_id": 3112,
+      "index": 4,
+      "skill_id": 290,
+      "rage_flag": 0,
+      "hprate_flag": 0
+    },
+    "5": {
+      "id": 3170,
+      "active": 1,
+      "unit_id": 3112,
+      "index": 5,
+      "skill_id": 295,
+      "rage_flag": 0,
+      "hprate_flag": 0
+    },
+    "6": {
+      "id": 3171,
+      "active": 1,
+      "unit_id": 3112,
+      "index": 6,
+      "skill_id": 300,
+      "rage_flag": 0,
+      "hprate_flag": 0
+    }
+  },
+  "3113": {
+    "0": {
+      "id": 3172,
+      "active": 1,
+      "unit_id": 3113,
+      "index": 0,
+      "skill_id": 273,
+      "rage_flag": 0,
+      "hprate_flag": 0
+    },
+    "1": {
+      "id": 3173,
+      "active": 1,
+      "unit_id": 3113,
+      "index": 1,
+      "skill_id": 276,
+      "rage_flag": 0,
+      "hprate_flag": 0
+    },
+    "2": {
+      "id": 3174,
+      "active": 1,
+      "unit_id": 3113,
+      "index": 2,
+      "skill_id": 281,
+      "rage_flag": 0,
+      "hprate_flag": 0
+    },
+    "3": {
+      "id": 3175,
+      "active": 1,
+      "unit_id": 3113,
+      "index": 3,
+      "skill_id": 286,
+      "rage_flag": 0,
+      "hprate_flag": 0
+    },
+    "4": {
+      "id": 3176,
+      "active": 1,
+      "unit_id": 3113,
+      "index": 4,
+      "skill_id": 291,
+      "rage_flag": 0,
+      "hprate_flag": 0
+    },
+    "5": {
+      "id": 3177,
+      "active": 1,
+      "unit_id": 3113,
+      "index": 5,
+      "skill_id": 296,
+      "rage_flag": 0,
+      "hprate_flag": 0
+    },
+    "6": {
+      "id": 3178,
+      "active": 1,
+      "unit_id": 3113,
+      "index": 6,
+      "skill_id": 301,
+      "rage_flag": 0,
+      "hprate_flag": 0
+    }
+  },
+  "3114": {
+    "0": {
+      "id": 3179,
+      "active": 1,
+      "unit_id": 3114,
+      "index": 0,
+      "skill_id": 273,
+      "rage_flag": 0,
+      "hprate_flag": 0
+    },
+    "1": {
+      "id": 3180,
+      "active": 1,
+      "unit_id": 3114,
+      "index": 1,
+      "skill_id": 277,
+      "rage_flag": 0,
+      "hprate_flag": 0
+    },
+    "2": {
+      "id": 3181,
+      "active": 1,
+      "unit_id": 3114,
+      "index": 2,
+      "skill_id": 282,
+      "rage_flag": 0,
+      "hprate_flag": 0
+    },
+    "3": {
+      "id": 3182,
+      "active": 1,
+      "unit_id": 3114,
+      "index": 3,
+      "skill_id": 287,
+      "rage_flag": 0,
+      "hprate_flag": 0
+    },
+    "4": {
+      "id": 3183,
+      "active": 1,
+      "unit_id": 3114,
+      "index": 4,
+      "skill_id": 292,
+      "rage_flag": 0,
+      "hprate_flag": 0
+    },
+    "5": {
+      "id": 3184,
+      "active": 1,
+      "unit_id": 3114,
+      "index": 5,
+      "skill_id": 297,
+      "rage_flag": 0,
+      "hprate_flag": 0
+    },
+    "6": {
+      "id": 3185,
+      "active": 1,
+      "unit_id": 3114,
+      "index": 6,
+      "skill_id": 303,
+      "rage_flag": 2,
+      "hprate_flag": 0
+    }
+  },
+  "3115": {
+    "0": {
+      "id": 3186,
+      "active": 1,
+      "unit_id": 3115,
+      "index": 0,
+      "skill_id": 273,
+      "rage_flag": 0,
+      "hprate_flag": 0
+    },
+    "1": {
+      "id": 3187,
+      "active": 1,
+      "unit_id": 3115,
+      "index": 1,
+      "skill_id": 278,
+      "rage_flag": 0,
+      "hprate_flag": 0
+    },
+    "2": {
+      "id": 3188,
+      "active": 1,
+      "unit_id": 3115,
+      "index": 2,
+      "skill_id": 283,
+      "rage_flag": 0,
+      "hprate_flag": 0
+    },
+    "3": {
+      "id": 3189,
+      "active": 1,
+      "unit_id": 3115,
+      "index": 3,
+      "skill_id": 288,
+      "rage_flag": 0,
+      "hprate_flag": 0
+    },
+    "4": {
+      "id": 3190,
+      "active": 1,
+      "unit_id": 3115,
+      "index": 4,
+      "skill_id": 293,
+      "rage_flag": 0,
+      "hprate_flag": 0
+    },
+    "5": {
+      "id": 3191,
+      "active": 1,
+      "unit_id": 3115,
+      "index": 5,
+      "skill_id": 298,
+      "rage_flag": 0,
+      "hprate_flag": 0
+    },
+    "6": {
+      "id": 3192,
+      "active": 1,
+      "unit_id": 3115,
+      "index": 6,
+      "skill_id": 302,
       "rage_flag": 0,
       "hprate_flag": 0
     }
@@ -10020,6 +10831,544 @@
       "unit_id": 4004,
       "index": 9,
       "skill_id": 10,
+      "rage_flag": 0,
+      "hprate_flag": 0
+    }
+  },
+  "4113": {
+    "0": {
+      "id": 4174,
+      "active": 1,
+      "unit_id": 4113,
+      "index": 0,
+      "skill_id": 273,
+      "rage_flag": 0,
+      "hprate_flag": 0
+    },
+    "1": {
+      "id": 4175,
+      "active": 1,
+      "unit_id": 4113,
+      "index": 1,
+      "skill_id": 276,
+      "rage_flag": 0,
+      "hprate_flag": 0
+    },
+    "2": {
+      "id": 4176,
+      "active": 1,
+      "unit_id": 4113,
+      "index": 2,
+      "skill_id": 281,
+      "rage_flag": 0,
+      "hprate_flag": 0
+    },
+    "3": {
+      "id": 4177,
+      "active": 1,
+      "unit_id": 4113,
+      "index": 3,
+      "skill_id": 286,
+      "rage_flag": 0,
+      "hprate_flag": 0
+    },
+    "4": {
+      "id": 4178,
+      "active": 1,
+      "unit_id": 4113,
+      "index": 4,
+      "skill_id": 291,
+      "rage_flag": 0,
+      "hprate_flag": 0
+    },
+    "5": {
+      "id": 4179,
+      "active": 1,
+      "unit_id": 4113,
+      "index": 5,
+      "skill_id": 296,
+      "rage_flag": 0,
+      "hprate_flag": 0
+    },
+    "6": {
+      "id": 4180,
+      "active": 1,
+      "unit_id": 4113,
+      "index": 6,
+      "skill_id": 301,
+      "rage_flag": 0,
+      "hprate_flag": 0
+    }
+  },
+  "4115": {
+    "0": {
+      "id": 4181,
+      "active": 1,
+      "unit_id": 4115,
+      "index": 0,
+      "skill_id": 273,
+      "rage_flag": 0,
+      "hprate_flag": 0
+    },
+    "1": {
+      "id": 4182,
+      "active": 1,
+      "unit_id": 4115,
+      "index": 1,
+      "skill_id": 278,
+      "rage_flag": 0,
+      "hprate_flag": 0
+    },
+    "2": {
+      "id": 4183,
+      "active": 1,
+      "unit_id": 4115,
+      "index": 2,
+      "skill_id": 283,
+      "rage_flag": 0,
+      "hprate_flag": 0
+    },
+    "3": {
+      "id": 4184,
+      "active": 1,
+      "unit_id": 4115,
+      "index": 3,
+      "skill_id": 288,
+      "rage_flag": 0,
+      "hprate_flag": 0
+    },
+    "4": {
+      "id": 4185,
+      "active": 1,
+      "unit_id": 4115,
+      "index": 4,
+      "skill_id": 293,
+      "rage_flag": 0,
+      "hprate_flag": 0
+    },
+    "5": {
+      "id": 4186,
+      "active": 1,
+      "unit_id": 4115,
+      "index": 5,
+      "skill_id": 298,
+      "rage_flag": 0,
+      "hprate_flag": 0
+    },
+    "6": {
+      "id": 4187,
+      "active": 1,
+      "unit_id": 4115,
+      "index": 6,
+      "skill_id": 302,
+      "rage_flag": 0,
+      "hprate_flag": 0
+    }
+  },
+  "4096": {
+    "0": {
+      "id": 4188,
+      "active": 1,
+      "unit_id": 4096,
+      "index": 0,
+      "skill_id": 207,
+      "rage_flag": 0,
+      "hprate_flag": 0
+    },
+    "1": {
+      "id": 4189,
+      "active": 1,
+      "unit_id": 4096,
+      "index": 1,
+      "skill_id": 214,
+      "rage_flag": 0,
+      "hprate_flag": 0
+    },
+    "2": {
+      "id": 4190,
+      "active": 1,
+      "unit_id": 4096,
+      "index": 2,
+      "skill_id": 218,
+      "rage_flag": 0,
+      "hprate_flag": 0
+    },
+    "3": {
+      "id": 4191,
+      "active": 1,
+      "unit_id": 4096,
+      "index": 3,
+      "skill_id": 219,
+      "rage_flag": 0,
+      "hprate_flag": 0
+    },
+    "4": {
+      "id": 4192,
+      "active": 1,
+      "unit_id": 4096,
+      "index": 4,
+      "skill_id": 221,
+      "rage_flag": 0,
+      "hprate_flag": 0
+    },
+    "5": {
+      "id": 4193,
+      "active": 1,
+      "unit_id": 4096,
+      "index": 5,
+      "skill_id": 223,
+      "rage_flag": 0,
+      "hprate_flag": 0
+    },
+    "6": {
+      "id": 4194,
+      "active": 1,
+      "unit_id": 4096,
+      "index": 6,
+      "skill_id": 225,
+      "rage_flag": 0,
+      "hprate_flag": 0
+    },
+    "7": {
+      "id": 4195,
+      "active": 1,
+      "unit_id": 4096,
+      "index": 7,
+      "skill_id": 227,
+      "rage_flag": 0,
+      "hprate_flag": 0
+    },
+    "8": {
+      "id": 4196,
+      "active": 0,
+      "unit_id": 4096,
+      "index": 8,
+      "skill_id": 433,
+      "rage_flag": 0,
+      "hprate_flag": 0
+    }
+  },
+  "5111": {
+    "0": {
+      "id": 5001,
+      "active": 1,
+      "unit_id": 5111,
+      "index": 0,
+      "skill_id": 273,
+      "rage_flag": 0,
+      "hprate_flag": 0
+    },
+    "1": {
+      "id": 5002,
+      "active": 1,
+      "unit_id": 5111,
+      "index": 1,
+      "skill_id": 274,
+      "rage_flag": 0,
+      "hprate_flag": 0
+    },
+    "2": {
+      "id": 5003,
+      "active": 1,
+      "unit_id": 5111,
+      "index": 2,
+      "skill_id": 279,
+      "rage_flag": 0,
+      "hprate_flag": 0
+    },
+    "3": {
+      "id": 5004,
+      "active": 1,
+      "unit_id": 5111,
+      "index": 3,
+      "skill_id": 284,
+      "rage_flag": 0,
+      "hprate_flag": 0
+    },
+    "4": {
+      "id": 5005,
+      "active": 1,
+      "unit_id": 5111,
+      "index": 4,
+      "skill_id": 289,
+      "rage_flag": 0,
+      "hprate_flag": 0
+    },
+    "5": {
+      "id": 5006,
+      "active": 1,
+      "unit_id": 5111,
+      "index": 5,
+      "skill_id": 294,
+      "rage_flag": 0,
+      "hprate_flag": 0
+    },
+    "6": {
+      "id": 5007,
+      "active": 1,
+      "unit_id": 5111,
+      "index": 6,
+      "skill_id": 299,
+      "rage_flag": 0,
+      "hprate_flag": 0
+    }
+  },
+  "5112": {
+    "0": {
+      "id": 5008,
+      "active": 1,
+      "unit_id": 5112,
+      "index": 0,
+      "skill_id": 273,
+      "rage_flag": 0,
+      "hprate_flag": 0
+    },
+    "1": {
+      "id": 5009,
+      "active": 1,
+      "unit_id": 5112,
+      "index": 1,
+      "skill_id": 275,
+      "rage_flag": 0,
+      "hprate_flag": 0
+    },
+    "2": {
+      "id": 5010,
+      "active": 1,
+      "unit_id": 5112,
+      "index": 2,
+      "skill_id": 280,
+      "rage_flag": 0,
+      "hprate_flag": 0
+    },
+    "3": {
+      "id": 5011,
+      "active": 1,
+      "unit_id": 5112,
+      "index": 3,
+      "skill_id": 285,
+      "rage_flag": 0,
+      "hprate_flag": 0
+    },
+    "4": {
+      "id": 5012,
+      "active": 1,
+      "unit_id": 5112,
+      "index": 4,
+      "skill_id": 290,
+      "rage_flag": 0,
+      "hprate_flag": 0
+    },
+    "5": {
+      "id": 5013,
+      "active": 1,
+      "unit_id": 5112,
+      "index": 5,
+      "skill_id": 295,
+      "rage_flag": 0,
+      "hprate_flag": 0
+    },
+    "6": {
+      "id": 5014,
+      "active": 1,
+      "unit_id": 5112,
+      "index": 6,
+      "skill_id": 300,
+      "rage_flag": 0,
+      "hprate_flag": 0
+    }
+  },
+  "5113": {
+    "0": {
+      "id": 5015,
+      "active": 1,
+      "unit_id": 5113,
+      "index": 0,
+      "skill_id": 273,
+      "rage_flag": 0,
+      "hprate_flag": 0
+    },
+    "1": {
+      "id": 5016,
+      "active": 1,
+      "unit_id": 5113,
+      "index": 1,
+      "skill_id": 276,
+      "rage_flag": 0,
+      "hprate_flag": 0
+    },
+    "2": {
+      "id": 5017,
+      "active": 1,
+      "unit_id": 5113,
+      "index": 2,
+      "skill_id": 281,
+      "rage_flag": 0,
+      "hprate_flag": 0
+    },
+    "3": {
+      "id": 5018,
+      "active": 1,
+      "unit_id": 5113,
+      "index": 3,
+      "skill_id": 286,
+      "rage_flag": 0,
+      "hprate_flag": 0
+    },
+    "4": {
+      "id": 5019,
+      "active": 1,
+      "unit_id": 5113,
+      "index": 4,
+      "skill_id": 291,
+      "rage_flag": 0,
+      "hprate_flag": 0
+    },
+    "5": {
+      "id": 5020,
+      "active": 1,
+      "unit_id": 5113,
+      "index": 5,
+      "skill_id": 296,
+      "rage_flag": 0,
+      "hprate_flag": 0
+    },
+    "6": {
+      "id": 5021,
+      "active": 1,
+      "unit_id": 5113,
+      "index": 6,
+      "skill_id": 301,
+      "rage_flag": 0,
+      "hprate_flag": 0
+    }
+  },
+  "5114": {
+    "0": {
+      "id": 5022,
+      "active": 1,
+      "unit_id": 5114,
+      "index": 0,
+      "skill_id": 273,
+      "rage_flag": 0,
+      "hprate_flag": 0
+    },
+    "1": {
+      "id": 5023,
+      "active": 1,
+      "unit_id": 5114,
+      "index": 1,
+      "skill_id": 277,
+      "rage_flag": 0,
+      "hprate_flag": 0
+    },
+    "2": {
+      "id": 5024,
+      "active": 1,
+      "unit_id": 5114,
+      "index": 2,
+      "skill_id": 282,
+      "rage_flag": 0,
+      "hprate_flag": 0
+    },
+    "3": {
+      "id": 5025,
+      "active": 1,
+      "unit_id": 5114,
+      "index": 3,
+      "skill_id": 287,
+      "rage_flag": 0,
+      "hprate_flag": 0
+    },
+    "4": {
+      "id": 5026,
+      "active": 1,
+      "unit_id": 5114,
+      "index": 4,
+      "skill_id": 292,
+      "rage_flag": 0,
+      "hprate_flag": 0
+    },
+    "5": {
+      "id": 5027,
+      "active": 1,
+      "unit_id": 5114,
+      "index": 5,
+      "skill_id": 297,
+      "rage_flag": 0,
+      "hprate_flag": 0
+    },
+    "6": {
+      "id": 5028,
+      "active": 1,
+      "unit_id": 5114,
+      "index": 6,
+      "skill_id": 303,
+      "rage_flag": 2,
+      "hprate_flag": 0
+    }
+  },
+  "5115": {
+    "0": {
+      "id": 5029,
+      "active": 1,
+      "unit_id": 5115,
+      "index": 0,
+      "skill_id": 273,
+      "rage_flag": 0,
+      "hprate_flag": 0
+    },
+    "1": {
+      "id": 5030,
+      "active": 1,
+      "unit_id": 5115,
+      "index": 1,
+      "skill_id": 278,
+      "rage_flag": 0,
+      "hprate_flag": 0
+    },
+    "2": {
+      "id": 5031,
+      "active": 1,
+      "unit_id": 5115,
+      "index": 2,
+      "skill_id": 283,
+      "rage_flag": 0,
+      "hprate_flag": 0
+    },
+    "3": {
+      "id": 5032,
+      "active": 1,
+      "unit_id": 5115,
+      "index": 3,
+      "skill_id": 288,
+      "rage_flag": 0,
+      "hprate_flag": 0
+    },
+    "4": {
+      "id": 5033,
+      "active": 1,
+      "unit_id": 5115,
+      "index": 4,
+      "skill_id": 293,
+      "rage_flag": 0,
+      "hprate_flag": 0
+    },
+    "5": {
+      "id": 5034,
+      "active": 1,
+      "unit_id": 5115,
+      "index": 5,
+      "skill_id": 298,
+      "rage_flag": 0,
+      "hprate_flag": 0
+    },
+    "6": {
+      "id": 5035,
+      "active": 1,
+      "unit_id": 5115,
+      "index": 6,
+      "skill_id": 302,
       "rage_flag": 0,
       "hprate_flag": 0
     }

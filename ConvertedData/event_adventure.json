@@ -64,6 +64,13 @@
       "event_quest_id": 0,
       "bef_aft": 1,
       "name": "エピローグ：舞い散る蒼氷と記憶の結晶　後編"
+    },
+    "35": {
+      "id": 35,
+      "raid_flag": 0,
+      "event_quest_id": 0,
+      "bef_aft": 1,
+      "name": "エピローグ：贈り物珍道記～真心編～"
     }
   },
   "1": {
@@ -241,6 +248,40 @@
       "event_quest_id": 146,
       "bef_aft": 1,
       "name": "舞い散る蒼氷と記憶の結晶　中編"
+    }
+  },
+  "170": {
+    "31": {
+      "id": 31,
+      "raid_flag": 0,
+      "event_quest_id": 170,
+      "bef_aft": 0,
+      "name": "プロローグ：贈り物珍道記～花束編～"
+    },
+    "32": {
+      "id": 32,
+      "raid_flag": 0,
+      "event_quest_id": 170,
+      "bef_aft": 1,
+      "name": "１話　贈り物珍道記～発明編～"
+    }
+  },
+  "171": {
+    "33": {
+      "id": 33,
+      "raid_flag": 0,
+      "event_quest_id": 171,
+      "bef_aft": 1,
+      "name": "２話　贈り物珍道記～装飾編～"
+    }
+  },
+  "172": {
+    "34": {
+      "id": 34,
+      "raid_flag": 0,
+      "event_quest_id": 172,
+      "bef_aft": 1,
+      "name": "３話　贈り物珍道記～誠実編～"
     }
   }
 }
