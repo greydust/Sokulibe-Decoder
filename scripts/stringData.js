@@ -26,3 +26,18 @@ JobType = [
     "マジシャン",
     "クレリック",
 ];
+
+DebuffType = [
+    "無",
+    "毒",    
+	"麻痺",
+	"Freeze",
+	"Burn",
+	"Feather",
+	"Curse",
+	"Silence",
+	"Bind",
+    "",
+    "",
+	"腐食",
+];

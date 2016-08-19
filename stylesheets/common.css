@@ -29,6 +29,42 @@ table.tablesorter tr th {
     white-space:nowrap;
 }
 
+table.detailTable tr td:last-child {
+    text-align: center;
+	padding: 8px 15px;
+	border-right: 1px solid #666666;
+	border-bottom: 1px solid #666666;
+	border-left: 1px solid #666666;
+    white-space: nowrap;
+}
+
+table.detailTable tr td {
+    text-align: center;
+	padding: 8px 15px;
+	border-bottom: 1px solid #666666;
+	border-left: 1px solid #666666;
+    white-space: nowrap;
+}
+
+table.detailTable tr th:last-child {
+	padding: 8px 15px;
+	border-top: 1px solid #666666;
+	border-right: 1px solid #666666;
+	border-bottom: 1px solid #666666;
+	border-left: 1px solid #666666;
+    white-space: nowrap;
+}
+
+table.detailTable tr th {
+	padding: 8px 15px;
+	border-top: 1px solid #666666;
+	border-bottom: 1px solid #666666;
+	border-left: 1px solid #666666;
+    white-space:nowrap;
+    white-space: nowrap;
+}
+
+
 table.tablesorter tr th.name {
     min-width: 100px;
 }
