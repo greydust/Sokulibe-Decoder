@@ -12,7 +12,11 @@ namespace PNGProcessor
         static void Main(string[] args)
         {
             Directory.CreateDirectory("ConvertedAssets/");
-            Dictionary <string, Bitmap> mapImages = new Dictionary<string, Bitmap>();
+            Directory.CreateDirectory("ConvertedAssets/Mini");
+            Directory.CreateDirectory("ConvertedAssets/Full");
+            Directory.CreateDirectory("ConvertedAssets/Icon");
+            Directory.CreateDirectory("ConvertedAssets/Other");
+            Dictionary<string, Bitmap> mapImages = new Dictionary<string, Bitmap>();
 
             string[] files = Directory.GetFiles(s_pngDirectory, "*.png");
             foreach (string file in files)
@@ -30,7 +34,7 @@ namespace PNGProcessor
                     Bitmap cBM = new Bitmap(file);
                     int sharpPosition = file.LastIndexOf("#");
                     string newName = Path.GetFileName(file.Substring(0, sharpPosition - 1));
-                    string newFileName = "ConvertedAssets/" + newName.Replace("_c_tex", "") + ".png";
+                    string newFileName = "ConvertedAssets/Full/" + newName.Replace("_c_tex", "") + ".png";
 
                     string targetName = newName.Replace("c_tex", "a_tex");
                     Bitmap aBM = mapImages[targetName];
@@ -41,16 +45,61 @@ namespace PNGProcessor
                     {
                         for (int j = 0; j < result.Height; j++)
                         {
-                            result.SetPixel(i, j, Color.FromArgb(aBM.GetPixel(i, j).R, cBM.GetPixel(i, j)));                            
+                            result.SetPixel(i, j, Color.FromArgb(aBM.GetPixel(i, j).R, cBM.GetPixel(i, j)));
                         }
                     }
                     result.RotateFlip(RotateFlipType.Rotate180FlipX);
                     result.Save(newFileName, System.Drawing.Imaging.ImageFormat.Png);
+                    result.Dispose();
+                }
+                else if (Path.GetFileName(file).StartsWith("pi") && !file.Contains("_tex_a") && file.Contains("_tex"))
+                {
+                    Bitmap bm = new Bitmap(file);
+                    int sharpPosition = file.LastIndexOf("#");
+                    string newName = Path.GetFileName(file.Substring(0, sharpPosition - 1));
+                    mapImages.Add(newName, bm);
+                }
+                else if (Path.GetFileName(file).StartsWith("pi") && file.Contains("_tex_a"))
+                {
+                    Bitmap aBM = new Bitmap(file);
+                    int sharpPosition = file.LastIndexOf("#");
+                    string newName = Path.GetFileName(file.Substring(0, sharpPosition - 1));
+
+                    string targetName = newName.Replace("_tex_a", "_tex");
+                    string newFileName = "ConvertedAssets/Icon/" + targetName + ".png";
+                    Bitmap cBM = mapImages[targetName];
+                    mapImages.Remove(targetName);
+
+                    Bitmap result = new Bitmap(aBM.Width, aBM.Height);
+                    for (int i = 0; i < result.Width; i++)
+                    {
+                        for (int j = 0; j < result.Height; j++)
+                        {
+                            result.SetPixel(i, j, Color.FromArgb(aBM.GetPixel(i, j).R, cBM.GetPixel(i, j)));
+                        }
+                    }
+                    result.RotateFlip(RotateFlipType.Rotate180FlipX);
+                    result.Save(newFileName, System.Drawing.Imaging.ImageFormat.Png);
+                    result.Dispose();
+                    result = null;
+                }
+
+                else if (file.Contains("mini_tex"))
+                {
+                    int sharpPosition = file.LastIndexOf("#");
+                    string newFileName = "ConvertedAssets/Mini/" + Path.GetFileName((file.Substring(0, sharpPosition - 1) + ".png"));
+
+                    using (Image img = Image.FromFile(file))
+                    {
+                        //rotate the picture by 90 degrees and re-save the picture as a Jpeg
+                        img.RotateFlip(RotateFlipType.Rotate180FlipX);
+                        img.Save(newFileName, System.Drawing.Imaging.ImageFormat.Png);
+                    }
                 }
                 else
                 {
                     int sharpPosition = file.LastIndexOf("#");
-                    string newFileName = "ConvertedAssets/" + Path.GetFileName((file.Substring(0, sharpPosition - 1) + ".png"));
+                    string newFileName = "ConvertedAssets/Other/" + Path.GetFileName((file.Substring(0, sharpPosition - 1) + ".png"));
 
                     using (Image img = Image.FromFile(file))
                     {

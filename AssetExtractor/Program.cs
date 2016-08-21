@@ -12,9 +12,15 @@ namespace AssetExtractor
     class Program
     {
         private static string s_serverPath = "http://combo-cdn.sega-net.jp/prod/20160817/assetbundle/android5/";
-        private static string s_fullImageColor = "un{0:D4}_up_c_tex.cpk";
-        private static string s_fullImageAlpha = "un{0:D4}_up_a_tex.cpk";
-        private static string s_icon = "un{0:D4}_mini_tex.cpk";
+
+        private static string[] s_filesToDownload =
+        {
+            "un{0:D4}_up_c_tex.cpk",
+            "un{0:D4}_up_a_tex.cpk",
+            "un{0:D4}_mini_tex.cpk",
+            "pi{0:D4}_tex.cpk",
+            "pi{0:D4}_tex_a.cpk",
+        };
 
         private static void DownloadAssets(int num, string targetFolder, string serverPath, string assetPath, bool overwrite) {
             Directory.CreateDirectory(targetFolder);
@@ -23,7 +29,14 @@ namespace AssetExtractor
             if (overwrite || !File.Exists(targetFolder + assetPath))
             {
                 WebClient client = new WebClient();
-                client.DownloadFile(serverPath + assetPath, targetFolder + assetPath);
+                try
+                {
+                    client.DownloadFile(serverPath + assetPath, targetFolder + assetPath);
+                }
+                catch (Exception e)
+                {
+
+                }
 
                 Console.WriteLine("Download Asset " + assetPath);
             }
@@ -31,15 +44,17 @@ namespace AssetExtractor
 
         static void Main(string[] args)
         {
-            for (int i=21; i<=143; i++)
+            for (int i=1; i<=200; i++)
             {
-                DownloadAssets(i, "RawAssets/", s_serverPath, s_fullImageColor, false);
-                DownloadAssets(i, "RawAssets/", s_serverPath, s_fullImageAlpha, false);
-                DownloadAssets(i, "RawAssets/", s_serverPath, s_icon, false);
+                foreach (string file in s_filesToDownload)
+                {
+                    DownloadAssets(i, "RawAssets/", s_serverPath, file, false);
+                }
             }
-            DownloadAssets(4000, "RawAssets/", s_serverPath, s_fullImageColor, false);
-            DownloadAssets(4000, "RawAssets/", s_serverPath, s_fullImageAlpha, false);
-            DownloadAssets(4000, "RawAssets/", s_serverPath, s_icon, false);
+            foreach (string file in s_filesToDownload)
+            {
+                DownloadAssets(4000, "RawAssets/", s_serverPath, file, false);
+            }
 
             string[] files = Directory.GetFiles("RawAssets/", "*.cpk");
             foreach (string file in files)
@@ -59,6 +74,7 @@ namespace AssetExtractor
                 }
             }
 
+            Directory.CreateDirectory("ExtractedAssets/");
             string[] extractedFiles = Directory.GetFiles("/", "*.ab");
             foreach (string extractedFile in extractedFiles)
             {
