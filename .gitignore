@@ -4,3 +4,14 @@
 *.vshost.exe
 *.suo
 JsonDecrypter/obj/*
+*.sdf
+*.exe.intermediate.manifest
+AssetBundleExtractor/Debug/
+AssetBundleExtractor/ipch/
+AssetBundleExtractor/Release/
+AssetExtractor/bin/
+AssetExtractor/obj/
+ExtractedAssets/
+RawAssets/
+PNGProcessor/bin/
+PNGProcessor/obj/
