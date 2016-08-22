@@ -112,6 +112,7 @@ int main() {
 					AssetsFile asset(assetReader, newPFile);
 					std::vector<AssetsReplacer*> replacer;
 					asset.Write(AssetsWriterToFile, (LPARAM)writeToFile, 0, replacer, 0);
+					fclose(writeToFile);
 				}
 			} else if (bundleFile.bundleHeader3.fileVersion == 6) {
 				LPARAM newPFile = (LPARAM)pFile;
@@ -125,6 +126,7 @@ int main() {
 					AssetsFile asset(assetReader, newPFile);
 					std::vector<AssetsReplacer*> replacer;
 					asset.Write(AssetsWriterToFile, (LPARAM)writeToFile, 0, replacer, 0);
+					fclose(writeToFile);
 				}
 			}
 

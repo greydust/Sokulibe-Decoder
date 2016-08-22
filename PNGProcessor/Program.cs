@@ -14,6 +14,7 @@ namespace PNGProcessor
             Directory.CreateDirectory("ConvertedAssets/");
             Directory.CreateDirectory("ConvertedAssets/Mini");
             Directory.CreateDirectory("ConvertedAssets/Full");
+            Directory.CreateDirectory("ConvertedAssets/Portrait");
             Directory.CreateDirectory("ConvertedAssets/Icon");
             Directory.CreateDirectory("ConvertedAssets/Other");
             Dictionary<string, Bitmap> mapImages = new Dictionary<string, Bitmap>();
@@ -34,7 +35,19 @@ namespace PNGProcessor
                     Bitmap cBM = new Bitmap(file);
                     int sharpPosition = file.LastIndexOf("#");
                     string newName = Path.GetFileName(file.Substring(0, sharpPosition - 1));
-                    string newFileName = "ConvertedAssets/Full/" + newName.Replace("_c_tex", "") + ".png";
+                    string newFileName = "";
+                    if (newName.Contains("_up_"))
+                    {
+                        newFileName = "ConvertedAssets/Portrait/" + newName.Replace("_c_tex", "") + ".png";
+                    }
+                    else if (newName.Contains("_full_"))
+                    {
+                        newFileName = "ConvertedAssets/Full/" + newName.Replace("_c_tex", "") + ".png";
+                    }
+                    else
+                    {
+                        newFileName = "ConvertedAssets/Other/" + newName.Replace("_c_tex", "") + ".png";
+                    }
 
                     string targetName = newName.Replace("c_tex", "a_tex");
                     Bitmap aBM = mapImages[targetName];
@@ -51,6 +64,11 @@ namespace PNGProcessor
                     result.RotateFlip(RotateFlipType.Rotate180FlipX);
                     result.Save(newFileName, System.Drawing.Imaging.ImageFormat.Png);
                     result.Dispose();
+                    result = null;
+                    cBM.Dispose();
+                    cBM = null;
+                    aBM.Dispose();
+                    aBM = null;
                 }
                 else if (Path.GetFileName(file).StartsWith("pi") && !file.Contains("_tex_a") && file.Contains("_tex"))
                 {
@@ -82,6 +100,10 @@ namespace PNGProcessor
                     result.Save(newFileName, System.Drawing.Imaging.ImageFormat.Png);
                     result.Dispose();
                     result = null;
+                    cBM.Dispose();
+                    cBM = null;
+                    aBM.Dispose();
+                    aBM = null;
                 }
 
                 else if (file.Contains("mini_tex"))

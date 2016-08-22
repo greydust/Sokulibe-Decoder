@@ -20,6 +20,8 @@ namespace AssetExtractor
             "un{0:D4}_mini_tex.cpk",
             "pi{0:D4}_tex.cpk",
             "pi{0:D4}_tex_a.cpk",
+            "un{0:D4}_full_c_tex.cpk",
+            "un{0:D4}_full_a_tex.cpk",
         };
 
         private static void DownloadAssets(int num, string targetFolder, string serverPath, string assetPath, bool overwrite) {
