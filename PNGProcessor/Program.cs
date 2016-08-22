@@ -23,18 +23,22 @@ namespace PNGProcessor
             foreach (string file in files)
             {
                 Console.WriteLine("Processing " + file);
+
+                string newName = Path.GetFileNameWithoutExtension(file);
+                int sharpPosition = file.LastIndexOf("#");
+                if (sharpPosition >= 0)
+                {
+                    newName = file.Substring(0, sharpPosition - 1);
+                }
+
                 if (file.Contains("a_tex"))
                 {
                     Bitmap bm = new Bitmap(file);
-                    int sharpPosition = file.LastIndexOf("#");
-                    string newName = Path.GetFileName(file.Substring(0, sharpPosition - 1));
                     mapImages.Add(newName, bm);
                 }
                 else if (file.Contains("c_tex"))
                 {
                     Bitmap cBM = new Bitmap(file);
-                    int sharpPosition = file.LastIndexOf("#");
-                    string newName = Path.GetFileName(file.Substring(0, sharpPosition - 1));
                     string newFileName = "";
                     if (newName.Contains("_up_"))
                     {
@@ -73,15 +77,11 @@ namespace PNGProcessor
                 else if (Path.GetFileName(file).StartsWith("pi") && !file.Contains("_tex_a") && file.Contains("_tex"))
                 {
                     Bitmap bm = new Bitmap(file);
-                    int sharpPosition = file.LastIndexOf("#");
-                    string newName = Path.GetFileName(file.Substring(0, sharpPosition - 1));
                     mapImages.Add(newName, bm);
                 }
                 else if (Path.GetFileName(file).StartsWith("pi") && file.Contains("_tex_a"))
                 {
                     Bitmap aBM = new Bitmap(file);
-                    int sharpPosition = file.LastIndexOf("#");
-                    string newName = Path.GetFileName(file.Substring(0, sharpPosition - 1));
 
                     string targetName = newName.Replace("_tex_a", "_tex");
                     string newFileName = "ConvertedAssets/Icon/" + targetName + ".png";
@@ -108,8 +108,7 @@ namespace PNGProcessor
 
                 else if (file.Contains("mini_tex"))
                 {
-                    int sharpPosition = file.LastIndexOf("#");
-                    string newFileName = "ConvertedAssets/Mini/" + Path.GetFileName((file.Substring(0, sharpPosition - 1) + ".png"));
+                    string newFileName = "ConvertedAssets/Mini/" + newName + ".png";
 
                     using (Image img = Image.FromFile(file))
                     {
@@ -120,8 +119,7 @@ namespace PNGProcessor
                 }
                 else
                 {
-                    int sharpPosition = file.LastIndexOf("#");
-                    string newFileName = "ConvertedAssets/Other/" + Path.GetFileName((file.Substring(0, sharpPosition - 1) + ".png"));
+                    string newFileName = "ConvertedAssets/Other/" + newName + ".png";
 
                     using (Image img = Image.FromFile(file))
                     {
