@@ -1,0 +1,6 @@
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+By using this software, you agree to be bound by the terms and conditions of the license you can find in license.txt (CC BY-NC-SA 3.0).
+
+AssetBundleExtractor uses UABE(https://7daystodie.com/forums/showthread.php?22675-Unity-Assets-Bundle-Extractor) and the open-source libraries libsquish (see libsquish_license.txt), crunch (https://github.com/richgel999/crunch), LZMA SDK (http://7-zip.org/sdk.html) and lz4 (https://github.com/Cyan4973/lz4).
+
+Unity is a registered trademark of Unity Technologies. The creator of this library is in no way affiliated with Unity Technologies.
