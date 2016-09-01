@@ -1446,5 +1446,107 @@
       "exchange_limit": 10,
       "request_item_id": 17
     }
+  },
+  "61": {
+    "151": {
+      "id": 151,
+      "event_id": 61,
+      "points": 10,
+      "item_type": 6,
+      "item_id": 1,
+      "item_value": 5,
+      "exchange_limit": 1,
+      "request_item_id": 21
+    },
+    "152": {
+      "id": 152,
+      "event_id": 61,
+      "points": 15,
+      "item_type": 6,
+      "item_id": 1,
+      "item_value": 5,
+      "exchange_limit": 1,
+      "request_item_id": 21
+    },
+    "153": {
+      "id": 153,
+      "event_id": 61,
+      "points": 20,
+      "item_type": 6,
+      "item_id": 1,
+      "item_value": 5,
+      "exchange_limit": 1,
+      "request_item_id": 21
+    },
+    "154": {
+      "id": 154,
+      "event_id": 61,
+      "points": 25,
+      "item_type": 6,
+      "item_id": 1,
+      "item_value": 5,
+      "exchange_limit": 1,
+      "request_item_id": 21
+    },
+    "155": {
+      "id": 155,
+      "event_id": 61,
+      "points": 30,
+      "item_type": 6,
+      "item_id": 1,
+      "item_value": 5,
+      "exchange_limit": 1,
+      "request_item_id": 21
+    },
+    "156": {
+      "id": 156,
+      "event_id": 61,
+      "points": 50,
+      "item_type": 6,
+      "item_id": 1,
+      "item_value": 10,
+      "exchange_limit": 1,
+      "request_item_id": 21
+    },
+    "157": {
+      "id": 157,
+      "event_id": 61,
+      "points": 75,
+      "item_type": 6,
+      "item_id": 1,
+      "item_value": 10,
+      "exchange_limit": 1,
+      "request_item_id": 21
+    },
+    "158": {
+      "id": 158,
+      "event_id": 61,
+      "points": 100,
+      "item_type": 6,
+      "item_id": 1,
+      "item_value": 10,
+      "exchange_limit": 1,
+      "request_item_id": 21
+    },
+    "159": {
+      "id": 159,
+      "event_id": 61,
+      "points": 125,
+      "item_type": 6,
+      "item_id": 1,
+      "item_value": 10,
+      "exchange_limit": 1,
+      "request_item_id": 21
+    },
+    "160": {
+      "id": 160,
+      "event_id": 61,
+      "points": 150,
+      "item_type": 6,
+      "item_id": 1,
+      "item_value": 10,
+      "exchange_limit": 1,
+      "request_item_id": 21
+    }
   }
 }

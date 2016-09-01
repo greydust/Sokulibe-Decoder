@@ -4547,6 +4547,54 @@
     "enchant_value2": 400,
     "enchant_value3": 0
   },
+  "3238": {
+    "id": 3238,
+    "enchant_comment": "クレリックの特殊発動時、味方全体の体力を10％回復",
+    "requirement_id": 17,
+    "requirement_value1": 0,
+    "requirement_value2": 0,
+    "enchant_target_id": 2,
+    "enchant_id": 38,
+    "enchant_value1": 1,
+    "enchant_value2": 110,
+    "enchant_value3": 0
+  },
+  "3239": {
+    "id": 3239,
+    "enchant_comment": "体力が100%の時\n被ダメージ80%カットの強化効果を付与",
+    "requirement_id": 1,
+    "requirement_value1": 1,
+    "requirement_value2": 100,
+    "enchant_target_id": 0,
+    "enchant_id": 41,
+    "enchant_value1": 31,
+    "enchant_value2": 30,
+    "enchant_value3": 20
+  },
+  "3240": {
+    "id": 3240,
+    "enchant_comment": "光耐性を30%上昇",
+    "requirement_id": 0,
+    "requirement_value1": 0,
+    "requirement_value2": 0,
+    "enchant_target_id": 0,
+    "enchant_id": 7,
+    "enchant_value1": 4,
+    "enchant_value2": 0,
+    "enchant_value3": 30
+  },
+  "3241": {
+    "id": 3241,
+    "enchant_comment": "行動時に敵に狙われる確率が30％減少",
+    "requirement_id": 0,
+    "requirement_value1": 0,
+    "requirement_value2": 0,
+    "enchant_target_id": 0,
+    "enchant_id": 15,
+    "enchant_value1": -1,
+    "enchant_value2": 70,
+    "enchant_value3": 0
+  },
   "9997": {
     "id": 9997,
     "enchant_comment": "検証用　BREAK超UP",

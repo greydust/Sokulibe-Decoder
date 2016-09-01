@@ -2443,6 +2443,32 @@
     "magic4": 0,
     "magic5": 0
   },
+  "226": {
+    "id": 226,
+    "category": 1,
+    "rarity": 4,
+    "job": 11,
+    "specific_unit_id": 0,
+    "specific_magic_number": 0,
+    "magic1": 3027,
+    "magic2": 3037,
+    "magic3": 3064,
+    "magic4": 3157,
+    "magic5": 0
+  },
+  "227": {
+    "id": 227,
+    "category": 1,
+    "rarity": 4,
+    "job": 15,
+    "specific_unit_id": 0,
+    "specific_magic_number": 0,
+    "magic1": 3037,
+    "magic2": 3044,
+    "magic3": 3015,
+    "magic4": 3064,
+    "magic5": 0
+  },
   "1000": {
     "id": 1000,
     "category": 1,

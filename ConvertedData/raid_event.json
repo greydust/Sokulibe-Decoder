@@ -18,5 +18,15 @@
     "time_limit": 300,
     "position": 100,
     "event_mission_flag": 1
+  },
+  "3": {
+    "id": 3,
+    "name": "強敵踏破　風炎に揺れる幻惑の秘宝【高難度】",
+    "file": "event_banner01.ab",
+    "boss_hp": 15000000,
+    "kill_bonus": 500,
+    "time_limit": 300,
+    "position": 100,
+    "event_mission_flag": 1
   }
 }

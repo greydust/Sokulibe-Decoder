@@ -1194,5 +1194,135 @@
       "item_id": 1,
       "item_value": 20
     }
+  },
+  "3": {
+    "150": {
+      "id": 150,
+      "event_id": 3,
+      "points": 40,
+      "item_type": 4,
+      "item_id": 1239,
+      "item_value": 1
+    },
+    "151": {
+      "id": 151,
+      "event_id": 3,
+      "points": 80,
+      "item_type": 4,
+      "item_id": 1244,
+      "item_value": 1
+    },
+    "152": {
+      "id": 152,
+      "event_id": 3,
+      "points": 130,
+      "item_type": 3,
+      "item_id": 51,
+      "item_value": 5
+    },
+    "153": {
+      "id": 153,
+      "event_id": 3,
+      "points": 200,
+      "item_type": 1,
+      "item_id": 1,
+      "item_value": 50
+    },
+    "154": {
+      "id": 154,
+      "event_id": 3,
+      "points": 300,
+      "item_type": 3,
+      "item_id": 51,
+      "item_value": 5
+    },
+    "155": {
+      "id": 155,
+      "event_id": 3,
+      "points": 450,
+      "item_type": 1,
+      "item_id": 1,
+      "item_value": 50
+    },
+    "156": {
+      "id": 156,
+      "event_id": 3,
+      "points": 650,
+      "item_type": 3,
+      "item_id": 52,
+      "item_value": 10
+    },
+    "157": {
+      "id": 157,
+      "event_id": 3,
+      "points": 900,
+      "item_type": 1,
+      "item_id": 1,
+      "item_value": 50
+    },
+    "158": {
+      "id": 158,
+      "event_id": 3,
+      "points": 1150,
+      "item_type": 3,
+      "item_id": 52,
+      "item_value": 10
+    },
+    "159": {
+      "id": 159,
+      "event_id": 3,
+      "points": 1500,
+      "item_type": 1,
+      "item_id": 1,
+      "item_value": 50
+    },
+    "160": {
+      "id": 160,
+      "event_id": 3,
+      "points": 1900,
+      "item_type": 3,
+      "item_id": 53,
+      "item_value": 15
+    },
+    "161": {
+      "id": 161,
+      "event_id": 3,
+      "points": 2400,
+      "item_type": 1,
+      "item_id": 1,
+      "item_value": 50
+    },
+    "162": {
+      "id": 162,
+      "event_id": 3,
+      "points": 3000,
+      "item_type": 3,
+      "item_id": 53,
+      "item_value": 15
+    },
+    "163": {
+      "id": 163,
+      "event_id": 3,
+      "points": 3600,
+      "item_type": 1,
+      "item_id": 1,
+      "item_value": 50
+    },
+    "164": {
+      "id": 164,
+      "event_id": 3,
+      "points": 4300,
+      "item_type": 3,
+      "item_id": 54,
+      "item_value": 1
+    },
+    "165": {
+      "id": 165,
+      "event_id": 3,
+      "points": 5000,
+      "item_type": 3,
+      "item_id": 54,
+      "item_value": 1
+    }
   }
 }

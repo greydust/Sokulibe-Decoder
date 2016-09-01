@@ -1513,7 +1513,7 @@
   },
   "86": {
     "id": 86,
-    "name": "☆4光属性専用技",
+    "name": "私を崇めなさい！",
     "dmg": 3.8,
     "cd": 480,
     "break_": 76,
@@ -3758,12 +3758,12 @@
     "skill_type": 2,
     "skill_branch": 0,
     "min_range": 0,
-    "max_range": 20000,
+    "max_range": 10000,
     "subrole": 0
   },
   "227": {
     "id": 227,
-    "name": "バフ炎",
+    "name": "マークオブフレイム",
     "dmg": 1,
     "cd": 1500,
     "break_": 20,
@@ -3776,7 +3776,7 @@
     "skill_type": 2,
     "skill_branch": 0,
     "min_range": 0,
-    "max_range": 200,
+    "max_range": 10000,
     "subrole": 0
   },
   "228": {
@@ -3794,7 +3794,7 @@
     "skill_type": 2,
     "skill_branch": 0,
     "min_range": 0,
-    "max_range": 200,
+    "max_range": 10000,
     "subrole": 0
   },
   "229": {
@@ -3830,7 +3830,7 @@
     "skill_type": 2,
     "skill_branch": 0,
     "min_range": 0,
-    "max_range": 200,
+    "max_range": 10000,
     "subrole": 0
   },
   "231": {
@@ -4036,7 +4036,7 @@
     "name": "アーマーピアース火",
     "dmg": 3,
     "cd": 420,
-    "break_": 90,
+    "break_": 150,
     "hate": 60,
     "unique_eff_flag": 0,
     "cast_eff_id": 0,
@@ -4045,8 +4045,8 @@
     "job": 11,
     "skill_type": 1,
     "skill_branch": 0,
-    "min_range": 450,
-    "max_range": 500,
+    "min_range": 850,
+    "max_range": 850,
     "subrole": 0
   },
   "243": {
@@ -4123,20 +4123,20 @@
   },
   "247": {
     "id": 247,
-    "name": "☆4専用必殺技",
-    "dmg": 1,
-    "cd": 500,
-    "break_": 20,
+    "name": "ロックオン・フレイム",
+    "dmg": 4.3,
+    "cd": 570,
+    "break_": 100,
     "hate": 60,
     "unique_eff_flag": 0,
     "cast_eff_id": 0,
-    "casttime": 0,
+    "casttime": 40,
     "cast_anim_id": 0,
     "job": 11,
     "skill_type": 1,
     "skill_branch": 0,
-    "min_range": 0,
-    "max_range": 200,
+    "min_range": 450,
+    "max_range": 600,
     "subrole": 0
   },
   "248": {
@@ -5072,7 +5072,7 @@
     "skill_type": 2,
     "skill_branch": 0,
     "min_range": 0,
-    "max_range": 200,
+    "max_range": 10000,
     "subrole": 0
   },
   "310": {
@@ -5090,7 +5090,7 @@
     "skill_type": 2,
     "skill_branch": 0,
     "min_range": 0,
-    "max_range": 200,
+    "max_range": 10000,
     "subrole": 0
   },
   "311": {
@@ -5162,7 +5162,7 @@
     "skill_type": 3,
     "skill_branch": 0,
     "min_range": 0,
-    "max_range": 200,
+    "max_range": 10000,
     "subrole": 0
   },
   "315": {
@@ -5185,20 +5185,20 @@
   },
   "316": {
     "id": 316,
-    "name": "ヒール用必殺技",
+    "name": "ファントムヒール",
     "dmg": 1,
-    "cd": 360,
+    "cd": 250,
     "break_": 20,
     "hate": 60,
-    "unique_eff_flag": 0,
-    "cast_eff_id": 20,
+    "unique_eff_flag": 1,
+    "cast_eff_id": 19,
     "casttime": 30,
     "cast_anim_id": 2,
     "job": 15,
     "skill_type": 3,
     "skill_branch": 0,
     "min_range": 0,
-    "max_range": 200,
+    "max_range": 100,
     "subrole": 0
   },
   "317": {
@@ -5293,25 +5293,25 @@
   },
   "322": {
     "id": 322,
-    "name": "属性変化用高レアリティ専用必殺技　メインロール2寄り",
-    "dmg": 2,
-    "cd": 200,
-    "break_": 40,
+    "name": "ヒールライトスプラッシュ炎",
+    "dmg": 2.7,
+    "cd": 450,
+    "break_": 54,
     "hate": 60,
-    "unique_eff_flag": 0,
-    "cast_eff_id": 1,
+    "unique_eff_flag": 1,
+    "cast_eff_id": 20,
     "casttime": 60,
     "cast_anim_id": 1,
     "job": 15,
     "skill_type": 1,
     "skill_branch": 0,
-    "min_range": 0,
-    "max_range": 200,
+    "min_range": 350,
+    "max_range": 750,
     "subrole": 0
   },
   "323": {
     "id": 323,
-    "name": "ヒールライトスプラッシュ",
+    "name": "ヒールライトスプラッシュ水",
     "dmg": 2.7,
     "cd": 450,
     "break_": 54,
@@ -5347,7 +5347,7 @@
   },
   "325": {
     "id": 325,
-    "name": "属性変化用高レアリティ専用必殺技　メインロール2寄り",
+    "name": "ヒールライトスプラッシュ光",
     "dmg": 2.7,
     "cd": 450,
     "break_": 54,
@@ -5366,20 +5366,20 @@
   "326": {
     "id": 326,
     "name": "テレポート",
-    "dmg": 1,
-    "cd": 200,
-    "break_": 20,
+    "dmg": 0.5,
+    "cd": 400,
+    "break_": 10,
     "hate": 60,
     "unique_eff_flag": 0,
-    "cast_eff_id": 20,
+    "cast_eff_id": 8,
     "casttime": 60,
     "cast_anim_id": 2,
     "job": 15,
-    "skill_type": 2,
+    "skill_type": 3,
     "skill_branch": 0,
     "min_range": 0,
-    "max_range": 200,
-    "subrole": 10
+    "max_range": 10000,
+    "subrole": 0
   },
   "327": {
     "id": 327,
@@ -5437,20 +5437,20 @@
   },
   "330": {
     "id": 330,
-    "name": "☆4専用必殺技",
-    "dmg": 2,
-    "cd": 200,
-    "break_": 40,
+    "name": "フェニックスヘイズ",
+    "dmg": 4,
+    "cd": 650,
+    "break_": 80,
     "hate": 60,
-    "unique_eff_flag": 0,
-    "cast_eff_id": 14,
-    "casttime": 60,
-    "cast_anim_id": 1,
+    "unique_eff_flag": 1,
+    "cast_eff_id": 21,
+    "casttime": 100,
+    "cast_anim_id": 2,
     "job": 15,
     "skill_type": 1,
     "skill_branch": 0,
     "min_range": 0,
-    "max_range": 200,
+    "max_range": 350,
     "subrole": 0
   },
   "331": {
@@ -5847,6 +5847,24 @@
     "skill_branch": 0,
     "min_range": 0,
     "max_range": 200,
+    "subrole": 0
+  },
+  "372": {
+    "id": 372,
+    "name": "火サテライトアロー",
+    "dmg": 3.5,
+    "cd": 400,
+    "break_": 70,
+    "hate": 60,
+    "unique_eff_flag": 0,
+    "cast_eff_id": 2,
+    "casttime": 30,
+    "cast_anim_id": 0,
+    "job": 11,
+    "skill_type": 1,
+    "skill_branch": 0,
+    "min_range": 450,
+    "max_range": 500,
     "subrole": 0
   }
 }

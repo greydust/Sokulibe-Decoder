@@ -134,5 +134,29 @@
       "break_rate": 160,
       "stamina": 10
     }
+  },
+  "3": {
+    "7": {
+      "id": 7,
+      "priority": 1,
+      "event_id": 3,
+      "name": "風炎に揺れる幻惑の秘宝",
+      "auto_disable": 0,
+      "level": 1,
+      "required_minrank": 1,
+      "required_maxrank": 0,
+      "raid_point_rate": 100,
+      "continue_limit": -1,
+      "heart_limit": 3,
+      "bg_id": 25,
+      "exp": 1950,
+      "multi_exp": 15,
+      "job_exp": 15,
+      "crystal": 80,
+      "raidboss_id": 176,
+      "atk_rate": 2000,
+      "break_rate": 300,
+      "stamina": 30
+    }
   }
 }

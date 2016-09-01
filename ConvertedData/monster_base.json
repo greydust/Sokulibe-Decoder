@@ -1047,6 +1047,14 @@
     "respawn_eff": 1,
     "summon_anim": 0
   },
+  "176": {
+    "id": 176,
+    "name": "ディニタス＝エウロス",
+    "size": 4.5,
+    "category": 7,
+    "respawn_eff": 1,
+    "summon_anim": 0
+  },
   "500": {
     "id": 500,
     "name": "デューター",

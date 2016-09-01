@@ -265,5 +265,37 @@
       "event_id": 57,
       "story_id": 35
     }
+  },
+  "60": {
+    "36": {
+      "id": 36,
+      "mr_limit": 1,
+      "raid_flag": 0,
+      "event_id": 60,
+      "story_id": 36
+    },
+    "37": {
+      "id": 37,
+      "mr_limit": 1,
+      "raid_flag": 0,
+      "event_id": 60,
+      "story_id": 37
+    }
+  },
+  "61": {
+    "38": {
+      "id": 38,
+      "mr_limit": 1,
+      "raid_flag": 0,
+      "event_id": 61,
+      "story_id": 38
+    },
+    "39": {
+      "id": 39,
+      "mr_limit": 1,
+      "raid_flag": 0,
+      "event_id": 61,
+      "story_id": 39
+    }
   }
 }

@@ -502,5 +502,59 @@
     "event_type": 1,
     "raid_id": 0,
     "event_mission_flag": 0
+  },
+  "58": {
+    "id": 58,
+    "priority": 24,
+    "name": "マルチ経験値ダンジョン",
+    "file": "event_banner01.ab",
+    "event_type": 0,
+    "raid_id": 0,
+    "event_mission_flag": 0
+  },
+  "59": {
+    "id": 59,
+    "priority": 24,
+    "name": "マルチ経験値ダンジョン（上級込）",
+    "file": "event_banner01.ab",
+    "event_type": 0,
+    "raid_id": 0,
+    "event_mission_flag": 0
+  },
+  "60": {
+    "id": 60,
+    "priority": 26,
+    "name": "強敵踏破　風炎に揺れる幻惑の秘宝",
+    "file": "event_banner01.ab",
+    "event_type": 4,
+    "raid_id": 3,
+    "event_mission_flag": 1
+  },
+  "61": {
+    "id": 61,
+    "priority": 27,
+    "name": "強敵踏破　風炎に揺れる幻惑の秘宝 後編",
+    "file": "event_banner01.ab",
+    "event_type": 2,
+    "raid_id": 0,
+    "event_mission_flag": 1
+  },
+  "62": {
+    "id": 62,
+    "priority": 25,
+    "name": "マギアの祠　職業",
+    "file": "event_banner01.ab",
+    "event_type": 0,
+    "raid_id": 0,
+    "event_mission_flag": 0
+  },
+  "63": {
+    "id": 63,
+    "priority": 25,
+    "name": "マギアの祠　属性",
+    "file": "event_banner01.ab",
+    "event_type": 0,
+    "raid_id": 0,
+    "event_mission_flag": 0
   }
 }

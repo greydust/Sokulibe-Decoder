@@ -71,6 +71,13 @@
       "event_quest_id": 0,
       "bef_aft": 1,
       "name": "エピローグ：贈り物珍道記～真心編～"
+    },
+    "39": {
+      "id": 39,
+      "raid_flag": 0,
+      "event_quest_id": 0,
+      "bef_aft": 1,
+      "name": "エピローグ：試練の果てに"
     }
   },
   "1": {
@@ -282,6 +289,33 @@
       "event_quest_id": 172,
       "bef_aft": 1,
       "name": "３話　贈り物珍道記～誠実編～"
+    }
+  },
+  "179": {
+    "36": {
+      "id": 36,
+      "raid_flag": 0,
+      "event_quest_id": 179,
+      "bef_aft": 0,
+      "name": "プロローグ：お宝トレジャーズ再び！"
+    }
+  },
+  "180": {
+    "37": {
+      "id": 37,
+      "raid_flag": 0,
+      "event_quest_id": 180,
+      "bef_aft": 1,
+      "name": "１話　猛り狂う炎の魔人"
+    }
+  },
+  "190": {
+    "38": {
+      "id": 38,
+      "raid_flag": 0,
+      "event_quest_id": 190,
+      "bef_aft": 0,
+      "name": "２話　地の底より目覚めしもの"
     }
   }
 }
