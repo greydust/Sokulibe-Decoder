@@ -214,121 +214,113 @@
     }
   },
   "8": {
-    "12": {
-      "id": 12,
+    "114": {
+      "id": 114,
       "facility_id": 8,
       "type": 1,
       "unlock_quest_id": 56,
-      "name": "第12話　第二章へ",
+      "name": "第1話　朝焼けの一歩",
       "image": "story_12.ab"
-    },
-    "13": {
-      "id": 13,
-      "facility_id": 8,
-      "type": 1,
-      "unlock_quest_id": 0,
-      "name": "第13話",
-      "image": "story_13.ab"
     }
   },
   "9": {
-    "14": {
-      "id": 14,
+    "115": {
+      "id": 115,
       "facility_id": 9,
       "type": 1,
-      "unlock_quest_id": 0,
-      "name": "第14話",
-      "image": "story_14.ab"
+      "unlock_quest_id": 546,
+      "name": "第2話　花の都の不思議な出会い",
+      "image": "story_13.ab"
     }
   },
   "10": {
-    "15": {
-      "id": 15,
+    "116": {
+      "id": 116,
       "facility_id": 10,
       "type": 1,
-      "unlock_quest_id": 0,
-      "name": "第15話",
-      "image": "story_15.ab"
-    },
-    "16": {
-      "id": 16,
-      "facility_id": 10,
-      "type": 1,
-      "unlock_quest_id": 0,
-      "name": "第16話",
-      "image": "story_16.ab"
+      "unlock_quest_id": 551,
+      "name": "第3話　樹上都市を目指して",
+      "image": "story_14.ab"
     }
   },
   "11": {
-    "17": {
-      "id": 17,
+    "117": {
+      "id": 117,
       "facility_id": 11,
       "type": 1,
-      "unlock_quest_id": 0,
-      "name": "第17話",
-      "image": "story_17.ab"
-    },
-    "18": {
-      "id": 18,
-      "facility_id": 11,
-      "type": 1,
-      "unlock_quest_id": 0,
-      "name": "第18話",
-      "image": "story_18.ab"
+      "unlock_quest_id": 556,
+      "name": "第4話　開かれる神秘の道",
+      "image": "story_15.ab"
     }
   },
   "12": {
-    "19": {
-      "id": 19,
+    "118": {
+      "id": 118,
       "facility_id": 12,
       "type": 1,
-      "unlock_quest_id": 0,
-      "name": "第19話",
-      "image": "story_19.ab"
+      "unlock_quest_id": 561,
+      "name": "第5話　樹海に響く剣戟",
+      "image": "story_16.ab"
     },
-    "20": {
-      "id": 20,
+    "119": {
+      "id": 119,
       "facility_id": 12,
       "type": 1,
-      "unlock_quest_id": 0,
-      "name": "第20話",
-      "image": "story_20.ab"
+      "unlock_quest_id": 566,
+      "name": "第6話　大樹の静寂を破るもの",
+      "image": "story_17.ab"
+    },
+    "120": {
+      "id": 120,
+      "facility_id": 12,
+      "type": 1,
+      "unlock_quest_id": 571,
+      "name": "第7話　開幕！メルキス防衛戦！",
+      "image": "story_18.ab"
+    },
+    "121": {
+      "id": 121,
+      "facility_id": 12,
+      "type": 1,
+      "unlock_quest_id": 576,
+      "name": "第8話　新たなる在り様",
+      "image": "story_19.ab"
     }
   },
   "13": {
-    "21": {
-      "id": 21,
+    "122": {
+      "id": 122,
       "facility_id": 13,
       "type": 1,
-      "unlock_quest_id": 0,
-      "name": "第21話",
-      "image": "story_21.ab"
-    },
-    "22": {
-      "id": 22,
-      "facility_id": 13,
-      "type": 1,
-      "unlock_quest_id": 0,
-      "name": "第22話",
-      "image": "story_22.ab"
+      "unlock_quest_id": 581,
+      "name": "第9話　逆襲への一手",
+      "image": "story_20.ab"
     }
   },
   "14": {
-    "23": {
-      "id": 23,
+    "123": {
+      "id": 123,
       "facility_id": 14,
       "type": 1,
-      "unlock_quest_id": 0,
-      "name": "第23話",
-      "image": "story_23.ab"
+      "unlock_quest_id": 586,
+      "name": "第10話　決戦！ザクセン砦攻防戦！",
+      "image": "story_21.ab"
     },
-    "24": {
-      "id": 24,
+    "124": {
+      "id": 124,
       "facility_id": 14,
       "type": 1,
-      "unlock_quest_id": 0,
-      "name": "第24話",
-      "image": "story_24.ab"
+      "unlock_quest_id": 591,
+      "name": "第11話　邪悪なる本性",
+      "image": "story_22.ab"
+    },
+    "125": {
+      "id": 125,
+      "facility_id": 14,
+      "type": 1,
+      "unlock_quest_id": 596,
+      "name": "第12話　哀しき悪夢に鎮魂の詩を",
+      "image": "story_23.ab"
     }
   }
 }

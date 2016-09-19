@@ -28,5 +28,15 @@
     "time_limit": 300,
     "position": 100,
     "event_mission_flag": 1
+  },
+  "4": {
+    "id": 4,
+    "name": "復刻！青き狂竜、吟詠と共に踊らん！",
+    "file": "event_banner01.ab",
+    "boss_hp": 15000000,
+    "kill_bonus": 500,
+    "time_limit": 300,
+    "position": 100,
+    "event_mission_flag": 1
   }
 }

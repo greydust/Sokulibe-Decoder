@@ -48,43 +48,43 @@
       "id": 8,
       "area_id": 2,
       "dungeon_flag": 0,
-      "name": "地方2-1"
+      "name": "朝焼けの街トレイユ"
     },
     "9": {
       "id": 9,
       "area_id": 2,
       "dungeon_flag": 0,
-      "name": "地方2-2"
+      "name": "花園の都ラキラ"
     },
     "10": {
       "id": 10,
       "area_id": 2,
-      "dungeon_flag": 0,
-      "name": "地方2-3"
+      "dungeon_flag": 1,
+      "name": "洞窟"
     },
     "11": {
       "id": 11,
       "area_id": 2,
       "dungeon_flag": 1,
-      "name": "地方2-4"
+      "name": "虚ろな森"
     },
     "12": {
       "id": 12,
       "area_id": 2,
       "dungeon_flag": 0,
-      "name": "地方2-5"
+      "name": "樹上都市メルキス"
     },
     "13": {
       "id": 13,
       "area_id": 2,
       "dungeon_flag": 1,
-      "name": "地方2-6"
+      "name": "ステラノ谷"
     },
     "14": {
       "id": 14,
       "area_id": 2,
       "dungeon_flag": 1,
-      "name": "地方2-7"
+      "name": "ザクセン砦"
     }
   }
 }

@@ -2469,6 +2469,58 @@
     "magic4": 3064,
     "magic5": 0
   },
+  "228": {
+    "id": 228,
+    "category": 2,
+    "rarity": 4,
+    "job": 1,
+    "specific_unit_id": 0,
+    "specific_magic_number": 0,
+    "magic1": 3250,
+    "magic2": 3027,
+    "magic3": 3251,
+    "magic4": 3082,
+    "magic5": 0
+  },
+  "229": {
+    "id": 229,
+    "category": 2,
+    "rarity": 4,
+    "job": 7,
+    "specific_unit_id": 0,
+    "specific_magic_number": 0,
+    "magic1": 3038,
+    "magic2": 3252,
+    "magic3": 3251,
+    "magic4": 3082,
+    "magic5": 0
+  },
+  "230": {
+    "id": 230,
+    "category": 2,
+    "rarity": 3,
+    "job": 0,
+    "specific_unit_id": 0,
+    "specific_magic_number": 0,
+    "magic1": 3053,
+    "magic2": 3038,
+    "magic3": 3020,
+    "magic4": 0,
+    "magic5": 0
+  },
+  "231": {
+    "id": 231,
+    "category": 1,
+    "rarity": 4,
+    "job": 15,
+    "specific_unit_id": 0,
+    "specific_magic_number": 0,
+    "magic1": 3014,
+    "magic2": 3044,
+    "magic3": 3253,
+    "magic4": 3217,
+    "magic5": 0
+  },
   "1000": {
     "id": 1000,
     "category": 1,

@@ -297,5 +297,65 @@
       "event_id": 61,
       "story_id": 39
     }
+  },
+  "64": {
+    "40": {
+      "id": 40,
+      "mr_limit": 1,
+      "raid_flag": 0,
+      "event_id": 64,
+      "story_id": 40
+    },
+    "41": {
+      "id": 41,
+      "mr_limit": 1,
+      "raid_flag": 0,
+      "event_id": 64,
+      "story_id": 41
+    },
+    "42": {
+      "id": 42,
+      "mr_limit": 1,
+      "raid_flag": 0,
+      "event_id": 64,
+      "story_id": 42
+    }
+  },
+  "65": {
+    "43": {
+      "id": 43,
+      "mr_limit": 1,
+      "raid_flag": 0,
+      "event_id": 65,
+      "story_id": 43
+    },
+    "44": {
+      "id": 44,
+      "mr_limit": 1,
+      "raid_flag": 0,
+      "event_id": 65,
+      "story_id": 44
+    },
+    "45": {
+      "id": 45,
+      "mr_limit": 1,
+      "raid_flag": 0,
+      "event_id": 65,
+      "story_id": 45
+    },
+    "46": {
+      "id": 46,
+      "mr_limit": 1,
+      "raid_flag": 0,
+      "event_id": 65,
+      "story_id": 46
+    },
+    "47": {
+      "id": 47,
+      "mr_limit": 1,
+      "raid_flag": 0,
+      "event_id": 65,
+      "story_id": 47
+    }
   }
 }

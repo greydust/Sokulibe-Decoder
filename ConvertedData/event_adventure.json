@@ -78,6 +78,13 @@
       "event_quest_id": 0,
       "bef_aft": 1,
       "name": "エピローグ：試練の果てに"
+    },
+    "42": {
+      "id": 42,
+      "raid_flag": 0,
+      "event_quest_id": 0,
+      "bef_aft": 1,
+      "name": "エピローグ：木漏れ日に輝く双蝶　後編"
     }
   },
   "1": {
@@ -316,6 +323,67 @@
       "event_quest_id": 190,
       "bef_aft": 0,
       "name": "２話　地の底より目覚めしもの"
+    }
+  },
+  "199": {
+    "40": {
+      "id": 40,
+      "raid_flag": 0,
+      "event_quest_id": 199,
+      "bef_aft": 0,
+      "name": "プロローグ：木漏れ日に輝く双蝶　前編"
+    }
+  },
+  "200": {
+    "41": {
+      "id": 41,
+      "raid_flag": 0,
+      "event_quest_id": 200,
+      "bef_aft": 1,
+      "name": "木漏れ日に輝く双蝶　中編"
+    }
+  },
+  "203": {
+    "43": {
+      "id": 43,
+      "raid_flag": 0,
+      "event_quest_id": 203,
+      "bef_aft": 0,
+      "name": "プロローグ：愛の詩と目覚めしモノ"
+    },
+    "44": {
+      "id": 44,
+      "raid_flag": 0,
+      "event_quest_id": 203,
+      "bef_aft": 1,
+      "name": "１話：招き寄せたるは青き巨獣"
+    }
+  },
+  "204": {
+    "45": {
+      "id": 45,
+      "raid_flag": 0,
+      "event_quest_id": 204,
+      "bef_aft": 1,
+      "name": "２話：止め処なき咆哮"
+    }
+  },
+  "205": {
+    "46": {
+      "id": 46,
+      "raid_flag": 0,
+      "event_quest_id": 205,
+      "bef_aft": 1,
+      "name": "３話：青碧の守り神と戦場への詩"
+    }
+  },
+  "206": {
+    "47": {
+      "id": 47,
+      "raid_flag": 0,
+      "event_quest_id": 206,
+      "bef_aft": 1,
+      "name": "エピローグ：平穏に返る渓谷と紡がれる音"
     }
   }
 }

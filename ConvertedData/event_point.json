@@ -1548,5 +1548,297 @@
       "exchange_limit": 1,
       "request_item_id": 21
     }
+  },
+  "64": {
+    "161": {
+      "id": 161,
+      "event_id": 64,
+      "points": 1000,
+      "item_type": 7,
+      "item_id": 43,
+      "item_value": 1,
+      "exchange_limit": 1,
+      "request_item_id": 22
+    },
+    "162": {
+      "id": 162,
+      "event_id": 64,
+      "points": 1000,
+      "item_type": 7,
+      "item_id": 61,
+      "item_value": 1,
+      "exchange_limit": 1,
+      "request_item_id": 22
+    },
+    "163": {
+      "id": 163,
+      "event_id": 64,
+      "points": 1000,
+      "item_type": 7,
+      "item_id": 46,
+      "item_value": 1,
+      "exchange_limit": 1,
+      "request_item_id": 22
+    },
+    "164": {
+      "id": 164,
+      "event_id": 64,
+      "points": 1500,
+      "item_type": 4,
+      "item_id": 1259,
+      "item_value": 1,
+      "exchange_limit": 1,
+      "request_item_id": 22
+    },
+    "165": {
+      "id": 165,
+      "event_id": 64,
+      "points": 200,
+      "item_type": 3,
+      "item_id": 55,
+      "item_value": 1,
+      "exchange_limit": 65,
+      "request_item_id": 22
+    },
+    "166": {
+      "id": 166,
+      "event_id": 64,
+      "points": 2500,
+      "item_type": 2,
+      "item_id": 16,
+      "item_value": 1,
+      "exchange_limit": 3,
+      "request_item_id": 22
+    },
+    "167": {
+      "id": 167,
+      "event_id": 64,
+      "points": 10000,
+      "item_type": 4,
+      "item_id": 1249,
+      "item_value": 1,
+      "exchange_limit": 1,
+      "request_item_id": 22
+    },
+    "168": {
+      "id": 168,
+      "event_id": 64,
+      "points": 10000,
+      "item_type": 4,
+      "item_id": 1254,
+      "item_value": 1,
+      "exchange_limit": 1,
+      "request_item_id": 22
+    },
+    "169": {
+      "id": 169,
+      "event_id": 64,
+      "points": 400,
+      "item_type": 3,
+      "item_id": 56,
+      "item_value": 1,
+      "exchange_limit": 140,
+      "request_item_id": 22
+    },
+    "170": {
+      "id": 170,
+      "event_id": 64,
+      "points": 800,
+      "item_type": 3,
+      "item_id": 57,
+      "item_value": 1,
+      "exchange_limit": 300,
+      "request_item_id": 22
+    },
+    "171": {
+      "id": 171,
+      "event_id": 64,
+      "points": 1000,
+      "item_type": 1,
+      "item_id": 1,
+      "item_value": 10,
+      "exchange_limit": 10,
+      "request_item_id": 22
+    },
+    "172": {
+      "id": 172,
+      "event_id": 64,
+      "points": 800,
+      "item_type": 6,
+      "item_id": 1,
+      "item_value": 1,
+      "exchange_limit": 25,
+      "request_item_id": 22
+    },
+    "173": {
+      "id": 173,
+      "event_id": 64,
+      "points": 4000,
+      "item_type": 2,
+      "item_id": 4,
+      "item_value": 1,
+      "exchange_limit": 3,
+      "request_item_id": 22
+    },
+    "174": {
+      "id": 174,
+      "event_id": 64,
+      "points": 500,
+      "item_type": 2,
+      "item_id": 1,
+      "item_value": 1,
+      "exchange_limit": 20,
+      "request_item_id": 22
+    },
+    "175": {
+      "id": 175,
+      "event_id": 64,
+      "points": 1000,
+      "item_type": 2,
+      "item_id": 2,
+      "item_value": 1,
+      "exchange_limit": 20,
+      "request_item_id": 22
+    },
+    "176": {
+      "id": 176,
+      "event_id": 64,
+      "points": 300,
+      "item_type": 2,
+      "item_id": 14,
+      "item_value": 1,
+      "exchange_limit": 10,
+      "request_item_id": 22
+    },
+    "177": {
+      "id": 177,
+      "event_id": 64,
+      "points": 300,
+      "item_type": 2,
+      "item_id": 13,
+      "item_value": 1,
+      "exchange_limit": 10,
+      "request_item_id": 22
+    },
+    "178": {
+      "id": 178,
+      "event_id": 64,
+      "points": 1500,
+      "item_type": 2,
+      "item_id": 18,
+      "item_value": 1,
+      "exchange_limit": 10,
+      "request_item_id": 22
+    },
+    "179": {
+      "id": 179,
+      "event_id": 64,
+      "points": 1500,
+      "item_type": 2,
+      "item_id": 17,
+      "item_value": 1,
+      "exchange_limit": 10,
+      "request_item_id": 22
+    },
+    "180": {
+      "id": 180,
+      "event_id": 64,
+      "points": 50,
+      "item_type": 5,
+      "item_id": 1,
+      "item_value": 500,
+      "exchange_limit": 10000,
+      "request_item_id": 22
+    },
+    "181": {
+      "id": 181,
+      "event_id": 64,
+      "points": 500,
+      "item_type": 3,
+      "item_id": 1,
+      "item_value": 20,
+      "exchange_limit": 1000,
+      "request_item_id": 22
+    },
+    "182": {
+      "id": 182,
+      "event_id": 64,
+      "points": 1000,
+      "item_type": 3,
+      "item_id": 2,
+      "item_value": 15,
+      "exchange_limit": 500,
+      "request_item_id": 22
+    },
+    "183": {
+      "id": 183,
+      "event_id": 64,
+      "points": 1500,
+      "item_type": 3,
+      "item_id": 3,
+      "item_value": 5,
+      "exchange_limit": 10,
+      "request_item_id": 22
+    },
+    "184": {
+      "id": 184,
+      "event_id": 64,
+      "points": 500,
+      "item_type": 3,
+      "item_id": 7,
+      "item_value": 20,
+      "exchange_limit": 1000,
+      "request_item_id": 22
+    },
+    "185": {
+      "id": 185,
+      "event_id": 64,
+      "points": 1000,
+      "item_type": 3,
+      "item_id": 8,
+      "item_value": 15,
+      "exchange_limit": 500,
+      "request_item_id": 22
+    },
+    "186": {
+      "id": 186,
+      "event_id": 64,
+      "points": 1500,
+      "item_type": 3,
+      "item_id": 9,
+      "item_value": 5,
+      "exchange_limit": 10,
+      "request_item_id": 22
+    },
+    "187": {
+      "id": 187,
+      "event_id": 64,
+      "points": 500,
+      "item_type": 3,
+      "item_id": 22,
+      "item_value": 20,
+      "exchange_limit": 1000,
+      "request_item_id": 22
+    },
+    "188": {
+      "id": 188,
+      "event_id": 64,
+      "points": 1000,
+      "item_type": 3,
+      "item_id": 23,
+      "item_value": 15,
+      "exchange_limit": 500,
+      "request_item_id": 22
+    },
+    "189": {
+      "id": 189,
+      "event_id": 64,
+      "points": 1500,
+      "item_type": 3,
+      "item_id": 24,
+      "item_value": 5,
+      "exchange_limit": 50,
+      "request_item_id": 22
+    }
   }
 }

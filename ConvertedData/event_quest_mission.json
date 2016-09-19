@@ -5068,5 +5068,239 @@
       "type": 40,
       "value": 0
     }
+  },
+  "199": {
+    "595": {
+      "id": 595,
+      "quest_id": 199,
+      "event_id": 64,
+      "summery": "コンボ数が50HITを超えた",
+      "type": 34,
+      "value": 0
+    },
+    "596": {
+      "id": 596,
+      "quest_id": 199,
+      "event_id": 64,
+      "summery": "一人も戦闘不能にさせずにクリア",
+      "type": 36,
+      "value": 0
+    },
+    "597": {
+      "id": 597,
+      "quest_id": 199,
+      "event_id": 64,
+      "summery": "コンティニューをせずにクリア",
+      "type": 40,
+      "value": 0
+    }
+  },
+  "200": {
+    "598": {
+      "id": 598,
+      "quest_id": 200,
+      "event_id": 64,
+      "summery": "コンボ数が70HITを超えた",
+      "type": 34,
+      "value": 0
+    },
+    "599": {
+      "id": 599,
+      "quest_id": 200,
+      "event_id": 64,
+      "summery": "一人も戦闘不能にさせずにクリア",
+      "type": 36,
+      "value": 0
+    },
+    "600": {
+      "id": 600,
+      "quest_id": 200,
+      "event_id": 64,
+      "summery": "コンティニューをせずにクリア",
+      "type": 40,
+      "value": 0
+    }
+  },
+  "201": {
+    "601": {
+      "id": 601,
+      "quest_id": 201,
+      "event_id": 64,
+      "summery": "コンボ数が100HITを超えた",
+      "type": 34,
+      "value": 0
+    },
+    "602": {
+      "id": 602,
+      "quest_id": 201,
+      "event_id": 64,
+      "summery": "一人も戦闘不能にさせずにクリア",
+      "type": 36,
+      "value": 0
+    },
+    "603": {
+      "id": 603,
+      "quest_id": 201,
+      "event_id": 64,
+      "summery": "コンティニューをせずにクリア",
+      "type": 40,
+      "value": 0
+    }
+  },
+  "202": {
+    "604": {
+      "id": 604,
+      "quest_id": 202,
+      "event_id": 64,
+      "summery": "コンボ数が120HITを超えた",
+      "type": 34,
+      "value": 0
+    },
+    "605": {
+      "id": 605,
+      "quest_id": 202,
+      "event_id": 64,
+      "summery": "一人も戦闘不能にさせずにクリア",
+      "type": 36,
+      "value": 0
+    },
+    "606": {
+      "id": 606,
+      "quest_id": 202,
+      "event_id": 64,
+      "summery": "コンティニューをせずにクリア",
+      "type": 40,
+      "value": 0
+    }
+  },
+  "203": {
+    "607": {
+      "id": 607,
+      "quest_id": 203,
+      "event_id": 65,
+      "summery": "3分以内にクリア",
+      "type": 35,
+      "value": 0
+    },
+    "608": {
+      "id": 608,
+      "quest_id": 203,
+      "event_id": 65,
+      "summery": "一人も戦闘不能にさせずにクリア",
+      "type": 36,
+      "value": 0
+    },
+    "609": {
+      "id": 609,
+      "quest_id": 203,
+      "event_id": 65,
+      "summery": "コンティニューをせずにクリア",
+      "type": 40,
+      "value": 0
+    }
+  },
+  "204": {
+    "610": {
+      "id": 610,
+      "quest_id": 204,
+      "event_id": 65,
+      "summery": "3分以内にクリア",
+      "type": 35,
+      "value": 0
+    },
+    "611": {
+      "id": 611,
+      "quest_id": 204,
+      "event_id": 65,
+      "summery": "一人も戦闘不能にさせずにクリア",
+      "type": 36,
+      "value": 0
+    },
+    "612": {
+      "id": 612,
+      "quest_id": 204,
+      "event_id": 65,
+      "summery": "コンティニューをせずにクリア",
+      "type": 40,
+      "value": 0
+    }
+  },
+  "205": {
+    "613": {
+      "id": 613,
+      "quest_id": 205,
+      "event_id": 65,
+      "summery": "3分以内にクリア",
+      "type": 35,
+      "value": 0
+    },
+    "614": {
+      "id": 614,
+      "quest_id": 205,
+      "event_id": 65,
+      "summery": "一人も戦闘不能にさせずにクリア",
+      "type": 36,
+      "value": 0
+    },
+    "615": {
+      "id": 615,
+      "quest_id": 205,
+      "event_id": 65,
+      "summery": "コンティニューをせずにクリア",
+      "type": 40,
+      "value": 0
+    }
+  },
+  "206": {
+    "616": {
+      "id": 616,
+      "quest_id": 206,
+      "event_id": 65,
+      "summery": "3分以内にクリア",
+      "type": 35,
+      "value": 0
+    },
+    "617": {
+      "id": 617,
+      "quest_id": 206,
+      "event_id": 65,
+      "summery": "一人も戦闘不能にさせずにクリア",
+      "type": 36,
+      "value": 0
+    },
+    "618": {
+      "id": 618,
+      "quest_id": 206,
+      "event_id": 65,
+      "summery": "コンティニューをせずにクリア",
+      "type": 40,
+      "value": 0
+    }
+  },
+  "207": {
+    "619": {
+      "id": 619,
+      "quest_id": 207,
+      "event_id": 65,
+      "summery": "2分以内にクリア",
+      "type": 35,
+      "value": 0
+    },
+    "620": {
+      "id": 620,
+      "quest_id": 207,
+      "event_id": 65,
+      "summery": "一人も戦闘不能にさせずにクリア",
+      "type": 36,
+      "value": 0
+    },
+    "621": {
+      "id": 621,
+      "quest_id": 207,
+      "event_id": 65,
+      "summery": "奥義でボスにトドメをさした",
+      "type": 37,
+      "value": 0
+    }
   }
 }

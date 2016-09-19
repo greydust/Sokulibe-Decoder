@@ -135,6 +135,150 @@
       "mission_bonus_type": 1,
       "mission_bonus_id": 1,
       "mission_bonus_value": 25
+    },
+    "18": {
+      "id": 35,
+      "treasure_step_id": 18,
+      "difficulty": 1,
+      "mission_bonus_type": 1,
+      "mission_bonus_id": 1,
+      "mission_bonus_value": 25
+    },
+    "19": {
+      "id": 36,
+      "treasure_step_id": 19,
+      "difficulty": 1,
+      "mission_bonus_type": 1,
+      "mission_bonus_id": 1,
+      "mission_bonus_value": 25
+    },
+    "20": {
+      "id": 37,
+      "treasure_step_id": 20,
+      "difficulty": 1,
+      "mission_bonus_type": 1,
+      "mission_bonus_id": 1,
+      "mission_bonus_value": 25
+    },
+    "21": {
+      "id": 38,
+      "treasure_step_id": 21,
+      "difficulty": 1,
+      "mission_bonus_type": 1,
+      "mission_bonus_id": 1,
+      "mission_bonus_value": 25
+    },
+    "22": {
+      "id": 39,
+      "treasure_step_id": 22,
+      "difficulty": 1,
+      "mission_bonus_type": 1,
+      "mission_bonus_id": 1,
+      "mission_bonus_value": 25
+    },
+    "23": {
+      "id": 40,
+      "treasure_step_id": 23,
+      "difficulty": 1,
+      "mission_bonus_type": 1,
+      "mission_bonus_id": 1,
+      "mission_bonus_value": 25
+    },
+    "24": {
+      "id": 41,
+      "treasure_step_id": 24,
+      "difficulty": 1,
+      "mission_bonus_type": 1,
+      "mission_bonus_id": 1,
+      "mission_bonus_value": 25
+    },
+    "25": {
+      "id": 42,
+      "treasure_step_id": 25,
+      "difficulty": 1,
+      "mission_bonus_type": 1,
+      "mission_bonus_id": 1,
+      "mission_bonus_value": 25
+    },
+    "26": {
+      "id": 43,
+      "treasure_step_id": 26,
+      "difficulty": 1,
+      "mission_bonus_type": 1,
+      "mission_bonus_id": 1,
+      "mission_bonus_value": 25
+    },
+    "27": {
+      "id": 44,
+      "treasure_step_id": 27,
+      "difficulty": 1,
+      "mission_bonus_type": 1,
+      "mission_bonus_id": 1,
+      "mission_bonus_value": 25
+    },
+    "28": {
+      "id": 45,
+      "treasure_step_id": 28,
+      "difficulty": 1,
+      "mission_bonus_type": 1,
+      "mission_bonus_id": 1,
+      "mission_bonus_value": 25
+    },
+    "29": {
+      "id": 46,
+      "treasure_step_id": 29,
+      "difficulty": 1,
+      "mission_bonus_type": 1,
+      "mission_bonus_id": 1,
+      "mission_bonus_value": 25
+    },
+    "30": {
+      "id": 47,
+      "treasure_step_id": 30,
+      "difficulty": 1,
+      "mission_bonus_type": 1,
+      "mission_bonus_id": 1,
+      "mission_bonus_value": 25
+    },
+    "31": {
+      "id": 48,
+      "treasure_step_id": 31,
+      "difficulty": 1,
+      "mission_bonus_type": 1,
+      "mission_bonus_id": 1,
+      "mission_bonus_value": 25
+    },
+    "32": {
+      "id": 49,
+      "treasure_step_id": 32,
+      "difficulty": 1,
+      "mission_bonus_type": 1,
+      "mission_bonus_id": 1,
+      "mission_bonus_value": 25
+    },
+    "33": {
+      "id": 50,
+      "treasure_step_id": 33,
+      "difficulty": 1,
+      "mission_bonus_type": 1,
+      "mission_bonus_id": 1,
+      "mission_bonus_value": 25
+    },
+    "34": {
+      "id": 51,
+      "treasure_step_id": 34,
+      "difficulty": 1,
+      "mission_bonus_type": 1,
+      "mission_bonus_id": 1,
+      "mission_bonus_value": 25
+    },
+    "35": {
+      "id": 52,
+      "treasure_step_id": 35,
+      "difficulty": 1,
+      "mission_bonus_type": 1,
+      "mission_bonus_id": 1,
+      "mission_bonus_value": 25
     }
   },
   "2": {

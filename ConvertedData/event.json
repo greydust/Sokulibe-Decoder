@@ -541,7 +541,7 @@
   },
   "62": {
     "id": 62,
-    "priority": 25,
+    "priority": 20,
     "name": "マギアの祠　職業",
     "file": "event_banner01.ab",
     "event_type": 0,
@@ -550,11 +550,29 @@
   },
   "63": {
     "id": 63,
-    "priority": 25,
+    "priority": 20,
     "name": "マギアの祠　属性",
     "file": "event_banner01.ab",
     "event_type": 0,
     "raid_id": 0,
     "event_mission_flag": 0
+  },
+  "64": {
+    "id": 64,
+    "priority": 28,
+    "name": "双風に舞う胡蝶の守護者",
+    "file": "event_banner01.ab",
+    "event_type": 1,
+    "raid_id": 0,
+    "event_mission_flag": 0
+  },
+  "65": {
+    "id": 65,
+    "priority": 29,
+    "name": "復刻！青き狂竜、吟詠と共に踊らん！",
+    "file": "event_banner01.ab",
+    "event_type": 4,
+    "raid_id": 4,
+    "event_mission_flag": 1
   }
 }
