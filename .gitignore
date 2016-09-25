@@ -1,4 +1,7 @@
+ExtractedAssets/
 JsonDecrypter/
+PNGProcessor/
+RawAssets/
 *.exe.config
 *.pdb
 *.vshost.exe

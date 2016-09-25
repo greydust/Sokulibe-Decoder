@@ -14,6 +14,14 @@
             <a href="#" id="versionButton">版本</a>
         </div>
         <div class="body initialHide" id="systemTab">
+某些技能的内不一定每一擊都是攻擊，如水弓（リオーネ）的S3第1擊是上水傷40%的buff, 因此即使傷害和破甲等值很高也沒有用。<p>
+某些技能的判斷是做在動畫上，如水弓（リオーネ）的S3星技的第1擊是增傷40% buff, 第2345擊則是一發箭，而總共會射兩發。所以把2345總合以後再乘2才是真正的傷害。<p>
+又如貓弓（エルネ）的S3是把所有顏色變化都寫一個傷害在裡面，但實際上只會視距離被打到其中一下。<p>
+<p>
+當任何一個攻擊打到敵人時，向上的力道會重新被計算。因此大量的小的往上的力道並不能將敵人打高，要一個大的往上的力道，而且不能被其他攻擊打到而更新，才能真正將敵人打高。<p>
+唯二不受其他攻擊的影響的是直接滯空（ハリツケ）和扣殺（地面バウンド）的向下部份<p>
+需注意的是扣殺（地面バウンド）的向下雖然不受其他攻擊的影響，但向上反彈的力道卻會，尤其以火重（グラフィード）S3未星級時最明顯。</p>
+輕戰的特殊技則是會暫時將敵人的重力消除為0，直到落到地面或是受到其他攻擊為止。<p>
         </div>
         <div class="body" id="searchTab">
             <input type="text" id="searchName"/>
@@ -186,8 +194,12 @@
         <div class="body initialHide" id="versionTab">
              <table class="versionTable">
                 <tr>
+                    <td class="versionTime">9/25/2016 15:29</td>
+                    <td class="versionDescription">更新系統設定的敘述</td>
+                </tr>
+                <tr>
                     <td class="versionTime">8/19/2016 18:34</td>
-                    <td class="versionDescription">初版</td>
+                    <td class="versionDescription">初版修正</td>
                 </tr>
                 <tr>
                     <td class="versionTime">8/18/2016 03:04</td>
