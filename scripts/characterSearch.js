@@ -2,6 +2,7 @@
 var searchName = document.getElementById("searchName");
 
 var characterDataTable = document.getElementById("characterDataTable");
+var tabTableTr = document.getElementById("tabTableTr");
 
 var searchMode = 0;
 
@@ -181,6 +182,13 @@ var characterDataShouldRead = [
     "ultimateAtk",
 ];
 
+function AddDeployEvent(th, dataKey) {
+    th.dataKey = dataKey;
+    th.addEventListener("click", function(e){
+        DeployData(dataKey);
+    });    
+}
+
 function DoSearch() {
     searchButton.disabled = true;
     document.getElementById("characterSearchTab").style.display = "none";
@@ -194,161 +202,168 @@ function DoSearch() {
         if (IsNull(charactersData)) {
             NoCharacter();
         } else {
-            for (var key in charactersData) {
-                characterData.character = charactersData[key];
-                characterDataReaded.character = true;
-                if (CheckDataReaded()) {
-                    DeployData();
+            tabTableTr.innerHTML = "";
+            for (var dataKey in charactersData) {
+                characterData[dataKey] = {};
+                characterDataReaded[dataKey] = {};
+            }
+            for (var dataKey in charactersData) {
+                characterData[dataKey].character = charactersData[dataKey];
+                characterDataReaded[dataKey].character = true;
+                
+                if (Object.keys(charactersData).length > 1) {
+                    var th = tabTableTr.appendChild(document.createElement("th"));
+                    th.innerHTML = characterData[dataKey].character.nickname;
+                    AddDeployEvent(th, dataKey);
                 }
                 
-                ReadRelationData(characterData.character.partner_id);
+                ReadRelationData(dataKey, characterData[dataKey].character.partner_id);
                 
-                characterData.ability = {};
-                ReadAbilityData(characterData.character.ability01, 1)
-                ReadAbilityData(characterData.character.ability02, 2)
-                ReadAbilityData(characterData.character.ability03, 3)
-                ReadAbilityData(characterData.character.ability04, 4)
+                characterData[dataKey].ability = {};
+                ReadAbilityData(dataKey, characterData[dataKey].character.ability01, 1)
+                ReadAbilityData(dataKey, characterData[dataKey].character.ability02, 2)
+                ReadAbilityData(dataKey, characterData[dataKey].character.ability03, 3)
+                ReadAbilityData(dataKey, characterData[dataKey].character.ability04, 4)
                 
-                ReadCommandData(characterData.character.id);
+                ReadCommandData(dataKey, characterData[dataKey].character.id);
                 
-                ReadUltimateData(characterData.character.ougi_id);
-                
-                break;
+                ReadUltimateData(dataKey, characterData[dataKey].character.ougi_id);
             }
         }
     });
 }
 
-function ReadRelationData(partnerID) {
+function ReadRelationData(dataKey, partnerID) {
     currentDB.database().ref("/unit/" + partnerID).once("value").then(function(dataSnapshot) {
         var data = dataSnapshot.val();
         
-        characterData.partner = data;
-        characterDataReaded.partner = true;
+        characterData[dataKey].partner = data;
+        characterDataReaded[dataKey].partner = true;
         if (CheckDataReaded()) {
-            DeployData();
+            DeployData(null);
         }
     });
 }
 
-function ReadAbilityData(abilityID, abilityNum) {
+function ReadAbilityData(dataKey, abilityID, abilityNum) {
     currentDB.database().ref("/ability/" + abilityID).once("value").then(function(dataSnapshot) {
         var data = dataSnapshot.val();
         
-        characterData.ability[abilityNum] = data;
-        characterDataReaded["ability" + abilityNum] = true;
+        characterData[dataKey].ability[abilityNum] = data;
+        characterDataReaded[dataKey]["ability" + abilityNum] = true;
         if (CheckDataReaded()) {
-            DeployData();
+            DeployData(null);
         }
     });
 }
 
-function ReadCommandData(characterID) {
+function ReadCommandData(dataKey, characterID) {
        currentDB.database().ref("/unit_command/" + characterID).once("value").then(function(dataSnapshot) {
         var data = dataSnapshot.val();
         
-        characterData.command = data;
-        characterDataReaded["command"] = true;
+        characterData[dataKey].command = data;
+        characterDataReaded[dataKey]["command"] = true;
         if (CheckDataReaded()) {
-            DeployData();
+            DeployData(null);
         }
         
-        characterData.skillBase = {};
-        characterData.skillUpgrade = {};
-        characterData.skill = {};
-        characterData.skillAtk = {};
-        for(var key in characterData.command) {
-            ReadSkillBase(characterData.command[key].skill_id, characterData.command[key].index);            
-            ReadSkillUpgrade(characterData.command[key].skill_id, characterData.command[key].index);
+        characterData[dataKey].skillBase = {};
+        characterData[dataKey].skillUpgrade = {};
+        characterData[dataKey].skill = {};
+        characterData[dataKey].skillAtk = {};
+        for(var key in characterData[dataKey].command) {
+            ReadSkillBase(dataKey, characterData[dataKey].command[key].skill_id, characterData[dataKey].command[key].index);            
+            ReadSkillUpgrade(dataKey, characterData[dataKey].command[key].skill_id, characterData[dataKey].command[key].index);
         }
     }); 
 }
 
-function ReadSkillBase(skillID, skillNum) {
+function ReadSkillBase(dataKey, skillID, skillNum) {
     currentDB.database().ref("/skill_base/" + skillID).once("value").then(function(dataSnapshot) {
         var data = dataSnapshot.val();
         
-        characterData.skillBase[skillNum] = data;
-        characterDataReaded["skillBase" + skillNum] = true;
+        characterData[dataKey].skillBase[skillNum] = data;
+        characterDataReaded[dataKey]["skillBase" + skillNum] = true;
         if (CheckDataReaded()) {
-            DeployData();
+            DeployData(null);
         }
     });
 }
 
-function ReadSkillUpgrade(skillID, skillNum) {
+function ReadSkillUpgrade(dataKey, skillID, skillNum) {
     currentDB.database().ref("/skill_upgrade/" + skillID).once("value").then(function(dataSnapshot) {
         var data = dataSnapshot.val();
         
-        characterData.skillUpgrade[skillNum] = data;
-        characterDataReaded["skillUpgrade" + skillNum] = true;
+        characterData[dataKey].skillUpgrade[skillNum] = data;
+        characterDataReaded[dataKey]["skillUpgrade" + skillNum] = true;
         if (CheckDataReaded()) {
-            DeployData();
+            DeployData(null);
         }
         
-        characterData.skill[skillNum] = {};
-        characterData.skillAtk[skillNum] = {};
-        for (var key in characterData.skillUpgrade[skillNum]) {
-            ReadSkill(characterData.skillUpgrade[skillNum][key].skill_evolve, skillNum, characterData.skillUpgrade[skillNum][key].rank);
-            ReadSkillAtk(characterData.skillUpgrade[skillNum][key].skill_evolve, skillNum, characterData.skillUpgrade[skillNum][key].rank);
+        characterData[dataKey].skill[skillNum] = {};
+        characterData[dataKey].skillAtk[skillNum] = {};
+        for (var key in characterData[dataKey].skillUpgrade[skillNum]) {
+            ReadSkill(dataKey, characterData[dataKey].skillUpgrade[skillNum][key].skill_evolve, skillNum, characterData[dataKey].skillUpgrade[skillNum][key].rank);
+            ReadSkillAtk(dataKey, characterData[dataKey].skillUpgrade[skillNum][key].skill_evolve, skillNum, characterData[dataKey].skillUpgrade[skillNum][key].rank);
         }
     });
 }
 
-function ReadSkill(skillUpgradeID, skillNum, skillUpgradeNum) {
+function ReadSkill(dataKey, skillUpgradeID, skillNum, skillUpgradeNum) {
     currentDB.database().ref("/skill/" + skillUpgradeID).once("value").then(function(dataSnapshot) {
         var data = dataSnapshot.val();
         
-        characterData.skill[skillNum][skillUpgradeNum] = data;
-        characterDataReaded[("skill" + skillNum) + skillUpgradeNum] = true;
+        characterData[dataKey].skill[skillNum][skillUpgradeNum] = data;
+        characterDataReaded[dataKey][("skill" + skillNum) + skillUpgradeNum] = true;
         if (CheckDataReaded()) {
-            DeployData();
+            DeployData(null);
         }
     });
 }
 
-function ReadSkillAtk(skillUpgradeID, skillNum, skillUpgradeNum) {
+function ReadSkillAtk(dataKey, skillUpgradeID, skillNum, skillUpgradeNum) {
     currentDB.database().ref("/skill_atk/" + skillUpgradeID).once("value").then(function(dataSnapshot) {
         var data = dataSnapshot.val();
         
-        characterData.skillAtk[skillNum][skillUpgradeNum] = data;
-        characterDataReaded[("skillAtk" + skillNum) + skillUpgradeNum] = true;
+        characterData[dataKey].skillAtk[skillNum][skillUpgradeNum] = data;
+        characterDataReaded[dataKey][("skillAtk" + skillNum) + skillUpgradeNum] = true;
         if (CheckDataReaded()) {
-            DeployData();
+            DeployData(null);
         }
     });
 }
 
-function ReadUltimateData(ultimateID) {
+function ReadUltimateData(dataKey, ultimateID) {
     currentDB.database().ref("/ougi/" + ultimateID).once("value").then(function(dataSnapshot) {
         var data = dataSnapshot.val();
         
-        characterData.ultimate = data;
-        characterDataReaded["ultimate"] = true;
+        characterData[dataKey].ultimate = data;
+        characterDataReaded[dataKey]["ultimate"] = true;
         if (CheckDataReaded()) {
-            DeployData();
+            DeployData(null);
         }
     }); 
     currentDB.database().ref("/ougi_atk/" + ultimateID).once("value").then(function(dataSnapshot) {
         var data = dataSnapshot.val();
         
-        characterData.ultimateAtk = data;
-        characterDataReaded["ultimateAtk"] = true;
+        characterData[dataKey].ultimateAtk = data;
+        characterDataReaded[dataKey]["ultimateAtk"] = true;
         if (CheckDataReaded()) {
-            DeployData();
+            DeployData(null);
         }
     }); 
 }
 
 function CheckDataReaded() {
-    for (var key in characterDataShouldRead) {
-        if (IsNull(characterDataReaded[characterDataShouldRead[key]])) {
-            return false;
+    for (var dataKey in characterDataReaded) {
+        for (var key in characterDataShouldRead) {
+            if (IsNull(characterDataReaded[dataKey][characterDataShouldRead[key]])) {
+                return false;
+            }
         }
     }
     return true;
 }
-
 
 var statusGrowParameter = [
     [1, 29, 1],
@@ -372,39 +387,56 @@ function CalculateStat(base, grow, level) {
     return ret;
 }
 
-function DeployData() {
-    document.getElementById("characterName").innerHTML = "";
-    if (characterData.character.nickname != "") {
-        document.getElementById("characterName").innerHTML = characterData.character.nickname + "<br>";
+function DeployData(dataKey) {
+    if (IsNull(dataKey)) {
+        for (var key in characterData) {
+            dataKey = key;
+            break;
+        }
     }
-    document.getElementById("characterName").innerHTML += characterData.character.name;
     
-    document.getElementById("characterRarity").innerHTML = characterData.character.rarity;
-    document.getElementById("characterElement").innerHTML = ElementType[characterData.character.use_element];
-    document.getElementById("characterJob").innerHTML = JobType[characterData.character.job_id-1];
+    for (var th in tabTableTr.childNodes) {
+        if (tabTableTr.childNodes[th].dataKey == dataKey) {
+            tabTableTr.childNodes[th].className = "selected";
+        } else {
+            tabTableTr.childNodes[th].className = "notselected";                
+        }
+    }
     
-    document.getElementById("characterMaxStamina").innerHTML = CalculateStat(characterData.character.hp, characterData.character.hp_grow, 200);
-    document.getElementById("characterMaxAttack").innerHTML = CalculateStat(characterData.character.atk, characterData.character.atk_grow, 200);
-    document.getElementById("characterMaxSpeed").innerHTML = characterData.character.agi;
-    document.getElementById("characterMaxKnockback").innerHTML = CalculateStat(characterData.character.knock_back_regist, characterData.character.knock_back_grow, 200);
+    document.getElementById("characterName").innerHTML = "";
+    if (characterData[dataKey].character.nickname != "") {
+        document.getElementById("characterName").innerHTML = characterData[dataKey].character.nickname + "<br>";
+    }
+    document.getElementById("characterName").innerHTML += characterData[dataKey].character.name;
+    
+    document.getElementById("characterRarity").innerHTML = characterData[dataKey].character.rarity;
+    document.getElementById("characterElement").innerHTML = ElementType[characterData[dataKey].character.use_element];
+    document.getElementById("characterJob").innerHTML = JobType[characterData[dataKey].character.job_id-1];
+    
+    document.getElementById("characterMaxStamina").innerHTML = CalculateStat(characterData[dataKey].character.hp, characterData[dataKey].character.hp_grow, 200);
+    document.getElementById("characterMaxAttack").innerHTML = CalculateStat(characterData[dataKey].character.atk, characterData[dataKey].character.atk_grow, 200);
+    document.getElementById("characterMaxSpeed").innerHTML = characterData[dataKey].character.agi;
+    document.getElementById("characterMaxKnockback").innerHTML = CalculateStat(characterData[dataKey].character.knock_back_regist, characterData[dataKey].character.knock_back_grow, 200);
     
     document.getElementById("characterPartner").innerHTML = "";
-    if (characterData.partner.nickname != "") {
-        document.getElementById("characterPartner").innerHTML = characterData.partner.nickname + "<br>";
+    if (!IsNull(characterData[dataKey].partner)) {
+        if (characterData[dataKey].partner.nickname != "") {
+            document.getElementById("characterPartner").innerHTML = characterData[dataKey].partner.nickname + "<br>";
+        }
+        document.getElementById("characterPartner").innerHTML += characterData[dataKey].partner.name;
     }
-    document.getElementById("characterPartner").innerHTML += characterData.partner.name;
 
     for (var i=1 ; i<=4 ; i++) {
-        if (IsNull(characterData.ability[i])) {
+        if (IsNull(characterData[dataKey].ability[i])) {
             document.getElementById("characterAbility" + i).innerHTML = "";
         } else {
-            document.getElementById("characterAbility" + i).innerHTML = "<b>" + characterData.ability[i].name.replace("\n", "") + "</b><br>";
-            document.getElementById("characterAbility" + i).innerHTML += characterData.ability[i].comment.replace("\\n", "");
+            document.getElementById("characterAbility" + i).innerHTML = "<b>" + characterData[dataKey].ability[i].name.replace("\n", "") + "</b><br>";
+            document.getElementById("characterAbility" + i).innerHTML += characterData[dataKey].ability[i].comment.replace("\\n", "");
         }
     }
 
     for (var i=1 ; i<=4 ; i++) {
-        document.getElementById("characterTrait" + i).innerHTML = characterData.partner["Characteristic" + i];
+        document.getElementById("characterTrait" + i).innerHTML = characterData[dataKey].character["Characteristic" + i];
     }
 
     for (var i=0 ; i<7 ; i++) {
@@ -416,32 +448,32 @@ function DeployData() {
                 var cell = document.getElementById("characterSkill" + (i-2) + "level" + j);
             }
             cell.innerHTML = "";
-            cell.innerHTML += "<b>" + characterData.skill[i][j].name + "</b>";
+            cell.innerHTML += "<b>" + characterData[dataKey].skill[i][j].name + "</b>";
             if (i >= 3) {
-                cell.innerHTML += " CD: " + (characterData.skillBase[i].cd / 30).round(3);                
+                cell.innerHTML += " CD: " + (characterData[dataKey].skillBase[i].cd / 30).round(3);                
             }
             cell.innerHTML += "<br>";
             
             var totalValue = cell.appendChild(document.createElement("div"));
             { // damage
                 totalValue.innerHTML = "總倍率: ";
-                var baseDamageNum = characterData.skillBase[i].dmg;
+                var baseDamageNum = characterData[dataKey].skillBase[i].dmg;
                 var upgradeDamageNum = 1;
                 for (var k=1 ; k<=3 ; k++) {
-                    if (characterData.skillUpgrade[i][j]["upgrade_type" + k] == 1) {
-                        upgradeDamageNum *= (characterData.skillUpgrade[i][j]["upgrade_value" + k]/100);
+                    if (characterData[dataKey].skillUpgrade[i][j]["upgrade_type" + k] == 1) {
+                        upgradeDamageNum *= (characterData[dataKey].skillUpgrade[i][j]["upgrade_value" + k]/100);
                     }
                 }
                 var hitDamageNum = 0;
-                for (var key in characterData.skillAtk[i][j]) {
-                    hitDamageNum += (characterData.skillAtk[i][j][key].dmg/100);
+                for (var key in characterData[dataKey].skillAtk[i][j]) {
+                    hitDamageNum += (characterData[dataKey].skillAtk[i][j][key].dmg/100);
                 }
                 var chargeDamageNum = 0;
-                for (var key in characterData.skillAtk[i][j]) {
-                    var chargeDamage = (characterData.skillAtk[i][j][key].dmg/100);
+                for (var key in characterData[dataKey].skillAtk[i][j]) {
+                    var chargeDamage = (characterData[dataKey].skillAtk[i][j][key].dmg/100);
                     for (var k=1 ; k<=3 ; k++) {
-                        if (characterData.skillAtk[i][j][key]["hold_type" + k] == 1) {
-                            chargeDamage *= (characterData.skillAtk[i][j][key]["hold_value" + k]/100);
+                        if (characterData[dataKey].skillAtk[i][j][key]["hold_type" + k] == 1) {
+                            chargeDamage *= (characterData[dataKey].skillAtk[i][j][key]["hold_value" + k]/100);
                         }
                     }
                     chargeDamageNum += chargeDamage;
@@ -455,23 +487,23 @@ function DeployData() {
             
             { // break
                 totalValue.innerHTML += "總破甲:";
-                var baseBreakNum = characterData.skillBase[i].break_;
+                var baseBreakNum = characterData[dataKey].skillBase[i].break_;
                 var upgradeBreakNum = 1;
                 for (var k=1 ; k<=3 ; k++) {
-                    if (characterData.skillUpgrade[i][j]["upgrade_type" + k] == 7) {
-                        upgradeBreakNum *= (characterData.skillUpgrade[i][j]["upgrade_value" + k]/100);
+                    if (characterData[dataKey].skillUpgrade[i][j]["upgrade_type" + k] == 7) {
+                        upgradeBreakNum *= (characterData[dataKey].skillUpgrade[i][j]["upgrade_value" + k]/100);
                     }
                 }
                 var hitBreakNum = 0;
-                for (var key in characterData.skillAtk[i][j]) {
-                    hitBreakNum += (characterData.skillAtk[i][j][key].break_/100);
+                for (var key in characterData[dataKey].skillAtk[i][j]) {
+                    hitBreakNum += (characterData[dataKey].skillAtk[i][j][key].break_/100);
                 }
                 var chargeBreakNum = 0;
-                for (var key in characterData.skillAtk[i][j]) {
-                    var chargeBreak = (characterData.skillAtk[i][j][key].break_/100);
+                for (var key in characterData[dataKey].skillAtk[i][j]) {
+                    var chargeBreak = (characterData[dataKey].skillAtk[i][j][key].break_/100);
                     for (var k=1 ; k<=3 ; k++) {
-                        if (characterData.skillAtk[i][j][key]["hold_type" + k] == 12) {
-                            chargeBreak *= (characterData.skillAtk[i][j][key]["hold_value" + k]/100);
+                        if (characterData[dataKey].skillAtk[i][j][key]["hold_type" + k] == 12) {
+                            chargeBreak *= (characterData[dataKey].skillAtk[i][j][key]["hold_value" + k]/100);
                         }
                     }
                     chargeBreakNum += chargeBreak;
@@ -488,20 +520,20 @@ function DeployData() {
                 var baseGravityNum = 1;
                 var upgradeGravityNum = 1;
                 for (var k=1 ; k<=3 ; k++) {
-                    if (characterData.skillUpgrade[i][j]["upgrade_type" + k] == 6) {
-                        upgradeGravityNum *= (characterData.skillUpgrade[i][j]["upgrade_value" + k]/100);
+                    if (characterData[dataKey].skillUpgrade[i][j]["upgrade_type" + k] == 6) {
+                        upgradeGravityNum *= (characterData[dataKey].skillUpgrade[i][j]["upgrade_value" + k]/100);
                     }
                 }
                 var hitGravityNum = 0;
-                for (var key in characterData.skillAtk[i][j]) {
-                    hitGravityNum += (characterData.skillAtk[i][j][key].gravity);
+                for (var key in characterData[dataKey].skillAtk[i][j]) {
+                    hitGravityNum += (characterData[dataKey].skillAtk[i][j][key].gravity);
                 }
                 var chargeGravityNum = 0;
-                for (var key in characterData.skillAtk[i][j]) {
-                    var chargeGravity = (characterData.skillAtk[i][j][key].gravity);
+                for (var key in characterData[dataKey].skillAtk[i][j]) {
+                    var chargeGravity = (characterData[dataKey].skillAtk[i][j][key].gravity);
                     for (var k=1 ; k<=3 ; k++) {
-                        if (characterData.skillAtk[i][j][key]["hold_type" + k] == 6) {
-                            chargeGravity *= (characterData.skillAtk[i][j][key]["hold_value" + k]/100);
+                        if (characterData[dataKey].skillAtk[i][j][key]["hold_type" + k] == 6) {
+                            chargeGravity *= (characterData[dataKey].skillAtk[i][j][key]["hold_value" + k]/100);
                         }
                     }
                     chargeGravityNum += chargeGravity;
@@ -515,9 +547,9 @@ function DeployData() {
             
             { // debuff
                 var debuffType = 0;
-                for (var key in characterData.skillAtk[i][j]) {
-                    if (characterData.skillAtk[i][j][key].debuff != 0) { 
-                        debuffType = characterData.skillAtk[i][j][key].debuff;
+                for (var key in characterData[dataKey].skillAtk[i][j]) {
+                    if (characterData[dataKey].skillAtk[i][j][key].debuff != 0) { 
+                        debuffType = characterData[dataKey].skillAtk[i][j][key].debuff;
                         break;
                     }
                 }
@@ -527,20 +559,20 @@ function DeployData() {
                     var baseDebuffNum = 1;
                     var upgradeDebuffNum = 1;
                     for (var k=1 ; k<=3 ; k++) {
-                        if (characterData.skillUpgrade[i][j]["upgrade_type" + k] == 5) {
-                            upgradeDebuffNum *= (characterData.skillUpgrade[i][j]["upgrade_value" + k]/100);
+                        if (characterData[dataKey].skillUpgrade[i][j]["upgrade_type" + k] == 5) {
+                            upgradeDebuffNum *= (characterData[dataKey].skillUpgrade[i][j]["upgrade_value" + k]/100);
                         }
                     }
                     var hitDebuffNum = 0;
-                    for (var key in characterData.skillAtk[i][j]) {
-                        hitDebuffNum += (characterData.skillAtk[i][j][key].debuff_value);
+                    for (var key in characterData[dataKey].skillAtk[i][j]) {
+                        hitDebuffNum += (characterData[dataKey].skillAtk[i][j][key].debuff_value);
                     }
                     var chargeDebuffNum = 0;
-                    for (var key in characterData.skillAtk[i][j]) {
-                        var chargeDebuff = (characterData.skillAtk[i][j][key].debuff_value);
+                    for (var key in characterData[dataKey].skillAtk[i][j]) {
+                        var chargeDebuff = (characterData[dataKey].skillAtk[i][j][key].debuff_value);
                         for (var k=1 ; k<=3 ; k++) {
-                            if (characterData.skillAtk[i][j][key]["hold_type" + k] == 4) {
-                                chargeDebuff *= (characterData.skillAtk[i][j][key]["hold_value" + k]/100);
+                            if (characterData[dataKey].skillAtk[i][j][key]["hold_type" + k] == 4) {
+                                chargeDebuff *= (characterData[dataKey].skillAtk[i][j][key]["hold_value" + k]/100);
                             }
                         }
                         chargeDebuffNum += chargeDebuff;
@@ -557,7 +589,7 @@ function DeployData() {
             detailTable.className = "detailTable";
             var detailTableHeader = detailTable.appendChild(document.createElement("tr"));
             var detailTableRow = detailTable.appendChild(document.createElement("tr"));
-            for (var key in characterData.skillAtk[i][j]) {
+            for (var key in characterData[dataKey].skillAtk[i][j]) {
                 var header = detailTableHeader.appendChild(document.createElement("th"));
                 header.innerHTML = "第" + key + "擊";
                 
@@ -565,17 +597,17 @@ function DeployData() {
                 
                 { // damage
                     body.innerHTML = "倍率: ";
-                    var damageNum = characterData.skillBase[i].dmg;
+                    var damageNum = characterData[dataKey].skillBase[i].dmg;
                     for (var k=1 ; k<=3 ; k++) {
-                        if (characterData.skillUpgrade[i][j]["upgrade_type" + k] == 1) {
-                            damageNum *= (characterData.skillUpgrade[i][j]["upgrade_value" + k]/100);
+                        if (characterData[dataKey].skillUpgrade[i][j]["upgrade_type" + k] == 1) {
+                            damageNum *= (characterData[dataKey].skillUpgrade[i][j]["upgrade_value" + k]/100);
                         }
                     }
-                    damageNum *= (characterData.skillAtk[i][j][key].dmg/100);
+                    damageNum *= (characterData[dataKey].skillAtk[i][j][key].dmg/100);
                     var chargeDamageNum = 1;
                     for (var k=1 ; k<=3 ; k++) {
-                        if (characterData.skillAtk[i][j][key]["hold_type" + k] == 1) {
-                            chargeDamage *= (characterData.skillAtk[i][j][key]["hold_value" + k]/100);
+                        if (characterData[dataKey].skillAtk[i][j][key]["hold_type" + k] == 1) {
+                            chargeDamage *= (characterData[dataKey].skillAtk[i][j][key]["hold_value" + k]/100);
                         }
                     }
                     body.innerHTML += damageNum.round(5);
@@ -587,17 +619,17 @@ function DeployData() {
                 
                 { //break
                     body.innerHTML += "破甲: ";
-                    var breakNum = characterData.skillBase[i].break_;
+                    var breakNum = characterData[dataKey].skillBase[i].break_;
                     for (var k=1 ; k<=3 ; k++) {
-                        if (characterData.skillUpgrade[i][j]["upgrade_type" + k] == 7) {
-                            breakNum *= (characterData.skillUpgrade[i][j]["upgrade_value" + k]/100);
+                        if (characterData[dataKey].skillUpgrade[i][j]["upgrade_type" + k] == 7) {
+                            breakNum *= (characterData[dataKey].skillUpgrade[i][j]["upgrade_value" + k]/100);
                         }
                     }
-                    breakNum *= (characterData.skillAtk[i][j][key].break_/100);
+                    breakNum *= (characterData[dataKey].skillAtk[i][j][key].break_/100);
                     var chargeBreakNum = 1;
                     for (var k=1 ; k<=3 ; k++) {
-                        if (characterData.skillAtk[i][j][key]["hold_type" + k] == 12) {
-                            chargeBreak *= (characterData.skillAtk[i][j][key]["hold_value" + k]/100);
+                        if (characterData[dataKey].skillAtk[i][j][key]["hold_type" + k] == 12) {
+                            chargeBreak *= (characterData[dataKey].skillAtk[i][j][key]["hold_value" + k]/100);
                         }
                     }
                     body.innerHTML += breakNum.round(5);
@@ -611,15 +643,15 @@ function DeployData() {
                     body.innerHTML += "重力: ";
                     var gravityNum = 1;
                     for (var k=1 ; k<=3 ; k++) {
-                        if (characterData.skillUpgrade[i][j]["upgrade_type" + k] == 6) {
-                            gravityNum *= (characterData.skillUpgrade[i][j]["upgrade_value" + k]/100);
+                        if (characterData[dataKey].skillUpgrade[i][j]["upgrade_type" + k] == 6) {
+                            gravityNum *= (characterData[dataKey].skillUpgrade[i][j]["upgrade_value" + k]/100);
                         }
                     }
-                    gravityNum *= characterData.skillAtk[i][j][key].gravity;
+                    gravityNum *= characterData[dataKey].skillAtk[i][j][key].gravity;
                     var chargeGravityNum = 1;
                     for (var k=1 ; k<=3 ; k++) {
-                        if (characterData.skillAtk[i][j][key]["hold_type" + k] == 6) {
-                            chargeGravity *= (characterData.skillAtk[i][j][key]["hold_value" + k]/100);
+                        if (characterData[dataKey].skillAtk[i][j][key]["hold_type" + k] == 6) {
+                            chargeGravity *= (characterData[dataKey].skillAtk[i][j][key]["hold_value" + k]/100);
                         }
                     }
                     body.innerHTML += gravityNum.round(5);
@@ -629,19 +661,19 @@ function DeployData() {
                     body.innerHTML += "<br>";
                 }
                 
-                if (characterData.skillAtk[i][j][key].debuff != 0) {
-                    body.innerHTML += DebuffType[characterData.skillAtk[i][j][key].debuff] + ": ";
+                if (characterData[dataKey].skillAtk[i][j][key].debuff != 0) {
+                    body.innerHTML += DebuffType[characterData[dataKey].skillAtk[i][j][key].debuff] + ": ";
                     var debuffNum = 1;
                     for (var k=1 ; k<=3 ; k++) {
-                        if (characterData.skillUpgrade[i][j]["upgrade_type" + k] == 5) {
-                            debuffNum *= (characterData.skillUpgrade[i][j]["upgrade_value" + k]/100);
+                        if (characterData[dataKey].skillUpgrade[i][j]["upgrade_type" + k] == 5) {
+                            debuffNum *= (characterData[dataKey].skillUpgrade[i][j]["upgrade_value" + k]/100);
                         }
                     }
-                    debuffNum *= characterData.skillAtk[i][j][key].debuff_value;
+                    debuffNum *= characterData[dataKey].skillAtk[i][j][key].debuff_value;
                     var chargeDebuffNum = 1;
                     for (var k=1 ; k<=3 ; k++) {
-                        if (characterData.skillAtk[i][j][key]["hold_type" + k] == 4) {
-                            chargeDebuff *= (characterData.skillAtk[i][j][key]["hold_value" + k]/100);
+                        if (characterData[dataKey].skillAtk[i][j][key]["hold_type" + k] == 4) {
+                            chargeDebuff *= (characterData[dataKey].skillAtk[i][j][key]["hold_value" + k]/100);
                         }
                     }
                     body.innerHTML += debuffNum.round(5);
@@ -658,16 +690,16 @@ function DeployData() {
     {
         var cell = document.getElementById("characterUltimate");
         cell.innerHTML = "";
-        cell.innerHTML += "<b>" + characterData.ultimate.name + "</b>";
+        cell.innerHTML += "<b>" + characterData[dataKey].ultimate.name + "</b>";
         cell.innerHTML += "<br>";
         
         var totalValue = cell.appendChild(document.createElement("div"));
         { // damage
             totalValue.innerHTML = "總倍率: ";
-            var baseDamageNum = characterData.ultimate.dmg;
+            var baseDamageNum = characterData[dataKey].ultimate.dmg;
             var hitDamageNum = 0;
-            for (var key in characterData.ultimateAtk) {
-                hitDamageNum += (characterData.ultimateAtk[key].dmg/100);
+            for (var key in characterData[dataKey].ultimateAtk) {
+                hitDamageNum += (characterData[dataKey].ultimateAtk[key].dmg/100);
             }
             totalValue.innerHTML += (baseDamageNum * hitDamageNum).round(5);
             totalValue.innerHTML += "  ";
@@ -675,10 +707,10 @@ function DeployData() {
         
         { // break
             totalValue.innerHTML += "總破甲:";
-            var baseBreakNum = characterData.ultimate.break_;
+            var baseBreakNum = characterData[dataKey].ultimate.break_;
             var hitBreakNum = 0;
-            for (var key in characterData.ultimateAtk) {
-                hitBreakNum += (characterData.ultimateAtk[key].break_/100);
+            for (var key in characterData[dataKey].ultimateAtk) {
+                hitBreakNum += (characterData[dataKey].ultimateAtk[key].break_/100);
             }
             totalValue.innerHTML += (baseBreakNum * hitBreakNum).round(5);
             totalValue.innerHTML += "  ";
@@ -687,8 +719,8 @@ function DeployData() {
         { // gravity
             totalValue.innerHTML += "總重力:";
             var hitGravityNum = 0;
-            for (var key in characterData.ultimateAtk) {
-                hitGravityNum += (characterData.ultimateAtk[key].gravity);
+            for (var key in characterData[dataKey].ultimateAtk) {
+                hitGravityNum += (characterData[dataKey].ultimateAtk[key].gravity);
             }
             totalValue.innerHTML += hitGravityNum.round(5);
             totalValue.innerHTML += "  ";
@@ -696,9 +728,9 @@ function DeployData() {
         
         { // debuff
             var debuffType = 0;
-            for (var key in characterData.ultimateAtk) {
-                if (characterData.ultimateAtk[key].debuff != 0) { 
-                    debuffType = characterData.ultimateAtk[key].debuff;
+            for (var key in characterData[dataKey].ultimateAtk) {
+                if (characterData[dataKey].ultimateAtk[key].debuff != 0) { 
+                    debuffType = characterData[dataKey].ultimateAtk[key].debuff;
                     break;
                 }
             }
@@ -706,8 +738,8 @@ function DeployData() {
             if (debuffType != 0) {
                 totalValue.innerHTML += "總" + DebuffType[debuffType] + ": ";
                 var hitDebuffNum = 0;
-                for (var key in characterData.ultimateAtk) {
-                    hitDebuffNum += (characterData.ultimateAtk[key].debuff_value);
+                for (var key in characterData[dataKey].ultimateAtk) {
+                    hitDebuffNum += (characterData[dataKey].ultimateAtk[key].debuff_value);
                 }
                 totalValue.innerHTML += hitDebuffNum.round(5);
                 totalValue.innerHTML += "  ";
@@ -718,7 +750,7 @@ function DeployData() {
         detailTable.className = "detailTable";
         var detailTableHeader = detailTable.appendChild(document.createElement("tr"));
         var detailTableRow = detailTable.appendChild(document.createElement("tr"));
-        for (var key in characterData.ultimateAtk) {
+        for (var key in characterData[dataKey].ultimateAtk) {
             var header = detailTableHeader.appendChild(document.createElement("th"));
             header.innerHTML = "第" + key + "擊";
             
@@ -726,30 +758,30 @@ function DeployData() {
             
             { // damage
                 body.innerHTML = "倍率: ";
-                var damageNum = characterData.ultimate.dmg;
-                damageNum *= (characterData.ultimateAtk[key].dmg/100);
+                var damageNum = characterData[dataKey].ultimate.dmg;
+                damageNum *= (characterData[dataKey].ultimateAtk[key].dmg/100);
                 body.innerHTML += damageNum.round(5);
                 body.innerHTML += "<br>";
             }
             
             { //break
                 body.innerHTML += "破甲: ";
-                var breakNum = characterData.ultimate.break_;
-                breakNum *= (characterData.ultimateAtk[key].break_/100);
+                var breakNum = characterData[dataKey].ultimate.break_;
+                breakNum *= (characterData[dataKey].ultimateAtk[key].break_/100);
                 body.innerHTML += breakNum.round(5);
                 body.innerHTML += "<br>";
             }
             
             { // gravity
                 body.innerHTML += "重力: ";
-                var gravityNum = characterData.ultimateAtk[key].gravity;
+                var gravityNum = characterData[dataKey].ultimateAtk[key].gravity;
                 body.innerHTML += gravityNum.round(5);
                 body.innerHTML += "<br>";
             }
             
-            if (characterData.ultimateAtk[key].debuff != 0) {
-                body.innerHTML += DebuffType[characterData.ultimateAtk[key].debuff] + ": ";
-                var debuffNum = characterData.ultimateAtk[key].debuff_value;
+            if (characterData[dataKey].ultimateAtk[key].debuff != 0) {
+                body.innerHTML += DebuffType[characterData[dataKey].ultimateAtk[key].debuff] + ": ";
+                var debuffNum = characterData[dataKey].ultimateAtk[key].debuff_value;
                 body.innerHTML += debuffNum.round(5);
                 body.innerHTML += "<br>";
             }

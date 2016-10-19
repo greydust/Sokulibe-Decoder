@@ -101,6 +101,39 @@ table.tablesorter {
     border-spacing: 0px;
 }
 
+table.tabTable {
+    border-spacing: 0px;
+    padding-bottom: 5px;
+}
+
+table.tabTable tr th:last-child {
+    text-align: center;
+	padding: 8px 15px;
+	border-top: 1px solid #666666;
+	border-right: 1px solid #666666;
+	border-bottom: 1px solid #666666;
+	border-left: 1px solid #666666;
+}
+
+table.tabTable tr th {
+    text-align: center;
+	padding: 8px 15px;
+	border-top: 1px solid #666666;
+	border-bottom: 1px solid #666666;
+	border-left: 1px solid #666666;
+    white-space:nowrap;
+}
+
+table.tabTable tr th.selected {
+    font-weight: bold;
+	border-bottom: 0px;
+}
+
+table.tabTable tr th.notselected {
+    font-weight: normal;
+	border-bottom: 1px solid #666666;
+}
+
 div.quote {
     text-align: center;
     font-style: italic;
