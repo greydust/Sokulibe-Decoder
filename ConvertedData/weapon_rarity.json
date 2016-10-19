@@ -1,0 +1,47 @@
+{
+  "1": {
+    "id": 1,
+    "rarity": 1,
+    "name": "N",
+    "maxlv": 10,
+    "sale_soul": 12500,
+    "next_exp": 500,
+    "material_exp": 500
+  },
+  "2": {
+    "id": 2,
+    "rarity": 2,
+    "name": "R",
+    "maxlv": 10,
+    "sale_soul": 25000,
+    "next_exp": 1000,
+    "material_exp": 1000
+  },
+  "3": {
+    "id": 3,
+    "rarity": 3,
+    "name": "HR",
+    "maxlv": 10,
+    "sale_soul": 50000,
+    "next_exp": 2000,
+    "material_exp": 2000
+  },
+  "4": {
+    "id": 4,
+    "rarity": 4,
+    "name": "SR",
+    "maxlv": 10,
+    "sale_soul": 100000,
+    "next_exp": 4000,
+    "material_exp": 4000
+  },
+  "5": {
+    "id": 5,
+    "rarity": 5,
+    "name": "SSR",
+    "maxlv": 10,
+    "sale_soul": 200000,
+    "next_exp": 8000,
+    "material_exp": 8000
+  }
+}

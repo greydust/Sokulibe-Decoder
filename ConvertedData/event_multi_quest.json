@@ -43,7 +43,9 @@
       "rareenemy_id": 33,
       "mission_bonus_type": 1,
       "mission_bonus_id": 1,
-      "mission_bonus_value": 5
+      "mission_bonus_value": 5,
+      "battle_bgm_id": 0,
+      "boss_bgm_id": 0
     },
     "2": {
       "id": 2,
@@ -88,7 +90,9 @@
       "rareenemy_id": 33,
       "mission_bonus_type": 1,
       "mission_bonus_id": 1,
-      "mission_bonus_value": 5
+      "mission_bonus_value": 5,
+      "battle_bgm_id": 0,
+      "boss_bgm_id": 0
     },
     "3": {
       "id": 3,
@@ -133,7 +137,9 @@
       "rareenemy_id": 33,
       "mission_bonus_type": 1,
       "mission_bonus_id": 1,
-      "mission_bonus_value": 5
+      "mission_bonus_value": 5,
+      "battle_bgm_id": 0,
+      "boss_bgm_id": 0
     }
   },
   "2": {
@@ -180,7 +186,9 @@
       "rareenemy_id": 33,
       "mission_bonus_type": 1,
       "mission_bonus_id": 1,
-      "mission_bonus_value": 5
+      "mission_bonus_value": 5,
+      "battle_bgm_id": 0,
+      "boss_bgm_id": 0
     },
     "5": {
       "id": 5,
@@ -225,7 +233,9 @@
       "rareenemy_id": 33,
       "mission_bonus_type": 1,
       "mission_bonus_id": 1,
-      "mission_bonus_value": 5
+      "mission_bonus_value": 5,
+      "battle_bgm_id": 0,
+      "boss_bgm_id": 0
     },
     "6": {
       "id": 6,
@@ -270,7 +280,9 @@
       "rareenemy_id": 33,
       "mission_bonus_type": 1,
       "mission_bonus_id": 1,
-      "mission_bonus_value": 5
+      "mission_bonus_value": 5,
+      "battle_bgm_id": 0,
+      "boss_bgm_id": 0
     }
   },
   "3": {
@@ -317,7 +329,9 @@
       "rareenemy_id": 33,
       "mission_bonus_type": 1,
       "mission_bonus_id": 1,
-      "mission_bonus_value": 5
+      "mission_bonus_value": 5,
+      "battle_bgm_id": 0,
+      "boss_bgm_id": 0
     },
     "8": {
       "id": 8,
@@ -362,7 +376,9 @@
       "rareenemy_id": 33,
       "mission_bonus_type": 1,
       "mission_bonus_id": 1,
-      "mission_bonus_value": 5
+      "mission_bonus_value": 5,
+      "battle_bgm_id": 0,
+      "boss_bgm_id": 0
     }
   },
   "4": {
@@ -409,7 +425,9 @@
       "rareenemy_id": 33,
       "mission_bonus_type": 1,
       "mission_bonus_id": 1,
-      "mission_bonus_value": 5
+      "mission_bonus_value": 5,
+      "battle_bgm_id": 0,
+      "boss_bgm_id": 0
     }
   },
   "5": {
@@ -456,7 +474,9 @@
       "rareenemy_id": 33,
       "mission_bonus_type": 1,
       "mission_bonus_id": 1,
-      "mission_bonus_value": 5
+      "mission_bonus_value": 5,
+      "battle_bgm_id": 0,
+      "boss_bgm_id": 0
     },
     "14": {
       "id": 14,
@@ -501,7 +521,9 @@
       "rareenemy_id": 33,
       "mission_bonus_type": 1,
       "mission_bonus_id": 1,
-      "mission_bonus_value": 5
+      "mission_bonus_value": 5,
+      "battle_bgm_id": 0,
+      "boss_bgm_id": 0
     },
     "15": {
       "id": 15,
@@ -546,7 +568,9 @@
       "rareenemy_id": 33,
       "mission_bonus_type": 1,
       "mission_bonus_id": 1,
-      "mission_bonus_value": 5
+      "mission_bonus_value": 5,
+      "battle_bgm_id": 0,
+      "boss_bgm_id": 0
     },
     "16": {
       "id": 16,
@@ -591,7 +615,9 @@
       "rareenemy_id": 33,
       "mission_bonus_type": 1,
       "mission_bonus_id": 1,
-      "mission_bonus_value": 5
+      "mission_bonus_value": 5,
+      "battle_bgm_id": 0,
+      "boss_bgm_id": 0
     },
     "17": {
       "id": 17,
@@ -636,7 +662,9 @@
       "rareenemy_id": 33,
       "mission_bonus_type": 1,
       "mission_bonus_id": 1,
-      "mission_bonus_value": 5
+      "mission_bonus_value": 5,
+      "battle_bgm_id": 0,
+      "boss_bgm_id": 0
     },
     "18": {
       "id": 18,
@@ -681,7 +709,9 @@
       "rareenemy_id": 33,
       "mission_bonus_type": 1,
       "mission_bonus_id": 1,
-      "mission_bonus_value": 5
+      "mission_bonus_value": 5,
+      "battle_bgm_id": 0,
+      "boss_bgm_id": 0
     },
     "19": {
       "id": 19,
@@ -726,7 +756,9 @@
       "rareenemy_id": 33,
       "mission_bonus_type": 1,
       "mission_bonus_id": 1,
-      "mission_bonus_value": 5
+      "mission_bonus_value": 5,
+      "battle_bgm_id": 0,
+      "boss_bgm_id": 0
     },
     "20": {
       "id": 20,
@@ -771,7 +803,9 @@
       "rareenemy_id": 33,
       "mission_bonus_type": 1,
       "mission_bonus_id": 1,
-      "mission_bonus_value": 5
+      "mission_bonus_value": 5,
+      "battle_bgm_id": 0,
+      "boss_bgm_id": 0
     },
     "21": {
       "id": 21,
@@ -816,7 +850,9 @@
       "rareenemy_id": 33,
       "mission_bonus_type": 1,
       "mission_bonus_id": 1,
-      "mission_bonus_value": 5
+      "mission_bonus_value": 5,
+      "battle_bgm_id": 0,
+      "boss_bgm_id": 0
     },
     "22": {
       "id": 22,
@@ -861,7 +897,9 @@
       "rareenemy_id": 33,
       "mission_bonus_type": 1,
       "mission_bonus_id": 1,
-      "mission_bonus_value": 5
+      "mission_bonus_value": 5,
+      "battle_bgm_id": 0,
+      "boss_bgm_id": 0
     },
     "23": {
       "id": 23,
@@ -906,7 +944,9 @@
       "rareenemy_id": 33,
       "mission_bonus_type": 1,
       "mission_bonus_id": 1,
-      "mission_bonus_value": 5
+      "mission_bonus_value": 5,
+      "battle_bgm_id": 0,
+      "boss_bgm_id": 0
     },
     "24": {
       "id": 24,
@@ -951,7 +991,9 @@
       "rareenemy_id": 33,
       "mission_bonus_type": 1,
       "mission_bonus_id": 1,
-      "mission_bonus_value": 5
+      "mission_bonus_value": 5,
+      "battle_bgm_id": 0,
+      "boss_bgm_id": 0
     },
     "25": {
       "id": 25,
@@ -996,7 +1038,9 @@
       "rareenemy_id": 33,
       "mission_bonus_type": 1,
       "mission_bonus_id": 1,
-      "mission_bonus_value": 5
+      "mission_bonus_value": 5,
+      "battle_bgm_id": 0,
+      "boss_bgm_id": 0
     },
     "26": {
       "id": 26,
@@ -1041,7 +1085,9 @@
       "rareenemy_id": 33,
       "mission_bonus_type": 1,
       "mission_bonus_id": 1,
-      "mission_bonus_value": 5
+      "mission_bonus_value": 5,
+      "battle_bgm_id": 0,
+      "boss_bgm_id": 0
     },
     "27": {
       "id": 27,
@@ -1086,7 +1132,9 @@
       "rareenemy_id": 33,
       "mission_bonus_type": 1,
       "mission_bonus_id": 1,
-      "mission_bonus_value": 5
+      "mission_bonus_value": 5,
+      "battle_bgm_id": 0,
+      "boss_bgm_id": 0
     }
   },
   "6": {
@@ -1133,7 +1181,9 @@
       "rareenemy_id": 33,
       "mission_bonus_type": 1,
       "mission_bonus_id": 1,
-      "mission_bonus_value": 5
+      "mission_bonus_value": 5,
+      "battle_bgm_id": 0,
+      "boss_bgm_id": 0
     },
     "29": {
       "id": 29,
@@ -1178,7 +1228,9 @@
       "rareenemy_id": 33,
       "mission_bonus_type": 1,
       "mission_bonus_id": 1,
-      "mission_bonus_value": 5
+      "mission_bonus_value": 5,
+      "battle_bgm_id": 0,
+      "boss_bgm_id": 0
     },
     "30": {
       "id": 30,
@@ -1223,7 +1275,9 @@
       "rareenemy_id": 33,
       "mission_bonus_type": 1,
       "mission_bonus_id": 1,
-      "mission_bonus_value": 5
+      "mission_bonus_value": 5,
+      "battle_bgm_id": 0,
+      "boss_bgm_id": 0
     }
   },
   "11": {
@@ -1270,7 +1324,9 @@
       "rareenemy_id": 33,
       "mission_bonus_type": 1,
       "mission_bonus_id": 1,
-      "mission_bonus_value": 5
+      "mission_bonus_value": 5,
+      "battle_bgm_id": 0,
+      "boss_bgm_id": 0
     },
     "32": {
       "id": 32,
@@ -1315,7 +1371,9 @@
       "rareenemy_id": 33,
       "mission_bonus_type": 1,
       "mission_bonus_id": 1,
-      "mission_bonus_value": 5
+      "mission_bonus_value": 5,
+      "battle_bgm_id": 0,
+      "boss_bgm_id": 0
     },
     "33": {
       "id": 33,
@@ -1360,7 +1418,9 @@
       "rareenemy_id": 33,
       "mission_bonus_type": 1,
       "mission_bonus_id": 1,
-      "mission_bonus_value": 5
+      "mission_bonus_value": 5,
+      "battle_bgm_id": 0,
+      "boss_bgm_id": 0
     }
   },
   "7": {
@@ -1407,7 +1467,9 @@
       "rareenemy_id": 33,
       "mission_bonus_type": 1,
       "mission_bonus_id": 1,
-      "mission_bonus_value": 5
+      "mission_bonus_value": 5,
+      "battle_bgm_id": 0,
+      "boss_bgm_id": 0
     },
     "35": {
       "id": 35,
@@ -1452,7 +1514,9 @@
       "rareenemy_id": 33,
       "mission_bonus_type": 1,
       "mission_bonus_id": 1,
-      "mission_bonus_value": 5
+      "mission_bonus_value": 5,
+      "battle_bgm_id": 0,
+      "boss_bgm_id": 0
     },
     "36": {
       "id": 36,
@@ -1497,7 +1561,9 @@
       "rareenemy_id": 33,
       "mission_bonus_type": 1,
       "mission_bonus_id": 1,
-      "mission_bonus_value": 5
+      "mission_bonus_value": 5,
+      "battle_bgm_id": 0,
+      "boss_bgm_id": 0
     }
   },
   "12": {
@@ -1544,7 +1610,9 @@
       "rareenemy_id": 33,
       "mission_bonus_type": 1,
       "mission_bonus_id": 1,
-      "mission_bonus_value": 5
+      "mission_bonus_value": 5,
+      "battle_bgm_id": 0,
+      "boss_bgm_id": 0
     },
     "38": {
       "id": 38,
@@ -1589,7 +1657,9 @@
       "rareenemy_id": 33,
       "mission_bonus_type": 1,
       "mission_bonus_id": 1,
-      "mission_bonus_value": 5
+      "mission_bonus_value": 5,
+      "battle_bgm_id": 0,
+      "boss_bgm_id": 0
     },
     "39": {
       "id": 39,
@@ -1634,7 +1704,9 @@
       "rareenemy_id": 33,
       "mission_bonus_type": 1,
       "mission_bonus_id": 1,
-      "mission_bonus_value": 5
+      "mission_bonus_value": 5,
+      "battle_bgm_id": 0,
+      "boss_bgm_id": 0
     }
   },
   "8": {
@@ -1681,7 +1753,9 @@
       "rareenemy_id": 33,
       "mission_bonus_type": 1,
       "mission_bonus_id": 1,
-      "mission_bonus_value": 5
+      "mission_bonus_value": 5,
+      "battle_bgm_id": 0,
+      "boss_bgm_id": 0
     },
     "41": {
       "id": 41,
@@ -1726,7 +1800,9 @@
       "rareenemy_id": 33,
       "mission_bonus_type": 1,
       "mission_bonus_id": 1,
-      "mission_bonus_value": 5
+      "mission_bonus_value": 5,
+      "battle_bgm_id": 0,
+      "boss_bgm_id": 0
     },
     "42": {
       "id": 42,
@@ -1771,7 +1847,9 @@
       "rareenemy_id": 33,
       "mission_bonus_type": 1,
       "mission_bonus_id": 1,
-      "mission_bonus_value": 5
+      "mission_bonus_value": 5,
+      "battle_bgm_id": 0,
+      "boss_bgm_id": 0
     }
   },
   "13": {
@@ -1818,7 +1896,9 @@
       "rareenemy_id": 33,
       "mission_bonus_type": 1,
       "mission_bonus_id": 1,
-      "mission_bonus_value": 5
+      "mission_bonus_value": 5,
+      "battle_bgm_id": 0,
+      "boss_bgm_id": 0
     },
     "44": {
       "id": 44,
@@ -1863,7 +1943,9 @@
       "rareenemy_id": 33,
       "mission_bonus_type": 1,
       "mission_bonus_id": 1,
-      "mission_bonus_value": 5
+      "mission_bonus_value": 5,
+      "battle_bgm_id": 0,
+      "boss_bgm_id": 0
     },
     "45": {
       "id": 45,
@@ -1908,7 +1990,9 @@
       "rareenemy_id": 33,
       "mission_bonus_type": 1,
       "mission_bonus_id": 1,
-      "mission_bonus_value": 5
+      "mission_bonus_value": 5,
+      "battle_bgm_id": 0,
+      "boss_bgm_id": 0
     }
   },
   "9": {
@@ -1955,7 +2039,9 @@
       "rareenemy_id": 33,
       "mission_bonus_type": 1,
       "mission_bonus_id": 1,
-      "mission_bonus_value": 5
+      "mission_bonus_value": 5,
+      "battle_bgm_id": 0,
+      "boss_bgm_id": 0
     },
     "47": {
       "id": 47,
@@ -2000,7 +2086,9 @@
       "rareenemy_id": 33,
       "mission_bonus_type": 1,
       "mission_bonus_id": 1,
-      "mission_bonus_value": 5
+      "mission_bonus_value": 5,
+      "battle_bgm_id": 0,
+      "boss_bgm_id": 0
     },
     "48": {
       "id": 48,
@@ -2045,7 +2133,9 @@
       "rareenemy_id": 33,
       "mission_bonus_type": 1,
       "mission_bonus_id": 1,
-      "mission_bonus_value": 5
+      "mission_bonus_value": 5,
+      "battle_bgm_id": 0,
+      "boss_bgm_id": 0
     }
   },
   "14": {
@@ -2092,7 +2182,9 @@
       "rareenemy_id": 33,
       "mission_bonus_type": 1,
       "mission_bonus_id": 1,
-      "mission_bonus_value": 5
+      "mission_bonus_value": 5,
+      "battle_bgm_id": 0,
+      "boss_bgm_id": 0
     },
     "50": {
       "id": 50,
@@ -2137,7 +2229,9 @@
       "rareenemy_id": 33,
       "mission_bonus_type": 1,
       "mission_bonus_id": 1,
-      "mission_bonus_value": 5
+      "mission_bonus_value": 5,
+      "battle_bgm_id": 0,
+      "boss_bgm_id": 0
     },
     "51": {
       "id": 51,
@@ -2182,7 +2276,9 @@
       "rareenemy_id": 33,
       "mission_bonus_type": 1,
       "mission_bonus_id": 1,
-      "mission_bonus_value": 5
+      "mission_bonus_value": 5,
+      "battle_bgm_id": 0,
+      "boss_bgm_id": 0
     }
   },
   "10": {
@@ -2229,7 +2325,9 @@
       "rareenemy_id": 33,
       "mission_bonus_type": 1,
       "mission_bonus_id": 1,
-      "mission_bonus_value": 5
+      "mission_bonus_value": 5,
+      "battle_bgm_id": 0,
+      "boss_bgm_id": 0
     },
     "53": {
       "id": 53,
@@ -2274,7 +2372,9 @@
       "rareenemy_id": 33,
       "mission_bonus_type": 1,
       "mission_bonus_id": 1,
-      "mission_bonus_value": 5
+      "mission_bonus_value": 5,
+      "battle_bgm_id": 0,
+      "boss_bgm_id": 0
     },
     "54": {
       "id": 54,
@@ -2319,7 +2419,9 @@
       "rareenemy_id": 33,
       "mission_bonus_type": 1,
       "mission_bonus_id": 1,
-      "mission_bonus_value": 5
+      "mission_bonus_value": 5,
+      "battle_bgm_id": 0,
+      "boss_bgm_id": 0
     }
   },
   "15": {
@@ -2366,7 +2468,9 @@
       "rareenemy_id": 33,
       "mission_bonus_type": 1,
       "mission_bonus_id": 1,
-      "mission_bonus_value": 5
+      "mission_bonus_value": 5,
+      "battle_bgm_id": 0,
+      "boss_bgm_id": 0
     },
     "56": {
       "id": 56,
@@ -2411,7 +2515,9 @@
       "rareenemy_id": 33,
       "mission_bonus_type": 1,
       "mission_bonus_id": 1,
-      "mission_bonus_value": 5
+      "mission_bonus_value": 5,
+      "battle_bgm_id": 0,
+      "boss_bgm_id": 0
     },
     "57": {
       "id": 57,
@@ -2456,7 +2562,9 @@
       "rareenemy_id": 33,
       "mission_bonus_type": 1,
       "mission_bonus_id": 1,
-      "mission_bonus_value": 5
+      "mission_bonus_value": 5,
+      "battle_bgm_id": 0,
+      "boss_bgm_id": 0
     }
   },
   "16": {
@@ -2503,7 +2611,9 @@
       "rareenemy_id": 33,
       "mission_bonus_type": 1,
       "mission_bonus_id": 1,
-      "mission_bonus_value": 5
+      "mission_bonus_value": 5,
+      "battle_bgm_id": 0,
+      "boss_bgm_id": 0
     },
     "59": {
       "id": 59,
@@ -2548,7 +2658,9 @@
       "rareenemy_id": 33,
       "mission_bonus_type": 1,
       "mission_bonus_id": 1,
-      "mission_bonus_value": 5
+      "mission_bonus_value": 5,
+      "battle_bgm_id": 0,
+      "boss_bgm_id": 0
     },
     "60": {
       "id": 60,
@@ -2593,7 +2705,9 @@
       "rareenemy_id": 33,
       "mission_bonus_type": 1,
       "mission_bonus_id": 1,
-      "mission_bonus_value": 5
+      "mission_bonus_value": 5,
+      "battle_bgm_id": 0,
+      "boss_bgm_id": 0
     }
   },
   "18": {
@@ -2640,7 +2754,9 @@
       "rareenemy_id": 33,
       "mission_bonus_type": 1,
       "mission_bonus_id": 1,
-      "mission_bonus_value": 5
+      "mission_bonus_value": 5,
+      "battle_bgm_id": 0,
+      "boss_bgm_id": 0
     },
     "62": {
       "id": 62,
@@ -2685,7 +2801,9 @@
       "rareenemy_id": 33,
       "mission_bonus_type": 1,
       "mission_bonus_id": 1,
-      "mission_bonus_value": 5
+      "mission_bonus_value": 5,
+      "battle_bgm_id": 0,
+      "boss_bgm_id": 0
     },
     "63": {
       "id": 63,
@@ -2730,7 +2848,9 @@
       "rareenemy_id": 33,
       "mission_bonus_type": 1,
       "mission_bonus_id": 1,
-      "mission_bonus_value": 5
+      "mission_bonus_value": 5,
+      "battle_bgm_id": 0,
+      "boss_bgm_id": 0
     }
   },
   "19": {
@@ -2777,7 +2897,9 @@
       "rareenemy_id": 33,
       "mission_bonus_type": 1,
       "mission_bonus_id": 1,
-      "mission_bonus_value": 5
+      "mission_bonus_value": 5,
+      "battle_bgm_id": 0,
+      "boss_bgm_id": 0
     },
     "65": {
       "id": 65,
@@ -2822,7 +2944,9 @@
       "rareenemy_id": 33,
       "mission_bonus_type": 1,
       "mission_bonus_id": 1,
-      "mission_bonus_value": 5
+      "mission_bonus_value": 5,
+      "battle_bgm_id": 0,
+      "boss_bgm_id": 0
     },
     "66": {
       "id": 66,
@@ -2867,7 +2991,9 @@
       "rareenemy_id": 33,
       "mission_bonus_type": 1,
       "mission_bonus_id": 1,
-      "mission_bonus_value": 5
+      "mission_bonus_value": 5,
+      "battle_bgm_id": 0,
+      "boss_bgm_id": 0
     },
     "67": {
       "id": 67,
@@ -2912,7 +3038,9 @@
       "rareenemy_id": 33,
       "mission_bonus_type": 1,
       "mission_bonus_id": 1,
-      "mission_bonus_value": 5
+      "mission_bonus_value": 5,
+      "battle_bgm_id": 0,
+      "boss_bgm_id": 0
     },
     "68": {
       "id": 68,
@@ -2957,7 +3085,9 @@
       "rareenemy_id": 33,
       "mission_bonus_type": 1,
       "mission_bonus_id": 1,
-      "mission_bonus_value": 5
+      "mission_bonus_value": 5,
+      "battle_bgm_id": 0,
+      "boss_bgm_id": 0
     }
   },
   "20": {
@@ -3004,7 +3134,9 @@
       "rareenemy_id": 33,
       "mission_bonus_type": 1,
       "mission_bonus_id": 1,
-      "mission_bonus_value": 5
+      "mission_bonus_value": 5,
+      "battle_bgm_id": 0,
+      "boss_bgm_id": 0
     },
     "70": {
       "id": 70,
@@ -3049,7 +3181,9 @@
       "rareenemy_id": 33,
       "mission_bonus_type": 1,
       "mission_bonus_id": 1,
-      "mission_bonus_value": 5
+      "mission_bonus_value": 5,
+      "battle_bgm_id": 0,
+      "boss_bgm_id": 0
     },
     "71": {
       "id": 71,
@@ -3094,7 +3228,9 @@
       "rareenemy_id": 33,
       "mission_bonus_type": 1,
       "mission_bonus_id": 1,
-      "mission_bonus_value": 5
+      "mission_bonus_value": 5,
+      "battle_bgm_id": 0,
+      "boss_bgm_id": 0
     }
   },
   "21": {
@@ -3141,7 +3277,9 @@
       "rareenemy_id": 33,
       "mission_bonus_type": 1,
       "mission_bonus_id": 1,
-      "mission_bonus_value": 5
+      "mission_bonus_value": 5,
+      "battle_bgm_id": 0,
+      "boss_bgm_id": 0
     },
     "73": {
       "id": 73,
@@ -3186,7 +3324,9 @@
       "rareenemy_id": 33,
       "mission_bonus_type": 1,
       "mission_bonus_id": 1,
-      "mission_bonus_value": 5
+      "mission_bonus_value": 5,
+      "battle_bgm_id": 0,
+      "boss_bgm_id": 0
     },
     "74": {
       "id": 74,
@@ -3231,7 +3371,9 @@
       "rareenemy_id": 33,
       "mission_bonus_type": 1,
       "mission_bonus_id": 1,
-      "mission_bonus_value": 5
+      "mission_bonus_value": 5,
+      "battle_bgm_id": 0,
+      "boss_bgm_id": 0
     }
   },
   "22": {
@@ -3278,7 +3420,9 @@
       "rareenemy_id": 33,
       "mission_bonus_type": 1,
       "mission_bonus_id": 1,
-      "mission_bonus_value": 5
+      "mission_bonus_value": 5,
+      "battle_bgm_id": 0,
+      "boss_bgm_id": 0
     },
     "76": {
       "id": 76,
@@ -3323,7 +3467,9 @@
       "rareenemy_id": 33,
       "mission_bonus_type": 1,
       "mission_bonus_id": 1,
-      "mission_bonus_value": 5
+      "mission_bonus_value": 5,
+      "battle_bgm_id": 0,
+      "boss_bgm_id": 0
     },
     "77": {
       "id": 77,
@@ -3368,7 +3514,9 @@
       "rareenemy_id": 33,
       "mission_bonus_type": 1,
       "mission_bonus_id": 1,
-      "mission_bonus_value": 5
+      "mission_bonus_value": 5,
+      "battle_bgm_id": 0,
+      "boss_bgm_id": 0
     }
   },
   "23": {
@@ -3415,7 +3563,9 @@
       "rareenemy_id": 33,
       "mission_bonus_type": 1,
       "mission_bonus_id": 1,
-      "mission_bonus_value": 5
+      "mission_bonus_value": 5,
+      "battle_bgm_id": 0,
+      "boss_bgm_id": 0
     },
     "79": {
       "id": 79,
@@ -3460,7 +3610,9 @@
       "rareenemy_id": 33,
       "mission_bonus_type": 1,
       "mission_bonus_id": 1,
-      "mission_bonus_value": 5
+      "mission_bonus_value": 5,
+      "battle_bgm_id": 0,
+      "boss_bgm_id": 0
     },
     "80": {
       "id": 80,
@@ -3505,7 +3657,9 @@
       "rareenemy_id": 33,
       "mission_bonus_type": 1,
       "mission_bonus_id": 1,
-      "mission_bonus_value": 5
+      "mission_bonus_value": 5,
+      "battle_bgm_id": 0,
+      "boss_bgm_id": 0
     },
     "81": {
       "id": 81,
@@ -3550,7 +3704,9 @@
       "rareenemy_id": 33,
       "mission_bonus_type": 1,
       "mission_bonus_id": 1,
-      "mission_bonus_value": 5
+      "mission_bonus_value": 5,
+      "battle_bgm_id": 0,
+      "boss_bgm_id": 0
     }
   },
   "24": {
@@ -3597,7 +3753,9 @@
       "rareenemy_id": 33,
       "mission_bonus_type": 1,
       "mission_bonus_id": 1,
-      "mission_bonus_value": 5
+      "mission_bonus_value": 5,
+      "battle_bgm_id": 0,
+      "boss_bgm_id": 0
     },
     "83": {
       "id": 83,
@@ -3642,7 +3800,9 @@
       "rareenemy_id": 33,
       "mission_bonus_type": 1,
       "mission_bonus_id": 1,
-      "mission_bonus_value": 5
+      "mission_bonus_value": 5,
+      "battle_bgm_id": 0,
+      "boss_bgm_id": 0
     },
     "84": {
       "id": 84,
@@ -3687,7 +3847,9 @@
       "rareenemy_id": 33,
       "mission_bonus_type": 1,
       "mission_bonus_id": 1,
-      "mission_bonus_value": 5
+      "mission_bonus_value": 5,
+      "battle_bgm_id": 0,
+      "boss_bgm_id": 0
     },
     "85": {
       "id": 85,
@@ -3732,7 +3894,9 @@
       "rareenemy_id": 33,
       "mission_bonus_type": 1,
       "mission_bonus_id": 1,
-      "mission_bonus_value": 5
+      "mission_bonus_value": 5,
+      "battle_bgm_id": 0,
+      "boss_bgm_id": 0
     },
     "86": {
       "id": 86,
@@ -3777,7 +3941,9 @@
       "rareenemy_id": 33,
       "mission_bonus_type": 1,
       "mission_bonus_id": 1,
-      "mission_bonus_value": 5
+      "mission_bonus_value": 5,
+      "battle_bgm_id": 0,
+      "boss_bgm_id": 0
     }
   },
   "26": {
@@ -3824,7 +3990,9 @@
       "rareenemy_id": 33,
       "mission_bonus_type": 1,
       "mission_bonus_id": 1,
-      "mission_bonus_value": 5
+      "mission_bonus_value": 5,
+      "battle_bgm_id": 0,
+      "boss_bgm_id": 0
     },
     "88": {
       "id": 88,
@@ -3869,7 +4037,9 @@
       "rareenemy_id": 33,
       "mission_bonus_type": 1,
       "mission_bonus_id": 1,
-      "mission_bonus_value": 5
+      "mission_bonus_value": 5,
+      "battle_bgm_id": 0,
+      "boss_bgm_id": 0
     },
     "89": {
       "id": 89,
@@ -3914,7 +4084,9 @@
       "rareenemy_id": 33,
       "mission_bonus_type": 1,
       "mission_bonus_id": 1,
-      "mission_bonus_value": 5
+      "mission_bonus_value": 5,
+      "battle_bgm_id": 0,
+      "boss_bgm_id": 0
     },
     "90": {
       "id": 90,
@@ -3959,7 +4131,9 @@
       "rareenemy_id": 33,
       "mission_bonus_type": 1,
       "mission_bonus_id": 1,
-      "mission_bonus_value": 5
+      "mission_bonus_value": 5,
+      "battle_bgm_id": 0,
+      "boss_bgm_id": 0
     },
     "91": {
       "id": 91,
@@ -4004,7 +4178,9 @@
       "rareenemy_id": 33,
       "mission_bonus_type": 1,
       "mission_bonus_id": 1,
-      "mission_bonus_value": 5
+      "mission_bonus_value": 5,
+      "battle_bgm_id": 0,
+      "boss_bgm_id": 0
     },
     "92": {
       "id": 92,
@@ -4049,7 +4225,9 @@
       "rareenemy_id": 33,
       "mission_bonus_type": 1,
       "mission_bonus_id": 1,
-      "mission_bonus_value": 5
+      "mission_bonus_value": 5,
+      "battle_bgm_id": 0,
+      "boss_bgm_id": 0
     }
   },
   "32": {
@@ -4096,7 +4274,9 @@
       "rareenemy_id": 33,
       "mission_bonus_type": 1,
       "mission_bonus_id": 1,
-      "mission_bonus_value": 5
+      "mission_bonus_value": 5,
+      "battle_bgm_id": 0,
+      "boss_bgm_id": 0
     }
   },
   "33": {
@@ -4143,7 +4323,9 @@
       "rareenemy_id": 33,
       "mission_bonus_type": 1,
       "mission_bonus_id": 1,
-      "mission_bonus_value": 5
+      "mission_bonus_value": 5,
+      "battle_bgm_id": 0,
+      "boss_bgm_id": 0
     }
   },
   "34": {
@@ -4190,7 +4372,9 @@
       "rareenemy_id": 33,
       "mission_bonus_type": 1,
       "mission_bonus_id": 1,
-      "mission_bonus_value": 5
+      "mission_bonus_value": 5,
+      "battle_bgm_id": 0,
+      "boss_bgm_id": 0
     }
   },
   "35": {
@@ -4237,7 +4421,9 @@
       "rareenemy_id": 33,
       "mission_bonus_type": 1,
       "mission_bonus_id": 1,
-      "mission_bonus_value": 5
+      "mission_bonus_value": 5,
+      "battle_bgm_id": 0,
+      "boss_bgm_id": 0
     }
   },
   "36": {
@@ -4284,7 +4470,9 @@
       "rareenemy_id": 33,
       "mission_bonus_type": 1,
       "mission_bonus_id": 1,
-      "mission_bonus_value": 5
+      "mission_bonus_value": 5,
+      "battle_bgm_id": 0,
+      "boss_bgm_id": 0
     }
   },
   "27": {
@@ -4331,7 +4519,9 @@
       "rareenemy_id": 33,
       "mission_bonus_type": 1,
       "mission_bonus_id": 1,
-      "mission_bonus_value": 5
+      "mission_bonus_value": 5,
+      "battle_bgm_id": 0,
+      "boss_bgm_id": 0
     }
   },
   "28": {
@@ -4378,7 +4568,9 @@
       "rareenemy_id": 33,
       "mission_bonus_type": 1,
       "mission_bonus_id": 1,
-      "mission_bonus_value": 5
+      "mission_bonus_value": 5,
+      "battle_bgm_id": 0,
+      "boss_bgm_id": 0
     }
   },
   "29": {
@@ -4425,7 +4617,9 @@
       "rareenemy_id": 33,
       "mission_bonus_type": 1,
       "mission_bonus_id": 1,
-      "mission_bonus_value": 5
+      "mission_bonus_value": 5,
+      "battle_bgm_id": 0,
+      "boss_bgm_id": 0
     }
   },
   "30": {
@@ -4472,7 +4666,9 @@
       "rareenemy_id": 33,
       "mission_bonus_type": 1,
       "mission_bonus_id": 1,
-      "mission_bonus_value": 5
+      "mission_bonus_value": 5,
+      "battle_bgm_id": 0,
+      "boss_bgm_id": 0
     }
   },
   "31": {
@@ -4519,7 +4715,9 @@
       "rareenemy_id": 33,
       "mission_bonus_type": 1,
       "mission_bonus_id": 1,
-      "mission_bonus_value": 5
+      "mission_bonus_value": 5,
+      "battle_bgm_id": 0,
+      "boss_bgm_id": 0
     }
   },
   "37": {
@@ -4566,7 +4764,9 @@
       "rareenemy_id": 33,
       "mission_bonus_type": 1,
       "mission_bonus_id": 1,
-      "mission_bonus_value": 5
+      "mission_bonus_value": 5,
+      "battle_bgm_id": 0,
+      "boss_bgm_id": 0
     },
     "104": {
       "id": 104,
@@ -4611,7 +4811,9 @@
       "rareenemy_id": 33,
       "mission_bonus_type": 1,
       "mission_bonus_id": 1,
-      "mission_bonus_value": 5
+      "mission_bonus_value": 5,
+      "battle_bgm_id": 0,
+      "boss_bgm_id": 0
     },
     "105": {
       "id": 105,
@@ -4656,7 +4858,9 @@
       "rareenemy_id": 33,
       "mission_bonus_type": 1,
       "mission_bonus_id": 1,
-      "mission_bonus_value": 5
+      "mission_bonus_value": 5,
+      "battle_bgm_id": 0,
+      "boss_bgm_id": 0
     },
     "106": {
       "id": 106,
@@ -4701,7 +4905,9 @@
       "rareenemy_id": 33,
       "mission_bonus_type": 1,
       "mission_bonus_id": 1,
-      "mission_bonus_value": 5
+      "mission_bonus_value": 5,
+      "battle_bgm_id": 0,
+      "boss_bgm_id": 0
     }
   },
   "38": {
@@ -4748,7 +4954,9 @@
       "rareenemy_id": 33,
       "mission_bonus_type": 1,
       "mission_bonus_id": 1,
-      "mission_bonus_value": 5
+      "mission_bonus_value": 5,
+      "battle_bgm_id": 0,
+      "boss_bgm_id": 0
     },
     "108": {
       "id": 108,
@@ -4793,7 +5001,9 @@
       "rareenemy_id": 33,
       "mission_bonus_type": 1,
       "mission_bonus_id": 1,
-      "mission_bonus_value": 5
+      "mission_bonus_value": 5,
+      "battle_bgm_id": 0,
+      "boss_bgm_id": 0
     },
     "109": {
       "id": 109,
@@ -4838,7 +5048,9 @@
       "rareenemy_id": 33,
       "mission_bonus_type": 1,
       "mission_bonus_id": 1,
-      "mission_bonus_value": 5
+      "mission_bonus_value": 5,
+      "battle_bgm_id": 0,
+      "boss_bgm_id": 0
     },
     "110": {
       "id": 110,
@@ -4883,7 +5095,9 @@
       "rareenemy_id": 33,
       "mission_bonus_type": 1,
       "mission_bonus_id": 1,
-      "mission_bonus_value": 5
+      "mission_bonus_value": 5,
+      "battle_bgm_id": 0,
+      "boss_bgm_id": 0
     }
   },
   "39": {
@@ -4930,7 +5144,9 @@
       "rareenemy_id": 33,
       "mission_bonus_type": 1,
       "mission_bonus_id": 1,
-      "mission_bonus_value": 5
+      "mission_bonus_value": 5,
+      "battle_bgm_id": 0,
+      "boss_bgm_id": 0
     },
     "112": {
       "id": 112,
@@ -4975,7 +5191,9 @@
       "rareenemy_id": 33,
       "mission_bonus_type": 1,
       "mission_bonus_id": 1,
-      "mission_bonus_value": 5
+      "mission_bonus_value": 5,
+      "battle_bgm_id": 0,
+      "boss_bgm_id": 0
     },
     "113": {
       "id": 113,
@@ -5020,7 +5238,9 @@
       "rareenemy_id": 33,
       "mission_bonus_type": 1,
       "mission_bonus_id": 1,
-      "mission_bonus_value": 5
+      "mission_bonus_value": 5,
+      "battle_bgm_id": 0,
+      "boss_bgm_id": 0
     },
     "114": {
       "id": 114,
@@ -5065,7 +5285,9 @@
       "rareenemy_id": 33,
       "mission_bonus_type": 1,
       "mission_bonus_id": 1,
-      "mission_bonus_value": 5
+      "mission_bonus_value": 5,
+      "battle_bgm_id": 0,
+      "boss_bgm_id": 0
     }
   },
   "40": {
@@ -5112,7 +5334,9 @@
       "rareenemy_id": 33,
       "mission_bonus_type": 1,
       "mission_bonus_id": 1,
-      "mission_bonus_value": 5
+      "mission_bonus_value": 5,
+      "battle_bgm_id": 0,
+      "boss_bgm_id": 0
     },
     "116": {
       "id": 116,
@@ -5157,7 +5381,9 @@
       "rareenemy_id": 33,
       "mission_bonus_type": 1,
       "mission_bonus_id": 1,
-      "mission_bonus_value": 5
+      "mission_bonus_value": 5,
+      "battle_bgm_id": 0,
+      "boss_bgm_id": 0
     },
     "117": {
       "id": 117,
@@ -5202,7 +5428,9 @@
       "rareenemy_id": 33,
       "mission_bonus_type": 1,
       "mission_bonus_id": 1,
-      "mission_bonus_value": 5
+      "mission_bonus_value": 5,
+      "battle_bgm_id": 0,
+      "boss_bgm_id": 0
     },
     "118": {
       "id": 118,
@@ -5247,7 +5475,9 @@
       "rareenemy_id": 33,
       "mission_bonus_type": 1,
       "mission_bonus_id": 1,
-      "mission_bonus_value": 5
+      "mission_bonus_value": 5,
+      "battle_bgm_id": 0,
+      "boss_bgm_id": 0
     }
   },
   "41": {
@@ -5294,7 +5524,9 @@
       "rareenemy_id": 33,
       "mission_bonus_type": 1,
       "mission_bonus_id": 1,
-      "mission_bonus_value": 5
+      "mission_bonus_value": 5,
+      "battle_bgm_id": 0,
+      "boss_bgm_id": 0
     },
     "120": {
       "id": 120,
@@ -5339,7 +5571,9 @@
       "rareenemy_id": 33,
       "mission_bonus_type": 1,
       "mission_bonus_id": 1,
-      "mission_bonus_value": 5
+      "mission_bonus_value": 5,
+      "battle_bgm_id": 0,
+      "boss_bgm_id": 0
     },
     "121": {
       "id": 121,
@@ -5384,7 +5618,9 @@
       "rareenemy_id": 33,
       "mission_bonus_type": 1,
       "mission_bonus_id": 1,
-      "mission_bonus_value": 5
+      "mission_bonus_value": 5,
+      "battle_bgm_id": 0,
+      "boss_bgm_id": 0
     },
     "122": {
       "id": 122,
@@ -5429,7 +5665,9 @@
       "rareenemy_id": 33,
       "mission_bonus_type": 1,
       "mission_bonus_id": 1,
-      "mission_bonus_value": 5
+      "mission_bonus_value": 5,
+      "battle_bgm_id": 0,
+      "boss_bgm_id": 0
     }
   },
   "42": {
@@ -5476,7 +5714,9 @@
       "rareenemy_id": 33,
       "mission_bonus_type": 1,
       "mission_bonus_id": 1,
-      "mission_bonus_value": 5
+      "mission_bonus_value": 5,
+      "battle_bgm_id": 0,
+      "boss_bgm_id": 0
     },
     "124": {
       "id": 124,
@@ -5521,7 +5761,9 @@
       "rareenemy_id": 33,
       "mission_bonus_type": 1,
       "mission_bonus_id": 1,
-      "mission_bonus_value": 5
+      "mission_bonus_value": 5,
+      "battle_bgm_id": 0,
+      "boss_bgm_id": 0
     },
     "125": {
       "id": 125,
@@ -5566,7 +5808,9 @@
       "rareenemy_id": 33,
       "mission_bonus_type": 1,
       "mission_bonus_id": 1,
-      "mission_bonus_value": 5
+      "mission_bonus_value": 5,
+      "battle_bgm_id": 0,
+      "boss_bgm_id": 0
     },
     "126": {
       "id": 126,
@@ -5611,7 +5855,9 @@
       "rareenemy_id": 33,
       "mission_bonus_type": 1,
       "mission_bonus_id": 1,
-      "mission_bonus_value": 5
+      "mission_bonus_value": 5,
+      "battle_bgm_id": 0,
+      "boss_bgm_id": 0
     }
   },
   "43": {
@@ -5658,7 +5904,9 @@
       "rareenemy_id": 33,
       "mission_bonus_type": 1,
       "mission_bonus_id": 1,
-      "mission_bonus_value": 5
+      "mission_bonus_value": 5,
+      "battle_bgm_id": 0,
+      "boss_bgm_id": 0
     },
     "128": {
       "id": 128,
@@ -5703,7 +5951,9 @@
       "rareenemy_id": 33,
       "mission_bonus_type": 1,
       "mission_bonus_id": 1,
-      "mission_bonus_value": 5
+      "mission_bonus_value": 5,
+      "battle_bgm_id": 0,
+      "boss_bgm_id": 0
     },
     "129": {
       "id": 129,
@@ -5748,7 +5998,9 @@
       "rareenemy_id": 33,
       "mission_bonus_type": 1,
       "mission_bonus_id": 1,
-      "mission_bonus_value": 5
+      "mission_bonus_value": 5,
+      "battle_bgm_id": 0,
+      "boss_bgm_id": 0
     },
     "130": {
       "id": 130,
@@ -5793,7 +6045,9 @@
       "rareenemy_id": 33,
       "mission_bonus_type": 1,
       "mission_bonus_id": 1,
-      "mission_bonus_value": 5
+      "mission_bonus_value": 5,
+      "battle_bgm_id": 0,
+      "boss_bgm_id": 0
     }
   },
   "44": {
@@ -5840,7 +6094,9 @@
       "rareenemy_id": 33,
       "mission_bonus_type": 1,
       "mission_bonus_id": 1,
-      "mission_bonus_value": 5
+      "mission_bonus_value": 5,
+      "battle_bgm_id": 0,
+      "boss_bgm_id": 0
     },
     "132": {
       "id": 132,
@@ -5885,7 +6141,9 @@
       "rareenemy_id": 33,
       "mission_bonus_type": 1,
       "mission_bonus_id": 1,
-      "mission_bonus_value": 5
+      "mission_bonus_value": 5,
+      "battle_bgm_id": 0,
+      "boss_bgm_id": 0
     },
     "133": {
       "id": 133,
@@ -5930,7 +6188,9 @@
       "rareenemy_id": 33,
       "mission_bonus_type": 1,
       "mission_bonus_id": 1,
-      "mission_bonus_value": 5
+      "mission_bonus_value": 5,
+      "battle_bgm_id": 0,
+      "boss_bgm_id": 0
     }
   },
   "45": {
@@ -5977,7 +6237,9 @@
       "rareenemy_id": 33,
       "mission_bonus_type": 1,
       "mission_bonus_id": 1,
-      "mission_bonus_value": 5
+      "mission_bonus_value": 5,
+      "battle_bgm_id": 0,
+      "boss_bgm_id": 0
     },
     "135": {
       "id": 135,
@@ -6022,7 +6284,9 @@
       "rareenemy_id": 33,
       "mission_bonus_type": 1,
       "mission_bonus_id": 1,
-      "mission_bonus_value": 5
+      "mission_bonus_value": 5,
+      "battle_bgm_id": 0,
+      "boss_bgm_id": 0
     },
     "136": {
       "id": 136,
@@ -6067,7 +6331,9 @@
       "rareenemy_id": 33,
       "mission_bonus_type": 1,
       "mission_bonus_id": 1,
-      "mission_bonus_value": 5
+      "mission_bonus_value": 5,
+      "battle_bgm_id": 0,
+      "boss_bgm_id": 0
     }
   },
   "46": {
@@ -6114,7 +6380,9 @@
       "rareenemy_id": 33,
       "mission_bonus_type": 1,
       "mission_bonus_id": 1,
-      "mission_bonus_value": 5
+      "mission_bonus_value": 5,
+      "battle_bgm_id": 0,
+      "boss_bgm_id": 0
     },
     "138": {
       "id": 138,
@@ -6159,7 +6427,9 @@
       "rareenemy_id": 33,
       "mission_bonus_type": 1,
       "mission_bonus_id": 1,
-      "mission_bonus_value": 5
+      "mission_bonus_value": 5,
+      "battle_bgm_id": 0,
+      "boss_bgm_id": 0
     },
     "139": {
       "id": 139,
@@ -6204,7 +6474,9 @@
       "rareenemy_id": 33,
       "mission_bonus_type": 1,
       "mission_bonus_id": 1,
-      "mission_bonus_value": 5
+      "mission_bonus_value": 5,
+      "battle_bgm_id": 0,
+      "boss_bgm_id": 0
     }
   },
   "47": {
@@ -6251,7 +6523,9 @@
       "rareenemy_id": 33,
       "mission_bonus_type": 1,
       "mission_bonus_id": 1,
-      "mission_bonus_value": 5
+      "mission_bonus_value": 5,
+      "battle_bgm_id": 0,
+      "boss_bgm_id": 0
     },
     "141": {
       "id": 141,
@@ -6296,7 +6570,9 @@
       "rareenemy_id": 33,
       "mission_bonus_type": 1,
       "mission_bonus_id": 1,
-      "mission_bonus_value": 5
+      "mission_bonus_value": 5,
+      "battle_bgm_id": 0,
+      "boss_bgm_id": 0
     },
     "142": {
       "id": 142,
@@ -6341,7 +6617,9 @@
       "rareenemy_id": 33,
       "mission_bonus_type": 1,
       "mission_bonus_id": 1,
-      "mission_bonus_value": 5
+      "mission_bonus_value": 5,
+      "battle_bgm_id": 0,
+      "boss_bgm_id": 0
     }
   },
   "48": {
@@ -6388,7 +6666,9 @@
       "rareenemy_id": 33,
       "mission_bonus_type": 1,
       "mission_bonus_id": 1,
-      "mission_bonus_value": 5
+      "mission_bonus_value": 5,
+      "battle_bgm_id": 0,
+      "boss_bgm_id": 0
     },
     "144": {
       "id": 144,
@@ -6433,7 +6713,9 @@
       "rareenemy_id": 33,
       "mission_bonus_type": 1,
       "mission_bonus_id": 1,
-      "mission_bonus_value": 5
+      "mission_bonus_value": 5,
+      "battle_bgm_id": 0,
+      "boss_bgm_id": 0
     },
     "145": {
       "id": 145,
@@ -6478,7 +6760,9 @@
       "rareenemy_id": 33,
       "mission_bonus_type": 1,
       "mission_bonus_id": 1,
-      "mission_bonus_value": 5
+      "mission_bonus_value": 5,
+      "battle_bgm_id": 0,
+      "boss_bgm_id": 0
     }
   },
   "51": {
@@ -6525,7 +6809,9 @@
       "rareenemy_id": 33,
       "mission_bonus_type": 1,
       "mission_bonus_id": 1,
-      "mission_bonus_value": 5
+      "mission_bonus_value": 5,
+      "battle_bgm_id": 0,
+      "boss_bgm_id": 0
     },
     "147": {
       "id": 147,
@@ -6570,7 +6856,9 @@
       "rareenemy_id": 33,
       "mission_bonus_type": 1,
       "mission_bonus_id": 1,
-      "mission_bonus_value": 5
+      "mission_bonus_value": 5,
+      "battle_bgm_id": 0,
+      "boss_bgm_id": 0
     },
     "148": {
       "id": 148,
@@ -6615,7 +6903,9 @@
       "rareenemy_id": 33,
       "mission_bonus_type": 1,
       "mission_bonus_id": 1,
-      "mission_bonus_value": 5
+      "mission_bonus_value": 5,
+      "battle_bgm_id": 0,
+      "boss_bgm_id": 0
     },
     "149": {
       "id": 149,
@@ -6660,7 +6950,9 @@
       "rareenemy_id": 33,
       "mission_bonus_type": 1,
       "mission_bonus_id": 1,
-      "mission_bonus_value": 5
+      "mission_bonus_value": 5,
+      "battle_bgm_id": 0,
+      "boss_bgm_id": 0
     }
   },
   "52": {
@@ -6707,7 +6999,9 @@
       "rareenemy_id": 33,
       "mission_bonus_type": 1,
       "mission_bonus_id": 1,
-      "mission_bonus_value": 5
+      "mission_bonus_value": 5,
+      "battle_bgm_id": 0,
+      "boss_bgm_id": 0
     },
     "151": {
       "id": 151,
@@ -6752,7 +7046,9 @@
       "rareenemy_id": 33,
       "mission_bonus_type": 1,
       "mission_bonus_id": 1,
-      "mission_bonus_value": 5
+      "mission_bonus_value": 5,
+      "battle_bgm_id": 0,
+      "boss_bgm_id": 0
     },
     "152": {
       "id": 152,
@@ -6797,7 +7093,9 @@
       "rareenemy_id": 33,
       "mission_bonus_type": 1,
       "mission_bonus_id": 1,
-      "mission_bonus_value": 5
+      "mission_bonus_value": 5,
+      "battle_bgm_id": 0,
+      "boss_bgm_id": 0
     },
     "153": {
       "id": 153,
@@ -6842,7 +7140,9 @@
       "rareenemy_id": 33,
       "mission_bonus_type": 1,
       "mission_bonus_id": 1,
-      "mission_bonus_value": 5
+      "mission_bonus_value": 5,
+      "battle_bgm_id": 0,
+      "boss_bgm_id": 0
     }
   },
   "53": {
@@ -6889,7 +7189,9 @@
       "rareenemy_id": 33,
       "mission_bonus_type": 1,
       "mission_bonus_id": 1,
-      "mission_bonus_value": 5
+      "mission_bonus_value": 5,
+      "battle_bgm_id": 0,
+      "boss_bgm_id": 0
     },
     "155": {
       "id": 155,
@@ -6934,7 +7236,9 @@
       "rareenemy_id": 33,
       "mission_bonus_type": 1,
       "mission_bonus_id": 1,
-      "mission_bonus_value": 5
+      "mission_bonus_value": 5,
+      "battle_bgm_id": 0,
+      "boss_bgm_id": 0
     },
     "156": {
       "id": 156,
@@ -6979,7 +7283,9 @@
       "rareenemy_id": 33,
       "mission_bonus_type": 1,
       "mission_bonus_id": 1,
-      "mission_bonus_value": 5
+      "mission_bonus_value": 5,
+      "battle_bgm_id": 0,
+      "boss_bgm_id": 0
     },
     "157": {
       "id": 157,
@@ -7024,7 +7330,9 @@
       "rareenemy_id": 33,
       "mission_bonus_type": 1,
       "mission_bonus_id": 1,
-      "mission_bonus_value": 5
+      "mission_bonus_value": 5,
+      "battle_bgm_id": 0,
+      "boss_bgm_id": 0
     }
   },
   "54": {
@@ -7071,7 +7379,9 @@
       "rareenemy_id": 33,
       "mission_bonus_type": 1,
       "mission_bonus_id": 1,
-      "mission_bonus_value": 5
+      "mission_bonus_value": 5,
+      "battle_bgm_id": 0,
+      "boss_bgm_id": 0
     },
     "159": {
       "id": 159,
@@ -7116,7 +7426,9 @@
       "rareenemy_id": 33,
       "mission_bonus_type": 1,
       "mission_bonus_id": 1,
-      "mission_bonus_value": 5
+      "mission_bonus_value": 5,
+      "battle_bgm_id": 0,
+      "boss_bgm_id": 0
     },
     "160": {
       "id": 160,
@@ -7161,7 +7473,9 @@
       "rareenemy_id": 33,
       "mission_bonus_type": 1,
       "mission_bonus_id": 1,
-      "mission_bonus_value": 5
+      "mission_bonus_value": 5,
+      "battle_bgm_id": 0,
+      "boss_bgm_id": 0
     },
     "161": {
       "id": 161,
@@ -7206,7 +7520,9 @@
       "rareenemy_id": 33,
       "mission_bonus_type": 1,
       "mission_bonus_id": 1,
-      "mission_bonus_value": 5
+      "mission_bonus_value": 5,
+      "battle_bgm_id": 0,
+      "boss_bgm_id": 0
     }
   },
   "55": {
@@ -7253,7 +7569,9 @@
       "rareenemy_id": 33,
       "mission_bonus_type": 1,
       "mission_bonus_id": 1,
-      "mission_bonus_value": 5
+      "mission_bonus_value": 5,
+      "battle_bgm_id": 0,
+      "boss_bgm_id": 0
     },
     "163": {
       "id": 163,
@@ -7298,7 +7616,9 @@
       "rareenemy_id": 33,
       "mission_bonus_type": 1,
       "mission_bonus_id": 1,
-      "mission_bonus_value": 5
+      "mission_bonus_value": 5,
+      "battle_bgm_id": 0,
+      "boss_bgm_id": 0
     },
     "164": {
       "id": 164,
@@ -7343,7 +7663,9 @@
       "rareenemy_id": 33,
       "mission_bonus_type": 1,
       "mission_bonus_id": 1,
-      "mission_bonus_value": 5
+      "mission_bonus_value": 5,
+      "battle_bgm_id": 0,
+      "boss_bgm_id": 0
     },
     "165": {
       "id": 165,
@@ -7388,7 +7710,9 @@
       "rareenemy_id": 33,
       "mission_bonus_type": 1,
       "mission_bonus_id": 1,
-      "mission_bonus_value": 5
+      "mission_bonus_value": 5,
+      "battle_bgm_id": 0,
+      "boss_bgm_id": 0
     }
   },
   "56": {
@@ -7435,7 +7759,9 @@
       "rareenemy_id": 33,
       "mission_bonus_type": 1,
       "mission_bonus_id": 1,
-      "mission_bonus_value": 5
+      "mission_bonus_value": 5,
+      "battle_bgm_id": 0,
+      "boss_bgm_id": 0
     },
     "167": {
       "id": 167,
@@ -7480,7 +7806,9 @@
       "rareenemy_id": 33,
       "mission_bonus_type": 1,
       "mission_bonus_id": 1,
-      "mission_bonus_value": 5
+      "mission_bonus_value": 5,
+      "battle_bgm_id": 0,
+      "boss_bgm_id": 0
     },
     "168": {
       "id": 168,
@@ -7525,7 +7853,9 @@
       "rareenemy_id": 33,
       "mission_bonus_type": 1,
       "mission_bonus_id": 1,
-      "mission_bonus_value": 5
+      "mission_bonus_value": 5,
+      "battle_bgm_id": 0,
+      "boss_bgm_id": 0
     },
     "169": {
       "id": 169,
@@ -7570,7 +7900,9 @@
       "rareenemy_id": 33,
       "mission_bonus_type": 1,
       "mission_bonus_id": 1,
-      "mission_bonus_value": 5
+      "mission_bonus_value": 5,
+      "battle_bgm_id": 0,
+      "boss_bgm_id": 0
     }
   },
   "57": {
@@ -7617,7 +7949,9 @@
       "rareenemy_id": 33,
       "mission_bonus_type": 1,
       "mission_bonus_id": 1,
-      "mission_bonus_value": 5
+      "mission_bonus_value": 5,
+      "battle_bgm_id": 0,
+      "boss_bgm_id": 0
     },
     "171": {
       "id": 171,
@@ -7662,7 +7996,9 @@
       "rareenemy_id": 33,
       "mission_bonus_type": 1,
       "mission_bonus_id": 1,
-      "mission_bonus_value": 5
+      "mission_bonus_value": 5,
+      "battle_bgm_id": 0,
+      "boss_bgm_id": 0
     },
     "172": {
       "id": 172,
@@ -7707,7 +8043,9 @@
       "rareenemy_id": 33,
       "mission_bonus_type": 1,
       "mission_bonus_id": 1,
-      "mission_bonus_value": 5
+      "mission_bonus_value": 5,
+      "battle_bgm_id": 0,
+      "boss_bgm_id": 0
     },
     "173": {
       "id": 173,
@@ -7752,7 +8090,9 @@
       "rareenemy_id": 33,
       "mission_bonus_type": 1,
       "mission_bonus_id": 1,
-      "mission_bonus_value": 5
+      "mission_bonus_value": 5,
+      "battle_bgm_id": 0,
+      "boss_bgm_id": 0
     }
   },
   "58": {
@@ -7799,7 +8139,9 @@
       "rareenemy_id": 33,
       "mission_bonus_type": 1,
       "mission_bonus_id": 1,
-      "mission_bonus_value": 5
+      "mission_bonus_value": 5,
+      "battle_bgm_id": 0,
+      "boss_bgm_id": 0
     },
     "175": {
       "id": 175,
@@ -7844,7 +8186,9 @@
       "rareenemy_id": 33,
       "mission_bonus_type": 1,
       "mission_bonus_id": 1,
-      "mission_bonus_value": 5
+      "mission_bonus_value": 5,
+      "battle_bgm_id": 0,
+      "boss_bgm_id": 0
     }
   },
   "59": {
@@ -7891,7 +8235,9 @@
       "rareenemy_id": 33,
       "mission_bonus_type": 1,
       "mission_bonus_id": 1,
-      "mission_bonus_value": 5
+      "mission_bonus_value": 5,
+      "battle_bgm_id": 0,
+      "boss_bgm_id": 0
     },
     "177": {
       "id": 177,
@@ -7936,7 +8282,9 @@
       "rareenemy_id": 33,
       "mission_bonus_type": 1,
       "mission_bonus_id": 1,
-      "mission_bonus_value": 5
+      "mission_bonus_value": 5,
+      "battle_bgm_id": 0,
+      "boss_bgm_id": 0
     },
     "178": {
       "id": 178,
@@ -7981,7 +8329,9 @@
       "rareenemy_id": 33,
       "mission_bonus_type": 1,
       "mission_bonus_id": 1,
-      "mission_bonus_value": 5
+      "mission_bonus_value": 5,
+      "battle_bgm_id": 0,
+      "boss_bgm_id": 0
     }
   },
   "60": {
@@ -8028,7 +8378,9 @@
       "rareenemy_id": 33,
       "mission_bonus_type": 1,
       "mission_bonus_id": 1,
-      "mission_bonus_value": 20
+      "mission_bonus_value": 20,
+      "battle_bgm_id": 0,
+      "boss_bgm_id": 0
     },
     "180": {
       "id": 180,
@@ -8073,7 +8425,9 @@
       "rareenemy_id": 33,
       "mission_bonus_type": 1,
       "mission_bonus_id": 1,
-      "mission_bonus_value": 20
+      "mission_bonus_value": 20,
+      "battle_bgm_id": 0,
+      "boss_bgm_id": 0
     },
     "181": {
       "id": 181,
@@ -8118,7 +8472,9 @@
       "rareenemy_id": 33,
       "mission_bonus_type": 1,
       "mission_bonus_id": 1,
-      "mission_bonus_value": 20
+      "mission_bonus_value": 20,
+      "battle_bgm_id": 0,
+      "boss_bgm_id": 0
     },
     "182": {
       "id": 182,
@@ -8163,7 +8519,9 @@
       "rareenemy_id": 33,
       "mission_bonus_type": 1,
       "mission_bonus_id": 1,
-      "mission_bonus_value": 20
+      "mission_bonus_value": 20,
+      "battle_bgm_id": 0,
+      "boss_bgm_id": 0
     },
     "183": {
       "id": 183,
@@ -8208,7 +8566,9 @@
       "rareenemy_id": 33,
       "mission_bonus_type": 1,
       "mission_bonus_id": 1,
-      "mission_bonus_value": 20
+      "mission_bonus_value": 20,
+      "battle_bgm_id": 0,
+      "boss_bgm_id": 0
     },
     "184": {
       "id": 184,
@@ -8253,7 +8613,9 @@
       "rareenemy_id": 33,
       "mission_bonus_type": 1,
       "mission_bonus_id": 1,
-      "mission_bonus_value": 20
+      "mission_bonus_value": 20,
+      "battle_bgm_id": 0,
+      "boss_bgm_id": 0
     },
     "185": {
       "id": 185,
@@ -8298,7 +8660,9 @@
       "rareenemy_id": 33,
       "mission_bonus_type": 1,
       "mission_bonus_id": 1,
-      "mission_bonus_value": 20
+      "mission_bonus_value": 20,
+      "battle_bgm_id": 0,
+      "boss_bgm_id": 0
     },
     "186": {
       "id": 186,
@@ -8343,7 +8707,9 @@
       "rareenemy_id": 33,
       "mission_bonus_type": 1,
       "mission_bonus_id": 1,
-      "mission_bonus_value": 20
+      "mission_bonus_value": 20,
+      "battle_bgm_id": 0,
+      "boss_bgm_id": 0
     },
     "187": {
       "id": 187,
@@ -8388,7 +8754,9 @@
       "rareenemy_id": 33,
       "mission_bonus_type": 1,
       "mission_bonus_id": 1,
-      "mission_bonus_value": 20
+      "mission_bonus_value": 20,
+      "battle_bgm_id": 0,
+      "boss_bgm_id": 0
     },
     "188": {
       "id": 188,
@@ -8433,7 +8801,9 @@
       "rareenemy_id": 33,
       "mission_bonus_type": 1,
       "mission_bonus_id": 1,
-      "mission_bonus_value": 20
+      "mission_bonus_value": 20,
+      "battle_bgm_id": 0,
+      "boss_bgm_id": 0
     },
     "189": {
       "id": 189,
@@ -8478,7 +8848,9 @@
       "rareenemy_id": 33,
       "mission_bonus_type": 1,
       "mission_bonus_id": 1,
-      "mission_bonus_value": 20
+      "mission_bonus_value": 20,
+      "battle_bgm_id": 0,
+      "boss_bgm_id": 0
     }
   },
   "61": {
@@ -8525,7 +8897,9 @@
       "rareenemy_id": 33,
       "mission_bonus_type": 6,
       "mission_bonus_id": 1,
-      "mission_bonus_value": 5
+      "mission_bonus_value": 5,
+      "battle_bgm_id": 0,
+      "boss_bgm_id": 0
     },
     "191": {
       "id": 191,
@@ -8570,7 +8944,9 @@
       "rareenemy_id": 33,
       "mission_bonus_type": 6,
       "mission_bonus_id": 1,
-      "mission_bonus_value": 5
+      "mission_bonus_value": 5,
+      "battle_bgm_id": 0,
+      "boss_bgm_id": 0
     },
     "192": {
       "id": 192,
@@ -8615,7 +8991,9 @@
       "rareenemy_id": 33,
       "mission_bonus_type": 6,
       "mission_bonus_id": 1,
-      "mission_bonus_value": 5
+      "mission_bonus_value": 5,
+      "battle_bgm_id": 0,
+      "boss_bgm_id": 0
     }
   },
   "62": {
@@ -8662,7 +9040,9 @@
       "rareenemy_id": 33,
       "mission_bonus_type": 1,
       "mission_bonus_id": 1,
-      "mission_bonus_value": 5
+      "mission_bonus_value": 5,
+      "battle_bgm_id": 0,
+      "boss_bgm_id": 0
     },
     "194": {
       "id": 194,
@@ -8707,7 +9087,9 @@
       "rareenemy_id": 33,
       "mission_bonus_type": 1,
       "mission_bonus_id": 1,
-      "mission_bonus_value": 5
+      "mission_bonus_value": 5,
+      "battle_bgm_id": 0,
+      "boss_bgm_id": 0
     },
     "195": {
       "id": 195,
@@ -8752,7 +9134,9 @@
       "rareenemy_id": 33,
       "mission_bonus_type": 1,
       "mission_bonus_id": 1,
-      "mission_bonus_value": 5
+      "mission_bonus_value": 5,
+      "battle_bgm_id": 0,
+      "boss_bgm_id": 0
     }
   },
   "63": {
@@ -8799,7 +9183,9 @@
       "rareenemy_id": 33,
       "mission_bonus_type": 1,
       "mission_bonus_id": 1,
-      "mission_bonus_value": 5
+      "mission_bonus_value": 5,
+      "battle_bgm_id": 0,
+      "boss_bgm_id": 0
     },
     "197": {
       "id": 197,
@@ -8844,7 +9230,9 @@
       "rareenemy_id": 33,
       "mission_bonus_type": 1,
       "mission_bonus_id": 1,
-      "mission_bonus_value": 5
+      "mission_bonus_value": 5,
+      "battle_bgm_id": 0,
+      "boss_bgm_id": 0
     },
     "198": {
       "id": 198,
@@ -8889,7 +9277,9 @@
       "rareenemy_id": 33,
       "mission_bonus_type": 1,
       "mission_bonus_id": 1,
-      "mission_bonus_value": 5
+      "mission_bonus_value": 5,
+      "battle_bgm_id": 0,
+      "boss_bgm_id": 0
     }
   },
   "64": {
@@ -8936,7 +9326,9 @@
       "rareenemy_id": 33,
       "mission_bonus_type": 1,
       "mission_bonus_id": 1,
-      "mission_bonus_value": 5
+      "mission_bonus_value": 5,
+      "battle_bgm_id": 0,
+      "boss_bgm_id": 0
     },
     "200": {
       "id": 200,
@@ -8981,7 +9373,9 @@
       "rareenemy_id": 33,
       "mission_bonus_type": 1,
       "mission_bonus_id": 1,
-      "mission_bonus_value": 5
+      "mission_bonus_value": 5,
+      "battle_bgm_id": 0,
+      "boss_bgm_id": 0
     },
     "201": {
       "id": 201,
@@ -9026,7 +9420,9 @@
       "rareenemy_id": 33,
       "mission_bonus_type": 1,
       "mission_bonus_id": 1,
-      "mission_bonus_value": 5
+      "mission_bonus_value": 5,
+      "battle_bgm_id": 0,
+      "boss_bgm_id": 0
     },
     "202": {
       "id": 202,
@@ -9071,7 +9467,9 @@
       "rareenemy_id": 33,
       "mission_bonus_type": 1,
       "mission_bonus_id": 1,
-      "mission_bonus_value": 5
+      "mission_bonus_value": 5,
+      "battle_bgm_id": 0,
+      "boss_bgm_id": 0
     }
   },
   "65": {
@@ -9118,7 +9516,9 @@
       "rareenemy_id": 33,
       "mission_bonus_type": 1,
       "mission_bonus_id": 1,
-      "mission_bonus_value": 5
+      "mission_bonus_value": 5,
+      "battle_bgm_id": 0,
+      "boss_bgm_id": 0
     },
     "204": {
       "id": 204,
@@ -9163,7 +9563,9 @@
       "rareenemy_id": 33,
       "mission_bonus_type": 1,
       "mission_bonus_id": 1,
-      "mission_bonus_value": 5
+      "mission_bonus_value": 5,
+      "battle_bgm_id": 0,
+      "boss_bgm_id": 0
     },
     "205": {
       "id": 205,
@@ -9208,7 +9610,9 @@
       "rareenemy_id": 33,
       "mission_bonus_type": 1,
       "mission_bonus_id": 1,
-      "mission_bonus_value": 5
+      "mission_bonus_value": 5,
+      "battle_bgm_id": 0,
+      "boss_bgm_id": 0
     },
     "206": {
       "id": 206,
@@ -9253,7 +9657,9 @@
       "rareenemy_id": 33,
       "mission_bonus_type": 1,
       "mission_bonus_id": 1,
-      "mission_bonus_value": 5
+      "mission_bonus_value": 5,
+      "battle_bgm_id": 0,
+      "boss_bgm_id": 0
     },
     "207": {
       "id": 207,
@@ -9298,7 +9704,2060 @@
       "rareenemy_id": 33,
       "mission_bonus_type": 6,
       "mission_bonus_id": 1,
-      "mission_bonus_value": 3
+      "mission_bonus_value": 3,
+      "battle_bgm_id": 0,
+      "boss_bgm_id": 0
+    }
+  },
+  "66": {
+    "208": {
+      "id": 208,
+      "priority": 7,
+      "event_id": 66,
+      "level": 2,
+      "name": "深淵の炎　中級（推奨LV60）",
+      "auto_disable": 0,
+      "unlock_quest_id": 0,
+      "required_lv": 1,
+      "continue_limit": 0,
+      "heart_limit": 3,
+      "bg_id": 3,
+      "exp": 1478,
+      "multi_exp": 60,
+      "job_exp": 20,
+      "raid_point": 0,
+      "crystal": 29,
+      "time_limit": 420,
+      "speedclear": 120,
+      "speedclear_rare": 3,
+      "zako_hp": 160,
+      "zako_atk": 160,
+      "mid_hp": 400,
+      "mid_atk": 350,
+      "mid_break": 70,
+      "boss_hp": 1200,
+      "boss_atk": 500,
+      "boss_break": 100,
+      "stamina": 20,
+      "zako01_id": 2001,
+      "zako02_id": 0,
+      "zako03_id": 0,
+      "zako04_id": 0,
+      "zako05_id": 0,
+      "mid01_id": 2003,
+      "mid02_id": 0,
+      "mid03_id": 0,
+      "mid04_id": 0,
+      "boss01_id": 2004,
+      "boss02_id": 0,
+      "rareenemy_id": 33,
+      "mission_bonus_type": 1,
+      "mission_bonus_id": 1,
+      "mission_bonus_value": 20,
+      "battle_bgm_id": 0,
+      "boss_bgm_id": 0
+    },
+    "209": {
+      "id": 209,
+      "priority": 6,
+      "event_id": 66,
+      "level": 3,
+      "name": "深淵の炎　上級1（推奨LV70）",
+      "auto_disable": 0,
+      "unlock_quest_id": 208,
+      "required_lv": 1,
+      "continue_limit": 0,
+      "heart_limit": 3,
+      "bg_id": 3,
+      "exp": 2278,
+      "multi_exp": 85,
+      "job_exp": 30,
+      "raid_point": 0,
+      "crystal": 43,
+      "time_limit": 420,
+      "speedclear": 120,
+      "speedclear_rare": 3,
+      "zako_hp": 200,
+      "zako_atk": 200,
+      "mid_hp": 900,
+      "mid_atk": 600,
+      "mid_break": 60,
+      "boss_hp": 3500,
+      "boss_atk": 700,
+      "boss_break": 130,
+      "stamina": 30,
+      "zako01_id": 54,
+      "zako02_id": 0,
+      "zako03_id": 0,
+      "zako04_id": 0,
+      "zako05_id": 0,
+      "mid01_id": 56,
+      "mid02_id": 0,
+      "mid03_id": 0,
+      "mid04_id": 0,
+      "boss01_id": 56,
+      "boss02_id": 0,
+      "rareenemy_id": 33,
+      "mission_bonus_type": 1,
+      "mission_bonus_id": 1,
+      "mission_bonus_value": 20,
+      "battle_bgm_id": 0,
+      "boss_bgm_id": 0
+    },
+    "210": {
+      "id": 210,
+      "priority": 5,
+      "event_id": 66,
+      "level": 3,
+      "name": "深淵の炎　上級2（推奨LV80）",
+      "auto_disable": 0,
+      "unlock_quest_id": 209,
+      "required_lv": 1,
+      "continue_limit": 0,
+      "heart_limit": 3,
+      "bg_id": 3,
+      "exp": 2278,
+      "multi_exp": 85,
+      "job_exp": 30,
+      "raid_point": 0,
+      "crystal": 43,
+      "time_limit": 420,
+      "speedclear": 120,
+      "speedclear_rare": 3,
+      "zako_hp": 230,
+      "zako_atk": 230,
+      "mid_hp": 1000,
+      "mid_atk": 600,
+      "mid_break": 60,
+      "boss_hp": 3500,
+      "boss_atk": 750,
+      "boss_break": 140,
+      "stamina": 30,
+      "zako01_id": 40,
+      "zako02_id": 0,
+      "zako03_id": 0,
+      "zako04_id": 0,
+      "zako05_id": 0,
+      "mid01_id": 45,
+      "mid02_id": 0,
+      "mid03_id": 0,
+      "mid04_id": 0,
+      "boss01_id": 2050,
+      "boss02_id": 0,
+      "rareenemy_id": 33,
+      "mission_bonus_type": 1,
+      "mission_bonus_id": 1,
+      "mission_bonus_value": 20,
+      "battle_bgm_id": 0,
+      "boss_bgm_id": 0
+    },
+    "211": {
+      "id": 211,
+      "priority": 4,
+      "event_id": 66,
+      "level": 3,
+      "name": "深淵の炎　上級3（推奨LV90）",
+      "auto_disable": 0,
+      "unlock_quest_id": 210,
+      "required_lv": 1,
+      "continue_limit": 0,
+      "heart_limit": 3,
+      "bg_id": 3,
+      "exp": 2278,
+      "multi_exp": 85,
+      "job_exp": 30,
+      "raid_point": 0,
+      "crystal": 43,
+      "time_limit": 420,
+      "speedclear": 120,
+      "speedclear_rare": 3,
+      "zako_hp": 250,
+      "zako_atk": 250,
+      "mid_hp": 1200,
+      "mid_atk": 800,
+      "mid_break": 70,
+      "boss_hp": 6500,
+      "boss_atk": 1050,
+      "boss_break": 160,
+      "stamina": 30,
+      "zako01_id": 61,
+      "zako02_id": 0,
+      "zako03_id": 0,
+      "zako04_id": 0,
+      "zako05_id": 0,
+      "mid01_id": 63,
+      "mid02_id": 0,
+      "mid03_id": 0,
+      "mid04_id": 0,
+      "boss01_id": 3065,
+      "boss02_id": 0,
+      "rareenemy_id": 33,
+      "mission_bonus_type": 1,
+      "mission_bonus_id": 1,
+      "mission_bonus_value": 20,
+      "battle_bgm_id": 0,
+      "boss_bgm_id": 0
+    },
+    "212": {
+      "id": 212,
+      "priority": 3,
+      "event_id": 66,
+      "level": 4,
+      "name": "深淵の炎　超級1（推奨LV100）",
+      "auto_disable": 0,
+      "unlock_quest_id": 211,
+      "required_lv": 1,
+      "continue_limit": 0,
+      "heart_limit": 3,
+      "bg_id": 3,
+      "exp": 3105,
+      "multi_exp": 120,
+      "job_exp": 40,
+      "raid_point": 0,
+      "crystal": 82,
+      "time_limit": 420,
+      "speedclear": 120,
+      "speedclear_rare": 3,
+      "zako_hp": 280,
+      "zako_atk": 280,
+      "mid_hp": 10000,
+      "mid_atk": 1150,
+      "mid_break": 100,
+      "boss_hp": 20000,
+      "boss_atk": 2300,
+      "boss_break": 200,
+      "stamina": 40,
+      "zako01_id": 1,
+      "zako02_id": 40,
+      "zako03_id": 0,
+      "zako04_id": 0,
+      "zako05_id": 0,
+      "mid01_id": 0,
+      "mid02_id": 0,
+      "mid03_id": 0,
+      "mid04_id": 0,
+      "boss01_id": 4115,
+      "boss02_id": 0,
+      "rareenemy_id": 33,
+      "mission_bonus_type": 1,
+      "mission_bonus_id": 1,
+      "mission_bonus_value": 20,
+      "battle_bgm_id": 0,
+      "boss_bgm_id": 0
+    },
+    "213": {
+      "id": 213,
+      "priority": 2,
+      "event_id": 66,
+      "level": 4,
+      "name": "深淵の炎　超級2（推奨LV120）",
+      "auto_disable": 0,
+      "unlock_quest_id": 212,
+      "required_lv": 1,
+      "continue_limit": 0,
+      "heart_limit": 3,
+      "bg_id": 3,
+      "exp": 3105,
+      "multi_exp": 120,
+      "job_exp": 40,
+      "raid_point": 0,
+      "crystal": 82,
+      "time_limit": 420,
+      "speedclear": 120,
+      "speedclear_rare": 3,
+      "zako_hp": 300,
+      "zako_atk": 320,
+      "mid_hp": 22500,
+      "mid_atk": 1400,
+      "mid_break": 200,
+      "boss_hp": 45000,
+      "boss_atk": 2800,
+      "boss_break": 400,
+      "stamina": 40,
+      "zako01_id": 61,
+      "zako02_id": 0,
+      "zako03_id": 0,
+      "zako04_id": 0,
+      "zako05_id": 0,
+      "mid01_id": 0,
+      "mid02_id": 0,
+      "mid03_id": 0,
+      "mid04_id": 0,
+      "boss01_id": 4065,
+      "boss02_id": 0,
+      "rareenemy_id": 33,
+      "mission_bonus_type": 1,
+      "mission_bonus_id": 1,
+      "mission_bonus_value": 20,
+      "battle_bgm_id": 0,
+      "boss_bgm_id": 0
+    },
+    "214": {
+      "id": 214,
+      "priority": 1,
+      "event_id": 66,
+      "level": 4,
+      "name": "深淵の炎　超級3（推奨LV140）",
+      "auto_disable": 0,
+      "unlock_quest_id": 213,
+      "required_lv": 1,
+      "continue_limit": 0,
+      "heart_limit": 3,
+      "bg_id": 3,
+      "exp": 3105,
+      "multi_exp": 120,
+      "job_exp": 40,
+      "raid_point": 0,
+      "crystal": 82,
+      "time_limit": 420,
+      "speedclear": 120,
+      "speedclear_rare": 3,
+      "zako_hp": 300,
+      "zako_atk": 320,
+      "mid_hp": 27500,
+      "mid_atk": 1600,
+      "mid_break": 200,
+      "boss_hp": 55000,
+      "boss_atk": 3200,
+      "boss_break": 400,
+      "stamina": 40,
+      "zako01_id": 153,
+      "zako02_id": 0,
+      "zako03_id": 0,
+      "zako04_id": 0,
+      "zako05_id": 0,
+      "mid01_id": 0,
+      "mid02_id": 0,
+      "mid03_id": 0,
+      "mid04_id": 0,
+      "boss01_id": 4163,
+      "boss02_id": 0,
+      "rareenemy_id": 33,
+      "mission_bonus_type": 1,
+      "mission_bonus_id": 1,
+      "mission_bonus_value": 20,
+      "battle_bgm_id": 0,
+      "boss_bgm_id": 0
+    }
+  },
+  "67": {
+    "215": {
+      "id": 215,
+      "priority": 3,
+      "event_id": 67,
+      "level": 5,
+      "name": "深淵の炎　破滅級1（推奨LV160）",
+      "auto_disable": 0,
+      "unlock_quest_id": 0,
+      "required_lv": 15,
+      "continue_limit": 0,
+      "heart_limit": 3,
+      "bg_id": 3,
+      "exp": 3957,
+      "multi_exp": 165,
+      "job_exp": 50,
+      "raid_point": 0,
+      "crystal": 63,
+      "time_limit": 420,
+      "speedclear": 120,
+      "speedclear_rare": 3,
+      "zako_hp": 320,
+      "zako_atk": 320,
+      "mid_hp": 22500,
+      "mid_atk": 1400,
+      "mid_break": 125,
+      "boss_hp": 45000,
+      "boss_atk": 2800,
+      "boss_break": 250,
+      "stamina": 50,
+      "zako01_id": 40,
+      "zako02_id": 0,
+      "zako03_id": 0,
+      "zako04_id": 0,
+      "zako05_id": 0,
+      "mid01_id": 0,
+      "mid02_id": 0,
+      "mid03_id": 0,
+      "mid04_id": 0,
+      "boss01_id": 2050,
+      "boss02_id": 2050,
+      "rareenemy_id": 33,
+      "mission_bonus_type": 6,
+      "mission_bonus_id": 1,
+      "mission_bonus_value": 5,
+      "battle_bgm_id": 0,
+      "boss_bgm_id": 0
+    },
+    "216": {
+      "id": 216,
+      "priority": 2,
+      "event_id": 67,
+      "level": 5,
+      "name": "深淵の炎　破滅級2（推奨LV180）",
+      "auto_disable": 0,
+      "unlock_quest_id": 215,
+      "required_lv": 15,
+      "continue_limit": 0,
+      "heart_limit": 3,
+      "bg_id": 3,
+      "exp": 3957,
+      "multi_exp": 165,
+      "job_exp": 50,
+      "raid_point": 0,
+      "crystal": 63,
+      "time_limit": 420,
+      "speedclear": 120,
+      "speedclear_rare": 3,
+      "zako_hp": 320,
+      "zako_atk": 320,
+      "mid_hp": 30000,
+      "mid_atk": 1600,
+      "mid_break": 200,
+      "boss_hp": 60000,
+      "boss_atk": 3200,
+      "boss_break": 400,
+      "stamina": 50,
+      "zako01_id": 61,
+      "zako02_id": 0,
+      "zako03_id": 0,
+      "zako04_id": 0,
+      "zako05_id": 0,
+      "mid01_id": 0,
+      "mid02_id": 0,
+      "mid03_id": 0,
+      "mid04_id": 0,
+      "boss01_id": 4065,
+      "boss02_id": 4065,
+      "rareenemy_id": 33,
+      "mission_bonus_type": 6,
+      "mission_bonus_id": 1,
+      "mission_bonus_value": 5,
+      "battle_bgm_id": 0,
+      "boss_bgm_id": 0
+    },
+    "217": {
+      "id": 217,
+      "priority": 1,
+      "event_id": 67,
+      "level": 5,
+      "name": "深淵の炎　破滅級3（推奨LV200）",
+      "auto_disable": 0,
+      "unlock_quest_id": 216,
+      "required_lv": 15,
+      "continue_limit": 0,
+      "heart_limit": 3,
+      "bg_id": 3,
+      "exp": 3957,
+      "multi_exp": 165,
+      "job_exp": 50,
+      "raid_point": 0,
+      "crystal": 158,
+      "time_limit": 420,
+      "speedclear": 120,
+      "speedclear_rare": 3,
+      "zako_hp": 320,
+      "zako_atk": 320,
+      "mid_hp": 35000,
+      "mid_atk": 2250,
+      "mid_break": 225,
+      "boss_hp": 70000,
+      "boss_atk": 4500,
+      "boss_break": 450,
+      "stamina": 50,
+      "zako01_id": 153,
+      "zako02_id": 0,
+      "zako03_id": 0,
+      "zako04_id": 0,
+      "zako05_id": 0,
+      "mid01_id": 0,
+      "mid02_id": 0,
+      "mid03_id": 0,
+      "mid04_id": 0,
+      "boss01_id": 5163,
+      "boss02_id": 0,
+      "rareenemy_id": 33,
+      "mission_bonus_type": 6,
+      "mission_bonus_id": 1,
+      "mission_bonus_value": 5,
+      "battle_bgm_id": 0,
+      "boss_bgm_id": 0
+    }
+  },
+  "68": {
+    "218": {
+      "id": 218,
+      "priority": 5,
+      "event_id": 68,
+      "level": 1,
+      "name": "闇の眷属　初級（推奨LV10）",
+      "auto_disable": 0,
+      "unlock_quest_id": 0,
+      "required_lv": 1,
+      "continue_limit": -1,
+      "heart_limit": 3,
+      "bg_id": 5,
+      "exp": 1091,
+      "multi_exp": 45,
+      "job_exp": 15,
+      "raid_point": 0,
+      "crystal": 29,
+      "time_limit": 420,
+      "speedclear": 120,
+      "speedclear_rare": 3,
+      "zako_hp": 80,
+      "zako_atk": 60,
+      "mid_hp": 200,
+      "mid_atk": 80,
+      "mid_break": 40,
+      "boss_hp": 400,
+      "boss_atk": 160,
+      "boss_break": 80,
+      "stamina": 15,
+      "zako01_id": 146,
+      "zako02_id": 0,
+      "zako03_id": 0,
+      "zako04_id": 0,
+      "zako05_id": 0,
+      "mid01_id": 0,
+      "mid02_id": 0,
+      "mid03_id": 0,
+      "mid04_id": 0,
+      "boss01_id": 148,
+      "boss02_id": 0,
+      "rareenemy_id": 33,
+      "mission_bonus_type": 1,
+      "mission_bonus_id": 1,
+      "mission_bonus_value": 5,
+      "battle_bgm_id": 0,
+      "boss_bgm_id": 0
+    },
+    "219": {
+      "id": 219,
+      "priority": 4,
+      "event_id": 68,
+      "level": 2,
+      "name": "闇の眷属　中級（推奨LV40）",
+      "auto_disable": 0,
+      "unlock_quest_id": 218,
+      "required_lv": 1,
+      "continue_limit": -1,
+      "heart_limit": 3,
+      "bg_id": 5,
+      "exp": 1478,
+      "multi_exp": 60,
+      "job_exp": 20,
+      "raid_point": 0,
+      "crystal": 29,
+      "time_limit": 420,
+      "speedclear": 120,
+      "speedclear_rare": 3,
+      "zako_hp": 140,
+      "zako_atk": 130,
+      "mid_hp": 300,
+      "mid_atk": 120,
+      "mid_break": 50,
+      "boss_hp": 800,
+      "boss_atk": 220,
+      "boss_break": 100,
+      "stamina": 20,
+      "zako01_id": 146,
+      "zako02_id": 0,
+      "zako03_id": 0,
+      "zako04_id": 0,
+      "zako05_id": 0,
+      "mid01_id": 147,
+      "mid02_id": 0,
+      "mid03_id": 0,
+      "mid04_id": 0,
+      "boss01_id": 148,
+      "boss02_id": 0,
+      "rareenemy_id": 33,
+      "mission_bonus_type": 1,
+      "mission_bonus_id": 1,
+      "mission_bonus_value": 5,
+      "battle_bgm_id": 0,
+      "boss_bgm_id": 0
+    },
+    "220": {
+      "id": 220,
+      "priority": 3,
+      "event_id": 68,
+      "level": 3,
+      "name": "闇の眷属　上級（推奨LV70）",
+      "auto_disable": 0,
+      "unlock_quest_id": 219,
+      "required_lv": 1,
+      "continue_limit": -1,
+      "heart_limit": 3,
+      "bg_id": 5,
+      "exp": 1875,
+      "multi_exp": 85,
+      "job_exp": 25,
+      "raid_point": 0,
+      "crystal": 35,
+      "time_limit": 420,
+      "speedclear": 120,
+      "speedclear_rare": 3,
+      "zako_hp": 230,
+      "zako_atk": 230,
+      "mid_hp": 1000,
+      "mid_atk": 700,
+      "mid_break": 60,
+      "boss_hp": 4500,
+      "boss_atk": 720,
+      "boss_break": 160,
+      "stamina": 25,
+      "zako01_id": 146,
+      "zako02_id": 0,
+      "zako03_id": 0,
+      "zako04_id": 0,
+      "zako05_id": 0,
+      "mid01_id": 147,
+      "mid02_id": 0,
+      "mid03_id": 0,
+      "mid04_id": 0,
+      "boss01_id": 2098,
+      "boss02_id": 0,
+      "rareenemy_id": 33,
+      "mission_bonus_type": 1,
+      "mission_bonus_id": 1,
+      "mission_bonus_value": 5,
+      "battle_bgm_id": 0,
+      "boss_bgm_id": 0
+    },
+    "221": {
+      "id": 221,
+      "priority": 2,
+      "event_id": 68,
+      "level": 4,
+      "name": "闇の眷属　超級（推奨LV100）",
+      "auto_disable": 0,
+      "unlock_quest_id": 220,
+      "required_lv": 1,
+      "continue_limit": -1,
+      "heart_limit": 3,
+      "bg_id": 5,
+      "exp": 2278,
+      "multi_exp": 120,
+      "job_exp": 30,
+      "raid_point": 0,
+      "crystal": 39,
+      "time_limit": 420,
+      "speedclear": 120,
+      "speedclear_rare": 3,
+      "zako_hp": 260,
+      "zako_atk": 260,
+      "mid_hp": 1200,
+      "mid_atk": 1000,
+      "mid_break": 90,
+      "boss_hp": 16000,
+      "boss_atk": 2000,
+      "boss_break": 240,
+      "stamina": 30,
+      "zako01_id": 146,
+      "zako02_id": 0,
+      "zako03_id": 0,
+      "zako04_id": 0,
+      "zako05_id": 0,
+      "mid01_id": 147,
+      "mid02_id": 0,
+      "mid03_id": 0,
+      "mid04_id": 0,
+      "boss01_id": 98,
+      "boss02_id": 0,
+      "rareenemy_id": 33,
+      "mission_bonus_type": 1,
+      "mission_bonus_id": 1,
+      "mission_bonus_value": 5,
+      "battle_bgm_id": 0,
+      "boss_bgm_id": 0
+    },
+    "222": {
+      "id": 222,
+      "priority": 1,
+      "event_id": 68,
+      "level": 5,
+      "name": "闇の眷属　破滅級（推奨LV160）",
+      "auto_disable": 0,
+      "unlock_quest_id": 221,
+      "required_lv": 15,
+      "continue_limit": 0,
+      "heart_limit": 3,
+      "bg_id": 5,
+      "exp": 3105,
+      "multi_exp": 165,
+      "job_exp": 40,
+      "raid_point": 0,
+      "crystal": 46,
+      "time_limit": 420,
+      "speedclear": 120,
+      "speedclear_rare": 3,
+      "zako_hp": 320,
+      "zako_atk": 320,
+      "mid_hp": 4000,
+      "mid_atk": 1600,
+      "mid_break": 120,
+      "boss_hp": 70000,
+      "boss_atk": 3600,
+      "boss_break": 320,
+      "stamina": 40,
+      "zako01_id": 146,
+      "zako02_id": 0,
+      "zako03_id": 0,
+      "zako04_id": 0,
+      "zako05_id": 0,
+      "mid01_id": 147,
+      "mid02_id": 0,
+      "mid03_id": 0,
+      "mid04_id": 0,
+      "boss01_id": 3098,
+      "boss02_id": 0,
+      "rareenemy_id": 33,
+      "mission_bonus_type": 1,
+      "mission_bonus_id": 1,
+      "mission_bonus_value": 5,
+      "battle_bgm_id": 0,
+      "boss_bgm_id": 0
+    }
+  },
+  "69": {
+    "223": {
+      "id": 223,
+      "priority": 4,
+      "event_id": 69,
+      "level": 1,
+      "name": "ソウルクリスタルフェス 初級",
+      "auto_disable": 0,
+      "unlock_quest_id": 0,
+      "required_lv": 1,
+      "continue_limit": -1,
+      "heart_limit": 3,
+      "bg_id": 27,
+      "exp": 592,
+      "multi_exp": 50,
+      "job_exp": 15,
+      "raid_point": 0,
+      "crystal": 985,
+      "time_limit": 420,
+      "speedclear": 120,
+      "speedclear_rare": 3,
+      "zako_hp": 70,
+      "zako_atk": 80,
+      "mid_hp": 100,
+      "mid_atk": 100,
+      "mid_break": 100,
+      "boss_hp": 150,
+      "boss_atk": 50,
+      "boss_break": 50,
+      "stamina": 15,
+      "zako01_id": 9999,
+      "zako02_id": 0,
+      "zako03_id": 0,
+      "zako04_id": 0,
+      "zako05_id": 0,
+      "mid01_id": 0,
+      "mid02_id": 0,
+      "mid03_id": 0,
+      "mid04_id": 0,
+      "boss01_id": 34,
+      "boss02_id": 0,
+      "rareenemy_id": 33,
+      "mission_bonus_type": 1,
+      "mission_bonus_id": 1,
+      "mission_bonus_value": 5,
+      "battle_bgm_id": 0,
+      "boss_bgm_id": 0
+    },
+    "224": {
+      "id": 224,
+      "priority": 3,
+      "event_id": 69,
+      "level": 2,
+      "name": "ソウルクリスタルフェス 中級",
+      "auto_disable": 0,
+      "unlock_quest_id": 0,
+      "required_lv": 1,
+      "continue_limit": -1,
+      "heart_limit": 3,
+      "bg_id": 27,
+      "exp": 607,
+      "multi_exp": 70,
+      "job_exp": 25,
+      "raid_point": 0,
+      "crystal": 1602,
+      "time_limit": 420,
+      "speedclear": 120,
+      "speedclear_rare": 3,
+      "zako_hp": 180,
+      "zako_atk": 80,
+      "mid_hp": 250,
+      "mid_atk": 50,
+      "mid_break": 50,
+      "boss_hp": 650,
+      "boss_atk": 70,
+      "boss_break": 70,
+      "stamina": 25,
+      "zako01_id": 9999,
+      "zako02_id": 0,
+      "zako03_id": 0,
+      "zako04_id": 0,
+      "zako05_id": 0,
+      "mid01_id": 34,
+      "mid02_id": 0,
+      "mid03_id": 0,
+      "mid04_id": 0,
+      "boss01_id": 34,
+      "boss02_id": 0,
+      "rareenemy_id": 33,
+      "mission_bonus_type": 1,
+      "mission_bonus_id": 1,
+      "mission_bonus_value": 5,
+      "battle_bgm_id": 0,
+      "boss_bgm_id": 0
+    },
+    "225": {
+      "id": 225,
+      "priority": 2,
+      "event_id": 69,
+      "level": 3,
+      "name": "ソウルクリスタルフェス 上級",
+      "auto_disable": 0,
+      "unlock_quest_id": 0,
+      "required_lv": 1,
+      "continue_limit": -1,
+      "heart_limit": 3,
+      "bg_id": 27,
+      "exp": 622,
+      "multi_exp": 100,
+      "job_exp": 35,
+      "raid_point": 0,
+      "crystal": 2593,
+      "time_limit": 420,
+      "speedclear": 120,
+      "speedclear_rare": 3,
+      "zako_hp": 240,
+      "zako_atk": 80,
+      "mid_hp": 600,
+      "mid_atk": 100,
+      "mid_break": 70,
+      "boss_hp": 1000,
+      "boss_atk": 150,
+      "boss_break": 100,
+      "stamina": 35,
+      "zako01_id": 9999,
+      "zako02_id": 0,
+      "zako03_id": 0,
+      "zako04_id": 0,
+      "zako05_id": 0,
+      "mid01_id": 34,
+      "mid02_id": 0,
+      "mid03_id": 0,
+      "mid04_id": 0,
+      "boss01_id": 35,
+      "boss02_id": 0,
+      "rareenemy_id": 33,
+      "mission_bonus_type": 1,
+      "mission_bonus_id": 1,
+      "mission_bonus_value": 5,
+      "battle_bgm_id": 0,
+      "boss_bgm_id": 0
+    },
+    "226": {
+      "id": 226,
+      "priority": 1,
+      "event_id": 69,
+      "level": 4,
+      "name": "ソウルクリスタルフェス 超級",
+      "auto_disable": 0,
+      "unlock_quest_id": 0,
+      "required_lv": 1,
+      "continue_limit": -1,
+      "heart_limit": 3,
+      "bg_id": 27,
+      "exp": 637,
+      "multi_exp": 165,
+      "job_exp": 50,
+      "raid_point": 0,
+      "crystal": 3764,
+      "time_limit": 420,
+      "speedclear": 120,
+      "speedclear_rare": 3,
+      "zako_hp": 320,
+      "zako_atk": 90,
+      "mid_hp": 1200,
+      "mid_atk": 100,
+      "mid_break": 50,
+      "boss_hp": 2500,
+      "boss_atk": 120,
+      "boss_break": 70,
+      "stamina": 50,
+      "zako01_id": 9999,
+      "zako02_id": 0,
+      "zako03_id": 0,
+      "zako04_id": 0,
+      "zako05_id": 0,
+      "mid01_id": 34,
+      "mid02_id": 0,
+      "mid03_id": 0,
+      "mid04_id": 0,
+      "boss01_id": 35,
+      "boss02_id": 35,
+      "rareenemy_id": 33,
+      "mission_bonus_type": 1,
+      "mission_bonus_id": 1,
+      "mission_bonus_value": 5,
+      "battle_bgm_id": 0,
+      "boss_bgm_id": 0
+    }
+  },
+  "70": {
+    "227": {
+      "id": 227,
+      "priority": 4,
+      "event_id": 70,
+      "level": 1,
+      "name": "ハロウィン　初級（推奨LV10）",
+      "auto_disable": 0,
+      "unlock_quest_id": 0,
+      "required_lv": 1,
+      "continue_limit": -1,
+      "heart_limit": 3,
+      "bg_id": 8,
+      "exp": 713,
+      "multi_exp": 45,
+      "job_exp": 10,
+      "raid_point": 0,
+      "crystal": 19,
+      "time_limit": 420,
+      "speedclear": 120,
+      "speedclear_rare": 3,
+      "zako_hp": 80,
+      "zako_atk": 60,
+      "mid_hp": 200,
+      "mid_atk": 80,
+      "mid_break": 40,
+      "boss_hp": 400,
+      "boss_atk": 160,
+      "boss_break": 80,
+      "stamina": 10,
+      "zako01_id": 177,
+      "zako02_id": 0,
+      "zako03_id": 0,
+      "zako04_id": 0,
+      "zako05_id": 0,
+      "mid01_id": 0,
+      "mid02_id": 0,
+      "mid03_id": 0,
+      "mid04_id": 0,
+      "boss01_id": 178,
+      "boss02_id": 0,
+      "rareenemy_id": 33,
+      "mission_bonus_type": 1,
+      "mission_bonus_id": 1,
+      "mission_bonus_value": 5,
+      "battle_bgm_id": 0,
+      "boss_bgm_id": 0
+    },
+    "228": {
+      "id": 228,
+      "priority": 3,
+      "event_id": 70,
+      "level": 2,
+      "name": "ハロウィン　中級（推奨LV40）",
+      "auto_disable": 0,
+      "unlock_quest_id": 227,
+      "required_lv": 1,
+      "continue_limit": -1,
+      "heart_limit": 3,
+      "bg_id": 6,
+      "exp": 1478,
+      "multi_exp": 60,
+      "job_exp": 20,
+      "raid_point": 0,
+      "crystal": 29,
+      "time_limit": 420,
+      "speedclear": 120,
+      "speedclear_rare": 3,
+      "zako_hp": 140,
+      "zako_atk": 130,
+      "mid_hp": 300,
+      "mid_atk": 120,
+      "mid_break": 50,
+      "boss_hp": 800,
+      "boss_atk": 220,
+      "boss_break": 100,
+      "stamina": 20,
+      "zako01_id": 177,
+      "zako02_id": 0,
+      "zako03_id": 0,
+      "zako04_id": 0,
+      "zako05_id": 0,
+      "mid01_id": 178,
+      "mid02_id": 0,
+      "mid03_id": 0,
+      "mid04_id": 0,
+      "boss01_id": 179,
+      "boss02_id": 0,
+      "rareenemy_id": 33,
+      "mission_bonus_type": 1,
+      "mission_bonus_id": 1,
+      "mission_bonus_value": 5,
+      "battle_bgm_id": 0,
+      "boss_bgm_id": 0
+    },
+    "229": {
+      "id": 229,
+      "priority": 2,
+      "event_id": 70,
+      "level": 3,
+      "name": "ハロウィン　上級（推奨LV70）",
+      "auto_disable": 0,
+      "unlock_quest_id": 228,
+      "required_lv": 1,
+      "continue_limit": -1,
+      "heart_limit": 3,
+      "bg_id": 6,
+      "exp": 2278,
+      "multi_exp": 85,
+      "job_exp": 30,
+      "raid_point": 0,
+      "crystal": 43,
+      "time_limit": 420,
+      "speedclear": 120,
+      "speedclear_rare": 3,
+      "zako_hp": 230,
+      "zako_atk": 230,
+      "mid_hp": 1000,
+      "mid_atk": 700,
+      "mid_break": 60,
+      "boss_hp": 4500,
+      "boss_atk": 720,
+      "boss_break": 160,
+      "stamina": 30,
+      "zako01_id": 177,
+      "zako02_id": 0,
+      "zako03_id": 0,
+      "zako04_id": 0,
+      "zako05_id": 0,
+      "mid01_id": 178,
+      "mid02_id": 0,
+      "mid03_id": 0,
+      "mid04_id": 0,
+      "boss01_id": 2179,
+      "boss02_id": 0,
+      "rareenemy_id": 33,
+      "mission_bonus_type": 1,
+      "mission_bonus_id": 1,
+      "mission_bonus_value": 5,
+      "battle_bgm_id": 0,
+      "boss_bgm_id": 0
+    },
+    "230": {
+      "id": 230,
+      "priority": 1,
+      "event_id": 70,
+      "level": 4,
+      "name": "ハロウィン　超級（推奨LV100）",
+      "auto_disable": 0,
+      "unlock_quest_id": 229,
+      "required_lv": 1,
+      "continue_limit": -1,
+      "heart_limit": 3,
+      "bg_id": 6,
+      "exp": 3105,
+      "multi_exp": 120,
+      "job_exp": 40,
+      "raid_point": 0,
+      "crystal": 54,
+      "time_limit": 420,
+      "speedclear": 120,
+      "speedclear_rare": 3,
+      "zako_hp": 260,
+      "zako_atk": 260,
+      "mid_hp": 1200,
+      "mid_atk": 1000,
+      "mid_break": 90,
+      "boss_hp": 16000,
+      "boss_atk": 1700,
+      "boss_break": 240,
+      "stamina": 40,
+      "zako01_id": 177,
+      "zako02_id": 0,
+      "zako03_id": 0,
+      "zako04_id": 0,
+      "zako05_id": 0,
+      "mid01_id": 178,
+      "mid02_id": 0,
+      "mid03_id": 0,
+      "mid04_id": 0,
+      "boss01_id": 3179,
+      "boss02_id": 0,
+      "rareenemy_id": 33,
+      "mission_bonus_type": 1,
+      "mission_bonus_id": 1,
+      "mission_bonus_value": 5,
+      "battle_bgm_id": 0,
+      "boss_bgm_id": 0
+    }
+  },
+  "71": {
+    "231": {
+      "id": 231,
+      "priority": 1,
+      "event_id": 71,
+      "level": 4,
+      "name": "ハロウィン　破滅級（推奨LV200）",
+      "auto_disable": 0,
+      "unlock_quest_id": 0,
+      "required_lv": 15,
+      "continue_limit": 0,
+      "heart_limit": 3,
+      "bg_id": 25,
+      "exp": 3957,
+      "multi_exp": 165,
+      "job_exp": 50,
+      "raid_point": 0,
+      "crystal": 79,
+      "time_limit": 420,
+      "speedclear": 120,
+      "speedclear_rare": 3,
+      "zako_hp": 320,
+      "zako_atk": 320,
+      "mid_hp": 5000,
+      "mid_atk": 2200,
+      "mid_break": 150,
+      "boss_hp": 70000,
+      "boss_atk": 4500,
+      "boss_break": 450,
+      "stamina": 50,
+      "zako01_id": 177,
+      "zako02_id": 0,
+      "zako03_id": 0,
+      "zako04_id": 0,
+      "zako05_id": 0,
+      "mid01_id": 178,
+      "mid02_id": 0,
+      "mid03_id": 0,
+      "mid04_id": 0,
+      "boss01_id": 180,
+      "boss02_id": 0,
+      "rareenemy_id": 33,
+      "mission_bonus_type": 6,
+      "mission_bonus_id": 1,
+      "mission_bonus_value": 5,
+      "battle_bgm_id": 0,
+      "boss_bgm_id": 0
+    }
+  },
+  "72": {
+    "232": {
+      "id": 232,
+      "priority": 2,
+      "event_id": 72,
+      "level": 4,
+      "name": "BOSS1　超級（推奨LV140）",
+      "auto_disable": 0,
+      "unlock_quest_id": 0,
+      "required_lv": 1,
+      "continue_limit": 0,
+      "heart_limit": 3,
+      "bg_id": 2,
+      "exp": 3105,
+      "multi_exp": 120,
+      "job_exp": 40,
+      "raid_point": 0,
+      "crystal": 54,
+      "time_limit": 420,
+      "speedclear": 120,
+      "speedclear_rare": 3,
+      "zako_hp": 300,
+      "zako_atk": 280,
+      "mid_hp": 1600,
+      "mid_atk": 2200,
+      "mid_break": 110,
+      "boss_hp": 20000,
+      "boss_atk": 2500,
+      "boss_break": 140,
+      "stamina": 40,
+      "zako01_id": 36,
+      "zako02_id": 0,
+      "zako03_id": 0,
+      "zako04_id": 0,
+      "zako05_id": 0,
+      "mid01_id": 106,
+      "mid02_id": 0,
+      "mid03_id": 0,
+      "mid04_id": 0,
+      "boss01_id": 5111,
+      "boss02_id": 0,
+      "rareenemy_id": 33,
+      "mission_bonus_type": 1,
+      "mission_bonus_id": 1,
+      "mission_bonus_value": 5,
+      "battle_bgm_id": 0,
+      "boss_bgm_id": 0
+    },
+    "233": {
+      "id": 233,
+      "priority": 1,
+      "event_id": 72,
+      "level": 5,
+      "name": "BOSS1　破滅級（推奨LV200）",
+      "auto_disable": 0,
+      "unlock_quest_id": 232,
+      "required_lv": 1,
+      "continue_limit": 0,
+      "heart_limit": 3,
+      "bg_id": 2,
+      "exp": 3957,
+      "multi_exp": 165,
+      "job_exp": 50,
+      "raid_point": 0,
+      "crystal": 121,
+      "time_limit": 420,
+      "speedclear": 120,
+      "speedclear_rare": 3,
+      "zako_hp": 300,
+      "zako_atk": 280,
+      "mid_hp": 1600,
+      "mid_atk": 2200,
+      "mid_break": 110,
+      "boss_hp": 60000,
+      "boss_atk": 5000,
+      "boss_break": 190,
+      "stamina": 50,
+      "zako01_id": 36,
+      "zako02_id": 0,
+      "zako03_id": 0,
+      "zako04_id": 0,
+      "zako05_id": 0,
+      "mid01_id": 0,
+      "mid02_id": 0,
+      "mid03_id": 0,
+      "mid04_id": 0,
+      "boss01_id": 5111,
+      "boss02_id": 0,
+      "rareenemy_id": 33,
+      "mission_bonus_type": 1,
+      "mission_bonus_id": 1,
+      "mission_bonus_value": 5,
+      "battle_bgm_id": 0,
+      "boss_bgm_id": 0
+    }
+  },
+  "73": {
+    "234": {
+      "id": 234,
+      "priority": 2,
+      "event_id": 73,
+      "level": 4,
+      "name": "BOSS2　超級（推奨LV140）",
+      "auto_disable": 0,
+      "unlock_quest_id": 0,
+      "required_lv": 1,
+      "continue_limit": 0,
+      "heart_limit": 3,
+      "bg_id": 5,
+      "exp": 3105,
+      "multi_exp": 120,
+      "job_exp": 40,
+      "raid_point": 0,
+      "crystal": 54,
+      "time_limit": 420,
+      "speedclear": 120,
+      "speedclear_rare": 3,
+      "zako_hp": 260,
+      "zako_atk": 260,
+      "mid_hp": 1200,
+      "mid_atk": 1600,
+      "mid_break": 90,
+      "boss_hp": 33000,
+      "boss_atk": 2800,
+      "boss_break": 260,
+      "stamina": 40,
+      "zako01_id": 146,
+      "zako02_id": 0,
+      "zako03_id": 0,
+      "zako04_id": 0,
+      "zako05_id": 0,
+      "mid01_id": 147,
+      "mid02_id": 0,
+      "mid03_id": 0,
+      "mid04_id": 0,
+      "boss01_id": 98,
+      "boss02_id": 0,
+      "rareenemy_id": 33,
+      "mission_bonus_type": 1,
+      "mission_bonus_id": 1,
+      "mission_bonus_value": 5,
+      "battle_bgm_id": 0,
+      "boss_bgm_id": 0
+    },
+    "235": {
+      "id": 235,
+      "priority": 1,
+      "event_id": 73,
+      "level": 5,
+      "name": "BOSS2　破滅級（推奨LV200）",
+      "auto_disable": 0,
+      "unlock_quest_id": 234,
+      "required_lv": 1,
+      "continue_limit": 0,
+      "heart_limit": 3,
+      "bg_id": 5,
+      "exp": 3957,
+      "multi_exp": 165,
+      "job_exp": 50,
+      "raid_point": 0,
+      "crystal": 98,
+      "time_limit": 420,
+      "speedclear": 120,
+      "speedclear_rare": 3,
+      "zako_hp": 320,
+      "zako_atk": 320,
+      "mid_hp": 4000,
+      "mid_atk": 2000,
+      "mid_break": 120,
+      "boss_hp": 90000,
+      "boss_atk": 4000,
+      "boss_break": 320,
+      "stamina": 50,
+      "zako01_id": 146,
+      "zako02_id": 0,
+      "zako03_id": 0,
+      "zako04_id": 0,
+      "zako05_id": 0,
+      "mid01_id": 147,
+      "mid02_id": 0,
+      "mid03_id": 0,
+      "mid04_id": 0,
+      "boss01_id": 3098,
+      "boss02_id": 0,
+      "rareenemy_id": 33,
+      "mission_bonus_type": 1,
+      "mission_bonus_id": 1,
+      "mission_bonus_value": 5,
+      "battle_bgm_id": 0,
+      "boss_bgm_id": 0
+    }
+  },
+  "74": {
+    "236": {
+      "id": 236,
+      "priority": 2,
+      "event_id": 74,
+      "level": 4,
+      "name": "BOSS3　超級（推奨LV140）",
+      "auto_disable": 0,
+      "unlock_quest_id": 0,
+      "required_lv": 1,
+      "continue_limit": 0,
+      "heart_limit": 3,
+      "bg_id": 4,
+      "exp": 3105,
+      "multi_exp": 120,
+      "job_exp": 40,
+      "raid_point": 0,
+      "crystal": 54,
+      "time_limit": 420,
+      "speedclear": 120,
+      "speedclear_rare": 3,
+      "zako_hp": 300,
+      "zako_atk": 280,
+      "mid_hp": 2200,
+      "mid_atk": 2000,
+      "mid_break": 90,
+      "boss_hp": 22000,
+      "boss_atk": 2400,
+      "boss_break": 240,
+      "stamina": 40,
+      "zako01_id": 121,
+      "zako02_id": 0,
+      "zako03_id": 0,
+      "zako04_id": 0,
+      "zako05_id": 0,
+      "mid01_id": 128,
+      "mid02_id": 0,
+      "mid03_id": 0,
+      "mid04_id": 0,
+      "boss01_id": 4135,
+      "boss02_id": 0,
+      "rareenemy_id": 33,
+      "mission_bonus_type": 1,
+      "mission_bonus_id": 1,
+      "mission_bonus_value": 5,
+      "battle_bgm_id": 0,
+      "boss_bgm_id": 0
+    },
+    "237": {
+      "id": 237,
+      "priority": 1,
+      "event_id": 74,
+      "level": 5,
+      "name": "BOSS3　破滅級（推奨LV200）",
+      "auto_disable": 0,
+      "unlock_quest_id": 236,
+      "required_lv": 1,
+      "continue_limit": 0,
+      "heart_limit": 3,
+      "bg_id": 4,
+      "exp": 3957,
+      "multi_exp": 165,
+      "job_exp": 50,
+      "raid_point": 0,
+      "crystal": 121,
+      "time_limit": 420,
+      "speedclear": 120,
+      "speedclear_rare": 3,
+      "zako_hp": 300,
+      "zako_atk": 280,
+      "mid_hp": 1200,
+      "mid_atk": 1000,
+      "mid_break": 80,
+      "boss_hp": 90000,
+      "boss_atk": 4000,
+      "boss_break": 320,
+      "stamina": 50,
+      "zako01_id": 121,
+      "zako02_id": 0,
+      "zako03_id": 0,
+      "zako04_id": 0,
+      "zako05_id": 0,
+      "mid01_id": 0,
+      "mid02_id": 0,
+      "mid03_id": 0,
+      "mid04_id": 0,
+      "boss01_id": 4135,
+      "boss02_id": 0,
+      "rareenemy_id": 33,
+      "mission_bonus_type": 1,
+      "mission_bonus_id": 1,
+      "mission_bonus_value": 5,
+      "battle_bgm_id": 0,
+      "boss_bgm_id": 0
+    }
+  },
+  "75": {
+    "238": {
+      "id": 238,
+      "priority": 2,
+      "event_id": 75,
+      "level": 4,
+      "name": "BOSS4　超級（推奨LV140）",
+      "auto_disable": 0,
+      "unlock_quest_id": 0,
+      "required_lv": 1,
+      "continue_limit": 0,
+      "heart_limit": 3,
+      "bg_id": 13,
+      "exp": 3105,
+      "multi_exp": 120,
+      "job_exp": 40,
+      "raid_point": 0,
+      "crystal": 77,
+      "time_limit": 420,
+      "speedclear": 120,
+      "speedclear_rare": 3,
+      "zako_hp": 260,
+      "zako_atk": 280,
+      "mid_hp": 700,
+      "mid_atk": 900,
+      "mid_break": 10,
+      "boss_hp": 30000,
+      "boss_atk": 3000,
+      "boss_break": 240,
+      "stamina": 40,
+      "zako01_id": 54,
+      "zako02_id": 0,
+      "zako03_id": 0,
+      "zako04_id": 0,
+      "zako05_id": 0,
+      "mid01_id": 56,
+      "mid02_id": 0,
+      "mid03_id": 0,
+      "mid04_id": 0,
+      "boss01_id": 4167,
+      "boss02_id": 0,
+      "rareenemy_id": 33,
+      "mission_bonus_type": 1,
+      "mission_bonus_id": 1,
+      "mission_bonus_value": 5,
+      "battle_bgm_id": 0,
+      "boss_bgm_id": 0
+    },
+    "239": {
+      "id": 239,
+      "priority": 1,
+      "event_id": 75,
+      "level": 5,
+      "name": "BOSS4　破滅級（推奨LV200）",
+      "auto_disable": 0,
+      "unlock_quest_id": 238,
+      "required_lv": 1,
+      "continue_limit": 0,
+      "heart_limit": 3,
+      "bg_id": 13,
+      "exp": 3957,
+      "multi_exp": 165,
+      "job_exp": 50,
+      "raid_point": 0,
+      "crystal": 158,
+      "time_limit": 420,
+      "speedclear": 120,
+      "speedclear_rare": 3,
+      "zako_hp": 260,
+      "zako_atk": 280,
+      "mid_hp": 1100,
+      "mid_atk": 2500,
+      "mid_break": 40,
+      "boss_hp": 90000,
+      "boss_atk": 5200,
+      "boss_break": 340,
+      "stamina": 50,
+      "zako01_id": 54,
+      "zako02_id": 0,
+      "zako03_id": 0,
+      "zako04_id": 0,
+      "zako05_id": 0,
+      "mid01_id": 56,
+      "mid02_id": 0,
+      "mid03_id": 0,
+      "mid04_id": 0,
+      "boss01_id": 4167,
+      "boss02_id": 0,
+      "rareenemy_id": 33,
+      "mission_bonus_type": 1,
+      "mission_bonus_id": 1,
+      "mission_bonus_value": 5,
+      "battle_bgm_id": 0,
+      "boss_bgm_id": 0
+    }
+  },
+  "76": {
+    "240": {
+      "id": 240,
+      "priority": 2,
+      "event_id": 76,
+      "level": 4,
+      "name": "BOSS5　超級（推奨LV140）",
+      "auto_disable": 0,
+      "unlock_quest_id": 0,
+      "required_lv": 1,
+      "continue_limit": 0,
+      "heart_limit": 3,
+      "bg_id": 25,
+      "exp": 3105,
+      "multi_exp": 120,
+      "job_exp": 40,
+      "raid_point": 250,
+      "crystal": 82,
+      "time_limit": 420,
+      "speedclear": 120,
+      "speedclear_rare": 3,
+      "zako_hp": 300,
+      "zako_atk": 320,
+      "mid_hp": 22500,
+      "mid_atk": 1500,
+      "mid_break": 200,
+      "boss_hp": 45000,
+      "boss_atk": 3000,
+      "boss_break": 400,
+      "stamina": 40,
+      "zako01_id": 60,
+      "zako02_id": 0,
+      "zako03_id": 0,
+      "zako04_id": 0,
+      "zako05_id": 0,
+      "mid01_id": 0,
+      "mid02_id": 0,
+      "mid03_id": 0,
+      "mid04_id": 0,
+      "boss01_id": 4176,
+      "boss02_id": 0,
+      "rareenemy_id": 33,
+      "mission_bonus_type": 1,
+      "mission_bonus_id": 1,
+      "mission_bonus_value": 5,
+      "battle_bgm_id": 0,
+      "boss_bgm_id": 0
+    },
+    "241": {
+      "id": 241,
+      "priority": 1,
+      "event_id": 76,
+      "level": 5,
+      "name": "BOSS5　破滅級（推奨LV200）",
+      "auto_disable": 0,
+      "unlock_quest_id": 240,
+      "required_lv": 1,
+      "continue_limit": 0,
+      "heart_limit": 3,
+      "bg_id": 25,
+      "exp": 3957,
+      "multi_exp": 165,
+      "job_exp": 50,
+      "raid_point": 0,
+      "crystal": 158,
+      "time_limit": 420,
+      "speedclear": 120,
+      "speedclear_rare": 3,
+      "zako_hp": 320,
+      "zako_atk": 320,
+      "mid_hp": 45000,
+      "mid_atk": 1700,
+      "mid_break": 250,
+      "boss_hp": 90000,
+      "boss_atk": 3400,
+      "boss_break": 500,
+      "stamina": 50,
+      "zako01_id": 60,
+      "zako02_id": 0,
+      "zako03_id": 0,
+      "zako04_id": 0,
+      "zako05_id": 0,
+      "mid01_id": 0,
+      "mid02_id": 0,
+      "mid03_id": 0,
+      "mid04_id": 0,
+      "boss01_id": 5176,
+      "boss02_id": 0,
+      "rareenemy_id": 33,
+      "mission_bonus_type": 1,
+      "mission_bonus_id": 1,
+      "mission_bonus_value": 5,
+      "battle_bgm_id": 0,
+      "boss_bgm_id": 0
+    }
+  },
+  "77": {
+    "242": {
+      "id": 242,
+      "priority": 2,
+      "event_id": 77,
+      "level": 4,
+      "name": "BOSS6　超級（推奨LV140）",
+      "auto_disable": 0,
+      "unlock_quest_id": 0,
+      "required_lv": 1,
+      "continue_limit": 0,
+      "heart_limit": 3,
+      "bg_id": 3,
+      "exp": 3105,
+      "multi_exp": 120,
+      "job_exp": 40,
+      "raid_point": 0,
+      "crystal": 82,
+      "time_limit": 420,
+      "speedclear": 120,
+      "speedclear_rare": 3,
+      "zako_hp": 300,
+      "zako_atk": 320,
+      "mid_hp": 30000,
+      "mid_atk": 1650,
+      "mid_break": 205,
+      "boss_hp": 60000,
+      "boss_atk": 3300,
+      "boss_break": 410,
+      "stamina": 40,
+      "zako01_id": 153,
+      "zako02_id": 0,
+      "zako03_id": 0,
+      "zako04_id": 0,
+      "zako05_id": 0,
+      "mid01_id": 0,
+      "mid02_id": 0,
+      "mid03_id": 0,
+      "mid04_id": 0,
+      "boss01_id": 4163,
+      "boss02_id": 0,
+      "rareenemy_id": 33,
+      "mission_bonus_type": 1,
+      "mission_bonus_id": 1,
+      "mission_bonus_value": 5,
+      "battle_bgm_id": 0,
+      "boss_bgm_id": 0
+    },
+    "243": {
+      "id": 243,
+      "priority": 1,
+      "event_id": 77,
+      "level": 5,
+      "name": "BOSS6　破滅級（推奨LV200）",
+      "auto_disable": 0,
+      "unlock_quest_id": 242,
+      "required_lv": 1,
+      "continue_limit": 0,
+      "heart_limit": 3,
+      "bg_id": 3,
+      "exp": 3957,
+      "multi_exp": 165,
+      "job_exp": 50,
+      "raid_point": 0,
+      "crystal": 158,
+      "time_limit": 420,
+      "speedclear": 120,
+      "speedclear_rare": 3,
+      "zako_hp": 320,
+      "zako_atk": 320,
+      "mid_hp": 40000,
+      "mid_atk": 2450,
+      "mid_break": 230,
+      "boss_hp": 80000,
+      "boss_atk": 4900,
+      "boss_break": 460,
+      "stamina": 50,
+      "zako01_id": 153,
+      "zako02_id": 0,
+      "zako03_id": 0,
+      "zako04_id": 0,
+      "zako05_id": 0,
+      "mid01_id": 0,
+      "mid02_id": 0,
+      "mid03_id": 0,
+      "mid04_id": 0,
+      "boss01_id": 5163,
+      "boss02_id": 0,
+      "rareenemy_id": 33,
+      "mission_bonus_type": 1,
+      "mission_bonus_id": 1,
+      "mission_bonus_value": 5,
+      "battle_bgm_id": 0,
+      "boss_bgm_id": 0
+    }
+  },
+  "78": {
+    "244": {
+      "id": 244,
+      "priority": 2,
+      "event_id": 78,
+      "level": 4,
+      "name": "BOSS7　超級（推奨LV140）",
+      "auto_disable": 0,
+      "unlock_quest_id": 0,
+      "required_lv": 1,
+      "continue_limit": 0,
+      "heart_limit": 3,
+      "bg_id": 17,
+      "exp": 3105,
+      "multi_exp": 120,
+      "job_exp": 40,
+      "raid_point": 0,
+      "crystal": 1,
+      "time_limit": 420,
+      "speedclear": 120,
+      "speedclear_rare": 3,
+      "zako_hp": 260,
+      "zako_atk": 280,
+      "mid_hp": 1200,
+      "mid_atk": 1000,
+      "mid_break": 80,
+      "boss_hp": 70000,
+      "boss_atk": 2500,
+      "boss_break": 400,
+      "stamina": 40,
+      "zako01_id": 142,
+      "zako02_id": 0,
+      "zako03_id": 0,
+      "zako04_id": 0,
+      "zako05_id": 0,
+      "mid01_id": 143,
+      "mid02_id": 0,
+      "mid03_id": 0,
+      "mid04_id": 0,
+      "boss01_id": 145,
+      "boss02_id": 0,
+      "rareenemy_id": 33,
+      "mission_bonus_type": 1,
+      "mission_bonus_id": 1,
+      "mission_bonus_value": 5,
+      "battle_bgm_id": 0,
+      "boss_bgm_id": 0
+    },
+    "245": {
+      "id": 245,
+      "priority": 1,
+      "event_id": 78,
+      "level": 5,
+      "name": "BOSS7　破滅級（推奨LV200）",
+      "auto_disable": 0,
+      "unlock_quest_id": 244,
+      "required_lv": 1,
+      "continue_limit": 0,
+      "heart_limit": 3,
+      "bg_id": 17,
+      "exp": 3957,
+      "multi_exp": 165,
+      "job_exp": 50,
+      "raid_point": 0,
+      "crystal": 1,
+      "time_limit": 420,
+      "speedclear": 120,
+      "speedclear_rare": 3,
+      "zako_hp": 260,
+      "zako_atk": 280,
+      "mid_hp": 1200,
+      "mid_atk": 1200,
+      "mid_break": 90,
+      "boss_hp": 120000,
+      "boss_atk": 5200,
+      "boss_break": 500,
+      "stamina": 50,
+      "zako01_id": 142,
+      "zako02_id": 0,
+      "zako03_id": 0,
+      "zako04_id": 0,
+      "zako05_id": 0,
+      "mid01_id": 143,
+      "mid02_id": 0,
+      "mid03_id": 0,
+      "mid04_id": 0,
+      "boss01_id": 145,
+      "boss02_id": 0,
+      "rareenemy_id": 33,
+      "mission_bonus_type": 1,
+      "mission_bonus_id": 1,
+      "mission_bonus_value": 5,
+      "battle_bgm_id": 0,
+      "boss_bgm_id": 0
+    }
+  },
+  "79": {
+    "246": {
+      "id": 246,
+      "priority": 2,
+      "event_id": 79,
+      "level": 4,
+      "name": "BOSS8　超級（推奨LV140）",
+      "auto_disable": 0,
+      "unlock_quest_id": 0,
+      "required_lv": 1,
+      "continue_limit": 0,
+      "heart_limit": 3,
+      "bg_id": 5,
+      "exp": 3105,
+      "multi_exp": 120,
+      "job_exp": 40,
+      "raid_point": 0,
+      "crystal": 51,
+      "time_limit": 420,
+      "speedclear": 120,
+      "speedclear_rare": 3,
+      "zako_hp": 300,
+      "zako_atk": 280,
+      "mid_hp": 1600,
+      "mid_atk": 2200,
+      "mid_break": 90,
+      "boss_hp": 40000,
+      "boss_atk": 3200,
+      "boss_break": 400,
+      "stamina": 40,
+      "zako01_id": 11,
+      "zako02_id": 0,
+      "zako03_id": 0,
+      "zako04_id": 0,
+      "zako05_id": 0,
+      "mid01_id": 20,
+      "mid02_id": 0,
+      "mid03_id": 0,
+      "mid04_id": 0,
+      "boss01_id": 4067,
+      "boss02_id": 0,
+      "rareenemy_id": 33,
+      "mission_bonus_type": 1,
+      "mission_bonus_id": 1,
+      "mission_bonus_value": 5,
+      "battle_bgm_id": 0,
+      "boss_bgm_id": 0
+    },
+    "247": {
+      "id": 247,
+      "priority": 1,
+      "event_id": 79,
+      "level": 5,
+      "name": "BOSS8　破滅級（推奨LV200）",
+      "auto_disable": 0,
+      "unlock_quest_id": 246,
+      "required_lv": 1,
+      "continue_limit": 0,
+      "heart_limit": 3,
+      "bg_id": 5,
+      "exp": 3957,
+      "multi_exp": 165,
+      "job_exp": 50,
+      "raid_point": 0,
+      "crystal": 105,
+      "time_limit": 420,
+      "speedclear": 120,
+      "speedclear_rare": 3,
+      "zako_hp": 300,
+      "zako_atk": 280,
+      "mid_hp": 1600,
+      "mid_atk": 2200,
+      "mid_break": 110,
+      "boss_hp": 90000,
+      "boss_atk": 5000,
+      "boss_break": 500,
+      "stamina": 50,
+      "zako01_id": 11,
+      "zako02_id": 0,
+      "zako03_id": 0,
+      "zako04_id": 0,
+      "zako05_id": 0,
+      "mid01_id": 20,
+      "mid02_id": 0,
+      "mid03_id": 0,
+      "mid04_id": 0,
+      "boss01_id": 4067,
+      "boss02_id": 0,
+      "rareenemy_id": 33,
+      "mission_bonus_type": 1,
+      "mission_bonus_id": 1,
+      "mission_bonus_value": 5,
+      "battle_bgm_id": 0,
+      "boss_bgm_id": 0
+    }
+  },
+  "80": {
+    "248": {
+      "id": 248,
+      "priority": 3,
+      "event_id": 80,
+      "level": 4,
+      "name": "BOSS9　超級（推奨LV140）",
+      "auto_disable": 0,
+      "unlock_quest_id": 0,
+      "required_lv": 1,
+      "continue_limit": 0,
+      "heart_limit": 3,
+      "bg_id": 13,
+      "exp": 3105,
+      "multi_exp": 120,
+      "job_exp": 40,
+      "raid_point": 0,
+      "crystal": 77,
+      "time_limit": 420,
+      "speedclear": 120,
+      "speedclear_rare": 3,
+      "zako_hp": 240,
+      "zako_atk": 280,
+      "mid_hp": 1200,
+      "mid_atk": 900,
+      "mid_break": 80,
+      "boss_hp": 50000,
+      "boss_atk": 3500,
+      "boss_break": 240,
+      "stamina": 40,
+      "zako01_id": 168,
+      "zako02_id": 0,
+      "zako03_id": 0,
+      "zako04_id": 0,
+      "zako05_id": 0,
+      "mid01_id": 169,
+      "mid02_id": 0,
+      "mid03_id": 0,
+      "mid04_id": 0,
+      "boss01_id": 3170,
+      "boss02_id": 0,
+      "rareenemy_id": 33,
+      "mission_bonus_type": 1,
+      "mission_bonus_id": 1,
+      "mission_bonus_value": 5,
+      "battle_bgm_id": 0,
+      "boss_bgm_id": 0
+    },
+    "249": {
+      "id": 249,
+      "priority": 2,
+      "event_id": 80,
+      "level": 5,
+      "name": "BOSS9　破滅級（推奨LV200）",
+      "auto_disable": 0,
+      "unlock_quest_id": 248,
+      "required_lv": 1,
+      "continue_limit": 0,
+      "heart_limit": 3,
+      "bg_id": 13,
+      "exp": 3957,
+      "multi_exp": 165,
+      "job_exp": 50,
+      "raid_point": 0,
+      "crystal": 158,
+      "time_limit": 420,
+      "speedclear": 120,
+      "speedclear_rare": 3,
+      "zako_hp": 260,
+      "zako_atk": 280,
+      "mid_hp": 1500,
+      "mid_atk": 1100,
+      "mid_break": 80,
+      "boss_hp": 100000,
+      "boss_atk": 4200,
+      "boss_break": 300,
+      "stamina": 50,
+      "zako01_id": 168,
+      "zako02_id": 0,
+      "zako03_id": 0,
+      "zako04_id": 0,
+      "zako05_id": 0,
+      "mid01_id": 169,
+      "mid02_id": 0,
+      "mid03_id": 0,
+      "mid04_id": 0,
+      "boss01_id": 4170,
+      "boss02_id": 0,
+      "rareenemy_id": 33,
+      "mission_bonus_type": 1,
+      "mission_bonus_id": 1,
+      "mission_bonus_value": 5,
+      "battle_bgm_id": 0,
+      "boss_bgm_id": 0
+    },
+    "250": {
+      "id": 250,
+      "priority": 1,
+      "event_id": 80,
+      "level": 6,
+      "name": "BOSS9　地獄級（推奨LV200+α）",
+      "auto_disable": 0,
+      "unlock_quest_id": 249,
+      "required_lv": 15,
+      "continue_limit": 0,
+      "heart_limit": 3,
+      "bg_id": 13,
+      "exp": 4829,
+      "multi_exp": 210,
+      "job_exp": 60,
+      "raid_point": 0,
+      "crystal": 193,
+      "time_limit": 420,
+      "speedclear": 120,
+      "speedclear_rare": 3,
+      "zako_hp": 260,
+      "zako_atk": 280,
+      "mid_hp": 1500,
+      "mid_atk": 1100,
+      "mid_break": 80,
+      "boss_hp": 170000,
+      "boss_atk": 6000,
+      "boss_break": 450,
+      "stamina": 60,
+      "zako01_id": 168,
+      "zako02_id": 0,
+      "zako03_id": 0,
+      "zako04_id": 0,
+      "zako05_id": 0,
+      "mid01_id": 169,
+      "mid02_id": 0,
+      "mid03_id": 0,
+      "mid04_id": 0,
+      "boss01_id": 4170,
+      "boss02_id": 0,
+      "rareenemy_id": 33,
+      "mission_bonus_type": 1,
+      "mission_bonus_id": 1,
+      "mission_bonus_value": 5,
+      "battle_bgm_id": 0,
+      "boss_bgm_id": 0
     }
   }
 }

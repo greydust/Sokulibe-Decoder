@@ -85,6 +85,13 @@
       "event_quest_id": 0,
       "bef_aft": 1,
       "name": "エピローグ：木漏れ日に輝く双蝶　後編"
+    },
+    "51": {
+      "id": 51,
+      "raid_flag": 0,
+      "event_quest_id": 0,
+      "bef_aft": 1,
+      "name": "エピローグ：苦渋の休戦"
     }
   },
   "1": {
@@ -384,6 +391,85 @@
       "event_quest_id": 206,
       "bef_aft": 1,
       "name": "エピローグ：平穏に返る渓谷と紡がれる音"
+    }
+  },
+  "208": {
+    "48": {
+      "id": 48,
+      "raid_flag": 0,
+      "event_quest_id": 208,
+      "bef_aft": 0,
+      "name": "プロローグ：楽都侵攻を阻止せよ！"
+    }
+  },
+  "211": {
+    "49": {
+      "id": 49,
+      "raid_flag": 0,
+      "event_quest_id": 211,
+      "bef_aft": 1,
+      "name": "１話：正義と復讐に揺れる心"
+    }
+  },
+  "215": {
+    "50": {
+      "id": 50,
+      "raid_flag": 0,
+      "event_quest_id": 215,
+      "bef_aft": 0,
+      "name": "２話：覚醒の黒き巨神"
+    }
+  },
+  "218": {
+    "52": {
+      "id": 52,
+      "raid_flag": 0,
+      "event_quest_id": 218,
+      "bef_aft": 0,
+      "name": "プロローグ：吸血王の誤算"
+    }
+  },
+  "219": {
+    "53": {
+      "id": 53,
+      "raid_flag": 0,
+      "event_quest_id": 219,
+      "bef_aft": 1,
+      "name": "１話：廃墟に響く聖なる咆哮"
+    }
+  },
+  "220": {
+    "54": {
+      "id": 54,
+      "raid_flag": 0,
+      "event_quest_id": 220,
+      "bef_aft": 1,
+      "name": "２話：羽音を奏でし黒き女王"
+    }
+  },
+  "221": {
+    "55": {
+      "id": 55,
+      "raid_flag": 0,
+      "event_quest_id": 221,
+      "bef_aft": 1,
+      "name": "エピローグ：交わされる血盟の誓い"
+    }
+  },
+  "227": {
+    "56": {
+      "id": 56,
+      "raid_flag": 0,
+      "event_quest_id": 227,
+      "bef_aft": 0,
+      "name": "プロローグ：月夜に目覚めし者達"
+    },
+    "57": {
+      "id": 57,
+      "raid_flag": 0,
+      "event_quest_id": 227,
+      "bef_aft": 1,
+      "name": "１話：蔓延る復讐鬼達"
     }
   }
 }
