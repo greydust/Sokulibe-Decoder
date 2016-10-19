@@ -184,5 +184,29 @@
     "priority": 11,
     "job_limit": 3,
     "multi_limit": 0
+  },
+  "32": {
+    "id": 32,
+    "priority": 6,
+    "job_limit": 0,
+    "multi_limit": 0
+  },
+  "33": {
+    "id": 33,
+    "priority": 6,
+    "job_limit": 0,
+    "multi_limit": 0
+  },
+  "34": {
+    "id": 34,
+    "priority": 7,
+    "job_limit": 0,
+    "multi_limit": 0
+  },
+  "35": {
+    "id": 35,
+    "priority": 8,
+    "job_limit": 0,
+    "multi_limit": 0
   }
 }

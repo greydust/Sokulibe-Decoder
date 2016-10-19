@@ -26,7 +26,9 @@
     "Characteristic1": "",
     "Characteristic2": "",
     "Characteristic3": "",
-    "Characteristic4": ""
+    "Characteristic4": "",
+    "weapon_cuesheet": "uv0001_bt_01",
+    "weapon_cue": "uv0001_bt_01_A"
   },
   "2": {
     "id": 2,
@@ -55,7 +57,9 @@
     "Characteristic1": "",
     "Characteristic2": "",
     "Characteristic3": "",
-    "Characteristic4": ""
+    "Characteristic4": "",
+    "weapon_cuesheet": "uv0002_bt_01",
+    "weapon_cue": "uv0002_bt_01_A"
   },
   "3": {
     "id": 3,
@@ -84,7 +88,9 @@
     "Characteristic1": "",
     "Characteristic2": "",
     "Characteristic3": "",
-    "Characteristic4": ""
+    "Characteristic4": "",
+    "weapon_cuesheet": "uv0003_bt_01",
+    "weapon_cue": "uv0003_bt_01_A"
   },
   "4": {
     "id": 4,
@@ -113,7 +119,9 @@
     "Characteristic1": "",
     "Characteristic2": "",
     "Characteristic3": "",
-    "Characteristic4": ""
+    "Characteristic4": "",
+    "weapon_cuesheet": "uv0004_bt_01",
+    "weapon_cue": "uv0004_bt_01_A"
   },
   "5": {
     "id": 5,
@@ -142,7 +150,9 @@
     "Characteristic1": "",
     "Characteristic2": "",
     "Characteristic3": "",
-    "Characteristic4": ""
+    "Characteristic4": "",
+    "weapon_cuesheet": "uv0005_bt_01",
+    "weapon_cue": "uv0005_bt_01_A"
   },
   "6": {
     "id": 6,
@@ -171,7 +181,9 @@
     "Characteristic1": "",
     "Characteristic2": "",
     "Characteristic3": "",
-    "Characteristic4": ""
+    "Characteristic4": "",
+    "weapon_cuesheet": "uv0006_bt_01",
+    "weapon_cue": "uv0006_bt_01_A"
   },
   "7": {
     "id": 7,
@@ -200,7 +212,9 @@
     "Characteristic1": "",
     "Characteristic2": "",
     "Characteristic3": "",
-    "Characteristic4": ""
+    "Characteristic4": "",
+    "weapon_cuesheet": "uv0007_bt_01",
+    "weapon_cue": "uv0007_bt_01_A"
   },
   "8": {
     "id": 8,
@@ -229,7 +243,9 @@
     "Characteristic1": "",
     "Characteristic2": "",
     "Characteristic3": "",
-    "Characteristic4": ""
+    "Characteristic4": "",
+    "weapon_cuesheet": "uv0008_bt_01",
+    "weapon_cue": "uv0008_bt_01_A"
   },
   "9": {
     "id": 9,
@@ -258,7 +274,9 @@
     "Characteristic1": "",
     "Characteristic2": "",
     "Characteristic3": "",
-    "Characteristic4": ""
+    "Characteristic4": "",
+    "weapon_cuesheet": "uv0009_bt_01",
+    "weapon_cue": "uv0009_bt_01_A"
   },
   "10": {
     "id": 10,
@@ -287,7 +305,9 @@
     "Characteristic1": "",
     "Characteristic2": "",
     "Characteristic3": "",
-    "Characteristic4": ""
+    "Characteristic4": "",
+    "weapon_cuesheet": "uv0010_bt_01",
+    "weapon_cue": "uv0010_bt_01_A"
   },
   "11": {
     "id": 11,
@@ -316,7 +336,9 @@
     "Characteristic1": "",
     "Characteristic2": "",
     "Characteristic3": "",
-    "Characteristic4": ""
+    "Characteristic4": "",
+    "weapon_cuesheet": "uv0011_bt_01",
+    "weapon_cue": "uv0011_bt_01_A"
   },
   "12": {
     "id": 12,
@@ -345,7 +367,9 @@
     "Characteristic1": "",
     "Characteristic2": "",
     "Characteristic3": "",
-    "Characteristic4": ""
+    "Characteristic4": "",
+    "weapon_cuesheet": "uv0012_bt_01",
+    "weapon_cue": "uv0012_bt_01_A"
   },
   "13": {
     "id": 13,
@@ -374,7 +398,9 @@
     "Characteristic1": "",
     "Characteristic2": "",
     "Characteristic3": "",
-    "Characteristic4": ""
+    "Characteristic4": "",
+    "weapon_cuesheet": "uv0013_bt_01",
+    "weapon_cue": "uv0013_bt_01_A"
   },
   "14": {
     "id": 14,
@@ -403,7 +429,9 @@
     "Characteristic1": "",
     "Characteristic2": "",
     "Characteristic3": "",
-    "Characteristic4": ""
+    "Characteristic4": "",
+    "weapon_cuesheet": "uv0014_bt_01",
+    "weapon_cue": "uv0014_bt_01_A"
   },
   "15": {
     "id": 15,
@@ -432,7 +460,9 @@
     "Characteristic1": "",
     "Characteristic2": "",
     "Characteristic3": "",
-    "Characteristic4": ""
+    "Characteristic4": "",
+    "weapon_cuesheet": "uv0015_bt_01",
+    "weapon_cue": "uv0015_bt_01_A"
   },
   "16": {
     "id": 16,
@@ -461,7 +491,9 @@
     "Characteristic1": "",
     "Characteristic2": "",
     "Characteristic3": "",
-    "Characteristic4": ""
+    "Characteristic4": "",
+    "weapon_cuesheet": "uv0016_bt_01",
+    "weapon_cue": "uv0016_bt_01_A"
   },
   "17": {
     "id": 17,
@@ -490,7 +522,9 @@
     "Characteristic1": "",
     "Characteristic2": "",
     "Characteristic3": "",
-    "Characteristic4": ""
+    "Characteristic4": "",
+    "weapon_cuesheet": "uv0017_bt_01",
+    "weapon_cue": "uv0017_bt_01_A"
   },
   "18": {
     "id": 18,
@@ -519,7 +553,9 @@
     "Characteristic1": "",
     "Characteristic2": "",
     "Characteristic3": "",
-    "Characteristic4": ""
+    "Characteristic4": "",
+    "weapon_cuesheet": "uv0018_bt_01",
+    "weapon_cue": "uv0018_bt_01_A"
   },
   "19": {
     "id": 19,
@@ -548,7 +584,9 @@
     "Characteristic1": "",
     "Characteristic2": "",
     "Characteristic3": "",
-    "Characteristic4": ""
+    "Characteristic4": "",
+    "weapon_cuesheet": "uv0019_bt_01",
+    "weapon_cue": "uv0019_bt_01_A"
   },
   "20": {
     "id": 20,
@@ -577,7 +615,9 @@
     "Characteristic1": "",
     "Characteristic2": "",
     "Characteristic3": "",
-    "Characteristic4": ""
+    "Characteristic4": "",
+    "weapon_cuesheet": "uv0020_bt_01",
+    "weapon_cue": "uv0020_bt_01_A"
   },
   "21": {
     "id": 21,
@@ -606,7 +646,9 @@
     "Characteristic1": "",
     "Characteristic2": "",
     "Characteristic3": "",
-    "Characteristic4": ""
+    "Characteristic4": "",
+    "weapon_cuesheet": "uv0021_bt_06",
+    "weapon_cue": "uv0021_bt_06_B"
   },
   "22": {
     "id": 22,
@@ -635,7 +677,9 @@
     "Characteristic1": "",
     "Characteristic2": "",
     "Characteristic3": "",
-    "Characteristic4": ""
+    "Characteristic4": "",
+    "weapon_cuesheet": "uv0022_bt_06",
+    "weapon_cue": "uv0022_bt_06_A"
   },
   "23": {
     "id": 23,
@@ -664,7 +708,9 @@
     "Characteristic1": "",
     "Characteristic2": "",
     "Characteristic3": "",
-    "Characteristic4": ""
+    "Characteristic4": "",
+    "weapon_cuesheet": "uv0023_bt_06",
+    "weapon_cue": "uv0023_bt_06_A"
   },
   "24": {
     "id": 24,
@@ -693,7 +739,9 @@
     "Characteristic1": "",
     "Characteristic2": "",
     "Characteristic3": "",
-    "Characteristic4": ""
+    "Characteristic4": "",
+    "weapon_cuesheet": "uv0024_bt_15",
+    "weapon_cue": "uv0024_bt_15_B"
   },
   "25": {
     "id": 25,
@@ -722,7 +770,9 @@
     "Characteristic1": "",
     "Characteristic2": "",
     "Characteristic3": "",
-    "Characteristic4": ""
+    "Characteristic4": "",
+    "weapon_cuesheet": "uv0025_bt_15",
+    "weapon_cue": "uv0025_bt_15_B"
   },
   "26": {
     "id": 26,
@@ -751,7 +801,9 @@
     "Characteristic1": "",
     "Characteristic2": "",
     "Characteristic3": "",
-    "Characteristic4": ""
+    "Characteristic4": "",
+    "weapon_cuesheet": "uv0026_bt_06",
+    "weapon_cue": "uv0026_bt_06_B"
   },
   "27": {
     "id": 27,
@@ -780,7 +832,9 @@
     "Characteristic1": "",
     "Characteristic2": "",
     "Characteristic3": "",
-    "Characteristic4": ""
+    "Characteristic4": "",
+    "weapon_cuesheet": "uv0027_bt_15",
+    "weapon_cue": "uv0027_bt_15_A"
   },
   "28": {
     "id": 28,
@@ -809,15 +863,17 @@
     "Characteristic1": "",
     "Characteristic2": "",
     "Characteristic3": "",
-    "Characteristic4": ""
+    "Characteristic4": "",
+    "weapon_cuesheet": "uv0028_bt_15",
+    "weapon_cue": "uv0028_bt_15_A"
   },
   "29": {
     "id": 29,
-    "nickname": "",
+    "nickname": "心優しき",
     "name": "ワクマー",
     "cv": "石田 敏朗",
     "partner_id": 0,
-    "rarity": 2,
+    "rarity": 3,
     "gender": 1,
     "size": 1.15,
     "job_id": 6,
@@ -833,12 +889,14 @@
     "knock_back_grow": 15,
     "ability01": 9,
     "ability02": 15,
-    "ability03": 0,
+    "ability03": 123,
     "ability04": 0,
     "Characteristic1": "",
     "Characteristic2": "",
     "Characteristic3": "",
-    "Characteristic4": ""
+    "Characteristic4": "",
+    "weapon_cuesheet": "uv0029_bt_06",
+    "weapon_cue": "uv0029_bt_06_B"
   },
   "30": {
     "id": 30,
@@ -867,7 +925,9 @@
     "Characteristic1": "",
     "Characteristic2": "",
     "Characteristic3": "",
-    "Characteristic4": ""
+    "Characteristic4": "",
+    "weapon_cuesheet": "uv0030_bt_06",
+    "weapon_cue": "uv0030_bt_06_B"
   },
   "31": {
     "id": 31,
@@ -896,7 +956,9 @@
     "Characteristic1": "",
     "Characteristic2": "",
     "Characteristic3": "",
-    "Characteristic4": ""
+    "Characteristic4": "",
+    "weapon_cuesheet": "uv0031_bt_15",
+    "weapon_cue": "uv0031_bt_15_A"
   },
   "32": {
     "id": 32,
@@ -925,7 +987,9 @@
     "Characteristic1": "",
     "Characteristic2": "",
     "Characteristic3": "",
-    "Characteristic4": ""
+    "Characteristic4": "",
+    "weapon_cuesheet": "uv0032_bt_02",
+    "weapon_cue": "uv0032_bt_02_B"
   },
   "33": {
     "id": 33,
@@ -954,7 +1018,9 @@
     "Characteristic1": "",
     "Characteristic2": "",
     "Characteristic3": "",
-    "Characteristic4": ""
+    "Characteristic4": "",
+    "weapon_cuesheet": "uv0033_bt_06",
+    "weapon_cue": "uv0033_bt_06_B"
   },
   "34": {
     "id": 34,
@@ -983,7 +1049,9 @@
     "Characteristic1": "",
     "Characteristic2": "",
     "Characteristic3": "",
-    "Characteristic4": ""
+    "Characteristic4": "",
+    "weapon_cuesheet": "uv0034_bt_06",
+    "weapon_cue": "uv0034_bt_06_A"
   },
   "35": {
     "id": 35,
@@ -1012,7 +1080,9 @@
     "Characteristic1": "",
     "Characteristic2": "",
     "Characteristic3": "",
-    "Characteristic4": ""
+    "Characteristic4": "",
+    "weapon_cuesheet": "uv0035_bt_15",
+    "weapon_cue": "uv0035_bt_15_A"
   },
   "36": {
     "id": 36,
@@ -1041,7 +1111,9 @@
     "Characteristic1": "",
     "Characteristic2": "",
     "Characteristic3": "",
-    "Characteristic4": ""
+    "Characteristic4": "",
+    "weapon_cuesheet": "uv0036_bt_06",
+    "weapon_cue": "uv0036_bt_06_B"
   },
   "37": {
     "id": 37,
@@ -1056,13 +1128,13 @@
     "ougi_id": 57,
     "use_element": 0,
     "use_debuff": 0,
-    "hp": 589,
-    "atk": 656,
+    "hp": 617,
+    "atk": 763,
     "agi": 385,
-    "knock_back_regist": 147,
-    "hp_grow": 23,
-    "atk_grow": 26,
-    "knock_back_grow": 5,
+    "knock_back_regist": 154,
+    "hp_grow": 24,
+    "atk_grow": 30,
+    "knock_back_grow": 6,
     "ability01": 6,
     "ability02": 13,
     "ability03": 0,
@@ -1070,7 +1142,9 @@
     "Characteristic1": "",
     "Characteristic2": "",
     "Characteristic3": "",
-    "Characteristic4": ""
+    "Characteristic4": "",
+    "weapon_cuesheet": "uv0037_bt_02",
+    "weapon_cue": "uv0037_bt_02_A"
   },
   "38": {
     "id": 38,
@@ -1085,13 +1159,13 @@
     "ougi_id": 57,
     "use_element": 0,
     "use_debuff": 0,
-    "hp": 589,
-    "atk": 656,
+    "hp": 715,
+    "atk": 654,
     "agi": 385,
-    "knock_back_regist": 147,
-    "hp_grow": 23,
+    "knock_back_regist": 178,
+    "hp_grow": 28,
     "atk_grow": 26,
-    "knock_back_grow": 5,
+    "knock_back_grow": 7,
     "ability01": 6,
     "ability02": 13,
     "ability03": 0,
@@ -1099,7 +1173,9 @@
     "Characteristic1": "",
     "Characteristic2": "",
     "Characteristic3": "",
-    "Characteristic4": ""
+    "Characteristic4": "",
+    "weapon_cuesheet": "uv0038_bt_02",
+    "weapon_cue": "uv0038_bt_02_A"
   },
   "39": {
     "id": 39,
@@ -1128,7 +1204,9 @@
     "Characteristic1": "",
     "Characteristic2": "",
     "Characteristic3": "",
-    "Characteristic4": ""
+    "Characteristic4": "",
+    "weapon_cuesheet": "uv0039_bt_15",
+    "weapon_cue": "uv0039_bt_15_A"
   },
   "40": {
     "id": 40,
@@ -1157,7 +1235,9 @@
     "Characteristic1": "",
     "Characteristic2": "",
     "Characteristic3": "",
-    "Characteristic4": ""
+    "Characteristic4": "",
+    "weapon_cuesheet": "uv0040_bt_02",
+    "weapon_cue": "uv0040_bt_02_C"
   },
   "41": {
     "id": 41,
@@ -1186,7 +1266,9 @@
     "Characteristic1": "地属性に少し強い",
     "Characteristic2": "水属性に弱い",
     "Characteristic3": "",
-    "Characteristic4": ""
+    "Characteristic4": "",
+    "weapon_cuesheet": "uv0041_bt_06",
+    "weapon_cue": "uv0041_bt_06_B"
   },
   "42": {
     "id": 42,
@@ -1215,7 +1297,9 @@
     "Characteristic1": "火属性に少し強い",
     "Characteristic2": "地属性に弱い",
     "Characteristic3": "",
-    "Characteristic4": ""
+    "Characteristic4": "",
+    "weapon_cuesheet": "uv0042_bt_15",
+    "weapon_cue": "uv0042_bt_15_A"
   },
   "43": {
     "id": 43,
@@ -1244,7 +1328,9 @@
     "Characteristic1": "水属性に少し強い",
     "Characteristic2": "火属性に弱い",
     "Characteristic3": "",
-    "Characteristic4": ""
+    "Characteristic4": "",
+    "weapon_cuesheet": "uv0043_bt_06",
+    "weapon_cue": "uv0043_bt_06_B"
   },
   "44": {
     "id": 44,
@@ -1273,7 +1359,9 @@
     "Characteristic1": "地属性に少し強い",
     "Characteristic2": "水属性に弱い",
     "Characteristic3": "",
-    "Characteristic4": ""
+    "Characteristic4": "",
+    "weapon_cuesheet": "uv0044_bt_15",
+    "weapon_cue": "uv0044_bt_15_B"
   },
   "45": {
     "id": 45,
@@ -1302,7 +1390,9 @@
     "Characteristic1": "火属性に少し強い",
     "Characteristic2": "地属性に弱い",
     "Characteristic3": "",
-    "Characteristic4": ""
+    "Characteristic4": "",
+    "weapon_cuesheet": "uv0045_bt_15",
+    "weapon_cue": "uv0045_bt_15_B"
   },
   "46": {
     "id": 46,
@@ -1331,7 +1421,9 @@
     "Characteristic1": "水属性に少し強い",
     "Characteristic2": "火属性に弱い",
     "Characteristic3": "",
-    "Characteristic4": ""
+    "Characteristic4": "",
+    "weapon_cuesheet": "uv0046_bt_15",
+    "weapon_cue": "uv0046_bt_15_A"
   },
   "47": {
     "id": 47,
@@ -1360,7 +1452,9 @@
     "Characteristic1": "地属性に少し強い",
     "Characteristic2": "水属性に弱い",
     "Characteristic3": "",
-    "Characteristic4": ""
+    "Characteristic4": "",
+    "weapon_cuesheet": "uv0047_bt_06",
+    "weapon_cue": "uv0047_bt_06_A"
   },
   "48": {
     "id": 48,
@@ -1389,7 +1483,9 @@
     "Characteristic1": "火属性に少し強い",
     "Characteristic2": "地属性に弱い",
     "Characteristic3": "",
-    "Characteristic4": ""
+    "Characteristic4": "",
+    "weapon_cuesheet": "uv0048_bt_06",
+    "weapon_cue": "uv0048_bt_06_B"
   },
   "49": {
     "id": 49,
@@ -1418,7 +1514,9 @@
     "Characteristic1": "水属性に少し強い",
     "Characteristic2": "火属性に弱い",
     "Characteristic3": "",
-    "Characteristic4": ""
+    "Characteristic4": "",
+    "weapon_cuesheet": "uv0049_bt_06",
+    "weapon_cue": "uv0049_bt_06_A"
   },
   "50": {
     "id": 50,
@@ -1447,7 +1545,9 @@
     "Characteristic1": "地属性に少し強い",
     "Characteristic2": "水属性に弱い",
     "Characteristic3": "",
-    "Characteristic4": ""
+    "Characteristic4": "",
+    "weapon_cuesheet": "uv0050_bt_06",
+    "weapon_cue": "uv0050_bt_06_B"
   },
   "51": {
     "id": 51,
@@ -1476,7 +1576,9 @@
     "Characteristic1": "火属性に少し強い",
     "Characteristic2": "地属性に弱い",
     "Characteristic3": "",
-    "Characteristic4": ""
+    "Characteristic4": "",
+    "weapon_cuesheet": "uv0051_bt_02",
+    "weapon_cue": "uv0051_bt_02_C"
   },
   "52": {
     "id": 52,
@@ -1505,7 +1607,9 @@
     "Characteristic1": "水属性に少し強い",
     "Characteristic2": "火属性に弱い",
     "Characteristic3": "",
-    "Characteristic4": ""
+    "Characteristic4": "",
+    "weapon_cuesheet": "uv0052_bt_15",
+    "weapon_cue": "uv0052_bt_15_B"
   },
   "53": {
     "id": 53,
@@ -1534,7 +1638,9 @@
     "Characteristic1": "地属性に強い",
     "Characteristic2": "水属性に弱い",
     "Characteristic3": "",
-    "Characteristic4": ""
+    "Characteristic4": "",
+    "weapon_cuesheet": "uv0053_bt_06",
+    "weapon_cue": "uv0053_bt_06_B"
   },
   "54": {
     "id": 54,
@@ -1563,7 +1669,9 @@
     "Characteristic1": "火属性に強い",
     "Characteristic2": "地属性に弱い",
     "Characteristic3": "",
-    "Characteristic4": ""
+    "Characteristic4": "",
+    "weapon_cuesheet": "uv0054_bt_06",
+    "weapon_cue": "uv0054_bt_06_A"
   },
   "55": {
     "id": 55,
@@ -1592,7 +1700,9 @@
     "Characteristic1": "水属性に強い",
     "Characteristic2": "火属性に弱い",
     "Characteristic3": "",
-    "Characteristic4": ""
+    "Characteristic4": "",
+    "weapon_cuesheet": "uv0055_bt_06",
+    "weapon_cue": "uv0055_bt_06_B"
   },
   "56": {
     "id": 56,
@@ -1621,7 +1731,9 @@
     "Characteristic1": "地属性に強い",
     "Characteristic2": "水属性に弱い",
     "Characteristic3": "",
-    "Characteristic4": ""
+    "Characteristic4": "",
+    "weapon_cuesheet": "uv0056_bt_02",
+    "weapon_cue": "uv0056_bt_02_A"
   },
   "57": {
     "id": 57,
@@ -1650,7 +1762,9 @@
     "Characteristic1": "火属性に強い",
     "Characteristic2": "地属性に弱い",
     "Characteristic3": "",
-    "Characteristic4": ""
+    "Characteristic4": "",
+    "weapon_cuesheet": "uv0057_bt_02",
+    "weapon_cue": "uv0057_bt_02_A"
   },
   "58": {
     "id": 58,
@@ -1679,7 +1793,9 @@
     "Characteristic1": "水属性に強い",
     "Characteristic2": "火属性に弱い",
     "Characteristic3": "",
-    "Characteristic4": ""
+    "Characteristic4": "",
+    "weapon_cuesheet": "uv0058_bt_15",
+    "weapon_cue": "uv0058_bt_15_A"
   },
   "59": {
     "id": 59,
@@ -1708,7 +1824,9 @@
     "Characteristic1": "地属性に少し強い",
     "Characteristic2": "水属性に弱い",
     "Characteristic3": "",
-    "Characteristic4": ""
+    "Characteristic4": "",
+    "weapon_cuesheet": "uv0059_bt_15",
+    "weapon_cue": "uv0059_bt_15_B"
   },
   "60": {
     "id": 60,
@@ -1737,7 +1855,9 @@
     "Characteristic1": "火属性に少し強い",
     "Characteristic2": "地属性に弱い",
     "Characteristic3": "",
-    "Characteristic4": ""
+    "Characteristic4": "",
+    "weapon_cuesheet": "uv0060_bt_02",
+    "weapon_cue": "uv0060_bt_02_A"
   },
   "61": {
     "id": 61,
@@ -1766,7 +1886,9 @@
     "Characteristic1": "水属性に少し強い",
     "Characteristic2": "火属性に弱い",
     "Characteristic3": "",
-    "Characteristic4": ""
+    "Characteristic4": "",
+    "weapon_cuesheet": "uv0061_bt_06",
+    "weapon_cue": "uv0061_bt_06_B"
   },
   "62": {
     "id": 62,
@@ -1795,7 +1917,9 @@
     "Characteristic1": "地属性に少し強い",
     "Characteristic2": "水属性に弱い",
     "Characteristic3": "",
-    "Characteristic4": ""
+    "Characteristic4": "",
+    "weapon_cuesheet": "uv0062_bt_02",
+    "weapon_cue": "uv0062_bt_02_A"
   },
   "63": {
     "id": 63,
@@ -1824,7 +1948,9 @@
     "Characteristic1": "火属性に少し強い",
     "Characteristic2": "地属性に弱い",
     "Characteristic3": "",
-    "Characteristic4": ""
+    "Characteristic4": "",
+    "weapon_cuesheet": "uv0063_bt_06",
+    "weapon_cue": "uv0063_bt_06_A"
   },
   "64": {
     "id": 64,
@@ -1853,7 +1979,9 @@
     "Characteristic1": "水属性に少し強い",
     "Characteristic2": "火属性に弱い",
     "Characteristic3": "",
-    "Characteristic4": ""
+    "Characteristic4": "",
+    "weapon_cuesheet": "uv0064_bt_02",
+    "weapon_cue": "uv0064_bt_02_C"
   },
   "65": {
     "id": 65,
@@ -1868,12 +1996,12 @@
     "ougi_id": 58,
     "use_element": 1,
     "use_debuff": 0,
-    "hp": 606,
-    "atk": 676,
-    "agi": 385,
-    "knock_back_regist": 151,
+    "hp": 602,
+    "atk": 786,
+    "agi": 404,
+    "knock_back_regist": 150,
     "hp_grow": 24,
-    "atk_grow": 27,
+    "atk_grow": 31,
     "knock_back_grow": 6,
     "ability01": 13,
     "ability02": 17,
@@ -1882,7 +2010,9 @@
     "Characteristic1": "地属性に少し強い",
     "Characteristic2": "水属性に弱い",
     "Characteristic3": "",
-    "Characteristic4": ""
+    "Characteristic4": "",
+    "weapon_cuesheet": "uv0065_bt_06",
+    "weapon_cue": "uv0065_bt_06_A"
   },
   "66": {
     "id": 66,
@@ -1897,13 +2027,13 @@
     "ougi_id": 59,
     "use_element": 2,
     "use_debuff": 0,
-    "hp": 606,
-    "atk": 676,
+    "hp": 568,
+    "atk": 860,
     "agi": 385,
-    "knock_back_regist": 151,
-    "hp_grow": 24,
-    "atk_grow": 27,
-    "knock_back_grow": 6,
+    "knock_back_regist": 142,
+    "hp_grow": 22,
+    "atk_grow": 34,
+    "knock_back_grow": 5,
     "ability01": 13,
     "ability02": 19,
     "ability03": 35,
@@ -1911,7 +2041,9 @@
     "Characteristic1": "火属性に少し強い",
     "Characteristic2": "地属性に弱い",
     "Characteristic3": "",
-    "Characteristic4": ""
+    "Characteristic4": "",
+    "weapon_cuesheet": "uv0066_bt_06",
+    "weapon_cue": "uv0066_bt_06_A"
   },
   "67": {
     "id": 67,
@@ -1920,19 +2052,19 @@
     "cv": "石原 舞",
     "partner_id": 59,
     "rarity": 3,
-    "gender": 1,
+    "gender": 2,
     "size": 0.95,
     "job_id": 9,
     "ougi_id": 60,
     "use_element": 3,
     "use_debuff": 0,
-    "hp": 606,
-    "atk": 676,
+    "hp": 736,
+    "atk": 673,
     "agi": 385,
-    "knock_back_regist": 151,
-    "hp_grow": 24,
-    "atk_grow": 27,
-    "knock_back_grow": 6,
+    "knock_back_regist": 184,
+    "hp_grow": 29,
+    "atk_grow": 26,
+    "knock_back_grow": 7,
     "ability01": 13,
     "ability02": 20,
     "ability03": 39,
@@ -1940,7 +2072,9 @@
     "Characteristic1": "水属性に少し強い",
     "Characteristic2": "火属性に弱い",
     "Characteristic3": "",
-    "Characteristic4": ""
+    "Characteristic4": "",
+    "weapon_cuesheet": "uv0067_bt_02",
+    "weapon_cue": "uv0067_bt_02_A"
   },
   "68": {
     "id": 68,
@@ -1969,7 +2103,9 @@
     "Characteristic1": "地属性に少し強い",
     "Characteristic2": "水属性に弱い",
     "Characteristic3": "",
-    "Characteristic4": ""
+    "Characteristic4": "",
+    "weapon_cuesheet": "uv0068_bt_15",
+    "weapon_cue": "uv0068_bt_15_A"
   },
   "69": {
     "id": 69,
@@ -1998,7 +2134,9 @@
     "Characteristic1": "火属性に少し強い",
     "Characteristic2": "地属性に弱い",
     "Characteristic3": "",
-    "Characteristic4": ""
+    "Characteristic4": "",
+    "weapon_cuesheet": "uv0069_bt_15",
+    "weapon_cue": "uv0069_bt_15_A"
   },
   "70": {
     "id": 70,
@@ -2027,7 +2165,9 @@
     "Characteristic1": "水属性に少し強い",
     "Characteristic2": "火属性に弱い",
     "Characteristic3": "",
-    "Characteristic4": ""
+    "Characteristic4": "",
+    "weapon_cuesheet": "uv0070_bt_01",
+    "weapon_cue": "uv0070_bt_01_D"
   },
   "71": {
     "id": 71,
@@ -2056,7 +2196,9 @@
     "Characteristic1": "地属性に強い",
     "Characteristic2": "状態異常 毒に強い",
     "Characteristic3": "水属性に弱い",
-    "Characteristic4": ""
+    "Characteristic4": "",
+    "weapon_cuesheet": "uv0071_bt_15",
+    "weapon_cue": "uv0071_bt_15_B"
   },
   "72": {
     "id": 72,
@@ -2085,7 +2227,9 @@
     "Characteristic1": "火属性に強い",
     "Characteristic2": "状態異常 火傷に強い",
     "Characteristic3": "地属性に弱い",
-    "Characteristic4": ""
+    "Characteristic4": "",
+    "weapon_cuesheet": "uv0072_bt_15",
+    "weapon_cue": "uv0072_bt_15_A"
   },
   "73": {
     "id": 73,
@@ -2114,11 +2258,13 @@
     "Characteristic1": "水属性に強い",
     "Characteristic2": "状態異常 氷結に強い",
     "Characteristic3": "火属性に弱い",
-    "Characteristic4": ""
+    "Characteristic4": "",
+    "weapon_cuesheet": "uv0073_bt_02",
+    "weapon_cue": "uv0073_bt_02_C"
   },
   "74": {
     "id": 74,
-    "nickname": "太陽の我儘姫",
+    "nickname": "太陽の姫君",
     "name": "リリア=ラキラ",
     "cv": "生田 善子",
     "partner_id": 100,
@@ -2126,24 +2272,26 @@
     "gender": 2,
     "size": 0.75,
     "job_id": 1,
-    "ougi_id": 1,
+    "ougi_id": 8,
     "use_element": 4,
     "use_debuff": 0,
-    "hp": 1122,
-    "atk": 506,
-    "agi": 550,
-    "knock_back_regist": 280,
-    "hp_grow": 44,
-    "atk_grow": 20,
+    "hp": 1178,
+    "atk": 581,
+    "agi": 594,
+    "knock_back_regist": 294,
+    "hp_grow": 47,
+    "atk_grow": 23,
     "knock_back_grow": 11,
-    "ability01": 11,
-    "ability02": 0,
-    "ability03": 0,
-    "ability04": 0,
-    "Characteristic1": "光属性に強い",
-    "Characteristic2": "状態異常 沈黙に強い",
-    "Characteristic3": "闇属性に少し強い",
-    "Characteristic4": ""
+    "ability01": 59,
+    "ability02": 6,
+    "ability03": 115,
+    "ability04": 116,
+    "Characteristic1": "闇属性に強い",
+    "Characteristic2": "状態異常 毒に強い",
+    "Characteristic3": "水属性に弱い",
+    "Characteristic4": "",
+    "weapon_cuesheet": "uv0074_bt_15",
+    "weapon_cue": "uv0074_bt_15_A"
   },
   "75": {
     "id": 75,
@@ -2172,7 +2320,9 @@
     "Characteristic1": "光属性に強い",
     "Characteristic2": "状態異常 麻痺に強い",
     "Characteristic3": "水属性に弱い",
-    "Characteristic4": ""
+    "Characteristic4": "",
+    "weapon_cuesheet": "uv0075_bt_02",
+    "weapon_cue": "uv0075_bt_02_A"
   },
   "76": {
     "id": 76,
@@ -2201,7 +2351,9 @@
     "Characteristic1": "地属性に強い",
     "Characteristic2": "状態異常 毒に強い",
     "Characteristic3": "水属性に弱い",
-    "Characteristic4": ""
+    "Characteristic4": "",
+    "weapon_cuesheet": "uv0076_bt_02",
+    "weapon_cue": "uv0076_bt_02_C"
   },
   "77": {
     "id": 77,
@@ -2230,7 +2382,9 @@
     "Characteristic1": "火属性に強い",
     "Characteristic2": "状態異常 毒に強い",
     "Characteristic3": "地属性に少し弱い",
-    "Characteristic4": ""
+    "Characteristic4": "",
+    "weapon_cuesheet": "uv0077_bt_06",
+    "weapon_cue": "uv0077_bt_06_B"
   },
   "78": {
     "id": 78,
@@ -2259,7 +2413,9 @@
     "Characteristic1": "水属性に強い",
     "Characteristic2": "状態異常 氷結に強い",
     "Characteristic3": "火属性に弱い",
-    "Characteristic4": ""
+    "Characteristic4": "",
+    "weapon_cuesheet": "uv0078_bt_06",
+    "weapon_cue": "uv0078_bt_06_B"
   },
   "79": {
     "id": 79,
@@ -2288,13 +2444,15 @@
     "Characteristic1": "闇属性に強い",
     "Characteristic2": "状態異常 麻痺に強い",
     "Characteristic3": "地属性に弱い",
-    "Characteristic4": ""
+    "Characteristic4": "",
+    "weapon_cuesheet": "uv0079_bt_06",
+    "weapon_cue": "uv0079_bt_06_A"
   },
   "80": {
     "id": 80,
-    "nickname": "紫炎に生贄捧げし者",
+    "nickname": "深淵の炎を纏う者",
     "name": "クロウ",
-    "cv": "不明",
+    "cv": "岡本 信彦",
     "partner_id": 89,
     "rarity": 4,
     "gender": 1,
@@ -2303,21 +2461,23 @@
     "ougi_id": 14,
     "use_element": 5,
     "use_debuff": 1,
-    "hp": 701,
-    "atk": 480,
-    "agi": 825,
-    "knock_back_regist": 175,
-    "hp_grow": 28,
-    "atk_grow": 19,
-    "knock_back_grow": 7,
-    "ability01": 7,
-    "ability02": 0,
-    "ability03": 0,
-    "ability04": 0,
-    "Characteristic1": "闇属性に強い",
-    "Characteristic2": "状態異常 火傷に強い",
-    "Characteristic3": "光属性に少し強い",
-    "Characteristic4": ""
+    "hp": 843,
+    "atk": 528,
+    "agi": 679,
+    "knock_back_regist": 210,
+    "hp_grow": 33,
+    "atk_grow": 21,
+    "knock_back_grow": 8,
+    "ability01": 71,
+    "ability02": 86,
+    "ability03": 117,
+    "ability04": 118,
+    "Characteristic1": "光属性に強い",
+    "Characteristic2": "状態異常 麻痺に強い",
+    "Characteristic3": "地属性に弱い",
+    "Characteristic4": "",
+    "weapon_cuesheet": "uv0080_bt_15",
+    "weapon_cue": "uv0080_bt_15_A"
   },
   "81": {
     "id": 81,
@@ -2346,7 +2506,9 @@
     "Characteristic1": "地属性に強い",
     "Characteristic2": "状態異常 浮遊に強い",
     "Characteristic3": "水属性に少し弱い",
-    "Characteristic4": ""
+    "Characteristic4": "",
+    "weapon_cuesheet": "uv0081_bt_02",
+    "weapon_cue": "uv0081_bt_02_B"
   },
   "82": {
     "id": 82,
@@ -2375,7 +2537,9 @@
     "Characteristic1": "火属性に強い",
     "Characteristic2": "状態異常 麻痺に強い",
     "Characteristic3": "地属性に少し弱い",
-    "Characteristic4": ""
+    "Characteristic4": "",
+    "weapon_cuesheet": "uv0082_bt_15",
+    "weapon_cue": "uv0082_bt_15_B"
   },
   "83": {
     "id": 83,
@@ -2404,7 +2568,9 @@
     "Characteristic1": "水属性に強い",
     "Characteristic2": "斬属性に強い",
     "Characteristic3": "火属性に少し弱い",
-    "Characteristic4": ""
+    "Characteristic4": "",
+    "weapon_cuesheet": "uv0083_bt_02",
+    "weapon_cue": "uv0083_bt_02_A"
   },
   "84": {
     "id": 84,
@@ -2433,7 +2599,9 @@
     "Characteristic1": "光属性に強い",
     "Characteristic2": "状態異常 沈黙に強い",
     "Characteristic3": "闇属性に少し強い",
-    "Characteristic4": ""
+    "Characteristic4": "",
+    "weapon_cuesheet": "uv0084_bt_02",
+    "weapon_cue": "uv0084_bt_02_C"
   },
   "85": {
     "id": 85,
@@ -2462,7 +2630,9 @@
     "Characteristic1": "状態異常 呪いに強い",
     "Characteristic2": "闇属性に強い",
     "Characteristic3": "光属性に少し強い",
-    "Characteristic4": ""
+    "Characteristic4": "",
+    "weapon_cuesheet": "uv0085_bt_15",
+    "weapon_cue": "uv0085_bt_15_A"
   },
   "86": {
     "id": 86,
@@ -2491,7 +2661,9 @@
     "Characteristic1": "地属性に強い",
     "Characteristic2": "のけぞりにくい",
     "Characteristic3": "水属性に弱い",
-    "Characteristic4": ""
+    "Characteristic4": "",
+    "weapon_cuesheet": "uv0086_bt_02",
+    "weapon_cue": "uv0086_bt_02_C"
   },
   "87": {
     "id": 87,
@@ -2520,7 +2692,9 @@
     "Characteristic1": "火属性に強い",
     "Characteristic2": "状態異常 火傷に強い",
     "Characteristic3": "地属性に弱い",
-    "Characteristic4": ""
+    "Characteristic4": "",
+    "weapon_cuesheet": "uv0087_bt_02",
+    "weapon_cue": "uv0087_bt_02_C"
   },
   "88": {
     "id": 88,
@@ -2549,7 +2723,9 @@
     "Characteristic1": "水属性に強い",
     "Characteristic2": "状態異常 氷結に強い",
     "Characteristic3": "火属性に弱い",
-    "Characteristic4": ""
+    "Characteristic4": "",
+    "weapon_cuesheet": "uv0088_bt_02",
+    "weapon_cue": "uv0088_bt_02_C"
   },
   "89": {
     "id": 89,
@@ -2578,7 +2754,9 @@
     "Characteristic1": "闇属性に強い",
     "Characteristic2": "状態異常 毒に強い",
     "Characteristic3": "火属性に弱い",
-    "Characteristic4": ""
+    "Characteristic4": "",
+    "weapon_cuesheet": "uv0089_bt_15",
+    "weapon_cue": "uv0089_bt_15_B"
   },
   "90": {
     "id": 90,
@@ -2607,7 +2785,9 @@
     "Characteristic1": "光属性に強い",
     "Characteristic2": "状態異常 麻痺に強い",
     "Characteristic3": "火属性に弱い",
-    "Characteristic4": ""
+    "Characteristic4": "",
+    "weapon_cuesheet": "uv0090_bt_02",
+    "weapon_cue": "uv0090_bt_02_A"
   },
   "91": {
     "id": 91,
@@ -2636,7 +2816,9 @@
     "Characteristic1": "地属性に強い",
     "Characteristic2": "状態異常 火傷に強い",
     "Characteristic3": "水属性に弱い",
-    "Characteristic4": ""
+    "Characteristic4": "",
+    "weapon_cuesheet": "uv0091_bt_02",
+    "weapon_cue": "uv0091_bt_02_B"
   },
   "92": {
     "id": 92,
@@ -2665,7 +2847,9 @@
     "Characteristic1": "火属性に強い",
     "Characteristic2": "のけぞりにくい",
     "Characteristic3": "地属性に弱い",
-    "Characteristic4": ""
+    "Characteristic4": "",
+    "weapon_cuesheet": "uv0092_bt_15",
+    "weapon_cue": "uv0092_bt_15_A"
   },
   "93": {
     "id": 93,
@@ -2694,7 +2878,9 @@
     "Characteristic1": "水属性に強い",
     "Characteristic2": "状態異常 麻痺に強い",
     "Characteristic3": "火属性に弱い",
-    "Characteristic4": ""
+    "Characteristic4": "",
+    "weapon_cuesheet": "uv0093_bt_15",
+    "weapon_cue": "uv0093_bt_15_B"
   },
   "94": {
     "id": 94,
@@ -2723,7 +2909,9 @@
     "Characteristic1": "闇属性に強い",
     "Characteristic2": "状態異常 呪いに強い",
     "Characteristic3": "地属性に弱い",
-    "Characteristic4": ""
+    "Characteristic4": "",
+    "weapon_cuesheet": "uv0094_bt_06",
+    "weapon_cue": "uv0094_bt_06_B"
   },
   "95": {
     "id": 95,
@@ -2752,7 +2940,9 @@
     "Characteristic1": "光属性に強い",
     "Characteristic2": "状態異常 氷結に強い",
     "Characteristic3": "地属性に弱い",
-    "Characteristic4": ""
+    "Characteristic4": "",
+    "weapon_cuesheet": "uv0095_bt_06",
+    "weapon_cue": "uv0095_bt_06_B"
   },
   "96": {
     "id": 96,
@@ -2781,7 +2971,9 @@
     "Characteristic1": "地属性に強い",
     "Characteristic2": "状態異常 浮遊に強い",
     "Characteristic3": "水属性に弱い",
-    "Characteristic4": ""
+    "Characteristic4": "",
+    "weapon_cuesheet": "uv0096_bt_02",
+    "weapon_cue": "uv0096_bt_02_B"
   },
   "97": {
     "id": 97,
@@ -2810,7 +3002,9 @@
     "Characteristic1": "火属性に強い",
     "Characteristic2": "状態異常 沈黙に強い",
     "Characteristic3": "地属性に少し弱い",
-    "Characteristic4": ""
+    "Characteristic4": "",
+    "weapon_cuesheet": "uv0097_bt_15",
+    "weapon_cue": "uv0097_bt_15_A"
   },
   "98": {
     "id": 98,
@@ -2839,13 +3033,15 @@
     "Characteristic1": "水属性に強い",
     "Characteristic2": "状態異常 氷結に強い",
     "Characteristic3": "火属性に弱い",
-    "Characteristic4": ""
+    "Characteristic4": "",
+    "weapon_cuesheet": "uv0098_bt_06",
+    "weapon_cue": "uv0098_bt_06_B"
   },
   "99": {
     "id": 99,
-    "nickname": "最年少の楽団騎士",
+    "nickname": "信念と雷光の鋭槍",
     "name": "エリオット",
-    "cv": "不明",
+    "cv": "小林 ゆう",
     "partner_id": 86,
     "rarity": 4,
     "gender": 1,
@@ -2854,21 +3050,23 @@
     "ougi_id": 41,
     "use_element": 4,
     "use_debuff": 0,
-    "hp": 1309,
-    "atk": 379,
-    "agi": 539,
-    "knock_back_regist": 327,
-    "hp_grow": 52,
-    "atk_grow": 15,
-    "knock_back_grow": 13,
-    "ability01": 13,
-    "ability02": 0,
-    "ability03": 0,
-    "ability04": 0,
-    "Characteristic1": "光属性に強い",
-    "Characteristic2": "状態異常 浮遊に強い",
-    "Characteristic3": "闇属性に少し強い",
-    "Characteristic4": ""
+    "hp": 1178,
+    "atk": 491,
+    "agi": 544,
+    "knock_back_regist": 294,
+    "hp_grow": 47,
+    "atk_grow": 19,
+    "knock_back_grow": 11,
+    "ability01": 59,
+    "ability02": 9,
+    "ability03": 119,
+    "ability04": 120,
+    "Characteristic1": "闇属性に強い",
+    "Characteristic2": "状態異常 沈黙に強い",
+    "Characteristic3": "水属性に弱い",
+    "Characteristic4": "",
+    "weapon_cuesheet": "uv0099_bt_02",
+    "weapon_cue": "uv0099_bt_02_A"
   },
   "100": {
     "id": 100,
@@ -2897,7 +3095,9 @@
     "Characteristic1": "光属性に強い",
     "Characteristic2": "状態異常 麻痺に強い",
     "Characteristic3": "水属性に弱い",
-    "Characteristic4": ""
+    "Characteristic4": "",
+    "weapon_cuesheet": "uv0100_bt_06",
+    "weapon_cue": "uv0100_bt_06_B"
   },
   "101": {
     "id": 101,
@@ -2926,7 +3126,9 @@
     "Characteristic1": "地属性に強い",
     "Characteristic2": "状態異常 浮遊に強い",
     "Characteristic3": "水属性に弱い",
-    "Characteristic4": ""
+    "Characteristic4": "",
+    "weapon_cuesheet": "uv0101_bt_02",
+    "weapon_cue": "uv0101_bt_02_A"
   },
   "102": {
     "id": 102,
@@ -2955,7 +3157,9 @@
     "Characteristic1": "火属性に強い",
     "Characteristic2": "状態異常 麻痺に強い",
     "Characteristic3": "地属性に弱い",
-    "Characteristic4": ""
+    "Characteristic4": "",
+    "weapon_cuesheet": "uv0102_bt_02",
+    "weapon_cue": "uv0102_bt_02_A"
   },
   "103": {
     "id": 103,
@@ -2984,7 +3188,9 @@
     "Characteristic1": "水属性に強い",
     "Characteristic2": "状態異常 毒に強い",
     "Characteristic3": "火属性に弱い",
-    "Characteristic4": ""
+    "Characteristic4": "",
+    "weapon_cuesheet": "uv0103_bt_02",
+    "weapon_cue": "uv0103_bt_02_B"
   },
   "104": {
     "id": 104,
@@ -3013,7 +3219,9 @@
     "Characteristic1": "光属性に強い",
     "Characteristic2": "状態異常 火傷に少し強い",
     "Characteristic3": "闇属性に少し強い",
-    "Characteristic4": ""
+    "Characteristic4": "",
+    "weapon_cuesheet": "uv0104_bt_15",
+    "weapon_cue": "uv0104_bt_15_B"
   },
   "105": {
     "id": 105,
@@ -3042,7 +3250,9 @@
     "Characteristic1": "光属性に強い",
     "Characteristic2": "状態異常 麻痺に強い",
     "Characteristic3": "火属性に弱い",
-    "Characteristic4": ""
+    "Characteristic4": "",
+    "weapon_cuesheet": "uv0105_bt_15",
+    "weapon_cue": "uv0105_bt_15_A"
   },
   "106": {
     "id": 106,
@@ -3071,7 +3281,9 @@
     "Characteristic1": "地属性に強い",
     "Characteristic2": "斬属性に少し強い",
     "Characteristic3": "水属性に少し弱い",
-    "Characteristic4": ""
+    "Characteristic4": "",
+    "weapon_cuesheet": "uv0106_bt_15",
+    "weapon_cue": "uv0106_bt_15_A"
   },
   "107": {
     "id": 107,
@@ -3100,7 +3312,9 @@
     "Characteristic1": "火属性に強い",
     "Characteristic2": "状態異常 火傷に少し強い",
     "Characteristic3": "地属性に少し弱い",
-    "Characteristic4": ""
+    "Characteristic4": "",
+    "weapon_cuesheet": "uv0107_bt_02",
+    "weapon_cue": "uv0107_bt_02_B"
   },
   "108": {
     "id": 108,
@@ -3129,7 +3343,9 @@
     "Characteristic1": "水属性に強い",
     "Characteristic2": "砕属性に少し強い",
     "Characteristic3": "火属性に少し弱い",
-    "Characteristic4": ""
+    "Characteristic4": "",
+    "weapon_cuesheet": "uv0108_bt_02",
+    "weapon_cue": "uv0108_bt_02_A"
   },
   "109": {
     "id": 109,
@@ -3158,7 +3374,9 @@
     "Characteristic1": "光属性に強い",
     "Characteristic2": "状態異常 麻痺に少し強い",
     "Characteristic3": "闇属性に少し強い",
-    "Characteristic4": ""
+    "Characteristic4": "",
+    "weapon_cuesheet": "uv0109_bt_06",
+    "weapon_cue": "uv0109_bt_06_A"
   },
   "110": {
     "id": 110,
@@ -3187,7 +3405,9 @@
     "Characteristic1": "闇属性に強い",
     "Characteristic2": "状態異常 呪いに少し強い",
     "Characteristic3": "光属性に少し強い",
-    "Characteristic4": ""
+    "Characteristic4": "",
+    "weapon_cuesheet": "uv0110_bt_02",
+    "weapon_cue": "uv0110_bt_02_B"
   },
   "111": {
     "id": 111,
@@ -3216,36 +3436,40 @@
     "Characteristic1": "地属性に強い",
     "Characteristic2": "状態異常 沈黙に強い",
     "Characteristic3": "水属性に弱い",
-    "Characteristic4": ""
+    "Characteristic4": "",
+    "weapon_cuesheet": "uv0111_bt_06",
+    "weapon_cue": "uv0111_bt_06_A"
   },
   "112": {
     "id": 112,
-    "nickname": "",
+    "nickname": "夜霧彷徨う",
     "name": "プリシィ",
-    "cv": "不明",
-    "partner_id": 74,
+    "cv": "内田 彩",
+    "partner_id": 85,
     "rarity": 4,
-    "gender": 1,
+    "gender": 2,
     "size": 0.75,
     "job_id": 9,
-    "ougi_id": 57,
+    "ougi_id": 62,
     "use_element": 2,
-    "use_debuff": 1,
-    "hp": 635,
-    "atk": 708,
-    "agi": 385,
-    "knock_back_regist": 158,
-    "hp_grow": 25,
-    "atk_grow": 28,
-    "knock_back_grow": 6,
-    "ability01": 6,
-    "ability02": 0,
-    "ability03": 0,
-    "ability04": 0,
+    "use_debuff": 0,
+    "hp": 701,
+    "atk": 745,
+    "agi": 365,
+    "knock_back_regist": 175,
+    "hp_grow": 28,
+    "atk_grow": 29,
+    "knock_back_grow": 7,
+    "ability01": 19,
+    "ability02": 6,
+    "ability03": 121,
+    "ability04": 122,
     "Characteristic1": "火属性に強い",
-    "Characteristic2": "闇属性に強い",
+    "Characteristic2": "状態異常 呪いに強い",
     "Characteristic3": "地属性に弱い",
-    "Characteristic4": ""
+    "Characteristic4": "",
+    "weapon_cuesheet": "uv0112_bt_02",
+    "weapon_cue": "uv0112_bt_02_B"
   },
   "113": {
     "id": 113,
@@ -3274,7 +3498,9 @@
     "Characteristic1": "水属性に強い",
     "Characteristic2": "魔属性に少し強い",
     "Characteristic3": "火属性に弱い",
-    "Characteristic4": ""
+    "Characteristic4": "",
+    "weapon_cuesheet": "uv0113_bt_15",
+    "weapon_cue": "uv0113_bt_15_B"
   },
   "114": {
     "id": 114,
@@ -3303,7 +3529,9 @@
     "Characteristic1": "魔属性にとても強い",
     "Characteristic2": "光属性に強い",
     "Characteristic3": "闇属性に少し強い",
-    "Characteristic4": ""
+    "Characteristic4": "",
+    "weapon_cuesheet": "uv0114_bt_02",
+    "weapon_cue": "uv0114_bt_02_A"
   },
   "115": {
     "id": 115,
@@ -3332,7 +3560,9 @@
     "Characteristic1": "闇属性に強い",
     "Characteristic2": "状態異常 呪いに強い",
     "Characteristic3": "光属性に少し強い",
-    "Characteristic4": ""
+    "Characteristic4": "",
+    "weapon_cuesheet": "uv0115_bt_15",
+    "weapon_cue": "uv0115_bt_15_A"
   },
   "116": {
     "id": 116,
@@ -3361,7 +3591,9 @@
     "Characteristic1": "地属性に強い",
     "Characteristic2": "状態異常 浮遊に強い",
     "Characteristic3": "水属性に弱い",
-    "Characteristic4": ""
+    "Characteristic4": "",
+    "weapon_cuesheet": "uv0116_bt_15",
+    "weapon_cue": "uv0116_bt_15_B"
   },
   "117": {
     "id": 117,
@@ -3390,7 +3622,9 @@
     "Characteristic1": "火属性に強い",
     "Characteristic2": "状態異常 火傷に強い",
     "Characteristic3": "地属性に弱い",
-    "Characteristic4": ""
+    "Characteristic4": "",
+    "weapon_cuesheet": "uv0117_bt_02",
+    "weapon_cue": "uv0117_bt_02_A"
   },
   "118": {
     "id": 118,
@@ -3419,7 +3653,9 @@
     "Characteristic1": "水属性に強い",
     "Characteristic2": "状態異常 毒に強い",
     "Characteristic3": "火属性に弱い",
-    "Characteristic4": ""
+    "Characteristic4": "",
+    "weapon_cuesheet": "uv0118_bt_02",
+    "weapon_cue": "uv0118_bt_02_A"
   },
   "119": {
     "id": 119,
@@ -3448,7 +3684,9 @@
     "Characteristic1": "闇属性に強い",
     "Characteristic2": "状態異常 毒に強い",
     "Characteristic3": "地属性に弱い",
-    "Characteristic4": ""
+    "Characteristic4": "",
+    "weapon_cuesheet": "uv0119_bt_02",
+    "weapon_cue": "uv0119_bt_02_C"
   },
   "120": {
     "id": 120,
@@ -3477,7 +3715,9 @@
     "Characteristic1": "闇属性に強い",
     "Characteristic2": "光属性に少し強い",
     "Characteristic3": "状態異常 呪いに少し強い",
-    "Characteristic4": ""
+    "Characteristic4": "",
+    "weapon_cuesheet": "uv0120_bt_02",
+    "weapon_cue": "uv0120_bt_02_B"
   },
   "121": {
     "id": 121,
@@ -3506,7 +3746,9 @@
     "Characteristic1": "",
     "Characteristic2": "",
     "Characteristic3": "",
-    "Characteristic4": ""
+    "Characteristic4": "",
+    "weapon_cuesheet": "uv0121_bt_01",
+    "weapon_cue": "uv0121_bt_01_A"
   },
   "122": {
     "id": 122,
@@ -3535,7 +3777,9 @@
     "Characteristic1": "",
     "Characteristic2": "",
     "Characteristic3": "",
-    "Characteristic4": ""
+    "Characteristic4": "",
+    "weapon_cuesheet": "uv0122_bt_01",
+    "weapon_cue": "uv0122_bt_01_A"
   },
   "123": {
     "id": 123,
@@ -3564,7 +3808,9 @@
     "Characteristic1": "",
     "Characteristic2": "",
     "Characteristic3": "",
-    "Characteristic4": ""
+    "Characteristic4": "",
+    "weapon_cuesheet": "uv0123_bt_01",
+    "weapon_cue": "uv0123_bt_01_A"
   },
   "124": {
     "id": 124,
@@ -3593,7 +3839,9 @@
     "Characteristic1": "",
     "Characteristic2": "",
     "Characteristic3": "",
-    "Characteristic4": ""
+    "Characteristic4": "",
+    "weapon_cuesheet": "uv0124_bt_01",
+    "weapon_cue": "uv0124_bt_01_A"
   },
   "125": {
     "id": 125,
@@ -3622,7 +3870,9 @@
     "Characteristic1": "",
     "Characteristic2": "",
     "Characteristic3": "",
-    "Characteristic4": ""
+    "Characteristic4": "",
+    "weapon_cuesheet": "uv0125_bt_01",
+    "weapon_cue": "uv0125_bt_01_A"
   },
   "126": {
     "id": 126,
@@ -3651,7 +3901,9 @@
     "Characteristic1": "",
     "Characteristic2": "",
     "Characteristic3": "",
-    "Characteristic4": ""
+    "Characteristic4": "",
+    "weapon_cuesheet": "uv0126_bt_01",
+    "weapon_cue": "uv0126_bt_01_A"
   },
   "127": {
     "id": 127,
@@ -3680,7 +3932,9 @@
     "Characteristic1": "",
     "Characteristic2": "",
     "Characteristic3": "",
-    "Characteristic4": ""
+    "Characteristic4": "",
+    "weapon_cuesheet": "uv0127_bt_01",
+    "weapon_cue": "uv0127_bt_01_A"
   },
   "128": {
     "id": 128,
@@ -3709,7 +3963,9 @@
     "Characteristic1": "",
     "Characteristic2": "",
     "Characteristic3": "",
-    "Characteristic4": ""
+    "Characteristic4": "",
+    "weapon_cuesheet": "uv0128_bt_01",
+    "weapon_cue": "uv0128_bt_01_A"
   },
   "129": {
     "id": 129,
@@ -3738,7 +3994,9 @@
     "Characteristic1": "",
     "Characteristic2": "",
     "Characteristic3": "",
-    "Characteristic4": ""
+    "Characteristic4": "",
+    "weapon_cuesheet": "uv0129_bt_01",
+    "weapon_cue": "uv0129_bt_01_A"
   },
   "130": {
     "id": 130,
@@ -3767,7 +4025,9 @@
     "Characteristic1": "",
     "Characteristic2": "",
     "Characteristic3": "",
-    "Characteristic4": ""
+    "Characteristic4": "",
+    "weapon_cuesheet": "uv0130_bt_01",
+    "weapon_cue": "uv0130_bt_01_A"
   },
   "131": {
     "id": 131,
@@ -3796,7 +4056,9 @@
     "Characteristic1": "地属性に少し強い",
     "Characteristic2": "水属性に少し弱い",
     "Characteristic3": "",
-    "Characteristic4": ""
+    "Characteristic4": "",
+    "weapon_cuesheet": "uv0131_bt_15",
+    "weapon_cue": "uv0131_bt_15_A"
   },
   "132": {
     "id": 132,
@@ -3825,7 +4087,9 @@
     "Characteristic1": "",
     "Characteristic2": "",
     "Characteristic3": "",
-    "Characteristic4": ""
+    "Characteristic4": "",
+    "weapon_cuesheet": "uv0132_bt_15",
+    "weapon_cue": "uv0132_bt_15_B"
   },
   "133": {
     "id": 133,
@@ -3854,7 +4118,9 @@
     "Characteristic1": "水属性に少し強い",
     "Characteristic2": "火属性に少し弱い",
     "Characteristic3": "",
-    "Characteristic4": ""
+    "Characteristic4": "",
+    "weapon_cuesheet": "uv0133_bt_15",
+    "weapon_cue": "uv0133_bt_15_B"
   },
   "134": {
     "id": 134,
@@ -3883,7 +4149,9 @@
     "Characteristic1": "火属性に少し強い",
     "Characteristic2": "地属性に少し弱い",
     "Characteristic3": "",
-    "Characteristic4": ""
+    "Characteristic4": "",
+    "weapon_cuesheet": "uv0134_bt_06",
+    "weapon_cue": "uv0134_bt_06_A"
   },
   "135": {
     "id": 135,
@@ -3912,7 +4180,9 @@
     "Characteristic1": "水属性に少し強い",
     "Characteristic2": "火属性に少し弱い",
     "Characteristic3": "",
-    "Characteristic4": ""
+    "Characteristic4": "",
+    "weapon_cuesheet": "uv0135_bt_06",
+    "weapon_cue": "uv0135_bt_06_B"
   },
   "136": {
     "id": 136,
@@ -3941,7 +4211,9 @@
     "Characteristic1": "光属性に少し強い",
     "Characteristic2": "闇属性に少し弱い",
     "Characteristic3": "",
-    "Characteristic4": ""
+    "Characteristic4": "",
+    "weapon_cuesheet": "uv0136_bt_02",
+    "weapon_cue": "uv0136_bt_02_C"
   },
   "137": {
     "id": 137,
@@ -3970,7 +4242,9 @@
     "Characteristic1": "",
     "Characteristic2": "",
     "Characteristic3": "",
-    "Characteristic4": ""
+    "Characteristic4": "",
+    "weapon_cuesheet": "uv0137_bt_15",
+    "weapon_cue": "uv0137_bt_15_A"
   },
   "138": {
     "id": 138,
@@ -3999,7 +4273,9 @@
     "Characteristic1": "",
     "Characteristic2": "",
     "Characteristic3": "",
-    "Characteristic4": ""
+    "Characteristic4": "",
+    "weapon_cuesheet": "uv0138_bt_15",
+    "weapon_cue": "uv0138_bt_15_B"
   },
   "139": {
     "id": 139,
@@ -4028,7 +4304,9 @@
     "Characteristic1": "",
     "Characteristic2": "",
     "Characteristic3": "",
-    "Characteristic4": ""
+    "Characteristic4": "",
+    "weapon_cuesheet": "uv0139_bt_02",
+    "weapon_cue": "uv0139_bt_02_A"
   },
   "140": {
     "id": 140,
@@ -4057,7 +4335,9 @@
     "Characteristic1": "",
     "Characteristic2": "",
     "Characteristic3": "",
-    "Characteristic4": ""
+    "Characteristic4": "",
+    "weapon_cuesheet": "uv0140_bt_02",
+    "weapon_cue": "uv0140_bt_02_B"
   },
   "141": {
     "id": 141,
@@ -4086,7 +4366,9 @@
     "Characteristic1": "",
     "Characteristic2": "",
     "Characteristic3": "",
-    "Characteristic4": ""
+    "Characteristic4": "",
+    "weapon_cuesheet": "uv0141_bt_01",
+    "weapon_cue": "uv0141_bt_06_B"
   },
   "142": {
     "id": 142,
@@ -4115,7 +4397,9 @@
     "Characteristic1": "",
     "Characteristic2": "",
     "Characteristic3": "",
-    "Characteristic4": ""
+    "Characteristic4": "",
+    "weapon_cuesheet": "uv0142_bt_02",
+    "weapon_cue": "uv0142_bt_02_A"
   },
   "143": {
     "id": 143,
@@ -4144,7 +4428,9 @@
     "Characteristic1": "",
     "Characteristic2": "",
     "Characteristic3": "",
-    "Characteristic4": ""
+    "Characteristic4": "",
+    "weapon_cuesheet": "uv0143_bt_06",
+    "weapon_cue": "uv0143_bt_06_B"
   },
   "1000": {
     "id": 1000,
@@ -4173,7 +4459,9 @@
     "Characteristic1": "",
     "Characteristic2": "",
     "Characteristic3": "",
-    "Characteristic4": ""
+    "Characteristic4": "",
+    "weapon_cuesheet": "uv1000_bt_01",
+    "weapon_cue": "uv1000_bt_01_A"
   },
   "3000": {
     "id": 3000,
@@ -4202,7 +4490,9 @@
     "Characteristic1": "",
     "Characteristic2": "",
     "Characteristic3": "",
-    "Characteristic4": ""
+    "Characteristic4": "",
+    "weapon_cuesheet": "uv3000_bt_01",
+    "weapon_cue": "uv3000_bt_01_A"
   },
   "3001": {
     "id": 3001,
@@ -4231,7 +4521,9 @@
     "Characteristic1": "",
     "Characteristic2": "",
     "Characteristic3": "",
-    "Characteristic4": ""
+    "Characteristic4": "",
+    "weapon_cuesheet": "uv3001_bt_01",
+    "weapon_cue": "uv3001_bt_01_A"
   },
   "3002": {
     "id": 3002,
@@ -4260,7 +4552,9 @@
     "Characteristic1": "",
     "Characteristic2": "",
     "Characteristic3": "",
-    "Characteristic4": ""
+    "Characteristic4": "",
+    "weapon_cuesheet": "uv3002_bt_01",
+    "weapon_cue": "uv3002_bt_01_A"
   },
   "3003": {
     "id": 3003,
@@ -4289,7 +4583,9 @@
     "Characteristic1": "",
     "Characteristic2": "",
     "Characteristic3": "",
-    "Characteristic4": ""
+    "Characteristic4": "",
+    "weapon_cuesheet": "uv3003_bt_01",
+    "weapon_cue": "uv3003_bt_01_A"
   },
   "3004": {
     "id": 3004,
@@ -4318,7 +4614,9 @@
     "Characteristic1": "",
     "Characteristic2": "",
     "Characteristic3": "",
-    "Characteristic4": ""
+    "Characteristic4": "",
+    "weapon_cuesheet": "uv3004_bt_01",
+    "weapon_cue": "uv3004_bt_01_A"
   },
   "3005": {
     "id": 3005,
@@ -4347,7 +4645,9 @@
     "Characteristic1": "",
     "Characteristic2": "",
     "Characteristic3": "",
-    "Characteristic4": ""
+    "Characteristic4": "",
+    "weapon_cuesheet": "uv3005_bt_01",
+    "weapon_cue": "uv3005_bt_01_A"
   },
   "3006": {
     "id": 3006,
@@ -4376,7 +4676,9 @@
     "Characteristic1": "",
     "Characteristic2": "",
     "Characteristic3": "",
-    "Characteristic4": ""
+    "Characteristic4": "",
+    "weapon_cuesheet": "uv3006_bt_01",
+    "weapon_cue": "uv3006_bt_01_A"
   },
   "3007": {
     "id": 3007,
@@ -4405,7 +4707,9 @@
     "Characteristic1": "",
     "Characteristic2": "",
     "Characteristic3": "",
-    "Characteristic4": ""
+    "Characteristic4": "",
+    "weapon_cuesheet": "uv3007_bt_01",
+    "weapon_cue": "uv3007_bt_01_A"
   },
   "3008": {
     "id": 3008,
@@ -4434,7 +4738,9 @@
     "Characteristic1": "",
     "Characteristic2": "",
     "Characteristic3": "",
-    "Characteristic4": ""
+    "Characteristic4": "",
+    "weapon_cuesheet": "uv3008_bt_01",
+    "weapon_cue": "uv3008_bt_01_A"
   },
   "3009": {
     "id": 3009,
@@ -4463,7 +4769,9 @@
     "Characteristic1": "",
     "Characteristic2": "",
     "Characteristic3": "",
-    "Characteristic4": ""
+    "Characteristic4": "",
+    "weapon_cuesheet": "uv3009_bt_01",
+    "weapon_cue": "uv3009_bt_01_A"
   },
   "3010": {
     "id": 3010,
@@ -4492,7 +4800,9 @@
     "Characteristic1": "",
     "Characteristic2": "",
     "Characteristic3": "",
-    "Characteristic4": ""
+    "Characteristic4": "",
+    "weapon_cuesheet": "uv3010_bt_01",
+    "weapon_cue": "uv3010_bt_01_A"
   },
   "3011": {
     "id": 3011,
@@ -4521,7 +4831,9 @@
     "Characteristic1": "",
     "Characteristic2": "",
     "Characteristic3": "",
-    "Characteristic4": ""
+    "Characteristic4": "",
+    "weapon_cuesheet": "uv3011_bt_01",
+    "weapon_cue": "uv3011_bt_01_A"
   },
   "3012": {
     "id": 3012,
@@ -4550,7 +4862,9 @@
     "Characteristic1": "",
     "Characteristic2": "",
     "Characteristic3": "",
-    "Characteristic4": ""
+    "Characteristic4": "",
+    "weapon_cuesheet": "uv3012_bt_01",
+    "weapon_cue": "uv3012_bt_01_A"
   },
   "3013": {
     "id": 3013,
@@ -4579,7 +4893,9 @@
     "Characteristic1": "",
     "Characteristic2": "",
     "Characteristic3": "",
-    "Characteristic4": ""
+    "Characteristic4": "",
+    "weapon_cuesheet": "uv3013_bt_01",
+    "weapon_cue": "uv3013_bt_01_A"
   },
   "3014": {
     "id": 3014,
@@ -4608,7 +4924,9 @@
     "Characteristic1": "",
     "Characteristic2": "",
     "Characteristic3": "",
-    "Characteristic4": ""
+    "Characteristic4": "",
+    "weapon_cuesheet": "uv3014_bt_01",
+    "weapon_cue": "uv3014_bt_01_A"
   },
   "3015": {
     "id": 3015,
@@ -4637,7 +4955,9 @@
     "Characteristic1": "",
     "Characteristic2": "",
     "Characteristic3": "",
-    "Characteristic4": ""
+    "Characteristic4": "",
+    "weapon_cuesheet": "uv3015_bt_01",
+    "weapon_cue": "uv3015_bt_01_A"
   },
   "3016": {
     "id": 3016,
@@ -4666,7 +4986,9 @@
     "Characteristic1": "",
     "Characteristic2": "",
     "Characteristic3": "",
-    "Characteristic4": ""
+    "Characteristic4": "",
+    "weapon_cuesheet": "uv3016_bt_01",
+    "weapon_cue": "uv3016_bt_01_A"
   },
   "3017": {
     "id": 3017,
@@ -4695,7 +5017,9 @@
     "Characteristic1": "",
     "Characteristic2": "",
     "Characteristic3": "",
-    "Characteristic4": ""
+    "Characteristic4": "",
+    "weapon_cuesheet": "uv3017_bt_01",
+    "weapon_cue": "uv3017_bt_01_A"
   },
   "3018": {
     "id": 3018,
@@ -4724,7 +5048,9 @@
     "Characteristic1": "",
     "Characteristic2": "",
     "Characteristic3": "",
-    "Characteristic4": ""
+    "Characteristic4": "",
+    "weapon_cuesheet": "uv3018_bt_01",
+    "weapon_cue": "uv3018_bt_01_A"
   },
   "3019": {
     "id": 3019,
@@ -4753,7 +5079,9 @@
     "Characteristic1": "",
     "Characteristic2": "",
     "Characteristic3": "",
-    "Characteristic4": ""
+    "Characteristic4": "",
+    "weapon_cuesheet": "uv3019_bt_01",
+    "weapon_cue": "uv3019_bt_01_A"
   },
   "3020": {
     "id": 3020,
@@ -4782,7 +5110,9 @@
     "Characteristic1": "",
     "Characteristic2": "",
     "Characteristic3": "",
-    "Characteristic4": ""
+    "Characteristic4": "",
+    "weapon_cuesheet": "uv3020_bt_01",
+    "weapon_cue": "uv3020_bt_01_A"
   },
   "3021": {
     "id": 3021,
@@ -4811,7 +5141,9 @@
     "Characteristic1": "",
     "Characteristic2": "",
     "Characteristic3": "",
-    "Characteristic4": ""
+    "Characteristic4": "",
+    "weapon_cuesheet": "uv3021_bt_01",
+    "weapon_cue": "uv3021_bt_01_A"
   },
   "3022": {
     "id": 3022,
@@ -4840,7 +5172,9 @@
     "Characteristic1": "",
     "Characteristic2": "",
     "Characteristic3": "",
-    "Characteristic4": ""
+    "Characteristic4": "",
+    "weapon_cuesheet": "uv3022_bt_01",
+    "weapon_cue": "uv3022_bt_01_A"
   },
   "3023": {
     "id": 3023,
@@ -4869,7 +5203,9 @@
     "Characteristic1": "",
     "Characteristic2": "",
     "Characteristic3": "",
-    "Characteristic4": ""
+    "Characteristic4": "",
+    "weapon_cuesheet": "uv3023_bt_01",
+    "weapon_cue": "uv3023_bt_01_A"
   },
   "3024": {
     "id": 3024,
@@ -4898,7 +5234,9 @@
     "Characteristic1": "",
     "Characteristic2": "",
     "Characteristic3": "",
-    "Characteristic4": ""
+    "Characteristic4": "",
+    "weapon_cuesheet": "uv3024_bt_01",
+    "weapon_cue": "uv3024_bt_01_A"
   },
   "3025": {
     "id": 3025,
@@ -4927,7 +5265,9 @@
     "Characteristic1": "",
     "Characteristic2": "",
     "Characteristic3": "",
-    "Characteristic4": ""
+    "Characteristic4": "",
+    "weapon_cuesheet": "uv3025_bt_01",
+    "weapon_cue": "uv3025_bt_01_A"
   },
   "3026": {
     "id": 3026,
@@ -4956,7 +5296,9 @@
     "Characteristic1": "",
     "Characteristic2": "",
     "Characteristic3": "",
-    "Characteristic4": ""
+    "Characteristic4": "",
+    "weapon_cuesheet": "uv3026_bt_01",
+    "weapon_cue": "uv3026_bt_01_A"
   },
   "3027": {
     "id": 3027,
@@ -4985,7 +5327,9 @@
     "Characteristic1": "",
     "Characteristic2": "",
     "Characteristic3": "",
-    "Characteristic4": ""
+    "Characteristic4": "",
+    "weapon_cuesheet": "uv3027_bt_01",
+    "weapon_cue": "uv3027_bt_01_A"
   },
   "3028": {
     "id": 3028,
@@ -5014,7 +5358,9 @@
     "Characteristic1": "",
     "Characteristic2": "",
     "Characteristic3": "",
-    "Characteristic4": ""
+    "Characteristic4": "",
+    "weapon_cuesheet": "uv3028_bt_01",
+    "weapon_cue": "uv3028_bt_01_A"
   },
   "3029": {
     "id": 3029,
@@ -5043,7 +5389,9 @@
     "Characteristic1": "",
     "Characteristic2": "",
     "Characteristic3": "",
-    "Characteristic4": ""
+    "Characteristic4": "",
+    "weapon_cuesheet": "uv3029_bt_01",
+    "weapon_cue": "uv3029_bt_01_A"
   },
   "3030": {
     "id": 3030,
@@ -5072,7 +5420,9 @@
     "Characteristic1": "",
     "Characteristic2": "",
     "Characteristic3": "",
-    "Characteristic4": ""
+    "Characteristic4": "",
+    "weapon_cuesheet": "uv3030_bt_01",
+    "weapon_cue": "uv3030_bt_01_A"
   },
   "3031": {
     "id": 3031,
@@ -5101,7 +5451,9 @@
     "Characteristic1": "",
     "Characteristic2": "",
     "Characteristic3": "",
-    "Characteristic4": ""
+    "Characteristic4": "",
+    "weapon_cuesheet": "uv3031_bt_01",
+    "weapon_cue": "uv3031_bt_01_A"
   },
   "3032": {
     "id": 3032,
@@ -5130,7 +5482,9 @@
     "Characteristic1": "",
     "Characteristic2": "",
     "Characteristic3": "",
-    "Characteristic4": ""
+    "Characteristic4": "",
+    "weapon_cuesheet": "uv3032_bt_01",
+    "weapon_cue": "uv3032_bt_01_A"
   },
   "3033": {
     "id": 3033,
@@ -5159,7 +5513,9 @@
     "Characteristic1": "",
     "Characteristic2": "",
     "Characteristic3": "",
-    "Characteristic4": ""
+    "Characteristic4": "",
+    "weapon_cuesheet": "uv3033_bt_01",
+    "weapon_cue": "uv3033_bt_01_A"
   },
   "3034": {
     "id": 3034,
@@ -5188,7 +5544,9 @@
     "Characteristic1": "",
     "Characteristic2": "",
     "Characteristic3": "",
-    "Characteristic4": ""
+    "Characteristic4": "",
+    "weapon_cuesheet": "uv3034_bt_01",
+    "weapon_cue": "uv3034_bt_01_A"
   },
   "3035": {
     "id": 3035,
@@ -5217,7 +5575,9 @@
     "Characteristic1": "",
     "Characteristic2": "",
     "Characteristic3": "",
-    "Characteristic4": ""
+    "Characteristic4": "",
+    "weapon_cuesheet": "uv3035_bt_01",
+    "weapon_cue": "uv3035_bt_01_A"
   },
   "3036": {
     "id": 3036,
@@ -5246,7 +5606,9 @@
     "Characteristic1": "",
     "Characteristic2": "",
     "Characteristic3": "",
-    "Characteristic4": ""
+    "Characteristic4": "",
+    "weapon_cuesheet": "uv3036_bt_01",
+    "weapon_cue": "uv3036_bt_01_A"
   },
   "3037": {
     "id": 3037,
@@ -5275,7 +5637,9 @@
     "Characteristic1": "",
     "Characteristic2": "",
     "Characteristic3": "",
-    "Characteristic4": ""
+    "Characteristic4": "",
+    "weapon_cuesheet": "uv3037_bt_01",
+    "weapon_cue": "uv3037_bt_01_A"
   },
   "3038": {
     "id": 3038,
@@ -5304,7 +5668,9 @@
     "Characteristic1": "",
     "Characteristic2": "",
     "Characteristic3": "",
-    "Characteristic4": ""
+    "Characteristic4": "",
+    "weapon_cuesheet": "uv3038_bt_01",
+    "weapon_cue": "uv3038_bt_01_A"
   },
   "4000": {
     "id": 4000,
@@ -5333,6 +5699,101 @@
     "Characteristic1": "闇属性に少し強い",
     "Characteristic2": "水属性に少し弱い",
     "Characteristic3": "",
-    "Characteristic4": ""
+    "Characteristic4": "",
+    "weapon_cuesheet": "uv4000_bt_15",
+    "weapon_cue": "uv4000_bt_15_A"
+  },
+  "5000": {
+    "id": 5000,
+    "nickname": "祭夜を舞う魅惑の翼",
+    "name": "リリヴィス",
+    "cv": "野川 さくら",
+    "partner_id": 0,
+    "rarity": 4,
+    "gender": 2,
+    "size": 1,
+    "job_id": 5,
+    "ougi_id": 100,
+    "use_element": 5,
+    "use_debuff": 0,
+    "hp": 1243,
+    "atk": 464,
+    "agi": 569,
+    "knock_back_regist": 310,
+    "hp_grow": 49,
+    "atk_grow": 18,
+    "knock_back_grow": 12,
+    "ability01": 71,
+    "ability02": 9,
+    "ability03": 76,
+    "ability04": 77,
+    "Characteristic1": "光属性に強い",
+    "Characteristic2": "状態異常 浮遊に強い",
+    "Characteristic3": "水属性に弱い",
+    "Characteristic4": "",
+    "weapon_cuesheet": "uv5000_bt_02",
+    "weapon_cue": "uv5000_bt_02_B"
+  },
+  "5001": {
+    "id": 5001,
+    "nickname": "静寂を破る戯弓",
+    "name": "リオーネ",
+    "cv": "久保 ユリカ",
+    "partner_id": 0,
+    "rarity": 4,
+    "gender": 2,
+    "size": 0.95,
+    "job_id": 7,
+    "ougi_id": 101,
+    "use_element": 5,
+    "use_debuff": 0,
+    "hp": 774,
+    "atk": 690,
+    "agi": 433,
+    "knock_back_regist": 193,
+    "hp_grow": 30,
+    "atk_grow": 27,
+    "knock_back_grow": 7,
+    "ability01": 71,
+    "ability02": 11,
+    "ability03": 57,
+    "ability04": 58,
+    "Characteristic1": "光属性に強い",
+    "Characteristic2": "状態異常 麻痺に強い",
+    "Characteristic3": "地属性に弱い",
+    "Characteristic4": "",
+    "weapon_cuesheet": "uv5001_bt_02",
+    "weapon_cue": "uv5001_bt_02_A"
+  },
+  "5002": {
+    "id": 5002,
+    "nickname": "",
+    "name": "ロラン",
+    "cv": "白井 悠介",
+    "partner_id": 0,
+    "rarity": 4,
+    "gender": 1,
+    "size": 1,
+    "job_id": 1,
+    "ougi_id": 2,
+    "use_element": 1,
+    "use_debuff": 0,
+    "hp": 1040,
+    "atk": 469,
+    "agi": 550,
+    "knock_back_regist": 260,
+    "hp_grow": 41,
+    "atk_grow": 18,
+    "knock_back_grow": 10,
+    "ability01": 6,
+    "ability02": 52,
+    "ability03": 0,
+    "ability04": 0,
+    "Characteristic1": "地属性に少し強い",
+    "Characteristic2": "水属性に少し弱い",
+    "Characteristic3": "",
+    "Characteristic4": "",
+    "weapon_cuesheet": "uv5002_bt_15",
+    "weapon_cue": "uv5002_bt_15_A"
   }
 }

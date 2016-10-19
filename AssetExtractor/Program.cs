@@ -46,16 +46,22 @@ namespace AssetExtractor
 
         static void Main(string[] args)
         {
-            for (int i=1; i<=200; i++)
+            foreach (string file in s_filesToDownload)
             {
-                foreach (string file in s_filesToDownload)
+                for (int i = 1; i <= 200; i++)
                 {
                     DownloadAssets(i, "RawAssets/", s_serverPath, file, false);
                 }
-            }
-            foreach (string file in s_filesToDownload)
-            {
+                DownloadAssets(1000, "RawAssets/", s_serverPath, file, false);
+                for (int i = 3000; i <= 3038; i++)
+                {
+                    DownloadAssets(i, "RawAssets/", s_serverPath, file, false);
+                }
                 DownloadAssets(4000, "RawAssets/", s_serverPath, file, false);
+                for (int i = 5000; i <= 5002; i++)
+                {
+                    DownloadAssets(i, "RawAssets/", s_serverPath, file, false);
+                }
             }
 
             string[] files = Directory.GetFiles("RawAssets/", "*.cpk");

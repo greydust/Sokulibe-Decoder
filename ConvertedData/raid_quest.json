@@ -20,7 +20,9 @@
       "raidboss_id": 3068,
       "atk_rate": 2000,
       "break_rate": 300,
-      "stamina": 30
+      "stamina": 30,
+      "battle_bgm_id": 0,
+      "boss_bgm_id": 0
     },
     "2": {
       "id": 2,
@@ -42,7 +44,9 @@
       "raidboss_id": 2068,
       "atk_rate": 1200,
       "break_rate": 190,
-      "stamina": 20
+      "stamina": 20,
+      "battle_bgm_id": 0,
+      "boss_bgm_id": 0
     },
     "3": {
       "id": 3,
@@ -64,7 +68,9 @@
       "raidboss_id": 68,
       "atk_rate": 380,
       "break_rate": 160,
-      "stamina": 10
+      "stamina": 10,
+      "battle_bgm_id": 0,
+      "boss_bgm_id": 0
     }
   },
   "2": {
@@ -88,7 +94,9 @@
       "raidboss_id": 98,
       "atk_rate": 2000,
       "break_rate": 300,
-      "stamina": 30
+      "stamina": 30,
+      "battle_bgm_id": 0,
+      "boss_bgm_id": 0
     },
     "5": {
       "id": 5,
@@ -110,7 +118,9 @@
       "raidboss_id": 98,
       "atk_rate": 1200,
       "break_rate": 190,
-      "stamina": 20
+      "stamina": 20,
+      "battle_bgm_id": 0,
+      "boss_bgm_id": 0
     },
     "6": {
       "id": 6,
@@ -132,7 +142,9 @@
       "raidboss_id": 98,
       "atk_rate": 380,
       "break_rate": 160,
-      "stamina": 10
+      "stamina": 10,
+      "battle_bgm_id": 0,
+      "boss_bgm_id": 0
     }
   },
   "3": {
@@ -156,7 +168,9 @@
       "raidboss_id": 176,
       "atk_rate": 2000,
       "break_rate": 300,
-      "stamina": 30
+      "stamina": 30,
+      "battle_bgm_id": 0,
+      "boss_bgm_id": 0
     }
   },
   "4": {
@@ -180,7 +194,9 @@
       "raidboss_id": 68,
       "atk_rate": 2000,
       "break_rate": 300,
-      "stamina": 30
+      "stamina": 30,
+      "battle_bgm_id": 0,
+      "boss_bgm_id": 0
     }
   }
 }

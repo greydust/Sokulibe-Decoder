@@ -306,5 +306,173 @@
       "bef_aft": 1,
       "name": "第11話　Cパート"
     }
+  },
+  "57": {
+    "34": {
+      "id": 34,
+      "quest_id": 57,
+      "chapter": 2,
+      "story_id": 12,
+      "bef_aft": 0,
+      "name": "第1話　Aパート"
+    }
+  },
+  "61": {
+    "35": {
+      "id": 35,
+      "quest_id": 61,
+      "chapter": 2,
+      "story_id": 12,
+      "bef_aft": 0,
+      "name": "第1話　Bパート"
+    },
+    "36": {
+      "id": 36,
+      "quest_id": 61,
+      "chapter": 2,
+      "story_id": 12,
+      "bef_aft": 1,
+      "name": "第1話　Cパート"
+    }
+  },
+  "62": {
+    "37": {
+      "id": 37,
+      "quest_id": 62,
+      "chapter": 2,
+      "story_id": 13,
+      "bef_aft": 0,
+      "name": "第2話　Aパート"
+    }
+  },
+  "66": {
+    "38": {
+      "id": 38,
+      "quest_id": 66,
+      "chapter": 2,
+      "story_id": 13,
+      "bef_aft": 0,
+      "name": "第2話　Bパート"
+    },
+    "39": {
+      "id": 39,
+      "quest_id": 66,
+      "chapter": 2,
+      "story_id": 13,
+      "bef_aft": 1,
+      "name": "第2話　Cパート"
+    }
+  },
+  "67": {
+    "40": {
+      "id": 40,
+      "quest_id": 67,
+      "chapter": 2,
+      "story_id": 14,
+      "bef_aft": 0,
+      "name": "第3話　Aパート"
+    }
+  },
+  "71": {
+    "41": {
+      "id": 41,
+      "quest_id": 71,
+      "chapter": 2,
+      "story_id": 14,
+      "bef_aft": 0,
+      "name": "第3話　Bパート"
+    },
+    "42": {
+      "id": 42,
+      "quest_id": 71,
+      "chapter": 2,
+      "story_id": 14,
+      "bef_aft": 1,
+      "name": "第3話　Cパート"
+    }
+  },
+  "72": {
+    "43": {
+      "id": 43,
+      "quest_id": 72,
+      "chapter": 2,
+      "story_id": 15,
+      "bef_aft": 0,
+      "name": "第4話　Aパート"
+    }
+  },
+  "76": {
+    "44": {
+      "id": 44,
+      "quest_id": 76,
+      "chapter": 2,
+      "story_id": 15,
+      "bef_aft": 0,
+      "name": "第4話　Bパート"
+    },
+    "45": {
+      "id": 45,
+      "quest_id": 76,
+      "chapter": 2,
+      "story_id": 15,
+      "bef_aft": 1,
+      "name": "第4話　Cパート"
+    }
+  },
+  "77": {
+    "46": {
+      "id": 46,
+      "quest_id": 77,
+      "chapter": 2,
+      "story_id": 16,
+      "bef_aft": 0,
+      "name": "第5話　Aパート"
+    }
+  },
+  "81": {
+    "47": {
+      "id": 47,
+      "quest_id": 81,
+      "chapter": 2,
+      "story_id": 16,
+      "bef_aft": 0,
+      "name": "第5話　Bパート"
+    },
+    "48": {
+      "id": 48,
+      "quest_id": 81,
+      "chapter": 2,
+      "story_id": 16,
+      "bef_aft": 1,
+      "name": "第5話　Cパート"
+    }
+  },
+  "82": {
+    "49": {
+      "id": 49,
+      "quest_id": 82,
+      "chapter": 2,
+      "story_id": 17,
+      "bef_aft": 0,
+      "name": "第6話　Aパート"
+    }
+  },
+  "86": {
+    "50": {
+      "id": 50,
+      "quest_id": 86,
+      "chapter": 2,
+      "story_id": 17,
+      "bef_aft": 0,
+      "name": "第6話　Bパート"
+    },
+    "51": {
+      "id": 51,
+      "quest_id": 86,
+      "chapter": 2,
+      "story_id": 17,
+      "bef_aft": 1,
+      "name": "第6話　Cパート"
+    }
   }
 }
