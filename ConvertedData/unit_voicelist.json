@@ -27235,7 +27235,7 @@
     },
     "50": {
       "id": 3014,
-      "active": 1,
+      "active": 0,
       "chara_id": 59,
       "unlock_type": 3,
       "voice_index": 50,
@@ -27244,7 +27244,7 @@
     },
     "51": {
       "id": 3015,
-      "active": 1,
+      "active": 0,
       "chara_id": 59,
       "unlock_type": 3,
       "voice_index": 51,
@@ -27253,7 +27253,7 @@
     },
     "52": {
       "id": 3016,
-      "active": 1,
+      "active": 0,
       "chara_id": 59,
       "unlock_type": 3,
       "voice_index": 52,
@@ -27262,7 +27262,7 @@
     },
     "53": {
       "id": 3017,
-      "active": 1,
+      "active": 0,
       "chara_id": 59,
       "unlock_type": 3,
       "voice_index": 53,
@@ -27271,7 +27271,7 @@
     },
     "54": {
       "id": 3018,
-      "active": 1,
+      "active": 0,
       "chara_id": 59,
       "unlock_type": 3,
       "voice_index": 54,
@@ -27280,7 +27280,7 @@
     },
     "55": {
       "id": 3019,
-      "active": 1,
+      "active": 0,
       "chara_id": 59,
       "unlock_type": 3,
       "voice_index": 55,
@@ -27289,7 +27289,7 @@
     },
     "56": {
       "id": 3020,
-      "active": 1,
+      "active": 0,
       "chara_id": 59,
       "unlock_type": 3,
       "voice_index": 56,
@@ -27298,7 +27298,7 @@
     },
     "57": {
       "id": 3021,
-      "active": 1,
+      "active": 0,
       "chara_id": 59,
       "unlock_type": 3,
       "voice_index": 57,
@@ -27307,7 +27307,7 @@
     },
     "58": {
       "id": 3022,
-      "active": 1,
+      "active": 0,
       "chara_id": 59,
       "unlock_type": 3,
       "voice_index": 58,
@@ -31427,7 +31427,7 @@
     },
     "50": {
       "id": 3478,
-      "active": 1,
+      "active": 0,
       "chara_id": 67,
       "unlock_type": 3,
       "voice_index": 50,
@@ -31436,7 +31436,7 @@
     },
     "51": {
       "id": 3479,
-      "active": 1,
+      "active": 0,
       "chara_id": 67,
       "unlock_type": 3,
       "voice_index": 51,
@@ -31445,7 +31445,7 @@
     },
     "52": {
       "id": 3480,
-      "active": 1,
+      "active": 0,
       "chara_id": 67,
       "unlock_type": 3,
       "voice_index": 52,
@@ -31454,7 +31454,7 @@
     },
     "53": {
       "id": 3481,
-      "active": 1,
+      "active": 0,
       "chara_id": 67,
       "unlock_type": 3,
       "voice_index": 53,
@@ -31463,7 +31463,7 @@
     },
     "54": {
       "id": 3482,
-      "active": 1,
+      "active": 0,
       "chara_id": 67,
       "unlock_type": 3,
       "voice_index": 54,
@@ -31472,7 +31472,7 @@
     },
     "55": {
       "id": 3483,
-      "active": 1,
+      "active": 0,
       "chara_id": 67,
       "unlock_type": 3,
       "voice_index": 55,
@@ -31481,7 +31481,7 @@
     },
     "56": {
       "id": 3484,
-      "active": 1,
+      "active": 0,
       "chara_id": 67,
       "unlock_type": 3,
       "voice_index": 56,
@@ -31490,7 +31490,7 @@
     },
     "57": {
       "id": 3485,
-      "active": 1,
+      "active": 0,
       "chara_id": 67,
       "unlock_type": 3,
       "voice_index": 57,
@@ -31499,7 +31499,7 @@
     },
     "58": {
       "id": 3486,
-      "active": 1,
+      "active": 0,
       "chara_id": 67,
       "unlock_type": 3,
       "voice_index": 58,
@@ -35095,7 +35095,7 @@
     },
     "50": {
       "id": 3884,
-      "active": 1,
+      "active": 0,
       "chara_id": 74,
       "unlock_type": 3,
       "voice_index": 50,
@@ -35104,7 +35104,7 @@
     },
     "51": {
       "id": 3885,
-      "active": 1,
+      "active": 0,
       "chara_id": 74,
       "unlock_type": 3,
       "voice_index": 51,
@@ -35113,7 +35113,7 @@
     },
     "52": {
       "id": 3886,
-      "active": 1,
+      "active": 0,
       "chara_id": 74,
       "unlock_type": 3,
       "voice_index": 52,
@@ -35122,7 +35122,7 @@
     },
     "53": {
       "id": 3887,
-      "active": 1,
+      "active": 0,
       "chara_id": 74,
       "unlock_type": 3,
       "voice_index": 53,
@@ -35131,7 +35131,7 @@
     },
     "54": {
       "id": 3888,
-      "active": 1,
+      "active": 0,
       "chara_id": 74,
       "unlock_type": 3,
       "voice_index": 54,
@@ -35140,7 +35140,7 @@
     },
     "55": {
       "id": 3889,
-      "active": 1,
+      "active": 0,
       "chara_id": 74,
       "unlock_type": 3,
       "voice_index": 55,
@@ -35149,7 +35149,7 @@
     },
     "56": {
       "id": 3890,
-      "active": 1,
+      "active": 0,
       "chara_id": 74,
       "unlock_type": 3,
       "voice_index": 56,
@@ -35158,7 +35158,7 @@
     },
     "57": {
       "id": 3891,
-      "active": 1,
+      "active": 0,
       "chara_id": 74,
       "unlock_type": 3,
       "voice_index": 57,
@@ -35167,7 +35167,7 @@
     },
     "58": {
       "id": 3892,
-      "active": 1,
+      "active": 0,
       "chara_id": 74,
       "unlock_type": 3,
       "voice_index": 58,
@@ -38149,7 +38149,7 @@
     },
     "40": {
       "id": 4222,
-      "active": 0,
+      "active": 1,
       "chara_id": 80,
       "unlock_type": 13,
       "voice_index": 40,
@@ -38158,7 +38158,7 @@
     },
     "41": {
       "id": 4223,
-      "active": 0,
+      "active": 1,
       "chara_id": 80,
       "unlock_type": 14,
       "voice_index": 41,
@@ -38239,7 +38239,7 @@
     },
     "50": {
       "id": 4232,
-      "active": 1,
+      "active": 0,
       "chara_id": 80,
       "unlock_type": 3,
       "voice_index": 50,
@@ -38248,7 +38248,7 @@
     },
     "51": {
       "id": 4233,
-      "active": 1,
+      "active": 0,
       "chara_id": 80,
       "unlock_type": 3,
       "voice_index": 51,
@@ -38257,7 +38257,7 @@
     },
     "52": {
       "id": 4234,
-      "active": 1,
+      "active": 0,
       "chara_id": 80,
       "unlock_type": 3,
       "voice_index": 52,
@@ -38266,7 +38266,7 @@
     },
     "53": {
       "id": 4235,
-      "active": 1,
+      "active": 0,
       "chara_id": 80,
       "unlock_type": 3,
       "voice_index": 53,
@@ -38275,7 +38275,7 @@
     },
     "54": {
       "id": 4236,
-      "active": 1,
+      "active": 0,
       "chara_id": 80,
       "unlock_type": 3,
       "voice_index": 54,
@@ -38284,7 +38284,7 @@
     },
     "55": {
       "id": 4237,
-      "active": 1,
+      "active": 0,
       "chara_id": 80,
       "unlock_type": 3,
       "voice_index": 55,
@@ -38293,7 +38293,7 @@
     },
     "56": {
       "id": 4238,
-      "active": 1,
+      "active": 0,
       "chara_id": 80,
       "unlock_type": 3,
       "voice_index": 56,
@@ -38302,7 +38302,7 @@
     },
     "57": {
       "id": 4239,
-      "active": 1,
+      "active": 0,
       "chara_id": 80,
       "unlock_type": 3,
       "voice_index": 57,
@@ -38311,7 +38311,7 @@
     },
     "58": {
       "id": 4240,
-      "active": 1,
+      "active": 0,
       "chara_id": 80,
       "unlock_type": 3,
       "voice_index": 58,
@@ -41383,7 +41383,7 @@
     },
     "50": {
       "id": 4580,
-      "active": 1,
+      "active": 0,
       "chara_id": 86,
       "unlock_type": 3,
       "voice_index": 50,
@@ -41392,7 +41392,7 @@
     },
     "51": {
       "id": 4581,
-      "active": 1,
+      "active": 0,
       "chara_id": 86,
       "unlock_type": 3,
       "voice_index": 51,
@@ -41401,7 +41401,7 @@
     },
     "52": {
       "id": 4582,
-      "active": 1,
+      "active": 0,
       "chara_id": 86,
       "unlock_type": 3,
       "voice_index": 52,
@@ -41410,7 +41410,7 @@
     },
     "53": {
       "id": 4583,
-      "active": 1,
+      "active": 0,
       "chara_id": 86,
       "unlock_type": 3,
       "voice_index": 53,
@@ -41419,7 +41419,7 @@
     },
     "54": {
       "id": 4584,
-      "active": 1,
+      "active": 0,
       "chara_id": 86,
       "unlock_type": 3,
       "voice_index": 54,
@@ -41428,7 +41428,7 @@
     },
     "55": {
       "id": 4585,
-      "active": 1,
+      "active": 0,
       "chara_id": 86,
       "unlock_type": 3,
       "voice_index": 55,
@@ -41437,7 +41437,7 @@
     },
     "56": {
       "id": 4586,
-      "active": 1,
+      "active": 0,
       "chara_id": 86,
       "unlock_type": 3,
       "voice_index": 56,
@@ -41446,7 +41446,7 @@
     },
     "57": {
       "id": 4587,
-      "active": 1,
+      "active": 0,
       "chara_id": 86,
       "unlock_type": 3,
       "voice_index": 57,
@@ -41455,7 +41455,7 @@
     },
     "58": {
       "id": 4588,
-      "active": 1,
+      "active": 0,
       "chara_id": 86,
       "unlock_type": 3,
       "voice_index": 58,
@@ -42955,7 +42955,7 @@
     },
     "50": {
       "id": 4754,
-      "active": 1,
+      "active": 0,
       "chara_id": 89,
       "unlock_type": 3,
       "voice_index": 50,
@@ -42964,7 +42964,7 @@
     },
     "51": {
       "id": 4755,
-      "active": 1,
+      "active": 0,
       "chara_id": 89,
       "unlock_type": 3,
       "voice_index": 51,
@@ -42973,7 +42973,7 @@
     },
     "52": {
       "id": 4756,
-      "active": 1,
+      "active": 0,
       "chara_id": 89,
       "unlock_type": 3,
       "voice_index": 52,
@@ -42982,7 +42982,7 @@
     },
     "53": {
       "id": 4757,
-      "active": 1,
+      "active": 0,
       "chara_id": 89,
       "unlock_type": 3,
       "voice_index": 53,
@@ -42991,7 +42991,7 @@
     },
     "54": {
       "id": 4758,
-      "active": 1,
+      "active": 0,
       "chara_id": 89,
       "unlock_type": 3,
       "voice_index": 54,
@@ -43000,7 +43000,7 @@
     },
     "55": {
       "id": 4759,
-      "active": 1,
+      "active": 0,
       "chara_id": 89,
       "unlock_type": 3,
       "voice_index": 55,
@@ -43009,7 +43009,7 @@
     },
     "56": {
       "id": 4760,
-      "active": 1,
+      "active": 0,
       "chara_id": 89,
       "unlock_type": 3,
       "voice_index": 56,
@@ -43018,7 +43018,7 @@
     },
     "57": {
       "id": 4761,
-      "active": 1,
+      "active": 0,
       "chara_id": 89,
       "unlock_type": 3,
       "voice_index": 57,
@@ -43027,7 +43027,7 @@
     },
     "58": {
       "id": 4762,
-      "active": 1,
+      "active": 0,
       "chara_id": 89,
       "unlock_type": 3,
       "voice_index": 58,
@@ -48150,7 +48150,7 @@
     },
     "50": {
       "id": 5329,
-      "active": 1,
+      "active": 0,
       "chara_id": 99,
       "unlock_type": 3,
       "voice_index": 50,
@@ -48159,7 +48159,7 @@
     },
     "51": {
       "id": 5330,
-      "active": 1,
+      "active": 0,
       "chara_id": 99,
       "unlock_type": 3,
       "voice_index": 51,
@@ -48168,7 +48168,7 @@
     },
     "52": {
       "id": 5331,
-      "active": 1,
+      "active": 0,
       "chara_id": 99,
       "unlock_type": 3,
       "voice_index": 52,
@@ -48177,7 +48177,7 @@
     },
     "53": {
       "id": 5332,
-      "active": 1,
+      "active": 0,
       "chara_id": 99,
       "unlock_type": 3,
       "voice_index": 53,
@@ -48186,7 +48186,7 @@
     },
     "54": {
       "id": 5333,
-      "active": 1,
+      "active": 0,
       "chara_id": 99,
       "unlock_type": 3,
       "voice_index": 54,
@@ -48195,7 +48195,7 @@
     },
     "55": {
       "id": 5334,
-      "active": 1,
+      "active": 0,
       "chara_id": 99,
       "unlock_type": 3,
       "voice_index": 55,
@@ -48204,7 +48204,7 @@
     },
     "56": {
       "id": 5335,
-      "active": 1,
+      "active": 0,
       "chara_id": 99,
       "unlock_type": 3,
       "voice_index": 56,
@@ -48213,7 +48213,7 @@
     },
     "57": {
       "id": 5336,
-      "active": 1,
+      "active": 0,
       "chara_id": 99,
       "unlock_type": 3,
       "voice_index": 57,
@@ -48222,7 +48222,7 @@
     },
     "58": {
       "id": 5337,
-      "active": 1,
+      "active": 0,
       "chara_id": 99,
       "unlock_type": 3,
       "voice_index": 58,
@@ -48674,7 +48674,7 @@
     },
     "50": {
       "id": 5387,
-      "active": 1,
+      "active": 0,
       "chara_id": 100,
       "unlock_type": 3,
       "voice_index": 50,
@@ -48683,7 +48683,7 @@
     },
     "51": {
       "id": 5388,
-      "active": 1,
+      "active": 0,
       "chara_id": 100,
       "unlock_type": 3,
       "voice_index": 51,
@@ -48692,7 +48692,7 @@
     },
     "52": {
       "id": 5389,
-      "active": 1,
+      "active": 0,
       "chara_id": 100,
       "unlock_type": 3,
       "voice_index": 52,
@@ -48701,7 +48701,7 @@
     },
     "53": {
       "id": 5390,
-      "active": 1,
+      "active": 0,
       "chara_id": 100,
       "unlock_type": 3,
       "voice_index": 53,
@@ -48710,7 +48710,7 @@
     },
     "54": {
       "id": 5391,
-      "active": 1,
+      "active": 0,
       "chara_id": 100,
       "unlock_type": 3,
       "voice_index": 54,
@@ -48719,7 +48719,7 @@
     },
     "55": {
       "id": 5392,
-      "active": 1,
+      "active": 0,
       "chara_id": 100,
       "unlock_type": 3,
       "voice_index": 55,
@@ -48728,7 +48728,7 @@
     },
     "56": {
       "id": 5393,
-      "active": 1,
+      "active": 0,
       "chara_id": 100,
       "unlock_type": 3,
       "voice_index": 56,
@@ -48737,7 +48737,7 @@
     },
     "57": {
       "id": 5394,
-      "active": 1,
+      "active": 0,
       "chara_id": 100,
       "unlock_type": 3,
       "voice_index": 57,
@@ -48746,7 +48746,7 @@
     },
     "58": {
       "id": 5395,
-      "active": 1,
+      "active": 0,
       "chara_id": 100,
       "unlock_type": 3,
       "voice_index": 58,
@@ -54872,7 +54872,7 @@
     },
     "40": {
       "id": 6073,
-      "active": 0,
+      "active": 1,
       "chara_id": 112,
       "unlock_type": 13,
       "voice_index": 40,
@@ -54881,7 +54881,7 @@
     },
     "41": {
       "id": 6074,
-      "active": 0,
+      "active": 1,
       "chara_id": 112,
       "unlock_type": 14,
       "voice_index": 41,
@@ -71034,1452 +71034,6 @@
       "voice_index": 49,
       "cuesheet_name": "uv4000_etc_17",
       "cue_name": "uv4000_etc_17"
-    }
-  },
-  "5000": {
-    "1": {
-      "id": 7862,
-      "active": 1,
-      "chara_id": 5000,
-      "unlock_type": 1,
-      "voice_index": 1,
-      "cuesheet_name": "uv5000_bt_01",
-      "cue_name": "uv5000_bt_01_A"
-    },
-    "2": {
-      "id": 7863,
-      "active": 1,
-      "chara_id": 5000,
-      "unlock_type": 1,
-      "voice_index": 2,
-      "cuesheet_name": "uv5000_bt_01",
-      "cue_name": "uv5000_bt_01_B"
-    },
-    "3": {
-      "id": 7864,
-      "active": 1,
-      "chara_id": 5000,
-      "unlock_type": 1,
-      "voice_index": 3,
-      "cuesheet_name": "uv5000_bt_02",
-      "cue_name": "uv5000_bt_02_A"
-    },
-    "4": {
-      "id": 7865,
-      "active": 1,
-      "chara_id": 5000,
-      "unlock_type": 1,
-      "voice_index": 4,
-      "cuesheet_name": "uv5000_bt_02",
-      "cue_name": "uv5000_bt_02_B"
-    },
-    "5": {
-      "id": 7866,
-      "active": 1,
-      "chara_id": 5000,
-      "unlock_type": 1,
-      "voice_index": 5,
-      "cuesheet_name": "uv5000_bt_03",
-      "cue_name": "uv5000_bt_03"
-    },
-    "6": {
-      "id": 7867,
-      "active": 1,
-      "chara_id": 5000,
-      "unlock_type": 1,
-      "voice_index": 6,
-      "cuesheet_name": "uv5000_bt_04",
-      "cue_name": "uv5000_bt_04"
-    },
-    "7": {
-      "id": 7868,
-      "active": 1,
-      "chara_id": 5000,
-      "unlock_type": 1,
-      "voice_index": 7,
-      "cuesheet_name": "uv5000_bt_05",
-      "cue_name": "uv5000_bt_05"
-    },
-    "8": {
-      "id": 7869,
-      "active": 1,
-      "chara_id": 5000,
-      "unlock_type": 1,
-      "voice_index": 8,
-      "cuesheet_name": "uv5000_bt_06",
-      "cue_name": "uv5000_bt_06_A"
-    },
-    "9": {
-      "id": 7870,
-      "active": 1,
-      "chara_id": 5000,
-      "unlock_type": 1,
-      "voice_index": 9,
-      "cuesheet_name": "uv5000_bt_07",
-      "cue_name": "uv5000_bt_07_A"
-    },
-    "10": {
-      "id": 7871,
-      "active": 1,
-      "chara_id": 5000,
-      "unlock_type": 1,
-      "voice_index": 10,
-      "cuesheet_name": "uv5000_bt_07",
-      "cue_name": "uv5000_bt_07_B"
-    },
-    "11": {
-      "id": 7872,
-      "active": 1,
-      "chara_id": 5000,
-      "unlock_type": 1,
-      "voice_index": 11,
-      "cuesheet_name": "uv5000_bt_07",
-      "cue_name": "uv5000_bt_07_C"
-    },
-    "12": {
-      "id": 7873,
-      "active": 1,
-      "chara_id": 5000,
-      "unlock_type": 1,
-      "voice_index": 12,
-      "cuesheet_name": "uv5000_bt_07",
-      "cue_name": "uv5000_bt_07_D"
-    },
-    "13": {
-      "id": 7874,
-      "active": 1,
-      "chara_id": 5000,
-      "unlock_type": 1,
-      "voice_index": 13,
-      "cuesheet_name": "uv5000_bt_08",
-      "cue_name": "uv5000_bt_08_A"
-    },
-    "14": {
-      "id": 7875,
-      "active": 1,
-      "chara_id": 5000,
-      "unlock_type": 1,
-      "voice_index": 14,
-      "cuesheet_name": "uv5000_bt_08",
-      "cue_name": "uv5000_bt_08_B"
-    },
-    "15": {
-      "id": 7876,
-      "active": 1,
-      "chara_id": 5000,
-      "unlock_type": 1,
-      "voice_index": 15,
-      "cuesheet_name": "uv5000_bt_09",
-      "cue_name": "uv5000_bt_09"
-    },
-    "16": {
-      "id": 7877,
-      "active": 1,
-      "chara_id": 5000,
-      "unlock_type": 1,
-      "voice_index": 16,
-      "cuesheet_name": "uv5000_bt_10",
-      "cue_name": "uv5000_bt_10"
-    },
-    "17": {
-      "id": 7878,
-      "active": 1,
-      "chara_id": 5000,
-      "unlock_type": 1,
-      "voice_index": 17,
-      "cuesheet_name": "uv5000_bt_11",
-      "cue_name": "uv5000_bt_11"
-    },
-    "18": {
-      "id": 7879,
-      "active": 1,
-      "chara_id": 5000,
-      "unlock_type": 1,
-      "voice_index": 18,
-      "cuesheet_name": "uv5000_bt_12",
-      "cue_name": "uv5000_bt_12"
-    },
-    "19": {
-      "id": 7880,
-      "active": 1,
-      "chara_id": 5000,
-      "unlock_type": 1,
-      "voice_index": 19,
-      "cuesheet_name": "uv5000_bt_13",
-      "cue_name": "uv5000_bt_13"
-    },
-    "20": {
-      "id": 7881,
-      "active": 1,
-      "chara_id": 5000,
-      "unlock_type": 2,
-      "voice_index": 20,
-      "cuesheet_name": "uv5000_bt_14",
-      "cue_name": "uv5000_bt_14"
-    },
-    "21": {
-      "id": 7882,
-      "active": 1,
-      "chara_id": 5000,
-      "unlock_type": 2,
-      "voice_index": 21,
-      "cuesheet_name": "uv5000_bt_15",
-      "cue_name": "uv5000_bt_15_A"
-    },
-    "22": {
-      "id": 7883,
-      "active": 1,
-      "chara_id": 5000,
-      "unlock_type": 2,
-      "voice_index": 22,
-      "cuesheet_name": "uv5000_bt_16",
-      "cue_name": "uv5000_bt_16_A"
-    },
-    "23": {
-      "id": 7884,
-      "active": 1,
-      "chara_id": 5000,
-      "unlock_type": 2,
-      "voice_index": 23,
-      "cuesheet_name": "uv5000_bt_16",
-      "cue_name": "uv5000_bt_16_B"
-    },
-    "24": {
-      "id": 7885,
-      "active": 1,
-      "chara_id": 5000,
-      "unlock_type": 2,
-      "voice_index": 24,
-      "cuesheet_name": "uv5000_bt_17",
-      "cue_name": "uv5000_bt_17"
-    },
-    "25": {
-      "id": 7886,
-      "active": 1,
-      "chara_id": 5000,
-      "unlock_type": 2,
-      "voice_index": 25,
-      "cuesheet_name": "uv5000_bt_18",
-      "cue_name": "uv5000_bt_18"
-    },
-    "26": {
-      "id": 7887,
-      "active": 1,
-      "chara_id": 5000,
-      "unlock_type": 4,
-      "voice_index": 26,
-      "cuesheet_name": "uv5000_etc_01",
-      "cue_name": "uv5000_etc_01"
-    },
-    "27": {
-      "id": 7888,
-      "active": 1,
-      "chara_id": 5000,
-      "unlock_type": 5,
-      "voice_index": 27,
-      "cuesheet_name": "uv5000_etc_02",
-      "cue_name": "uv5000_etc_02"
-    },
-    "28": {
-      "id": 7889,
-      "active": 1,
-      "chara_id": 5000,
-      "unlock_type": 6,
-      "voice_index": 28,
-      "cuesheet_name": "uv5000_etc_03",
-      "cue_name": "uv5000_etc_03"
-    },
-    "29": {
-      "id": 7890,
-      "active": 1,
-      "chara_id": 5000,
-      "unlock_type": 7,
-      "voice_index": 29,
-      "cuesheet_name": "uv5000_etc_04",
-      "cue_name": "uv5000_etc_04"
-    },
-    "30": {
-      "id": 7891,
-      "active": 1,
-      "chara_id": 5000,
-      "unlock_type": 8,
-      "voice_index": 30,
-      "cuesheet_name": "uv5000_etc_05",
-      "cue_name": "uv5000_etc_05_A"
-    },
-    "31": {
-      "id": 7892,
-      "active": 1,
-      "chara_id": 5000,
-      "unlock_type": 9,
-      "voice_index": 31,
-      "cuesheet_name": "uv5000_etc_05",
-      "cue_name": "uv5000_etc_05_B"
-    },
-    "32": {
-      "id": 7893,
-      "active": 1,
-      "chara_id": 5000,
-      "unlock_type": 10,
-      "voice_index": 32,
-      "cuesheet_name": "uv5000_etc_05",
-      "cue_name": "uv5000_etc_05_C"
-    },
-    "33": {
-      "id": 7894,
-      "active": 1,
-      "chara_id": 5000,
-      "unlock_type": 11,
-      "voice_index": 33,
-      "cuesheet_name": "uv5000_etc_06",
-      "cue_name": "uv5000_etc_06"
-    },
-    "34": {
-      "id": 7895,
-      "active": 1,
-      "chara_id": 5000,
-      "unlock_type": 12,
-      "voice_index": 34,
-      "cuesheet_name": "uv5000_etc_07",
-      "cue_name": "uv5000_etc_07"
-    },
-    "35": {
-      "id": 7896,
-      "active": 1,
-      "chara_id": 5000,
-      "unlock_type": 13,
-      "voice_index": 35,
-      "cuesheet_name": "uv5000_etc_08",
-      "cue_name": "uv5000_etc_08"
-    },
-    "36": {
-      "id": 7897,
-      "active": 1,
-      "chara_id": 5000,
-      "unlock_type": 14,
-      "voice_index": 36,
-      "cuesheet_name": "uv5000_etc_09",
-      "cue_name": "uv5000_etc_09"
-    },
-    "37": {
-      "id": 7898,
-      "active": 1,
-      "chara_id": 5000,
-      "unlock_type": 15,
-      "voice_index": 37,
-      "cuesheet_name": "uv5000_etc_10",
-      "cue_name": "uv5000_etc_10"
-    },
-    "38": {
-      "id": 7899,
-      "active": 1,
-      "chara_id": 5000,
-      "unlock_type": 16,
-      "voice_index": 38,
-      "cuesheet_name": "uv5000_etc_11",
-      "cue_name": "uv5000_etc_11"
-    },
-    "39": {
-      "id": 7900,
-      "active": 1,
-      "chara_id": 5000,
-      "unlock_type": 17,
-      "voice_index": 39,
-      "cuesheet_name": "uv5000_etc_12",
-      "cue_name": "uv5000_etc_12"
-    },
-    "40": {
-      "id": 7901,
-      "active": 1,
-      "chara_id": 5000,
-      "unlock_type": 18,
-      "voice_index": 40,
-      "cuesheet_name": "uv5000_etc_13",
-      "cue_name": "uv5000_etc_13"
-    },
-    "41": {
-      "id": 7902,
-      "active": 1,
-      "chara_id": 5000,
-      "unlock_type": 19,
-      "voice_index": 41,
-      "cuesheet_name": "uv5000_etc_14",
-      "cue_name": "uv5000_etc_14"
-    },
-    "42": {
-      "id": 7903,
-      "active": 1,
-      "chara_id": 5000,
-      "unlock_type": 20,
-      "voice_index": 42,
-      "cuesheet_name": "uv5000_etc_15",
-      "cue_name": "uv5000_etc_15"
-    },
-    "43": {
-      "id": 7904,
-      "active": 1,
-      "chara_id": 5000,
-      "unlock_type": 21,
-      "voice_index": 43,
-      "cuesheet_name": "uv5000_etc_16",
-      "cue_name": "uv5000_etc_16"
-    },
-    "44": {
-      "id": 7905,
-      "active": 1,
-      "chara_id": 5000,
-      "unlock_type": 22,
-      "voice_index": 44,
-      "cuesheet_name": "uv5000_etc_17",
-      "cue_name": "uv5000_etc_17"
-    },
-    "45": {
-      "id": 7906,
-      "active": 0,
-      "chara_id": 5000,
-      "unlock_type": 3,
-      "voice_index": 45,
-      "cuesheet_name": "uv5000_bt_14_p",
-      "cue_name": "uv5000_bt_14_p"
-    },
-    "46": {
-      "id": 7907,
-      "active": 0,
-      "chara_id": 5000,
-      "unlock_type": 3,
-      "voice_index": 46,
-      "cuesheet_name": "uv5000_bt_15_p",
-      "cue_name": "uv5000_bt_15_p_A"
-    },
-    "47": {
-      "id": 7908,
-      "active": 0,
-      "chara_id": 5000,
-      "unlock_type": 3,
-      "voice_index": 47,
-      "cuesheet_name": "uv5000_bt_15_p",
-      "cue_name": "uv5000_bt_15_p_B"
-    },
-    "48": {
-      "id": 7909,
-      "active": 0,
-      "chara_id": 5000,
-      "unlock_type": 3,
-      "voice_index": 48,
-      "cuesheet_name": "uv5000_bt_16_p",
-      "cue_name": "uv5000_bt_16_p_A"
-    },
-    "49": {
-      "id": 7910,
-      "active": 0,
-      "chara_id": 5000,
-      "unlock_type": 3,
-      "voice_index": 49,
-      "cuesheet_name": "uv5000_bt_16_p",
-      "cue_name": "uv5000_bt_16_p_B"
-    },
-    "50": {
-      "id": 7911,
-      "active": 0,
-      "chara_id": 5000,
-      "unlock_type": 3,
-      "voice_index": 50,
-      "cuesheet_name": "uv5000_bt_17_p",
-      "cue_name": "uv5000_bt_17_p_1"
-    },
-    "51": {
-      "id": 7912,
-      "active": 0,
-      "chara_id": 5000,
-      "unlock_type": 3,
-      "voice_index": 51,
-      "cuesheet_name": "uv5000_bt_17_p",
-      "cue_name": "uv5000_bt_17_p_2"
-    },
-    "52": {
-      "id": 7913,
-      "active": 0,
-      "chara_id": 5000,
-      "unlock_type": 3,
-      "voice_index": 52,
-      "cuesheet_name": "uv5000_bt_18_p",
-      "cue_name": "uv5000_bt_18_p"
-    },
-    "53": {
-      "id": 7914,
-      "active": 0,
-      "chara_id": 5000,
-      "unlock_type": 3,
-      "voice_index": 53,
-      "cuesheet_name": "uv5000_bt_19_p",
-      "cue_name": "uv5000_bt_19_p"
-    }
-  },
-  "5001": {
-    "1": {
-      "id": 7915,
-      "active": 1,
-      "chara_id": 5001,
-      "unlock_type": 1,
-      "voice_index": 1,
-      "cuesheet_name": "uv5001_bt_01",
-      "cue_name": "uv5001_bt_01_A"
-    },
-    "2": {
-      "id": 7916,
-      "active": 1,
-      "chara_id": 5001,
-      "unlock_type": 1,
-      "voice_index": 2,
-      "cuesheet_name": "uv5001_bt_01",
-      "cue_name": "uv5001_bt_01_B"
-    },
-    "3": {
-      "id": 7917,
-      "active": 1,
-      "chara_id": 5001,
-      "unlock_type": 1,
-      "voice_index": 3,
-      "cuesheet_name": "uv5001_bt_01",
-      "cue_name": "uv5001_bt_01_C"
-    },
-    "4": {
-      "id": 7918,
-      "active": 1,
-      "chara_id": 5001,
-      "unlock_type": 1,
-      "voice_index": 4,
-      "cuesheet_name": "uv5001_bt_01",
-      "cue_name": "uv5001_bt_01_D"
-    },
-    "5": {
-      "id": 7919,
-      "active": 1,
-      "chara_id": 5001,
-      "unlock_type": 1,
-      "voice_index": 5,
-      "cuesheet_name": "uv5001_bt_02",
-      "cue_name": "uv5001_bt_02_A"
-    },
-    "6": {
-      "id": 7920,
-      "active": 1,
-      "chara_id": 5001,
-      "unlock_type": 1,
-      "voice_index": 6,
-      "cuesheet_name": "uv5001_bt_02",
-      "cue_name": "uv5001_bt_02_B"
-    },
-    "7": {
-      "id": 7921,
-      "active": 1,
-      "chara_id": 5001,
-      "unlock_type": 1,
-      "voice_index": 7,
-      "cuesheet_name": "uv5001_bt_02",
-      "cue_name": "uv5001_bt_02_C"
-    },
-    "8": {
-      "id": 7922,
-      "active": 1,
-      "chara_id": 5001,
-      "unlock_type": 1,
-      "voice_index": 8,
-      "cuesheet_name": "uv5001_bt_03",
-      "cue_name": "uv5001_bt_03"
-    },
-    "9": {
-      "id": 7923,
-      "active": 1,
-      "chara_id": 5001,
-      "unlock_type": 1,
-      "voice_index": 9,
-      "cuesheet_name": "uv5001_bt_04",
-      "cue_name": "uv5001_bt_04"
-    },
-    "10": {
-      "id": 7924,
-      "active": 1,
-      "chara_id": 5001,
-      "unlock_type": 1,
-      "voice_index": 10,
-      "cuesheet_name": "uv5001_bt_05",
-      "cue_name": "uv5001_bt_05"
-    },
-    "11": {
-      "id": 7925,
-      "active": 1,
-      "chara_id": 5001,
-      "unlock_type": 1,
-      "voice_index": 11,
-      "cuesheet_name": "uv5001_bt_06",
-      "cue_name": "uv5001_bt_06_A"
-    },
-    "12": {
-      "id": 7926,
-      "active": 1,
-      "chara_id": 5001,
-      "unlock_type": 1,
-      "voice_index": 12,
-      "cuesheet_name": "uv5001_bt_06",
-      "cue_name": "uv5001_bt_06_B"
-    },
-    "13": {
-      "id": 7927,
-      "active": 1,
-      "chara_id": 5001,
-      "unlock_type": 1,
-      "voice_index": 13,
-      "cuesheet_name": "uv5001_bt_07",
-      "cue_name": "uv5001_bt_07_A"
-    },
-    "14": {
-      "id": 7928,
-      "active": 1,
-      "chara_id": 5001,
-      "unlock_type": 1,
-      "voice_index": 14,
-      "cuesheet_name": "uv5001_bt_07",
-      "cue_name": "uv5001_bt_07_B"
-    },
-    "15": {
-      "id": 7929,
-      "active": 1,
-      "chara_id": 5001,
-      "unlock_type": 1,
-      "voice_index": 15,
-      "cuesheet_name": "uv5001_bt_07",
-      "cue_name": "uv5001_bt_07_C"
-    },
-    "16": {
-      "id": 7930,
-      "active": 1,
-      "chara_id": 5001,
-      "unlock_type": 1,
-      "voice_index": 16,
-      "cuesheet_name": "uv5001_bt_07",
-      "cue_name": "uv5001_bt_07_D"
-    },
-    "17": {
-      "id": 7931,
-      "active": 1,
-      "chara_id": 5001,
-      "unlock_type": 1,
-      "voice_index": 17,
-      "cuesheet_name": "uv5001_bt_08",
-      "cue_name": "uv5001_bt_08_A"
-    },
-    "18": {
-      "id": 7932,
-      "active": 1,
-      "chara_id": 5001,
-      "unlock_type": 1,
-      "voice_index": 18,
-      "cuesheet_name": "uv5001_bt_08",
-      "cue_name": "uv5001_bt_08_B"
-    },
-    "19": {
-      "id": 7933,
-      "active": 1,
-      "chara_id": 5001,
-      "unlock_type": 1,
-      "voice_index": 19,
-      "cuesheet_name": "uv5001_bt_09",
-      "cue_name": "uv5001_bt_09"
-    },
-    "20": {
-      "id": 7934,
-      "active": 1,
-      "chara_id": 5001,
-      "unlock_type": 1,
-      "voice_index": 20,
-      "cuesheet_name": "uv5001_bt_10",
-      "cue_name": "uv5001_bt_10"
-    },
-    "21": {
-      "id": 7935,
-      "active": 1,
-      "chara_id": 5001,
-      "unlock_type": 1,
-      "voice_index": 21,
-      "cuesheet_name": "uv5001_bt_11",
-      "cue_name": "uv5001_bt_11"
-    },
-    "22": {
-      "id": 7936,
-      "active": 1,
-      "chara_id": 5001,
-      "unlock_type": 1,
-      "voice_index": 22,
-      "cuesheet_name": "uv5001_bt_12",
-      "cue_name": "uv5001_bt_12"
-    },
-    "23": {
-      "id": 7937,
-      "active": 1,
-      "chara_id": 5001,
-      "unlock_type": 1,
-      "voice_index": 23,
-      "cuesheet_name": "uv5001_bt_13",
-      "cue_name": "uv5001_bt_13"
-    },
-    "24": {
-      "id": 7938,
-      "active": 1,
-      "chara_id": 5001,
-      "unlock_type": 2,
-      "voice_index": 24,
-      "cuesheet_name": "uv5001_bt_14",
-      "cue_name": "uv5001_bt_14"
-    },
-    "25": {
-      "id": 7939,
-      "active": 1,
-      "chara_id": 5001,
-      "unlock_type": 2,
-      "voice_index": 25,
-      "cuesheet_name": "uv5001_bt_15",
-      "cue_name": "uv5001_bt_15_A"
-    },
-    "26": {
-      "id": 7940,
-      "active": 1,
-      "chara_id": 5001,
-      "unlock_type": 2,
-      "voice_index": 26,
-      "cuesheet_name": "uv5001_bt_15",
-      "cue_name": "uv5001_bt_15_B"
-    },
-    "27": {
-      "id": 7941,
-      "active": 1,
-      "chara_id": 5001,
-      "unlock_type": 2,
-      "voice_index": 27,
-      "cuesheet_name": "uv5001_bt_16",
-      "cue_name": "uv5001_bt_16_A"
-    },
-    "28": {
-      "id": 7942,
-      "active": 1,
-      "chara_id": 5001,
-      "unlock_type": 2,
-      "voice_index": 28,
-      "cuesheet_name": "uv5001_bt_16",
-      "cue_name": "uv5001_bt_16_B"
-    },
-    "29": {
-      "id": 7943,
-      "active": 1,
-      "chara_id": 5001,
-      "unlock_type": 2,
-      "voice_index": 29,
-      "cuesheet_name": "uv5001_bt_17",
-      "cue_name": "uv5001_bt_17"
-    },
-    "30": {
-      "id": 7944,
-      "active": 1,
-      "chara_id": 5001,
-      "unlock_type": 2,
-      "voice_index": 30,
-      "cuesheet_name": "uv5001_bt_18",
-      "cue_name": "uv5001_bt_18"
-    },
-    "31": {
-      "id": 7945,
-      "active": 1,
-      "chara_id": 5001,
-      "unlock_type": 4,
-      "voice_index": 31,
-      "cuesheet_name": "uv5001_etc_01",
-      "cue_name": "uv5001_etc_01"
-    },
-    "32": {
-      "id": 7946,
-      "active": 1,
-      "chara_id": 5001,
-      "unlock_type": 5,
-      "voice_index": 32,
-      "cuesheet_name": "uv5001_etc_02",
-      "cue_name": "uv5001_etc_02"
-    },
-    "33": {
-      "id": 7947,
-      "active": 1,
-      "chara_id": 5001,
-      "unlock_type": 6,
-      "voice_index": 33,
-      "cuesheet_name": "uv5001_etc_03",
-      "cue_name": "uv5001_etc_03"
-    },
-    "34": {
-      "id": 7948,
-      "active": 1,
-      "chara_id": 5001,
-      "unlock_type": 7,
-      "voice_index": 34,
-      "cuesheet_name": "uv5001_etc_04",
-      "cue_name": "uv5001_etc_04"
-    },
-    "35": {
-      "id": 7949,
-      "active": 1,
-      "chara_id": 5001,
-      "unlock_type": 8,
-      "voice_index": 35,
-      "cuesheet_name": "uv5001_etc_05",
-      "cue_name": "uv5001_etc_05_A"
-    },
-    "36": {
-      "id": 7950,
-      "active": 1,
-      "chara_id": 5001,
-      "unlock_type": 9,
-      "voice_index": 36,
-      "cuesheet_name": "uv5001_etc_05",
-      "cue_name": "uv5001_etc_05_B"
-    },
-    "37": {
-      "id": 7951,
-      "active": 1,
-      "chara_id": 5001,
-      "unlock_type": 10,
-      "voice_index": 37,
-      "cuesheet_name": "uv5001_etc_05",
-      "cue_name": "uv5001_etc_05_C"
-    },
-    "38": {
-      "id": 7952,
-      "active": 1,
-      "chara_id": 5001,
-      "unlock_type": 11,
-      "voice_index": 38,
-      "cuesheet_name": "uv5001_etc_06",
-      "cue_name": "uv5001_etc_06"
-    },
-    "39": {
-      "id": 7953,
-      "active": 1,
-      "chara_id": 5001,
-      "unlock_type": 12,
-      "voice_index": 39,
-      "cuesheet_name": "uv5001_etc_07",
-      "cue_name": "uv5001_etc_07"
-    },
-    "40": {
-      "id": 7954,
-      "active": 1,
-      "chara_id": 5001,
-      "unlock_type": 13,
-      "voice_index": 40,
-      "cuesheet_name": "uv5001_etc_08",
-      "cue_name": "uv5001_etc_08"
-    },
-    "41": {
-      "id": 7955,
-      "active": 1,
-      "chara_id": 5001,
-      "unlock_type": 14,
-      "voice_index": 41,
-      "cuesheet_name": "uv5001_etc_09",
-      "cue_name": "uv5001_etc_09"
-    },
-    "42": {
-      "id": 7956,
-      "active": 1,
-      "chara_id": 5001,
-      "unlock_type": 15,
-      "voice_index": 42,
-      "cuesheet_name": "uv5001_etc_10",
-      "cue_name": "uv5001_etc_10"
-    },
-    "43": {
-      "id": 7957,
-      "active": 1,
-      "chara_id": 5001,
-      "unlock_type": 16,
-      "voice_index": 43,
-      "cuesheet_name": "uv5001_etc_11",
-      "cue_name": "uv5001_etc_11"
-    },
-    "44": {
-      "id": 7958,
-      "active": 1,
-      "chara_id": 5001,
-      "unlock_type": 17,
-      "voice_index": 44,
-      "cuesheet_name": "uv5001_etc_12",
-      "cue_name": "uv5001_etc_12"
-    },
-    "45": {
-      "id": 7959,
-      "active": 1,
-      "chara_id": 5001,
-      "unlock_type": 18,
-      "voice_index": 45,
-      "cuesheet_name": "uv5001_etc_13",
-      "cue_name": "uv5001_etc_13"
-    },
-    "46": {
-      "id": 7960,
-      "active": 1,
-      "chara_id": 5001,
-      "unlock_type": 19,
-      "voice_index": 46,
-      "cuesheet_name": "uv5001_etc_14",
-      "cue_name": "uv5001_etc_14"
-    },
-    "47": {
-      "id": 7961,
-      "active": 1,
-      "chara_id": 5001,
-      "unlock_type": 20,
-      "voice_index": 47,
-      "cuesheet_name": "uv5001_etc_15",
-      "cue_name": "uv5001_etc_15"
-    },
-    "48": {
-      "id": 7962,
-      "active": 1,
-      "chara_id": 5001,
-      "unlock_type": 21,
-      "voice_index": 48,
-      "cuesheet_name": "uv5001_etc_16",
-      "cue_name": "uv5001_etc_16"
-    },
-    "49": {
-      "id": 7963,
-      "active": 1,
-      "chara_id": 5001,
-      "unlock_type": 22,
-      "voice_index": 49,
-      "cuesheet_name": "uv5001_etc_17",
-      "cue_name": "uv5001_etc_17"
-    },
-    "50": {
-      "id": 7964,
-      "active": 0,
-      "chara_id": 5001,
-      "unlock_type": 3,
-      "voice_index": 50,
-      "cuesheet_name": "uv5001_bt_14_p",
-      "cue_name": "uv5001_bt_14_p"
-    },
-    "51": {
-      "id": 7965,
-      "active": 0,
-      "chara_id": 5001,
-      "unlock_type": 3,
-      "voice_index": 51,
-      "cuesheet_name": "uv5001_bt_15_p",
-      "cue_name": "uv5001_bt_15_p_A"
-    },
-    "52": {
-      "id": 7966,
-      "active": 0,
-      "chara_id": 5001,
-      "unlock_type": 3,
-      "voice_index": 52,
-      "cuesheet_name": "uv5001_bt_15_p",
-      "cue_name": "uv5001_bt_15_p_B"
-    },
-    "53": {
-      "id": 7967,
-      "active": 0,
-      "chara_id": 5001,
-      "unlock_type": 3,
-      "voice_index": 53,
-      "cuesheet_name": "uv5001_bt_16_p",
-      "cue_name": "uv5001_bt_16_p_A"
-    },
-    "54": {
-      "id": 7968,
-      "active": 0,
-      "chara_id": 5001,
-      "unlock_type": 3,
-      "voice_index": 54,
-      "cuesheet_name": "uv5001_bt_16_p",
-      "cue_name": "uv5001_bt_16_p_B"
-    },
-    "55": {
-      "id": 7969,
-      "active": 0,
-      "chara_id": 5001,
-      "unlock_type": 3,
-      "voice_index": 55,
-      "cuesheet_name": "uv5001_bt_17_p",
-      "cue_name": "uv5001_bt_17_p_1"
-    },
-    "56": {
-      "id": 7970,
-      "active": 0,
-      "chara_id": 5001,
-      "unlock_type": 3,
-      "voice_index": 56,
-      "cuesheet_name": "uv5001_bt_17_p",
-      "cue_name": "uv5001_bt_17_p_2"
-    },
-    "57": {
-      "id": 7971,
-      "active": 0,
-      "chara_id": 5001,
-      "unlock_type": 3,
-      "voice_index": 57,
-      "cuesheet_name": "uv5001_bt_18_p",
-      "cue_name": "uv5001_bt_18_p"
-    },
-    "58": {
-      "id": 7972,
-      "active": 0,
-      "chara_id": 5001,
-      "unlock_type": 3,
-      "voice_index": 58,
-      "cuesheet_name": "uv5001_bt_19_p",
-      "cue_name": "uv5001_bt_19_p"
-    }
-  },
-  "5002": {
-    "1": {
-      "id": 7973,
-      "active": 1,
-      "chara_id": 5002,
-      "unlock_type": 1,
-      "voice_index": 1,
-      "cuesheet_name": "uv5002_bt_01",
-      "cue_name": "uv5002_bt_01_A"
-    },
-    "2": {
-      "id": 7974,
-      "active": 1,
-      "chara_id": 5002,
-      "unlock_type": 1,
-      "voice_index": 2,
-      "cuesheet_name": "uv5002_bt_01",
-      "cue_name": "uv5002_bt_01_B"
-    },
-    "3": {
-      "id": 7975,
-      "active": 1,
-      "chara_id": 5002,
-      "unlock_type": 1,
-      "voice_index": 3,
-      "cuesheet_name": "uv5002_bt_01",
-      "cue_name": "uv5002_bt_01_C"
-    },
-    "4": {
-      "id": 7976,
-      "active": 1,
-      "chara_id": 5002,
-      "unlock_type": 1,
-      "voice_index": 4,
-      "cuesheet_name": "uv5002_bt_01",
-      "cue_name": "uv5002_bt_01_D"
-    },
-    "5": {
-      "id": 7977,
-      "active": 1,
-      "chara_id": 5002,
-      "unlock_type": 1,
-      "voice_index": 5,
-      "cuesheet_name": "uv5002_bt_02",
-      "cue_name": "uv5002_bt_02_A"
-    },
-    "6": {
-      "id": 7978,
-      "active": 1,
-      "chara_id": 5002,
-      "unlock_type": 1,
-      "voice_index": 6,
-      "cuesheet_name": "uv5002_bt_02",
-      "cue_name": "uv5002_bt_02_B"
-    },
-    "7": {
-      "id": 7979,
-      "active": 1,
-      "chara_id": 5002,
-      "unlock_type": 1,
-      "voice_index": 7,
-      "cuesheet_name": "uv5002_bt_02",
-      "cue_name": "uv5002_bt_02_C"
-    },
-    "8": {
-      "id": 7980,
-      "active": 1,
-      "chara_id": 5002,
-      "unlock_type": 1,
-      "voice_index": 8,
-      "cuesheet_name": "uv5002_bt_03",
-      "cue_name": "uv5002_bt_03"
-    },
-    "9": {
-      "id": 7981,
-      "active": 1,
-      "chara_id": 5002,
-      "unlock_type": 1,
-      "voice_index": 9,
-      "cuesheet_name": "uv5002_bt_04",
-      "cue_name": "uv5002_bt_04"
-    },
-    "10": {
-      "id": 7982,
-      "active": 1,
-      "chara_id": 5002,
-      "unlock_type": 1,
-      "voice_index": 10,
-      "cuesheet_name": "uv5002_bt_05",
-      "cue_name": "uv5002_bt_05"
-    },
-    "11": {
-      "id": 7983,
-      "active": 1,
-      "chara_id": 5002,
-      "unlock_type": 1,
-      "voice_index": 11,
-      "cuesheet_name": "uv5002_bt_06",
-      "cue_name": "uv5002_bt_06_A"
-    },
-    "12": {
-      "id": 7984,
-      "active": 1,
-      "chara_id": 5002,
-      "unlock_type": 1,
-      "voice_index": 12,
-      "cuesheet_name": "uv5002_bt_06",
-      "cue_name": "uv5002_bt_06_B"
-    },
-    "13": {
-      "id": 7985,
-      "active": 1,
-      "chara_id": 5002,
-      "unlock_type": 1,
-      "voice_index": 13,
-      "cuesheet_name": "uv5002_bt_07",
-      "cue_name": "uv5002_bt_07_A"
-    },
-    "14": {
-      "id": 7986,
-      "active": 1,
-      "chara_id": 5002,
-      "unlock_type": 1,
-      "voice_index": 14,
-      "cuesheet_name": "uv5002_bt_07",
-      "cue_name": "uv5002_bt_07_B"
-    },
-    "15": {
-      "id": 7987,
-      "active": 1,
-      "chara_id": 5002,
-      "unlock_type": 1,
-      "voice_index": 15,
-      "cuesheet_name": "uv5002_bt_07",
-      "cue_name": "uv5002_bt_07_C"
-    },
-    "16": {
-      "id": 7988,
-      "active": 1,
-      "chara_id": 5002,
-      "unlock_type": 1,
-      "voice_index": 16,
-      "cuesheet_name": "uv5002_bt_07",
-      "cue_name": "uv5002_bt_07_D"
-    },
-    "17": {
-      "id": 7989,
-      "active": 1,
-      "chara_id": 5002,
-      "unlock_type": 1,
-      "voice_index": 17,
-      "cuesheet_name": "uv5002_bt_08",
-      "cue_name": "uv5002_bt_08_A"
-    },
-    "18": {
-      "id": 7990,
-      "active": 1,
-      "chara_id": 5002,
-      "unlock_type": 1,
-      "voice_index": 18,
-      "cuesheet_name": "uv5002_bt_08",
-      "cue_name": "uv5002_bt_08_B"
-    },
-    "19": {
-      "id": 7991,
-      "active": 1,
-      "chara_id": 5002,
-      "unlock_type": 1,
-      "voice_index": 19,
-      "cuesheet_name": "uv5002_bt_09",
-      "cue_name": "uv5002_bt_09"
-    },
-    "20": {
-      "id": 7992,
-      "active": 1,
-      "chara_id": 5002,
-      "unlock_type": 1,
-      "voice_index": 20,
-      "cuesheet_name": "uv5002_bt_10",
-      "cue_name": "uv5002_bt_10"
-    },
-    "21": {
-      "id": 7993,
-      "active": 1,
-      "chara_id": 5002,
-      "unlock_type": 1,
-      "voice_index": 21,
-      "cuesheet_name": "uv5002_bt_11",
-      "cue_name": "uv5002_bt_11"
-    },
-    "22": {
-      "id": 7994,
-      "active": 1,
-      "chara_id": 5002,
-      "unlock_type": 1,
-      "voice_index": 22,
-      "cuesheet_name": "uv5002_bt_12",
-      "cue_name": "uv5002_bt_12"
-    },
-    "23": {
-      "id": 7995,
-      "active": 1,
-      "chara_id": 5002,
-      "unlock_type": 1,
-      "voice_index": 23,
-      "cuesheet_name": "uv5002_bt_13",
-      "cue_name": "uv5002_bt_13"
-    },
-    "24": {
-      "id": 7996,
-      "active": 1,
-      "chara_id": 5002,
-      "unlock_type": 1,
-      "voice_index": 24,
-      "cuesheet_name": "uv5002_bt_14",
-      "cue_name": "uv5002_bt_14"
-    },
-    "25": {
-      "id": 7997,
-      "active": 1,
-      "chara_id": 5002,
-      "unlock_type": 1,
-      "voice_index": 25,
-      "cuesheet_name": "uv5002_bt_15",
-      "cue_name": "uv5002_bt_15_A"
-    },
-    "26": {
-      "id": 7998,
-      "active": 1,
-      "chara_id": 5002,
-      "unlock_type": 1,
-      "voice_index": 26,
-      "cuesheet_name": "uv5002_bt_15",
-      "cue_name": "uv5002_bt_15_B"
-    },
-    "27": {
-      "id": 7999,
-      "active": 1,
-      "chara_id": 5002,
-      "unlock_type": 1,
-      "voice_index": 27,
-      "cuesheet_name": "uv5002_bt_16",
-      "cue_name": "uv5002_bt_16_A"
-    },
-    "28": {
-      "id": 8000,
-      "active": 1,
-      "chara_id": 5002,
-      "unlock_type": 1,
-      "voice_index": 28,
-      "cuesheet_name": "uv5002_bt_16",
-      "cue_name": "uv5002_bt_16_B"
-    },
-    "29": {
-      "id": 8001,
-      "active": 1,
-      "chara_id": 5002,
-      "unlock_type": 1,
-      "voice_index": 29,
-      "cuesheet_name": "uv5002_bt_17",
-      "cue_name": "uv5002_bt_17"
-    },
-    "30": {
-      "id": 8002,
-      "active": 1,
-      "chara_id": 5002,
-      "unlock_type": 1,
-      "voice_index": 30,
-      "cuesheet_name": "uv5002_bt_18",
-      "cue_name": "uv5002_bt_18"
-    },
-    "31": {
-      "id": 8003,
-      "active": 1,
-      "chara_id": 5002,
-      "unlock_type": 4,
-      "voice_index": 31,
-      "cuesheet_name": "uv5002_etc_01",
-      "cue_name": "uv5002_etc_01"
-    },
-    "32": {
-      "id": 8004,
-      "active": 1,
-      "chara_id": 5002,
-      "unlock_type": 5,
-      "voice_index": 32,
-      "cuesheet_name": "uv5002_etc_02",
-      "cue_name": "uv5002_etc_02"
-    },
-    "33": {
-      "id": 8005,
-      "active": 1,
-      "chara_id": 5002,
-      "unlock_type": 6,
-      "voice_index": 33,
-      "cuesheet_name": "uv5002_etc_03",
-      "cue_name": "uv5002_etc_03"
-    },
-    "34": {
-      "id": 8006,
-      "active": 1,
-      "chara_id": 5002,
-      "unlock_type": 7,
-      "voice_index": 34,
-      "cuesheet_name": "uv5002_etc_04",
-      "cue_name": "uv5002_etc_04"
-    },
-    "35": {
-      "id": 8007,
-      "active": 1,
-      "chara_id": 5002,
-      "unlock_type": 8,
-      "voice_index": 35,
-      "cuesheet_name": "uv5002_etc_05",
-      "cue_name": "uv5002_etc_05_A"
-    },
-    "36": {
-      "id": 8008,
-      "active": 1,
-      "chara_id": 5002,
-      "unlock_type": 9,
-      "voice_index": 36,
-      "cuesheet_name": "uv5002_etc_05",
-      "cue_name": "uv5002_etc_05_B"
-    },
-    "37": {
-      "id": 8009,
-      "active": 1,
-      "chara_id": 5002,
-      "unlock_type": 10,
-      "voice_index": 37,
-      "cuesheet_name": "uv5002_etc_05",
-      "cue_name": "uv5002_etc_05_C"
-    },
-    "38": {
-      "id": 8010,
-      "active": 1,
-      "chara_id": 5002,
-      "unlock_type": 11,
-      "voice_index": 38,
-      "cuesheet_name": "uv5002_etc_06",
-      "cue_name": "uv5002_etc_06"
-    },
-    "39": {
-      "id": 8011,
-      "active": 1,
-      "chara_id": 5002,
-      "unlock_type": 12,
-      "voice_index": 39,
-      "cuesheet_name": "uv5002_etc_07",
-      "cue_name": "uv5002_etc_07"
-    },
-    "40": {
-      "id": 8012,
-      "active": 0,
-      "chara_id": 5002,
-      "unlock_type": 13,
-      "voice_index": 40,
-      "cuesheet_name": "uv5002_etc_08",
-      "cue_name": "uv5002_etc_08"
-    },
-    "41": {
-      "id": 8013,
-      "active": 0,
-      "chara_id": 5002,
-      "unlock_type": 14,
-      "voice_index": 41,
-      "cuesheet_name": "uv5002_etc_09",
-      "cue_name": "uv5002_etc_09"
-    },
-    "42": {
-      "id": 8014,
-      "active": 1,
-      "chara_id": 5002,
-      "unlock_type": 15,
-      "voice_index": 42,
-      "cuesheet_name": "uv5002_etc_10",
-      "cue_name": "uv5002_etc_10"
-    },
-    "43": {
-      "id": 8015,
-      "active": 1,
-      "chara_id": 5002,
-      "unlock_type": 16,
-      "voice_index": 43,
-      "cuesheet_name": "uv5002_etc_11",
-      "cue_name": "uv5002_etc_11"
-    },
-    "44": {
-      "id": 8016,
-      "active": 1,
-      "chara_id": 5002,
-      "unlock_type": 17,
-      "voice_index": 44,
-      "cuesheet_name": "uv5002_etc_12",
-      "cue_name": "uv5002_etc_12"
-    },
-    "45": {
-      "id": 8017,
-      "active": 1,
-      "chara_id": 5002,
-      "unlock_type": 18,
-      "voice_index": 45,
-      "cuesheet_name": "uv5002_etc_13",
-      "cue_name": "uv5002_etc_13"
-    },
-    "46": {
-      "id": 8018,
-      "active": 1,
-      "chara_id": 5002,
-      "unlock_type": 19,
-      "voice_index": 46,
-      "cuesheet_name": "uv5002_etc_14",
-      "cue_name": "uv5002_etc_14"
-    },
-    "47": {
-      "id": 8019,
-      "active": 1,
-      "chara_id": 5002,
-      "unlock_type": 20,
-      "voice_index": 47,
-      "cuesheet_name": "uv5002_etc_15",
-      "cue_name": "uv5002_etc_15"
-    },
-    "48": {
-      "id": 8020,
-      "active": 1,
-      "chara_id": 5002,
-      "unlock_type": 21,
-      "voice_index": 48,
-      "cuesheet_name": "uv5002_etc_16",
-      "cue_name": "uv5002_etc_16"
-    },
-    "49": {
-      "id": 8021,
-      "active": 1,
-      "chara_id": 5002,
-      "unlock_type": 22,
-      "voice_index": 49,
-      "cuesheet_name": "uv5002_etc_17",
-      "cue_name": "uv5002_etc_17"
     }
   }
 }

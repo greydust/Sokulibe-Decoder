@@ -12,9 +12,9 @@
     "continue_limit": -1,
     "bg_id": 27,
     "tips_id": 0,
-    "exp": 592,
+    "exp": 600,
     "job_exp": 1,
-    "crystal": 8607,
+    "crystal": 1625,
     "timelimit": 420,
     "speedclear": 120,
     "speedclear_rare": 1,
@@ -42,9 +42,7 @@
     "rareenemy_rate": 0,
     "mission_bonus_type": 1,
     "mission_bonus_id": 1,
-    "mission_bonus_value": 5,
-    "battle_bgm_id": 0,
-    "boss_bgm_id": 0
+    "mission_bonus_value": 5
   },
   "2": {
     "id": 2,
@@ -59,9 +57,9 @@
     "continue_limit": -1,
     "bg_id": 27,
     "tips_id": 0,
-    "exp": 607,
+    "exp": 600,
     "job_exp": 1,
-    "crystal": 10736,
+    "crystal": 2088,
     "timelimit": 420,
     "speedclear": 120,
     "speedclear_rare": 1,
@@ -89,9 +87,7 @@
     "rareenemy_rate": 0,
     "mission_bonus_type": 1,
     "mission_bonus_id": 1,
-    "mission_bonus_value": 5,
-    "battle_bgm_id": 0,
-    "boss_bgm_id": 0
+    "mission_bonus_value": 5
   },
   "3": {
     "id": 3,
@@ -106,9 +102,9 @@
     "continue_limit": -1,
     "bg_id": 27,
     "tips_id": 0,
-    "exp": 622,
+    "exp": 600,
     "job_exp": 1,
-    "crystal": 17062,
+    "crystal": 2822,
     "timelimit": 420,
     "speedclear": 120,
     "speedclear_rare": 1,
@@ -136,8 +132,6 @@
     "rareenemy_rate": 0,
     "mission_bonus_type": 1,
     "mission_bonus_id": 1,
-    "mission_bonus_value": 5,
-    "battle_bgm_id": 0,
-    "boss_bgm_id": 0
+    "mission_bonus_value": 5
   }
 }

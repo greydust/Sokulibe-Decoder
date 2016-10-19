@@ -121,7 +121,7 @@
   },
   "9": {
     "id": 9,
-    "active": 1,
+    "active": 0,
     "job_category_id": 5,
     "name": "マジシャン",
     "mainrole1": 4,
@@ -131,8 +131,8 @@
     "ability02": 0,
     "ability03": 0,
     "ability04": 0,
-    "tutorial_movie": "https://youtu.be/7m-YAWjzxZA",
-    "tutorial_movie2": "https://youtu.be/7m-YAWjzxZA"
+    "tutorial_movie": "https://youtu.be/wl0p6cEhSG8",
+    "tutorial_movie2": "https://youtu.be/wl0p6cEhSG8"
   },
   "10": {
     "id": 10,

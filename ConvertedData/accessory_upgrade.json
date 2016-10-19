@@ -7252,7 +7252,7 @@
       "upgrade_rune_value2": 0,
       "upgrade_rune3": 0,
       "upgrade_rune_value3": 0,
-      "flavor": "仮"
+      "flavor": ""
     },
     "2": {
       "id": 1001,
@@ -7266,7 +7266,7 @@
       "upgrade_rune_value2": 0,
       "upgrade_rune3": 0,
       "upgrade_rune_value3": 0,
-      "flavor": "仮"
+      "flavor": ""
     },
     "3": {
       "id": 1002,
@@ -7280,7 +7280,7 @@
       "upgrade_rune_value2": 1,
       "upgrade_rune3": 0,
       "upgrade_rune_value3": 0,
-      "flavor": "仮"
+      "flavor": ""
     },
     "4": {
       "id": 1003,
@@ -7294,7 +7294,7 @@
       "upgrade_rune_value2": 1,
       "upgrade_rune3": 0,
       "upgrade_rune_value3": 0,
-      "flavor": "仮"
+      "flavor": ""
     }
   },
   "1004": {
@@ -7310,7 +7310,7 @@
       "upgrade_rune_value2": 0,
       "upgrade_rune3": 0,
       "upgrade_rune_value3": 0,
-      "flavor": "仮"
+      "flavor": "検証用"
     }
   },
   "172": {
@@ -11043,294 +11043,6 @@
       "upgrade_rune3": 0,
       "upgrade_rune_value3": 0,
       "flavor": "水神の魔力が吟詠に共鳴し\n偉大なる渦は風へと姿を変えた。\n共鳴を続ける風は、\nその地に宿る精霊を目覚めさせ\n精霊達の詩が持つ者に\n偉大なる大地の力を与える。"
-    }
-  },
-  "232": {
-    "1": {
-      "id": 1268,
-      "accessory_id": 232,
-      "rank": 1,
-      "break_soul": 2000,
-      "name": "雷冥の指輪",
-      "upgrade_rune1": 0,
-      "upgrade_rune_value1": 0,
-      "upgrade_rune2": 0,
-      "upgrade_rune_value2": 0,
-      "upgrade_rune3": 0,
-      "upgrade_rune_value3": 0,
-      "flavor": "雷に清められた深淵の巨人の外殻\n清められてなおも光へ抵抗する闇の力は、\n更なる光を射すことことで\n新たなる力を生み出す道しるべを表す。"
-    },
-    "2": {
-      "id": 1269,
-      "accessory_id": 232,
-      "rank": 2,
-      "break_soul": 4000,
-      "name": "雷冥の指輪・改",
-      "upgrade_rune1": 25,
-      "upgrade_rune_value1": 80,
-      "upgrade_rune2": 26,
-      "upgrade_rune_value2": 20,
-      "upgrade_rune3": 9,
-      "upgrade_rune_value3": 6,
-      "flavor": "雷に清められた深淵の巨人の外殻\n新たなる光が指し示すは、\n天より受けた生命の雷。\n迸る生命の雷は、\n所有者の血と肉となり\n闇を切り裂く、光の柱をその目に見せる。\n柱は新たなる道を指し示す\n道しるべとなる"
-    },
-    "3": {
-      "id": 1270,
-      "accessory_id": 232,
-      "rank": 3,
-      "break_soul": 6000,
-      "name": "雷冥の指輪・剛",
-      "upgrade_rune1": 7,
-      "upgrade_rune_value1": 160,
-      "upgrade_rune2": 8,
-      "upgrade_rune_value2": 40,
-      "upgrade_rune3": 27,
-      "upgrade_rune_value3": 13,
-      "flavor": "雷に清められた深淵の巨人の外殻\n天より降りし光の柱は、決して倒れぬ\n栄光の柱。\n柱は所有者に不屈の心を与え、\nいかなる衝撃をも跳ね除ける。\n柱は一筋の光を放ち、\n光は勝利へと導く架け橋となる。"
-    },
-    "4": {
-      "id": 1271,
-      "accessory_id": 232,
-      "rank": 4,
-      "break_soul": 8000,
-      "name": "雷冥の指輪・烈",
-      "upgrade_rune1": 25,
-      "upgrade_rune_value1": 240,
-      "upgrade_rune2": 26,
-      "upgrade_rune_value2": 60,
-      "upgrade_rune3": 27,
-      "upgrade_rune_value3": 19,
-      "flavor": "雷に清められた深淵の巨人の外殻\n架け橋の先には雷鳴轟く、\n雷雲の園。\n駆け抜ける雷撃は所有者の神経を\n鋭く研ぎ澄まさせる。\n雷雲の最奥に眠る、\n黒き巨人を倒した時、\n穢れ無き光が目覚め\n力を与えるであろう。"
-    },
-    "5": {
-      "id": 1272,
-      "accessory_id": 232,
-      "rank": 5,
-      "break_soul": 10000,
-      "name": "雷帝の指輪",
-      "upgrade_rune1": 7,
-      "upgrade_rune_value1": 320,
-      "upgrade_rune2": 8,
-      "upgrade_rune_value2": 80,
-      "upgrade_rune3": 9,
-      "upgrade_rune_value3": 26,
-      "flavor": "雷に清められた深淵の巨人の外殻。\n黒き巨人は己に眠る邪な心。\n邪を討ち、闇を祓った先で\n目覚めるのは、深淵から清められし\n雷帝の巨人。\n彼の持つ眩き雷槍は、\n魔力となり\n所有者はその清き雷の力を\n思うままにすることが\nできるであろう。"
-    }
-  },
-  "233": {
-    "1": {
-      "id": 1273,
-      "accessory_id": 233,
-      "rank": 1,
-      "break_soul": 2000,
-      "name": "天衣の指輪",
-      "upgrade_rune1": 0,
-      "upgrade_rune_value1": 0,
-      "upgrade_rune2": 0,
-      "upgrade_rune_value2": 0,
-      "upgrade_rune3": 0,
-      "upgrade_rune_value3": 0,
-      "flavor": "深淵の巨人の体内に眠っていた秘宝。\n天界より地上に落ちたとされるそれは\n『天使の涙』と例えられた聖宝。\n太古の遺物でありながら傷一つ\n見当たらない。"
-    },
-    "2": {
-      "id": 1274,
-      "accessory_id": 233,
-      "rank": 2,
-      "break_soul": 4000,
-      "name": "天衣の指輪・改",
-      "upgrade_rune1": 25,
-      "upgrade_rune_value1": 80,
-      "upgrade_rune2": 26,
-      "upgrade_rune_value2": 20,
-      "upgrade_rune3": 3,
-      "upgrade_rune_value3": 6,
-      "flavor": "深淵の巨人の体内に眠っていた秘宝。\n『天使の涙』と呼ばれる太古の異物。\n邪念に反応し、拒絶する結界を張る。\n身に着けし者は、口を揃えて、\n心が洗われたようだと語る。"
-    },
-    "3": {
-      "id": 1275,
-      "accessory_id": 233,
-      "rank": 3,
-      "break_soul": 6000,
-      "name": "天衣の指輪・剛",
-      "upgrade_rune1": 1,
-      "upgrade_rune_value1": 160,
-      "upgrade_rune2": 2,
-      "upgrade_rune_value2": 40,
-      "upgrade_rune3": 27,
-      "upgrade_rune_value3": 13,
-      "flavor": "深淵の巨人の体内に眠っていた秘宝。\n『天使の涙』と呼ばれる太古の異物。\n弱きを救い、称えられ、崇められる。\n自身の力を信じられる内は良い。\n真価が問われるのはまだ先の話。"
-    },
-    "4": {
-      "id": 1276,
-      "accessory_id": 233,
-      "rank": 4,
-      "break_soul": 8000,
-      "name": "天衣の指輪・烈",
-      "upgrade_rune1": 25,
-      "upgrade_rune_value1": 240,
-      "upgrade_rune2": 26,
-      "upgrade_rune_value2": 60,
-      "upgrade_rune3": 27,
-      "upgrade_rune_value3": 19,
-      "flavor": "深淵の巨人の体内に眠っていた秘宝。\n『天使の涙』と呼ばれる太古の異物。\n邪を祓い続けた結果、所有者はいずれ\n孤独の闇の狭間で苦悩する。\nこの乱世において、一切の邪を持たぬ\n者などいようはずも無いのだから。"
-    },
-    "5": {
-      "id": 1277,
-      "accessory_id": 233,
-      "rank": 5,
-      "break_soul": 10000,
-      "name": "天照の指輪",
-      "upgrade_rune1": 1,
-      "upgrade_rune_value1": 320,
-      "upgrade_rune2": 2,
-      "upgrade_rune_value2": 80,
-      "upgrade_rune3": 3,
-      "upgrade_rune_value3": 26,
-      "flavor": "深淵の巨人の体内に眠っていた秘宝。\n数多の聖人君子の元を渡り、同じ\n数だけの絶望を生んできたそれは、\n真に仕えるべき主に巡り合う。\n上位の存在へと昇華したかの者は、\n天を優しく包み照らすであろう。"
-    }
-  },
-  "234": {
-    "1": {
-      "id": 1278,
-      "accessory_id": 234,
-      "rank": 1,
-      "break_soul": 2000,
-      "name": "深淵の指輪",
-      "upgrade_rune1": 0,
-      "upgrade_rune_value1": 0,
-      "upgrade_rune2": 0,
-      "upgrade_rune_value2": 0,
-      "upgrade_rune3": 0,
-      "upgrade_rune_value3": 0,
-      "flavor": "国を救った英雄が所持していた指輪。\n安寧を脅かす魔物にたった一人で\n立ち向かった彼は、首を持ち帰り、\n見事に凱旋を果たした。\nだが、それは英雄譚にはなり得ない。"
-    },
-    "2": {
-      "id": 1279,
-      "accessory_id": 234,
-      "rank": 2,
-      "break_soul": 4000,
-      "name": "深淵の指輪・改",
-      "upgrade_rune1": 58,
-      "upgrade_rune_value1": 1,
-      "upgrade_rune2": 0,
-      "upgrade_rune_value2": 0,
-      "upgrade_rune3": 0,
-      "upgrade_rune_value3": 0,
-      "flavor": "国を救った英雄が所持していた指輪。\n人の身でありながら、魔物に勝る力\nを誇示してしまった彼に対し、人々は\n只恐怖した。\n守った国と、救った民に見捨てられた\n絶望の程を知る勇気があるだろうか。"
-    },
-    "3": {
-      "id": 1280,
-      "accessory_id": 234,
-      "rank": 3,
-      "break_soul": 6000,
-      "name": "深淵の指輪・剛",
-      "upgrade_rune1": 59,
-      "upgrade_rune_value1": 1,
-      "upgrade_rune2": 0,
-      "upgrade_rune_value2": 0,
-      "upgrade_rune3": 0,
-      "upgrade_rune_value3": 0,
-      "flavor": "国を救った英雄が所持していた指輪。\n称えらえるべき英雄でありながら、\n怪物と蔑まれた彼の中に闇が芽吹く。\n闇は次第に膨らんでいき、\nその心をじわじわと蝕んだ。"
-    },
-    "4": {
-      "id": 1281,
-      "accessory_id": 234,
-      "rank": 4,
-      "break_soul": 8000,
-      "name": "深淵の指輪・烈",
-      "upgrade_rune1": 60,
-      "upgrade_rune_value1": 1,
-      "upgrade_rune2": 0,
-      "upgrade_rune_value2": 0,
-      "upgrade_rune3": 0,
-      "upgrade_rune_value3": 0,
-      "flavor": "国を救った英雄が所持していた指輪。\n漆黒の闇に取り込まれた圧倒的な力は\n器を人ならざるモノへと変容させる。\n狂人と化した肉体は、朽ち果てること\nなく嘆き続けた。"
-    },
-    "5": {
-      "id": 1282,
-      "accessory_id": 234,
-      "rank": 5,
-      "break_soul": 10000,
-      "name": "奈落王の指輪",
-      "upgrade_rune1": 61,
-      "upgrade_rune_value1": 1,
-      "upgrade_rune2": 0,
-      "upgrade_rune_value2": 0,
-      "upgrade_rune3": 0,
-      "upgrade_rune_value3": 0,
-      "flavor": "国を救った英雄が所持していた指輪。\n絶望により狂人へと身を堕とし、\n殺戮の限りを尽くした彼も、\n復讐の果てに眠りにつく。\n永遠に畏怖の念を忘れまいと、\nその指輪に魂を込めて。"
-    }
-  },
-  "235": {
-    "1": {
-      "id": 1283,
-      "accessory_id": 235,
-      "rank": 1,
-      "break_soul": 2000,
-      "name": "狂血の指輪",
-      "upgrade_rune1": 0,
-      "upgrade_rune_value1": 0,
-      "upgrade_rune2": 0,
-      "upgrade_rune_value2": 0,
-      "upgrade_rune3": 0,
-      "upgrade_rune_value3": 0,
-      "flavor": "国王となった武人が所有したもの。\n人が時代を築くこともあれば、\n時代が人を選ぶこともある。\n万の命を討ち取って尚、英雄と\n称えられるこの世の生き易さ。\n血に染まる手で、いずれ世を掴む。"
-    },
-    "2": {
-      "id": 1284,
-      "accessory_id": 235,
-      "rank": 2,
-      "break_soul": 4000,
-      "name": "狂血の指輪・改",
-      "upgrade_rune1": 41,
-      "upgrade_rune_value1": 60,
-      "upgrade_rune2": 0,
-      "upgrade_rune_value2": 0,
-      "upgrade_rune3": 0,
-      "upgrade_rune_value3": 0,
-      "flavor": "国王となった武人が所有したもの。\n王となっても決して慢心などしない。\n一度でも敗北を喫してしまえば、\n全てを失ってしまう。\n我を狙う簒奪者を全て消し去るまで。"
-    },
-    "3": {
-      "id": 1285,
-      "accessory_id": 235,
-      "rank": 3,
-      "break_soul": 6000,
-      "name": "狂血の指輪・剛",
-      "upgrade_rune1": 41,
-      "upgrade_rune_value1": 100,
-      "upgrade_rune2": 42,
-      "upgrade_rune_value2": 70,
-      "upgrade_rune3": 0,
-      "upgrade_rune_value3": 0,
-      "flavor": "国王となった武人が所有したもの。\n幾度となく危機に瀕しようとも、\nその全てを乗り越えてきた。\n辿り着いた果ての家臣の裏切り。\n友であっても反逆者ならば容赦せぬ。"
-    },
-    "4": {
-      "id": 1286,
-      "accessory_id": 235,
-      "rank": 4,
-      "break_soul": 8000,
-      "name": "狂血の指輪・烈",
-      "upgrade_rune1": 41,
-      "upgrade_rune_value1": 300,
-      "upgrade_rune2": 42,
-      "upgrade_rune_value2": 130,
-      "upgrade_rune3": 43,
-      "upgrade_rune_value3": 30,
-      "flavor": "国王となった武人が所有したもの。\n腐臭に塗れた悍ましい国でも、\n血に染まった光無き玉座でも、\n恐怖に彩られた名誉であっても、\n全ては我のモノ。\n間も無く手が届きそうなのだ……"
-    },
-    "5": {
-      "id": 1287,
-      "accessory_id": 235,
-      "rank": 5,
-      "break_soul": 10000,
-      "name": "紅月の指輪",
-      "upgrade_rune1": 42,
-      "upgrade_rune_value1": 200,
-      "upgrade_rune2": 43,
-      "upgrade_rune_value2": 50,
-      "upgrade_rune3": 44,
-      "upgrade_rune_value3": 20,
-      "flavor": "国王となった武人が所有したもの。\n世界中が簒奪者となって襲い掛かる。\n迫る敗北は、全てを奪い去る死神。\n縋る思いで伸ばした手の先には闇。\n狂気に身を堕とすことになろうと、\n最後まで勝つことを望み続ける。\nその晩、紅の月が夜を照らしていた。"
     }
   }
 }

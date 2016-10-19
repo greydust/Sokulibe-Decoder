@@ -60,7 +60,7 @@
       "id": 10,
       "area_id": 2,
       "dungeon_flag": 1,
-      "name": "間道の洞窟"
+      "name": "洞窟"
     },
     "11": {
       "id": 11,
@@ -73,6 +73,18 @@
       "area_id": 2,
       "dungeon_flag": 0,
       "name": "樹上都市メルキス"
+    },
+    "13": {
+      "id": 13,
+      "area_id": 2,
+      "dungeon_flag": 1,
+      "name": "ステラノ谷"
+    },
+    "14": {
+      "id": 14,
+      "area_id": 2,
+      "dungeon_flag": 1,
+      "name": "ザクセン砦"
     }
   }
 }

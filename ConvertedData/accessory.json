@@ -981,8 +981,8 @@
     "job": 14,
     "specific_unit_id": 0,
     "specific_magic_number": 0,
-    "magic1": 3134,
-    "magic2": 3359,
+    "magic1": 6,
+    "magic2": 6,
     "magic3": 0,
     "magic4": 0,
     "magic5": 0
@@ -2521,58 +2521,6 @@
     "magic4": 3217,
     "magic5": 0
   },
-  "232": {
-    "id": 232,
-    "category": 1,
-    "rarity": 4,
-    "job": 8,
-    "specific_unit_id": 0,
-    "specific_magic_number": 0,
-    "magic1": 3038,
-    "magic2": 3252,
-    "magic3": 3123,
-    "magic4": 14,
-    "magic5": 0
-  },
-  "233": {
-    "id": 233,
-    "category": 1,
-    "rarity": 4,
-    "job": 2,
-    "specific_unit_id": 0,
-    "specific_magic_number": 0,
-    "magic1": 3001,
-    "magic2": 3028,
-    "magic3": 3013,
-    "magic4": 14,
-    "magic5": 0
-  },
-  "234": {
-    "id": 234,
-    "category": 1,
-    "rarity": 4,
-    "job": 3,
-    "specific_unit_id": 0,
-    "specific_magic_number": 0,
-    "magic1": 28,
-    "magic2": 3003,
-    "magic3": 37,
-    "magic4": 15,
-    "magic5": 0
-  },
-  "235": {
-    "id": 235,
-    "category": 1,
-    "rarity": 4,
-    "job": 11,
-    "specific_unit_id": 0,
-    "specific_magic_number": 0,
-    "magic1": 3049,
-    "magic2": 3038,
-    "magic3": 3262,
-    "magic4": 15,
-    "magic5": 0
-  },
   "1000": {
     "id": 1000,
     "category": 1,
@@ -2594,7 +2542,7 @@
     "specific_unit_id": 0,
     "specific_magic_number": 0,
     "magic1": 9998,
-    "magic2": 9996,
+    "magic2": 9997,
     "magic3": 0,
     "magic4": 0,
     "magic5": 0

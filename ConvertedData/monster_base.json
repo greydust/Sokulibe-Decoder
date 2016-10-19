@@ -615,78 +615,6 @@
     "respawn_eff": 1,
     "summon_anim": 0
   },
-  "78": {
-    "id": 78,
-    "name": "帝国軍 エリート剣士兵",
-    "size": 1,
-    "category": 6,
-    "respawn_eff": 1,
-    "summon_anim": 0
-  },
-  "79": {
-    "id": 79,
-    "name": "帝国軍 エリート重戦兵",
-    "size": 1.15,
-    "category": 6,
-    "respawn_eff": 1,
-    "summon_anim": 0
-  },
-  "80": {
-    "id": 80,
-    "name": "帝国軍 エリート弓兵",
-    "size": 1,
-    "category": 6,
-    "respawn_eff": 1,
-    "summon_anim": 0
-  },
-  "81": {
-    "id": 81,
-    "name": "帝国軍 エリート盾兵",
-    "size": 1.15,
-    "category": 6,
-    "respawn_eff": 1,
-    "summon_anim": 0
-  },
-  "82": {
-    "id": 82,
-    "name": "帝国軍 エリート魔術師兵",
-    "size": 1,
-    "category": 6,
-    "respawn_eff": 1,
-    "summon_anim": 0
-  },
-  "83": {
-    "id": 83,
-    "name": "帝国軍 エリート支援兵",
-    "size": 1,
-    "category": 6,
-    "respawn_eff": 1,
-    "summon_anim": 0
-  },
-  "84": {
-    "id": 84,
-    "name": "帝国軍 重槍兵大隊長",
-    "size": 1.45,
-    "category": 6,
-    "respawn_eff": 1,
-    "summon_anim": 0
-  },
-  "85": {
-    "id": 85,
-    "name": "帝国軍 剣士兵大隊長",
-    "size": 1.45,
-    "category": 6,
-    "respawn_eff": 1,
-    "summon_anim": 0
-  },
-  "86": {
-    "id": 86,
-    "name": "帝国軍 魔術士官",
-    "size": 1.45,
-    "category": 6,
-    "respawn_eff": 1,
-    "summon_anim": 0
-  },
   "87": {
     "id": 87,
     "name": "ならず者",
@@ -913,7 +841,7 @@
   },
   "116": {
     "id": 116,
-    "name": "カダヴェル",
+    "name": "スケルトン",
     "size": 1.2,
     "category": 14,
     "respawn_eff": 2,
@@ -921,7 +849,7 @@
   },
   "117": {
     "id": 117,
-    "name": "カダヴェルイアーツ",
+    "name": "スカルアーチャー",
     "size": 1.2,
     "category": 14,
     "respawn_eff": 2,
@@ -929,7 +857,7 @@
   },
   "118": {
     "id": 118,
-    "name": "カダヴェルボルプ",
+    "name": "スケルトンリーダー ウォーリアー",
     "size": 1.5,
     "category": 14,
     "respawn_eff": 2,
@@ -937,55 +865,15 @@
   },
   "119": {
     "id": 119,
-    "name": "カダヴェル＝ドゥクス",
+    "name": "アンデッドリーダー",
     "size": 2,
     "category": 14,
     "respawn_eff": 2,
     "summon_anim": 1
   },
-  "120": {
-    "id": 120,
-    "name": "魔法使いザコ火",
-    "size": 1.1,
-    "category": 10,
-    "respawn_eff": 1,
-    "summon_anim": 0
-  },
   "121": {
     "id": 121,
     "name": "ラグアニマ",
-    "size": 1.1,
-    "category": 10,
-    "respawn_eff": 1,
-    "summon_anim": 0
-  },
-  "122": {
-    "id": 122,
-    "name": "魔法使いザコ地",
-    "size": 1.1,
-    "category": 10,
-    "respawn_eff": 1,
-    "summon_anim": 0
-  },
-  "123": {
-    "id": 123,
-    "name": "魔法使いザコ光",
-    "size": 1.1,
-    "category": 10,
-    "respawn_eff": 1,
-    "summon_anim": 0
-  },
-  "124": {
-    "id": 124,
-    "name": "魔法使いザコ闇（アンデッド型）",
-    "size": 1.1,
-    "category": 14,
-    "respawn_eff": 1,
-    "summon_anim": 0
-  },
-  "125": {
-    "id": 125,
-    "name": "帝国軍ウルスラ直属兵",
     "size": 1.1,
     "category": 10,
     "respawn_eff": 1,
@@ -999,49 +887,9 @@
     "respawn_eff": 1,
     "summon_anim": 0
   },
-  "127": {
-    "id": 127,
-    "name": "浮遊魔法使い中ザコ火",
-    "size": 1.45,
-    "category": 10,
-    "respawn_eff": 1,
-    "summon_anim": 0
-  },
   "128": {
     "id": 128,
     "name": "グラキアニマ",
-    "size": 1.45,
-    "category": 10,
-    "respawn_eff": 1,
-    "summon_anim": 0
-  },
-  "129": {
-    "id": 129,
-    "name": "浮遊魔法使い中ザコ地",
-    "size": 1.45,
-    "category": 10,
-    "respawn_eff": 1,
-    "summon_anim": 0
-  },
-  "130": {
-    "id": 130,
-    "name": "浮遊魔法使い中ザコ光",
-    "size": 1.45,
-    "category": 10,
-    "respawn_eff": 1,
-    "summon_anim": 0
-  },
-  "131": {
-    "id": 131,
-    "name": "浮遊魔法使い中ザコ闇（アンデッド型）",
-    "size": 1.45,
-    "category": 14,
-    "respawn_eff": 1,
-    "summon_anim": 0
-  },
-  "132": {
-    "id": 132,
-    "name": "帝国軍ウルスラ直属魔導強化兵",
     "size": 1.45,
     "category": 10,
     "respawn_eff": 1,
@@ -1055,49 +903,9 @@
     "respawn_eff": 1,
     "summon_anim": 0
   },
-  "134": {
-    "id": 134,
-    "name": "浮遊魔法使いボス火",
-    "size": 2.2,
-    "category": 10,
-    "respawn_eff": 1,
-    "summon_anim": 0
-  },
   "135": {
     "id": 135,
     "name": "グラキロゴス",
-    "size": 2.2,
-    "category": 10,
-    "respawn_eff": 1,
-    "summon_anim": 0
-  },
-  "136": {
-    "id": 136,
-    "name": "浮遊魔法使いボス地",
-    "size": 2.2,
-    "category": 10,
-    "respawn_eff": 1,
-    "summon_anim": 0
-  },
-  "137": {
-    "id": 137,
-    "name": "浮遊魔法使いボス光",
-    "size": 2.2,
-    "category": 10,
-    "respawn_eff": 1,
-    "summon_anim": 0
-  },
-  "138": {
-    "id": 138,
-    "name": "浮遊魔法使いボス闇（アンデッド型）",
-    "size": 2.2,
-    "category": 14,
-    "respawn_eff": 1,
-    "summon_anim": 0
-  },
-  "139": {
-    "id": 139,
-    "name": "帝国軍ウルスラ直属魔導士官",
     "size": 2.2,
     "category": 10,
     "respawn_eff": 1,
@@ -1166,134 +974,6 @@
     "category": 5,
     "respawn_eff": 3,
     "summon_anim": 1
-  },
-  "149": {
-    "id": 149,
-    "name": "イグニスギガス",
-    "size": 1.4,
-    "category": 9,
-    "respawn_eff": 1,
-    "summon_anim": 0
-  },
-  "150": {
-    "id": 150,
-    "name": "フリグスギガス",
-    "size": 1.4,
-    "category": 9,
-    "respawn_eff": 1,
-    "summon_anim": 0
-  },
-  "151": {
-    "id": 151,
-    "name": "アルボルギガス",
-    "size": 1.4,
-    "category": 9,
-    "respawn_eff": 1,
-    "summon_anim": 0
-  },
-  "152": {
-    "id": 152,
-    "name": "ルーメンギガス",
-    "size": 1.4,
-    "category": 9,
-    "respawn_eff": 1,
-    "summon_anim": 0
-  },
-  "153": {
-    "id": 153,
-    "name": "ヘルギガス",
-    "size": 1.4,
-    "category": 9,
-    "respawn_eff": 1,
-    "summon_anim": 0
-  },
-  "154": {
-    "id": 154,
-    "name": "フレンマギガス",
-    "size": 2.3,
-    "category": 9,
-    "respawn_eff": 1,
-    "summon_anim": 0
-  },
-  "155": {
-    "id": 155,
-    "name": "グラシェギガス",
-    "size": 2.3,
-    "category": 9,
-    "respawn_eff": 1,
-    "summon_anim": 0
-  },
-  "156": {
-    "id": 156,
-    "name": "シルウァギガス",
-    "size": 2.3,
-    "category": 9,
-    "respawn_eff": 1,
-    "summon_anim": 0
-  },
-  "157": {
-    "id": 157,
-    "name": "スパークルギガス",
-    "size": 2.3,
-    "category": 9,
-    "respawn_eff": 1,
-    "summon_anim": 0
-  },
-  "158": {
-    "id": 158,
-    "name": "エビルギガス",
-    "size": 2.3,
-    "category": 9,
-    "respawn_eff": 1,
-    "summon_anim": 0
-  },
-  "159": {
-    "id": 159,
-    "name": "ギガスエルプティオン",
-    "size": 3.2,
-    "category": 9,
-    "respawn_eff": 1,
-    "summon_anim": 0
-  },
-  "160": {
-    "id": 160,
-    "name": "ギガスグラキベルグ",
-    "size": 3.2,
-    "category": 9,
-    "respawn_eff": 1,
-    "summon_anim": 0
-  },
-  "161": {
-    "id": 161,
-    "name": "ギガスマグヌスティリア",
-    "size": 3.2,
-    "category": 9,
-    "respawn_eff": 1,
-    "summon_anim": 0
-  },
-  "162": {
-    "id": 162,
-    "name": "ギガスプレデュンスジェマ",
-    "size": 3.2,
-    "category": 9,
-    "respawn_eff": 1,
-    "summon_anim": 0
-  },
-  "163": {
-    "id": 163,
-    "name": "ギガスエルガストゥルム",
-    "size": 3.2,
-    "category": 9,
-    "respawn_eff": 1,
-    "summon_anim": 0
-  },
-  "164": {
-    "id": 164,
-    "name": "巨人ボス暴走",
-    "size": 3.2,
-    "category": 9,
-    "respawn_eff": 1,
-    "summon_anim": 0
   },
   "167": {
     "id": 167,
@@ -1375,38 +1055,6 @@
     "respawn_eff": 1,
     "summon_anim": 0
   },
-  "177": {
-    "id": 177,
-    "name": "虐げられし者",
-    "size": 1,
-    "category": 13,
-    "respawn_eff": 4,
-    "summon_anim": 1
-  },
-  "178": {
-    "id": 178,
-    "name": "耐え忍びし者",
-    "size": 1.3,
-    "category": 13,
-    "respawn_eff": 4,
-    "summon_anim": 1
-  },
-  "179": {
-    "id": 179,
-    "name": "不屈なる者",
-    "size": 1.8,
-    "category": 13,
-    "respawn_eff": 4,
-    "summon_anim": 1
-  },
-  "180": {
-    "id": 180,
-    "name": "目覚めし復讐者",
-    "size": 3.5,
-    "category": 13,
-    "respawn_eff": 1,
-    "summon_anim": 1
-  },
   "500": {
     "id": 500,
     "name": "デューター",
@@ -1417,7 +1065,7 @@
   },
   "501": {
     "id": 501,
-    "name": "デューター",
+    "name": "デューター2",
     "size": 1.2,
     "category": 6,
     "respawn_eff": 1,
@@ -1433,7 +1081,7 @@
   },
   "503": {
     "id": 503,
-    "name": "ケイネス",
+    "name": "ケイネス2",
     "size": 1,
     "category": 6,
     "respawn_eff": 1,
@@ -1447,26 +1095,10 @@
     "respawn_eff": 1,
     "summon_anim": 0
   },
-  "507": {
-    "id": 507,
-    "name": "キース",
-    "size": 1,
-    "category": 6,
-    "respawn_eff": 1,
-    "summon_anim": 0
-  },
   "508": {
     "id": 508,
     "name": "ゲハルト",
     "size": 1.2,
-    "category": 6,
-    "respawn_eff": 1,
-    "summon_anim": 0
-  },
-  "509": {
-    "id": 509,
-    "name": "人形",
-    "size": 0.32,
     "category": 6,
     "respawn_eff": 1,
     "summon_anim": 0
