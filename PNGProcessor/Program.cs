@@ -28,7 +28,7 @@ namespace PNGProcessor
                 int sharpPosition = file.LastIndexOf("#");
                 if (sharpPosition >= 0)
                 {
-                    newName = file.Substring(0, sharpPosition - 1);
+                    newName = Path.GetFileNameWithoutExtension(file.Substring(0, sharpPosition - 1));
                 }
 
                 if (file.Contains("a_tex"))

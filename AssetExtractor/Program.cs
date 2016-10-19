@@ -11,7 +11,7 @@ namespace AssetExtractor
 {
     class Program
     {
-        private static string s_serverPath = "http://combo-cdn.sega-net.jp/prod/20160817/assetbundle/android5/";
+        private static string s_serverPath = "http://combo-cdn.sega-net.jp/prod/20161019/assetbundle/android5/";
 
         private static string[] s_filesToDownload =
         {
@@ -53,12 +53,12 @@ namespace AssetExtractor
                     DownloadAssets(i, "RawAssets/", s_serverPath, file, false);
                 }
                 DownloadAssets(1000, "RawAssets/", s_serverPath, file, false);
-                for (int i = 3000; i <= 3038; i++)
+                for (int i = 3000; i <= 3050; i++)
                 {
                     DownloadAssets(i, "RawAssets/", s_serverPath, file, false);
                 }
                 DownloadAssets(4000, "RawAssets/", s_serverPath, file, false);
-                for (int i = 5000; i <= 5002; i++)
+                for (int i = 5000; i <= 5015; i++)
                 {
                     DownloadAssets(i, "RawAssets/", s_serverPath, file, false);
                 }
